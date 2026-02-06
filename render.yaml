@@ -1,0 +1,10 @@
+# Render.com one-click deploy (backup when Railway has issues)
+# https://dashboard.render.com → New → Blueprint → Connect repo
+services:
+  - type: web
+    name: funding-finder
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        generateValue: true

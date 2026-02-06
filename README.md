@@ -2,6 +2,17 @@
 
 Match users to funding opportunities using the Python matching engine and a multi-step questionnaire. Built by Jennifer Leigh West / The Forgotten Code Research Institute.
 
+## Live site (GitHub Pages)
+
+After you push, the app is deployed automatically to **GitHub Pages** and works without any backend:
+
+- **URL:** `https://jennaleighwilder.github.io/funding-finder/`
+- The form uses **client-side matching** (10 real funding sources) when the API isn’t available, so it works for everyone.
+
+**Enable Pages (one time):** Repo → **Settings** → **Pages** → under “Build and deployment”, set **Source** to **GitHub Actions**. The workflow in `.github/workflows/pages.yml` runs on every push to `main`.
+
+**Backup deploy (Render):** If Railway has issues, go to [render.com](https://render.com) → **New** → **Blueprint** → connect this repo. Render will use `render.yaml` and the Dockerfile.
+
 ## What’s included
 
 - **Backend**: `engine.py` (matching logic), `app.py` (Flask API + static serve)
