@@ -1,0 +1,1608 @@
+[
+  {
+    "id": 401,
+    "name": "Bank of America Neighborhood Builders",
+    "provider": "Bank of America Foundation",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://about.bankofamerica.com/",
+    "description": "$346M invested since 2004, leadership development for nonprofits",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 402,
+    "name": "Chick-fil-A True Inspiration Awards",
+    "provider": "Chick-fil-A",
+    "type": "Grant",
+    "amount_min": 30000,
+    "amount_max": 350000,
+    "deadline": "Annual",
+    "url": "https://www.chick-fil-a.com/",
+    "description": "$6M annually, 16 nonprofits in 4 categories",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 403,
+    "name": "Ben & Jerry's Grassroots Organizing Grant",
+    "provider": "Ben & Jerry's Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Annual",
+    "url": "https://benandjerrysfoundation.org/",
+    "description": "Social justice organizing, avg $20K grants",
+    "eligibility": {
+      "nonprofit": true,
+      "max_budget": 350000
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 404,
+    "name": "State Farm Good Neighbor Grant",
+    "provider": "State Farm",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.statefarm.com/",
+    "description": "Community safety, education, disaster preparedness",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 405,
+    "name": "Nordstrom Community Grant",
+    "provider": "Nordstrom",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.nordstrom.com/",
+    "description": "$1M+ annually for youth and families",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 406,
+    "name": "TJX Foundation Grant",
+    "provider": "TJX Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.tjx.com/",
+    "description": "Grants within 15 miles of TJX stores",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 407,
+    "name": "Whole Foods Community Grant",
+    "provider": "Whole Foods Market",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Biannual",
+    "url": "https://www.wholefoodsmarket.com/",
+    "description": "Food access and environmental stewardship",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 408,
+    "name": "Clif Family Foundation Grant",
+    "provider": "Clif Family Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Biannual",
+    "url": "https://cliffamilyfoundation.org/",
+    "description": "Food systems, health, environment",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 409,
+    "name": "GEICO Philanthropic Foundation Grant",
+    "provider": "GEICO",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.geico.com/",
+    "description": "Education, community engagement, DEI",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 410,
+    "name": "Labcorp Charitable Foundation Grant",
+    "provider": "Labcorp",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.labcorp.com/",
+    "description": "Healthcare access, food programs, STEM",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 411,
+    "name": "Kellogg Foundation Grant",
+    "provider": "W.K. Kellogg Foundation",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://www.wkkf.org/",
+    "description": "Thriving children, working families, equitable communities",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 412,
+    "name": "Gupta Family Foundation Grant",
+    "provider": "Gupta Family Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.guptafamilyfoundation.org/",
+    "description": "Self-reliance for disadvantaged individuals",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 413,
+    "name": "Tomberg Family Philanthropies Grant",
+    "provider": "Tomberg Family",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.tombergfamilyphilanthropies.org/",
+    "description": "Education, health, environment, poverty",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 414,
+    "name": "Many Hands Impact Grant",
+    "provider": "Many Hands DC",
+    "type": "Grant",
+    "amount_min": 75000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.manyhandsdc.org/",
+    "description": "DC area women, children, families",
+    "eligibility": {
+      "nonprofit": true,
+      "states": "DC"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 415,
+    "name": "Literary Arts Fund Grant",
+    "provider": "Literary Arts Fund",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.literaryartsfund.org/",
+    "description": "$50M over 5 years for literary nonprofits",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Arts,Literary"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 416,
+    "name": "Baltimore Women's Giving Circle",
+    "provider": "BWGC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.baltimorewomensgc.org/",
+    "description": "Baltimore nonprofits supporting women/families",
+    "eligibility": {
+      "nonprofit": true,
+      "cities": "Baltimore",
+      "states": "MD"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 417,
+    "name": "Black Girl Dream Fund",
+    "provider": "BET Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.bet.com/",
+    "description": "Support for organizations serving Black girls in South",
+    "eligibility": {
+      "nonprofit": true,
+      "max_budget": 1000000,
+      "states": "AL,AR,FL,GA,KY,LA,MS,NC,SC,TN,TX,WV,VA"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 418,
+    "name": "AWS IMAGINE Grant",
+    "provider": "Amazon Web Services",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://aws.amazon.com/",
+    "description": "Cash + cloud technology credits for nonprofits",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 419,
+    "name": "Impact 100 Community Heroes Grant",
+    "provider": "Impact 100 South Jersey",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.impact100sj.org/",
+    "description": "South Jersey nonprofits with budgets under $500K",
+    "eligibility": {
+      "nonprofit": true,
+      "max_budget": 500000,
+      "states": "NJ"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 420,
+    "name": "Asian American Futures Gold Challenge",
+    "provider": "Gold House + AAF",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.goldhouse.org/",
+    "description": "10 prizes for AAPI-serving organizations",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 421,
+    "name": "Dollar General Literacy Foundation Grant",
+    "provider": "Dollar General",
+    "type": "Grant",
+    "amount_min": 3000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.dgliteracy.org/",
+    "description": "Literacy programs for schools and nonprofits",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 422,
+    "name": "Children's Services Fund Grant",
+    "provider": "CSF Clay County MO",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.csfclaycounty.org/",
+    "description": "Mental/social-emotional health for children under 19",
+    "eligibility": {
+      "nonprofit": true,
+      "states": "MO",
+      "counties": "Clay"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 423,
+    "name": "Youth Empowerment Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 75000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "Programs supporting youth development",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Youth,Education"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 424,
+    "name": "After-School Program Grant",
+    "provider": "21st Century Community Learning Centers",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "Federal after-school and summer programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Youth"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 425,
+    "name": "STEM Education Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 200000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "Science, technology, engineering, math programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,STEM"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 426,
+    "name": "Early Childhood Education Grant",
+    "provider": "Various State Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 300000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Pre-K and early learning programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,EarlyChildhood"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 427,
+    "name": "College Access Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 15000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "College prep and access programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,CollegeAccess"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 428,
+    "name": "Arts Education Grant",
+    "provider": "NEA + State Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Arts integration in schools",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Arts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 429,
+    "name": "Mentorship Program Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 20000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Youth mentoring and guidance programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Youth,Mentorship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 430,
+    "name": "Teen Pregnancy Prevention Grant",
+    "provider": "HHS",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.hhs.gov/",
+    "description": "Evidence-based teen pregnancy prevention",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Youth,Health"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 431,
+    "name": "Summer Learning Program Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Summer enrichment and learning loss prevention",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Youth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 432,
+    "name": "School Library Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Library collections and literacy resources",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Library"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 433,
+    "name": "School Safety Grant",
+    "provider": "DOJ + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.justice.gov/",
+    "description": "School safety infrastructure and programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Safety"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 434,
+    "name": "Special Education Grant",
+    "provider": "DOE + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "Programs for students with disabilities",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,SpecialEd"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 435,
+    "name": "Dropout Prevention Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Programs to keep students in school",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Youth"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 436,
+    "name": "Patagonia Environmental Grant",
+    "provider": "Patagonia",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 15000,
+    "deadline": "Biannual",
+    "url": "https://www.patagonia.com/",
+    "description": "Grassroots environmental organizations",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 437,
+    "name": "REI Cooperative Action Fund",
+    "provider": "REI",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.rei.com/",
+    "description": "Outdoor access and environmental stewardship",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Outdoors"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 438,
+    "name": "EPA Environmental Justice Grant",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Environmental justice in underserved communities",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Justice"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 439,
+    "name": "Ocean Conservation Grant",
+    "provider": "NOAA + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Marine ecosystem protection",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Marine"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 440,
+    "name": "Wildlife Conservation Grant",
+    "provider": "US Fish & Wildlife",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.fws.gov/",
+    "description": "Wildlife habitat protection and restoration",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Wildlife"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 441,
+    "name": "Climate Action Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Climate change mitigation and adaptation",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Climate"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 442,
+    "name": "Urban Forestry Grant",
+    "provider": "USDA Forest Service",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.fs.usda.gov/",
+    "description": "Urban tree planting and care",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Urban"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 443,
+    "name": "Watershed Protection Grant",
+    "provider": "EPA + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Clean water and watershed restoration",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Water"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 444,
+    "name": "Renewable Energy Community Grant",
+    "provider": "DOE + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Community renewable energy projects",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,CleanEnergy"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 445,
+    "name": "Environmental Education Grant",
+    "provider": "EPA + NOAA",
+    "type": "Grant",
+    "amount_min": 15000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Environmental literacy programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Education"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 446,
+    "name": "Land Conservation Grant",
+    "provider": "NRCS + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.nrcs.usda.gov/",
+    "description": "Land acquisition and conservation easements",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Conservation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 447,
+    "name": "Plastic Pollution Reduction Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Plastic waste reduction initiatives",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,WasteReduction"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 448,
+    "name": "Pollinator Habitat Grant",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.nrcs.usda.gov/",
+    "description": "Bee and pollinator habitat restoration",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Agriculture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 449,
+    "name": "Trail Building and Maintenance Grant",
+    "provider": "Federal Lands + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Recreation trail development",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Outdoors"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 450,
+    "name": "Green Infrastructure Grant",
+    "provider": "EPA + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Stormwater management and green infrastructure",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Environment,Urban"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 451,
+    "name": "Community Development Block Grant",
+    "provider": "HUD",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Community development in low-income areas",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 452,
+    "name": "Homelessness Prevention Grant",
+    "provider": "HUD + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Homeless services and prevention",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Housing,Services"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 453,
+    "name": "Food Bank Operating Grant",
+    "provider": "Feeding America + Regional",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.feedingamerica.org/",
+    "description": "Food bank capacity and distribution",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Food,Hunger"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 454,
+    "name": "Domestic Violence Services Grant",
+    "provider": "DOJ + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.justice.gov/",
+    "description": "DV shelters and support services",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Services,Safety"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 455,
+    "name": "Addiction Recovery Services Grant",
+    "provider": "SAMHSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.samhsa.gov/",
+    "description": "Substance abuse treatment programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Health,Recovery"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 456,
+    "name": "Community Health Center Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "FQHCs and health center operations",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Healthcare"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 457,
+    "name": "Financial Literacy Program Grant",
+    "provider": "CFP Board + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 40000,
+    "deadline": "Annual",
+    "url": "https://www.cfp.net/",
+    "description": "Financial education for underserved families",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Education,Finance"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 458,
+    "name": "Workforce Development Grant",
+    "provider": "DOL + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Job training and placement programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Workforce,Training"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 459,
+    "name": "Legal Aid Services Grant",
+    "provider": "LSC + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.lsc.gov/",
+    "description": "Free legal services for low-income individuals",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Legal"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 460,
+    "name": "Immigrant Services Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Immigration legal aid and integration services",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Immigration,Legal"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 461,
+    "name": "Community Arts Grant",
+    "provider": "NEA + State Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Community-based arts programs",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Arts,Community"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 462,
+    "name": "Food Equity Grant (FEED NJ)",
+    "provider": "New Jersey",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nj.gov/",
+    "description": "$30M pilot for food deserts in NJ",
+    "eligibility": {
+      "nonprofit": true,
+      "states": "NJ"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 463,
+    "name": "Community Recreation Grant",
+    "provider": "State + Local Parks Depts",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Recreation programs and facilities",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Recreation,Youth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 464,
+    "name": "Civic Engagement Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 15000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Voter registration and civic participation",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Civic,Democracy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 465,
+    "name": "Chiefs Charity Game Grant",
+    "provider": "Kansas City Chiefs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.chiefs.com/",
+    "description": "Large-scale fundraising event partnership",
+    "eligibility": {
+      "nonprofit": true,
+      "states": "MO,KS",
+      "max_employees": 9
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 466,
+    "name": "Wounded Warrior Project Grant",
+    "provider": "WWP",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.woundedwarriorproject.org/",
+    "description": "Services for wounded veterans",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 467,
+    "name": "VA Homeless Veterans Grant",
+    "provider": "Department of Veterans Affairs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.va.gov/",
+    "description": "Homeless veteran services and housing",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 468,
+    "name": "Veteran Employment Program Grant",
+    "provider": "DOL + VA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Veteran job training and placement",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 469,
+    "name": "Veteran Mental Health Services Grant",
+    "provider": "VA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.va.gov/",
+    "description": "PTSD and mental health services for vets",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 470,
+    "name": "Fisher House Foundation Grant",
+    "provider": "Fisher House",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.fisherhouse.org/",
+    "description": "Support for military families",
+    "eligibility": {
+      "nonprofit": true,
+      "military_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 471,
+    "name": "Bob Woodruff Foundation Grant",
+    "provider": "BWF",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://bobwoodrufffoundation.org/",
+    "description": "Veteran and military family programs",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 472,
+    "name": "Team Rubicon Veteran Service Grant",
+    "provider": "Team Rubicon",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://teamrubiconusa.org/",
+    "description": "Disaster response veteran programs",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 473,
+    "name": "Paralyzed Veterans Grant",
+    "provider": "PVA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.pva.org/",
+    "description": "Services for paralyzed veterans",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true,
+      "disability_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 474,
+    "name": "AMVETS Service Foundation Grant",
+    "provider": "AMVETS",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.amvets.org/",
+    "description": "Veteran services and advocacy",
+    "eligibility": {
+      "nonprofit": true,
+      "veteran_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 475,
+    "name": "Military Child Education Grant",
+    "provider": "DOD + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.defense.gov/",
+    "description": "Education support for military children",
+    "eligibility": {
+      "nonprofit": true,
+      "military_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 476,
+    "name": "Senior Center Operating Grant",
+    "provider": "ACL + State Aging Agencies",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Senior center programs and services",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 477,
+    "name": "Meals on Wheels Grant",
+    "provider": "ACL + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.mealsonwheelsamerica.org/",
+    "description": "Senior meal delivery programs",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 478,
+    "name": "Senior Housing Grant",
+    "provider": "HUD + State Programs",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Affordable senior housing development",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Housing,Seniors"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 479,
+    "name": "Elder Abuse Prevention Grant",
+    "provider": "DOJ + ACL",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Elder abuse prevention and intervention",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 480,
+    "name": "Senior Transportation Grant",
+    "provider": "FTA + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.transit.dot.gov/",
+    "description": "Transportation for seniors and disabled",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 481,
+    "name": "Alzheimer's Care Services Grant",
+    "provider": "ACL + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Dementia care and support services",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 482,
+    "name": "Senior Fitness Program Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Exercise and wellness for seniors",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 483,
+    "name": "Senior Legal Services Grant",
+    "provider": "ACL + Legal Services",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Legal aid for older adults",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 484,
+    "name": "Grandparent Caregiver Support Grant",
+    "provider": "ACL",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Support for grandparents raising grandchildren",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 485,
+    "name": "Senior Companionship Grant",
+    "provider": "AmeriCorps Seniors",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://americorps.gov/",
+    "description": "Senior companion and visitor programs",
+    "eligibility": {
+      "nonprofit": true,
+      "senior_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 486,
+    "name": "Developmental Disability Services Grant",
+    "provider": "State DD Councils",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Services for people with developmental disabilities",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 487,
+    "name": "Autism Services Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Programs for individuals with autism",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 488,
+    "name": "Assistive Technology Grant",
+    "provider": "State AT Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.at3center.net/",
+    "description": "Assistive technology access and training",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 489,
+    "name": "Independent Living Services Grant",
+    "provider": "ACL",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://acl.gov/",
+    "description": "Independent living centers and services",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 490,
+    "name": "Supported Employment Grant",
+    "provider": "DOL + State VR",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Employment support for people with disabilities",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 491,
+    "name": "Accessible Housing Modification Grant",
+    "provider": "HUD + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Home modifications for accessibility",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 492,
+    "name": "Special Olympics Grant",
+    "provider": "Special Olympics + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.specialolympics.org/",
+    "description": "Sports programs for intellectual disabilities",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 493,
+    "name": "Mental Health Recovery Grant",
+    "provider": "SAMHSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.samhsa.gov/",
+    "description": "Mental illness recovery and support services",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "MentalHealth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 494,
+    "name": "Deaf and Hard of Hearing Services Grant",
+    "provider": "State Commissions",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Services for deaf and hard of hearing",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 495,
+    "name": "Blind Services Grant",
+    "provider": "NFB + State Agencies",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nfb.org/",
+    "description": "Services for blind and visually impaired",
+    "eligibility": {
+      "nonprofit": true,
+      "disability_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 496,
+    "name": "Rural Community Development Grant",
+    "provider": "USDA Rural Development",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "Essential services in rural communities",
+    "eligibility": {
+      "nonprofit": true,
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 497,
+    "name": "Rural Healthcare Services Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Healthcare access in rural areas",
+    "eligibility": {
+      "nonprofit": true,
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 498,
+    "name": "Rural Broadband Access Grant",
+    "provider": "USDA + FCC",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "Broadband infrastructure in rural areas",
+    "eligibility": {
+      "nonprofit": true,
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 499,
+    "name": "Rural Education Enhancement Grant",
+    "provider": "DOE + USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "Education programs in rural schools",
+    "eligibility": {
+      "nonprofit": true,
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 500,
+    "name": "Rural Economic Development Grant",
+    "provider": "USDA + EDA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "Job creation and economic development",
+    "eligibility": {
+      "nonprofit": true,
+      "rural": true
+    },
+    "obscurity": 6
+  }
+]

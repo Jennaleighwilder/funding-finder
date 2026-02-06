@@ -1,0 +1,1576 @@
+[
+  {
+    "id": 501,
+    "name": "Google.org Impact Challenge",
+    "provider": "Google",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.google.org/",
+    "description": "Technology-driven social innovation",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 502,
+    "name": "Facebook Community Leadership Program",
+    "provider": "Meta",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.facebook.com/",
+    "description": "Community building and leadership development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 503,
+    "name": "Target Community Grants",
+    "provider": "Target",
+    "type": "Grant",
+    "amount_min": 2000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://corporate.target.com/",
+    "description": "Local community support near Target stores",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 504,
+    "name": "Walmart Community Grant",
+    "provider": "Walmart Foundation",
+    "type": "Grant",
+    "amount_min": 250,
+    "amount_max": 5000,
+    "deadline": "Rolling",
+    "url": "https://walmart.org/",
+    "description": "Local facility grants for community orgs",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 505,
+    "name": "Home Depot Foundation Grant",
+    "provider": "Home Depot",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://corporate.homedepot.com/",
+    "description": "Veterans housing and community spaces",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 506,
+    "name": "Lowe's Community Partners Grant",
+    "provider": "Lowe's",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Quarterly",
+    "url": "https://corporate.lowes.com/",
+    "description": "Community improvement projects",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 507,
+    "name": "CVS Health Foundation Grant",
+    "provider": "CVS Health",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cvshealth.com/",
+    "description": "Healthcare access and community health",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 508,
+    "name": "Walgreens Community Grants",
+    "provider": "Walgreens",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.walgreens.com/",
+    "description": "Health and wellness community programs",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 509,
+    "name": "Wells Fargo Community Support",
+    "provider": "Wells Fargo",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.wellsfargo.com/",
+    "description": "Housing, small business, financial health",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 510,
+    "name": "JPMorgan Chase Advancing Cities Grant",
+    "provider": "JPMorgan Chase",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.jpmorganchase.com/",
+    "description": "Economic opportunity in cities",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 511,
+    "name": "Citi Foundation Grant",
+    "provider": "Citigroup",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.citigroup.com/",
+    "description": "Economic mobility and youth development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 512,
+    "name": "Morgan Stanley Community Grant",
+    "provider": "Morgan Stanley",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.morganstanley.com/",
+    "description": "Education and economic opportunity",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 513,
+    "name": "Goldman Sachs 10,000 Small Businesses",
+    "provider": "Goldman Sachs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.goldmansachs.com/",
+    "description": "Small business education and capital",
+    "eligibility": {
+      "industries": "SmallBusiness"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 514,
+    "name": "Starbucks Foundation Grant",
+    "provider": "Starbucks",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.starbucks.com/",
+    "description": "Youth opportunity and community resilience",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 515,
+    "name": "Coca-Cola Foundation Grant",
+    "provider": "Coca-Cola",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.coca-colacompany.com/",
+    "description": "Water stewardship and community development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 516,
+    "name": "PepsiCo Foundation Grant",
+    "provider": "PepsiCo",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.pepsico.com/",
+    "description": "Food security and water access",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 517,
+    "name": "Costco Wholesale Grants",
+    "provider": "Costco",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.costco.com/",
+    "description": "Children, education, health programs",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 518,
+    "name": "Southwest Airlines Heart of the Community",
+    "provider": "Southwest Airlines",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.southwest.com/",
+    "description": "Community support in Southwest cities",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 519,
+    "name": "Delta Air Lines Foundation Grant",
+    "provider": "Delta",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.delta.com/",
+    "description": "Education, arts, community development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 520,
+    "name": "FedEx Cares Grant",
+    "provider": "FedEx",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.fedex.com/",
+    "description": "Disaster relief and community support",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 521,
+    "name": "UPS Foundation Grant",
+    "provider": "UPS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ups.com/",
+    "description": "Community safety and economic development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 522,
+    "name": "Intel Foundation Grant",
+    "provider": "Intel",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.intel.com/",
+    "description": "STEM education and tech access",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 523,
+    "name": "Adobe Foundation Grant",
+    "provider": "Adobe",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.adobe.com/",
+    "description": "Creative education and digital equity",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 524,
+    "name": "Salesforce Foundation Grant",
+    "provider": "Salesforce",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.salesforce.org/",
+    "description": "Education, workforce, homelessness",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 525,
+    "name": "Verizon Foundation Grant",
+    "provider": "Verizon",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.verizon.com/",
+    "description": "Digital inclusion and education",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 526,
+    "name": "Portland Business Relief Fund",
+    "provider": "Prosper Portland",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 35000,
+    "deadline": "Annual",
+    "url": "https://prosperportland.us/",
+    "description": "Small business support in Portland",
+    "eligibility": {
+      "states": "OR",
+      "cities": "Portland"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 527,
+    "name": "Las Vegas Economic Development Grant",
+    "provider": "City of Las Vegas",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.lasvegasnevada.gov/",
+    "description": "Business development in Las Vegas",
+    "eligibility": {
+      "states": "NV",
+      "cities": "Las Vegas"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 528,
+    "name": "Phoenix Small Business Grant",
+    "provider": "City of Phoenix",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.phoenix.gov/",
+    "description": "Phoenix small business relief",
+    "eligibility": {
+      "states": "AZ",
+      "cities": "Phoenix"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 529,
+    "name": "Salt Lake City Economic Development",
+    "provider": "Salt Lake City Corp",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.slc.gov/",
+    "description": "Business development and job creation",
+    "eligibility": {
+      "states": "UT",
+      "cities": "Salt Lake City"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 530,
+    "name": "Albuquerque Local Development Act",
+    "provider": "City of Albuquerque",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cabq.gov/",
+    "description": "Infrastructure and economic development",
+    "eligibility": {
+      "states": "NM",
+      "cities": "Albuquerque"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 531,
+    "name": "Tucson Small Business Commission Grant",
+    "provider": "City of Tucson",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.tucsonaz.gov/",
+    "description": "Small business support",
+    "eligibility": {
+      "states": "AZ",
+      "cities": "Tucson"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 532,
+    "name": "El Paso Economic Development Grant",
+    "provider": "City of El Paso",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.elpasotexas.gov/",
+    "description": "Border business development",
+    "eligibility": {
+      "states": "TX",
+      "cities": "El Paso"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 533,
+    "name": "Oklahoma City Business Incentive",
+    "provider": "Greater OKC Chamber",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.okcchamber.com/",
+    "description": "Business attraction and retention",
+    "eligibility": {
+      "states": "OK",
+      "cities": "Oklahoma City"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 534,
+    "name": "Omaha Economic Development Grant",
+    "provider": "Greater Omaha Chamber",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.omahachamber.org/",
+    "description": "Business expansion incentives",
+    "eligibility": {
+      "states": "NE",
+      "cities": "Omaha"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 535,
+    "name": "Boise Metro Small Business Development",
+    "provider": "City of Boise",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.cityofboise.org/",
+    "description": "Small business growth programs",
+    "eligibility": {
+      "states": "ID",
+      "cities": "Boise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 536,
+    "name": "Anchorage Economic Development Grant",
+    "provider": "Anchorage Economic Development Corp",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.aedcweb.com/",
+    "description": "Alaska business development",
+    "eligibility": {
+      "states": "AK",
+      "cities": "Anchorage"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 537,
+    "name": "Honolulu Mayor's Small Business Grant",
+    "provider": "City of Honolulu",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.honolulu.gov/",
+    "description": "Hawaii small business support",
+    "eligibility": {
+      "states": "HI",
+      "cities": "Honolulu"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 538,
+    "name": "Des Moines Entrepreneurship Grant",
+    "provider": "City of Des Moines",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.dsm.city/",
+    "description": "Startup and entrepreneur support",
+    "eligibility": {
+      "states": "IA",
+      "cities": "Des Moines"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 539,
+    "name": "Wichita Business Incentive Program",
+    "provider": "City of Wichita",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.wichita.gov/",
+    "description": "Business expansion and relocation",
+    "eligibility": {
+      "states": "KS",
+      "cities": "Wichita"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 540,
+    "name": "Little Rock Small Business Grant",
+    "provider": "City of Little Rock",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Annual",
+    "url": "https://www.littlerock.gov/",
+    "description": "Small business recovery",
+    "eligibility": {
+      "states": "AR",
+      "cities": "Little Rock"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 541,
+    "name": "Billings Business Development Grant",
+    "provider": "Big Sky Economic Development",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.bigskyed.com/",
+    "description": "Montana business expansion",
+    "eligibility": {
+      "states": "MT",
+      "cities": "Billings"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 542,
+    "name": "Fargo-Moorhead Economic Development",
+    "provider": "Greater Fargo Moorhead EDC",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.greaterFM.com/",
+    "description": "Regional business development",
+    "eligibility": {
+      "states": "ND,MN",
+      "cities": "Fargo"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 543,
+    "name": "Sioux Falls Development Grant",
+    "provider": "Sioux Falls Development Foundation",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.siouxfalls.org/",
+    "description": "Business growth incentives",
+    "eligibility": {
+      "states": "SD",
+      "cities": "Sioux Falls"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 544,
+    "name": "Spokane Business Incentive",
+    "provider": "Greater Spokane Inc",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.greaterspokane.org/",
+    "description": "Eastern Washington business development",
+    "eligibility": {
+      "states": "WA",
+      "cities": "Spokane"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 545,
+    "name": "Madison Forward Fund",
+    "provider": "City of Madison",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.cityofmadison.com/",
+    "description": "Small business economic recovery",
+    "eligibility": {
+      "states": "WI",
+      "cities": "Madison"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 546,
+    "name": "Burlington Business Development",
+    "provider": "City of Burlington",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.burlingtonvt.gov/",
+    "description": "Vermont small business support",
+    "eligibility": {
+      "states": "VT",
+      "cities": "Burlington"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 547,
+    "name": "Jackson Economic Development Grant",
+    "provider": "Greater Jackson Chamber",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.greaterjacksonms.com/",
+    "description": "Mississippi capital region development",
+    "eligibility": {
+      "states": "MS",
+      "cities": "Jackson"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 548,
+    "name": "Baton Rouge Development Grant",
+    "provider": "Baton Rouge Area Foundation",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.braf.org/",
+    "description": "Community and business development",
+    "eligibility": {
+      "states": "LA",
+      "cities": "Baton Rouge"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 549,
+    "name": "Mobile Business Development",
+    "provider": "Mobile Area Chamber",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.mobilechamber.com/",
+    "description": "Gulf Coast business incentives",
+    "eligibility": {
+      "states": "AL",
+      "cities": "Mobile"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 550,
+    "name": "Tallahassee Economic Development",
+    "provider": "City of Tallahassee",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.talgov.com/",
+    "description": "Capital city business growth",
+    "eligibility": {
+      "states": "FL",
+      "cities": "Tallahassee"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 551,
+    "name": "United Methodist Church Grant",
+    "provider": "UMC General Board",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.umcmission.org/",
+    "description": "Church and community development",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 552,
+    "name": "Catholic Campaign for Human Development",
+    "provider": "USCCB",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 75000,
+    "deadline": "Annual",
+    "url": "https://www.usccb.org/",
+    "description": "Community organizing and economic development",
+    "eligibility": {
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 553,
+    "name": "Presbyterian Church Domestic Hunger Grant",
+    "provider": "PCUSA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.pcusa.org/",
+    "description": "Food security and hunger relief",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Food,Hunger"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 554,
+    "name": "Episcopal Church Grant",
+    "provider": "Episcopal Church Foundation",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.episcopalchurch.org/",
+    "description": "Community ministry and development",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 555,
+    "name": "Lutheran Services in America Grant",
+    "provider": "LSA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.lutheranservices.org/",
+    "description": "Social services and community support",
+    "eligibility": {
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 556,
+    "name": "Jewish Federations Grant",
+    "provider": "Jewish Federations of North America",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://jewishfederations.org/",
+    "description": "Community services and development",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 557,
+    "name": "Salvation Army Community Grant",
+    "provider": "Salvation Army",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.salvationarmyusa.org/",
+    "description": "Social services and disaster relief",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 558,
+    "name": "Islamic Relief USA Grant",
+    "provider": "Islamic Relief",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://irusa.org/",
+    "description": "Community development and relief",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 559,
+    "name": "Seventh-day Adventist Community Services",
+    "provider": "SDA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.communityservices.org/",
+    "description": "Community health and social services",
+    "eligibility": {
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 560,
+    "name": "Nazarene Compassionate Ministries Grant",
+    "provider": "Church of the Nazarene",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://ncm.org/",
+    "description": "Community compassion ministries",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 561,
+    "name": "Baptist Foundation Grant",
+    "provider": "Various Baptist Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.bcmd.org/",
+    "description": "Church and community ministries",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 562,
+    "name": "Mennonite Central Committee Grant",
+    "provider": "MCC",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://mcc.org/",
+    "description": "Peace and justice initiatives",
+    "eligibility": {
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 563,
+    "name": "Christian Community Development Association Grant",
+    "provider": "CCDA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://ccda.org/",
+    "description": "Community transformation initiatives",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 564,
+    "name": "Assemblies of God US Missions Grant",
+    "provider": "AG USA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://ag.org/",
+    "description": "Church planting and community outreach",
+    "eligibility": {
+      "nonprofit": true,
+      "faith_based": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 565,
+    "name": "Quaker Foundation Grant",
+    "provider": "Friends Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.friendsjournal.org/",
+    "description": "Peace and social justice",
+    "eligibility": {
+      "nonprofit": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 566,
+    "name": "American Red Cross Disaster Relief Grant",
+    "provider": "American Red Cross",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://www.redcross.org/",
+    "description": "Disaster preparedness and response",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 567,
+    "name": "FEMA Emergency Food and Shelter Program",
+    "provider": "FEMA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.fema.gov/",
+    "description": "Emergency shelter and food services",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 568,
+    "name": "Hurricane Relief Fund",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "As needed",
+    "url": "https://www.grants.gov/",
+    "description": "Hurricane disaster recovery",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 569,
+    "name": "Wildfire Relief Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "As needed",
+    "url": "https://www.grants.gov/",
+    "description": "Wildfire recovery and rebuilding",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 570,
+    "name": "Flood Recovery Grant",
+    "provider": "FEMA + State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "As needed",
+    "url": "https://www.fema.gov/",
+    "description": "Flood mitigation and recovery",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 571,
+    "name": "Tornado Relief Fund",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "As needed",
+    "url": "https://www.grants.gov/",
+    "description": "Tornado disaster recovery",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 572,
+    "name": "Earthquake Relief Grant",
+    "provider": "FEMA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "As needed",
+    "url": "https://www.fema.gov/",
+    "description": "Earthquake recovery and rebuilding",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 573,
+    "name": "Winter Storm Emergency Grant",
+    "provider": "State Emergency Management",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "As needed",
+    "url": "https://www.grants.gov/",
+    "description": "Winter storm recovery assistance",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 574,
+    "name": "Drought Relief Grant",
+    "provider": "USDA + State Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "As needed",
+    "url": "https://www.usda.gov/",
+    "description": "Agricultural drought assistance",
+    "eligibility": {
+      "nonprofit": true,
+      "industries": "Agriculture",
+      "disaster_affected": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 575,
+    "name": "Community Foundation Disaster Fund",
+    "provider": "Local Community Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.cof.org/",
+    "description": "Local disaster recovery support",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 576,
+    "name": "Small Business Disaster Loan Grant Component",
+    "provider": "SBA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "As needed",
+    "url": "https://www.sba.gov/",
+    "description": "Disaster recovery for businesses (grant portion)",
+    "eligibility": {
+      "disaster_affected": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 577,
+    "name": "Nonprofit Facility Disaster Recovery",
+    "provider": "FEMA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "As needed",
+    "url": "https://www.fema.gov/",
+    "description": "Repair/rebuild nonprofit facilities",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 578,
+    "name": "United Way Disaster Recovery Fund",
+    "provider": "United Way",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "As needed",
+    "url": "https://www.unitedway.org/",
+    "description": "Community disaster response",
+    "eligibility": {
+      "nonprofit": true,
+      "status_501c3": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 579,
+    "name": "All Hands and Hearts Disaster Relief",
+    "provider": "All Hands and Hearts",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "As needed",
+    "url": "https://www.allhandsandhearts.org/",
+    "description": "Volunteer-powered disaster recovery",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 580,
+    "name": "Team Rubicon Disaster Response Grant",
+    "provider": "Team Rubicon",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "As needed",
+    "url": "https://teamrubiconusa.org/",
+    "description": "Veteran-led disaster response",
+    "eligibility": {
+      "nonprofit": true,
+      "disaster_affected": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 581,
+    "name": "NSF Small Business Innovation Research Phase II",
+    "provider": "National Science Foundation",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Advanced R&D for tech commercialization",
+    "eligibility": {
+      "industries": "Technology,Research"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 582,
+    "name": "NIH Small Business Technology Transfer",
+    "provider": "NIH",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 256000,
+    "deadline": "Annual",
+    "url": "https://www.nih.gov/",
+    "description": "Biomedical tech transfer partnerships",
+    "eligibility": {
+      "industries": "Biotech,Healthcare"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 583,
+    "name": "DOE Advanced Research Projects",
+    "provider": "ARPA-E",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://arpa-e.energy.gov/",
+    "description": "Transformative energy technology",
+    "eligibility": {
+      "industries": "CleanEnergy,Research"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 584,
+    "name": "DARPA Small Business Research",
+    "provider": "DARPA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.darpa.mil/",
+    "description": "Defense advanced research projects",
+    "eligibility": {
+      "industries": "Defense,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 585,
+    "name": "USDA Agriculture Innovation Center",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Agricultural technology innovation",
+    "eligibility": {
+      "industries": "Agriculture,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 586,
+    "name": "State Technology and Science Initiative",
+    "provider": "Various States",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "State-level tech development",
+    "eligibility": {
+      "industries": "Technology,Research"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 587,
+    "name": "University Partnership Innovation Grant",
+    "provider": "Various Universities",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Industry-university research collaboration",
+    "eligibility": {
+      "industries": "Research,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 588,
+    "name": "Biotech Accelerator Grant",
+    "provider": "Various Accelerators",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Biotech startup acceleration",
+    "eligibility": {
+      "industries": "Biotech"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 589,
+    "name": "Clean Tech Innovation Grant",
+    "provider": "State Energy Offices",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Clean technology commercialization",
+    "eligibility": {
+      "industries": "CleanEnergy,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 590,
+    "name": "Ag Tech Innovation Fund",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Agricultural technology development",
+    "eligibility": {
+      "industries": "Agriculture,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 591,
+    "name": "Artificial Intelligence Research Grant",
+    "provider": "NSF + Private",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "AI and machine learning research",
+    "eligibility": {
+      "industries": "Technology,AI"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 592,
+    "name": "Quantum Computing Innovation Grant",
+    "provider": "DOE + NSF",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Quantum computing development",
+    "eligibility": {
+      "industries": "Technology,Research"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 593,
+    "name": "Robotics Innovation Grant",
+    "provider": "NSF + Industry",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Advanced robotics development",
+    "eligibility": {
+      "industries": "Technology,Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 594,
+    "name": "Nanotechnology Research Grant",
+    "provider": "NSF + DOE",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Nanoscience and nanotechnology",
+    "eligibility": {
+      "industries": "Technology,Research"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 595,
+    "name": "Medical Device Innovation Grant",
+    "provider": "NIH + FDA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nih.gov/",
+    "description": "Medical device development",
+    "eligibility": {
+      "industries": "Healthcare,MedTech"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 596,
+    "name": "Pharmaceutical Innovation Grant",
+    "provider": "NIH + Foundations",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.nih.gov/",
+    "description": "Drug discovery and development",
+    "eligibility": {
+      "industries": "Biotech,Pharma"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 597,
+    "name": "5G and Telecommunications Innovation",
+    "provider": "FCC + NTIA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.fcc.gov/",
+    "description": "Next-gen telecom infrastructure",
+    "eligibility": {
+      "industries": "Technology,Telecom"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 598,
+    "name": "Cybersecurity Innovation Grant",
+    "provider": "DHS + NSF",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dhs.gov/",
+    "description": "Cybersecurity technology development",
+    "eligibility": {
+      "industries": "Technology,Cybersecurity"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 599,
+    "name": "Advanced Manufacturing Innovation",
+    "provider": "NIST + DOD",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/",
+    "description": "Manufacturing technology institutes",
+    "eligibility": {
+      "industries": "Manufacturing,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 600,
+    "name": "Smart Cities Innovation Grant",
+    "provider": "DOT + NSF",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.transportation.gov/",
+    "description": "Urban technology and infrastructure",
+    "eligibility": {
+      "industries": "Technology,Urban"
+    },
+    "obscurity": 6
+  }
+]

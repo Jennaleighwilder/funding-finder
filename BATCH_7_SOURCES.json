@@ -1,0 +1,1512 @@
+[
+  {
+    "id": 601,
+    "name": "Nurse Practitioner Practice Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "NP-led primary care practices",
+    "eligibility": {
+      "industries": "Healthcare",
+      "nurse_practitioner_led": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 602,
+    "name": "Dental Practice Expansion Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Dental care access in underserved areas",
+    "eligibility": {
+      "industries": "Healthcare,Dental"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 603,
+    "name": "Mental Health Clinic Startup Grant",
+    "provider": "SAMHSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.samhsa.gov/",
+    "description": "Community mental health centers",
+    "eligibility": {
+      "industries": "Healthcare,MentalHealth"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 604,
+    "name": "Physical Therapy Practice Grant",
+    "provider": "State Health Depts",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Rural physical therapy access",
+    "eligibility": {
+      "industries": "Healthcare,PT",
+      "rural": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 605,
+    "name": "Pharmacy Immunization Grant",
+    "provider": "CDC + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.cdc.gov/",
+    "description": "Pharmacy-based immunization programs",
+    "eligibility": {
+      "industries": "Healthcare,Pharmacy"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 606,
+    "name": "Midwifery Practice Development",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Birth center and midwife practices",
+    "eligibility": {
+      "industries": "Healthcare,Midwifery"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 607,
+    "name": "Chiropractic Clinic Equipment Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Chiropractic equipment and technology",
+    "eligibility": {
+      "industries": "Healthcare,Chiropractic"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 608,
+    "name": "Occupational Therapy Practice Grant",
+    "provider": "State Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "OT services in underserved areas",
+    "eligibility": {
+      "industries": "Healthcare,OT"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 609,
+    "name": "Speech Therapy Clinic Grant",
+    "provider": "State Health + Education",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Speech-language pathology services",
+    "eligibility": {
+      "industries": "Healthcare,SLP"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 610,
+    "name": "Home Health Agency Startup",
+    "provider": "CMS + State Medicaid",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cms.gov/",
+    "description": "Home healthcare service development",
+    "eligibility": {
+      "industries": "Healthcare,HomeHealth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 611,
+    "name": "Hospice Care Expansion Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "End-of-life care services",
+    "eligibility": {
+      "industries": "Healthcare,Hospice"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 612,
+    "name": "Acupuncture Practice Grant",
+    "provider": "State Alternative Medicine Boards",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Integrative medicine practices",
+    "eligibility": {
+      "industries": "Healthcare,AlternativeMedicine"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 613,
+    "name": "Optometry Practice Development",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Vision care access expansion",
+    "eligibility": {
+      "industries": "Healthcare,Optometry"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 614,
+    "name": "Podiatry Practice Grant",
+    "provider": "State Health Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Diabetic foot care and podiatry services",
+    "eligibility": {
+      "industries": "Healthcare,Podiatry"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 615,
+    "name": "Urgent Care Center Development",
+    "provider": "State + Private",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Urgent care facility startups",
+    "eligibility": {
+      "industries": "Healthcare,UrgentCare"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 616,
+    "name": "Dialysis Center Equipment Grant",
+    "provider": "CMS + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.cms.gov/",
+    "description": "Dialysis equipment and facility",
+    "eligibility": {
+      "industries": "Healthcare,Dialysis"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 617,
+    "name": "Medical Laboratory Grant",
+    "provider": "State Health Depts",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Clinical lab equipment and testing",
+    "eligibility": {
+      "industries": "Healthcare,Laboratory"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 618,
+    "name": "Imaging Center Equipment Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Diagnostic imaging equipment (MRI, CT, etc)",
+    "eligibility": {
+      "industries": "Healthcare,Radiology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 619,
+    "name": "Medical Spa Aesthetic Equipment",
+    "provider": "Private Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Medical aesthetics and wellness",
+    "eligibility": {
+      "industries": "Healthcare,MedSpa"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 620,
+    "name": "Veterinary Clinic Equipment Grant",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Veterinary equipment and facilities",
+    "eligibility": {
+      "industries": "Veterinary,AnimalHealth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 621,
+    "name": "Legal Aid Technology Grant",
+    "provider": "LSC + State Bar Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.lsc.gov/",
+    "description": "Legal services technology infrastructure",
+    "eligibility": {
+      "industries": "Legal,ProfessionalServices"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 622,
+    "name": "Accounting Practice Technology Grant",
+    "provider": "State CPA Societies",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Accounting software and automation",
+    "eligibility": {
+      "industries": "Accounting,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 623,
+    "name": "Architecture Firm Innovation Grant",
+    "provider": "AIA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.aia.org/",
+    "description": "Architectural technology and sustainability",
+    "eligibility": {
+      "industries": "Architecture,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 624,
+    "name": "Engineering Firm Equipment Grant",
+    "provider": "NSPE + State Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nspe.org/",
+    "description": "Engineering equipment and software",
+    "eligibility": {
+      "industries": "Engineering,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 625,
+    "name": "Consulting Practice Development",
+    "provider": "Various Business Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Management consulting business growth",
+    "eligibility": {
+      "industries": "Consulting,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 626,
+    "name": "Real Estate Brokerage Technology",
+    "provider": "NAR + State Realtor Assoc",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.nar.realtor/",
+    "description": "Real estate tech and marketing",
+    "eligibility": {
+      "industries": "RealEstate,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 627,
+    "name": "Insurance Agency Development Grant",
+    "provider": "State Insurance Depts",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Independent insurance agency growth",
+    "eligibility": {
+      "industries": "Insurance,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 628,
+    "name": "Financial Planning Practice Grant",
+    "provider": "CFP Board + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.cfp.net/",
+    "description": "Financial advisor practice development",
+    "eligibility": {
+      "industries": "FinancialServices,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 629,
+    "name": "Marketing Agency Creative Grant",
+    "provider": "Ad Councils + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Marketing and creative agency tools",
+    "eligibility": {
+      "industries": "Marketing,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 630,
+    "name": "HR Consulting Technology Grant",
+    "provider": "SHRM + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.shrm.org/",
+    "description": "HR tech and consulting tools",
+    "eligibility": {
+      "industries": "HumanResources,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 631,
+    "name": "IT Services Firm Equipment",
+    "provider": "Tech Industry Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "IT consulting infrastructure",
+    "eligibility": {
+      "industries": "Technology,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 632,
+    "name": "Translation Services Technology",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Translation and interpretation tools",
+    "eligibility": {
+      "industries": "Translation,ProfessionalServices"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 633,
+    "name": "Event Planning Business Grant",
+    "provider": "Industry Associations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Event planning equipment and software",
+    "eligibility": {
+      "industries": "EventPlanning,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 634,
+    "name": "Graphic Design Studio Grant",
+    "provider": "AIGA + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.aiga.org/",
+    "description": "Design software and equipment",
+    "eligibility": {
+      "industries": "Design,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 635,
+    "name": "Photography Business Equipment",
+    "provider": "PPA + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.ppa.com/",
+    "description": "Professional photography gear",
+    "eligibility": {
+      "industries": "Photography,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 636,
+    "name": "Independent Journalism Grant",
+    "provider": "Google News Initiative",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 300000,
+    "deadline": "Annual",
+    "url": "https://newsinitiative.withgoogle.com/",
+    "description": "Local news and journalism support",
+    "eligibility": {
+      "industries": "Media,Journalism"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 637,
+    "name": "Podcast Production Grant",
+    "provider": "PRX + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.prx.org/",
+    "description": "Podcast equipment and production",
+    "eligibility": {
+      "industries": "Media,Podcast"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 638,
+    "name": "Documentary Filmmaker Grant",
+    "provider": "ITVS + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://itvs.org/",
+    "description": "Documentary film production",
+    "eligibility": {
+      "industries": "Media,Film"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 639,
+    "name": "Independent Bookstore Grant",
+    "provider": "ABA + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.bookweb.org/",
+    "description": "Indie bookstore support and events",
+    "eligibility": {
+      "industries": "Retail,Publishing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 640,
+    "name": "Magazine Publishing Grant",
+    "provider": "MPA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.magazine.org/",
+    "description": "Magazine and periodical publishing",
+    "eligibility": {
+      "industries": "Media,Publishing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 641,
+    "name": "Public Radio Station Grant",
+    "provider": "CPB",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cpb.org/",
+    "description": "Public radio operations and equipment",
+    "eligibility": {
+      "industries": "Media,Radio",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 642,
+    "name": "Community TV Station Grant",
+    "provider": "CPB",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cpb.org/",
+    "description": "Public TV station support",
+    "eligibility": {
+      "industries": "Media,Television",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 643,
+    "name": "Video Production Studio Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Video production equipment",
+    "eligibility": {
+      "industries": "Media,Video"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 644,
+    "name": "Music Recording Studio Grant",
+    "provider": "GRAMMY Foundation + Others",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grammy.org/",
+    "description": "Recording studio equipment",
+    "eligibility": {
+      "industries": "Media,Music"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 645,
+    "name": "Digital Content Creator Grant",
+    "provider": "YouTube + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.youtube.com/",
+    "description": "Content creator equipment and training",
+    "eligibility": {
+      "industries": "Media,Digital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 646,
+    "name": "Hotel Renovation Grant",
+    "provider": "State Tourism Offices",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Historic hotel renovation and upgrades",
+    "eligibility": {
+      "industries": "Hospitality,Tourism"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 647,
+    "name": "Bed & Breakfast Development",
+    "provider": "State Tourism + USDA Rural",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "B&B startup and renovation",
+    "eligibility": {
+      "industries": "Hospitality",
+      "rural": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 648,
+    "name": "Tourism Attraction Development",
+    "provider": "State Tourism Offices",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Tourism infrastructure and attractions",
+    "eligibility": {
+      "industries": "Tourism"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 649,
+    "name": "Agritourism Development Grant",
+    "provider": "USDA + State Ag Depts",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Farm-based tourism development",
+    "eligibility": {
+      "industries": "Agriculture,Tourism"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 650,
+    "name": "Winery & Brewery Tourism Grant",
+    "provider": "State Ag + Tourism",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Beverage tourism infrastructure",
+    "eligibility": {
+      "industries": "Hospitality,Tourism,Agriculture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 651,
+    "name": "Historic Inn Preservation",
+    "provider": "National Park Service",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Historic lodging preservation",
+    "eligibility": {
+      "industries": "Hospitality",
+      "historic": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 652,
+    "name": "Campground Development Grant",
+    "provider": "State Parks + USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "RV park and campground development",
+    "eligibility": {
+      "industries": "Tourism,Recreation"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 653,
+    "name": "Tour Operator Equipment Grant",
+    "provider": "State Tourism",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Tour operator vehicles and equipment",
+    "eligibility": {
+      "industries": "Tourism"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 654,
+    "name": "Event Venue Development",
+    "provider": "State + Local Economic Dev",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Wedding and event venue infrastructure",
+    "eligibility": {
+      "industries": "Hospitality,Events"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 655,
+    "name": "Heritage Tourism Grant",
+    "provider": "National Park Service",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Cultural and heritage tourism",
+    "eligibility": {
+      "industries": "Tourism,Heritage"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 656,
+    "name": "Ecotourism Development Grant",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Sustainable tourism infrastructure",
+    "eligibility": {
+      "industries": "Tourism,Environment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 657,
+    "name": "Marina and Boat Launch Grant",
+    "provider": "State Boating Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Marina facilities and infrastructure",
+    "eligibility": {
+      "industries": "Tourism,Recreation,Maritime"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 658,
+    "name": "Ski Resort Infrastructure Grant",
+    "provider": "State Tourism + USDA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Ski area development and upgrades",
+    "eligibility": {
+      "industries": "Tourism,Recreation"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 659,
+    "name": "Beach Access and Tourism",
+    "provider": "NOAA + State Coastal",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Coastal tourism infrastructure",
+    "eligibility": {
+      "industries": "Tourism",
+      "coastal": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 660,
+    "name": "Adventure Tourism Equipment",
+    "provider": "State Tourism + Outdoor Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Outdoor adventure business equipment",
+    "eligibility": {
+      "industries": "Tourism,Recreation"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 661,
+    "name": "Youth Sports Facility Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Youth sports facilities and fields",
+    "eligibility": {
+      "industries": "Recreation,Youth",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 662,
+    "name": "Fitness Center Equipment Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Gym and fitness equipment",
+    "eligibility": {
+      "industries": "Recreation,Fitness"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 663,
+    "name": "Martial Arts Dojo Development",
+    "provider": "Community Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Martial arts facility equipment",
+    "eligibility": {
+      "industries": "Recreation,MartialArts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 664,
+    "name": "Dance Studio Equipment Grant",
+    "provider": "Arts Councils + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Dance studio floors and equipment",
+    "eligibility": {
+      "industries": "Recreation,Arts,Dance"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 665,
+    "name": "Swimming Pool Facility Grant",
+    "provider": "State + Local Recreation",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Aquatic facility development",
+    "eligibility": {
+      "industries": "Recreation",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 666,
+    "name": "Bowling Alley Renovation Grant",
+    "provider": "Economic Development",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Bowling center upgrades",
+    "eligibility": {
+      "industries": "Recreation,Entertainment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 667,
+    "name": "Golf Course Environmental Grant",
+    "provider": "Audubon + Environmental",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.audubon.org/",
+    "description": "Golf course environmental certification",
+    "eligibility": {
+      "industries": "Recreation,Golf,Environment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 668,
+    "name": "Equestrian Facility Development",
+    "provider": "State Ag + Equestrian Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Horse facility and arena development",
+    "eligibility": {
+      "industries": "Recreation,Equestrian,Agriculture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 669,
+    "name": "Rock Climbing Gym Grant",
+    "provider": "Outdoor Industry Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Climbing gym equipment and walls",
+    "eligibility": {
+      "industries": "Recreation,Outdoors"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 670,
+    "name": "Skateboard Park Development",
+    "provider": "Tony Hawk Foundation + Local",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.skatepark.org/",
+    "description": "Public skateboard park construction",
+    "eligibility": {
+      "industries": "Recreation,Youth",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 671,
+    "name": "EdTech Startup Accelerator Grant",
+    "provider": "Various EdTech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Education technology startup support",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 672,
+    "name": "Learning Management System Grant",
+    "provider": "DOE + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "LMS platform development",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 673,
+    "name": "Online Course Platform Grant",
+    "provider": "Gates Foundation + Others",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.gatesfoundation.org/",
+    "description": "Online learning platform development",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 674,
+    "name": "Educational Game Development",
+    "provider": "NSF + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Educational gaming and gamification",
+    "eligibility": {
+      "industries": "Education,Technology,Gaming"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 675,
+    "name": "Virtual Reality Education Grant",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "VR/AR educational experiences",
+    "eligibility": {
+      "industries": "Education,Technology,VR"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 676,
+    "name": "Adaptive Learning Technology",
+    "provider": "DOE + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "AI-powered adaptive learning",
+    "eligibility": {
+      "industries": "Education,Technology,AI"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 677,
+    "name": "Digital Literacy Platform Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Digital skills training platforms",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 678,
+    "name": "Coding Bootcamp Development",
+    "provider": "Tech Industry + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Coding education programs",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 679,
+    "name": "Language Learning App Grant",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Language education technology",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 680,
+    "name": "Test Prep Platform Grant",
+    "provider": "Education Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Standardized test preparation tech",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 681,
+    "name": "Tutoring Platform Technology",
+    "provider": "Various Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Online tutoring platforms",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 682,
+    "name": "Classroom Technology Grant",
+    "provider": "DOE + State Education",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.ed.gov/",
+    "description": "Interactive classroom technology",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 683,
+    "name": "Student Information System Grant",
+    "provider": "State Education Depts",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Student data management systems",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 684,
+    "name": "Educational Assessment Tool Grant",
+    "provider": "Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Digital assessment and analytics",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 685,
+    "name": "Parent Communication Platform",
+    "provider": "Education Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "School-parent communication tech",
+    "eligibility": {
+      "industries": "Education,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 686,
+    "name": "Commercial Fishing Vessel Grant",
+    "provider": "NOAA Fisheries",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.fisheries.noaa.gov/",
+    "description": "Fishing vessel upgrades and equipment",
+    "eligibility": {
+      "industries": "Maritime,Fishing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 687,
+    "name": "Aquaculture Development Grant",
+    "provider": "USDA + NOAA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.fisheries.noaa.gov/",
+    "description": "Fish farming and aquaculture",
+    "eligibility": {
+      "industries": "Agriculture,Aquaculture"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 688,
+    "name": "Maritime Port Development",
+    "provider": "MARAD + DOT",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.maritime.dot.gov/",
+    "description": "Port infrastructure development",
+    "eligibility": {
+      "industries": "Maritime,Transportation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 689,
+    "name": "Boat Building and Repair Grant",
+    "provider": "MARAD + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.maritime.dot.gov/",
+    "description": "Marine vessel construction",
+    "eligibility": {
+      "industries": "Maritime,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 690,
+    "name": "Water Treatment Innovation",
+    "provider": "EPA + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Water treatment technology",
+    "eligibility": {
+      "industries": "Water,Environment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 691,
+    "name": "Desalination Technology Grant",
+    "provider": "Bureau of Reclamation",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.usbr.gov/",
+    "description": "Desalination research and development",
+    "eligibility": {
+      "industries": "Water,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 692,
+    "name": "Irrigation System Modernization",
+    "provider": "USDA NRCS",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nrcs.usda.gov/",
+    "description": "Agricultural irrigation efficiency",
+    "eligibility": {
+      "industries": "Agriculture,Water"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 693,
+    "name": "Water Quality Monitoring Grant",
+    "provider": "EPA + USGS",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Water testing and monitoring systems",
+    "eligibility": {
+      "industries": "Water,Environment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 694,
+    "name": "Stormwater Management Grant",
+    "provider": "EPA + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Stormwater infrastructure",
+    "eligibility": {
+      "industries": "Water,Environment,Urban"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 695,
+    "name": "Hydropower Development Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Small-scale hydroelectric projects",
+    "eligibility": {
+      "industries": "Water,CleanEnergy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 696,
+    "name": "Aviation Training Center Grant",
+    "provider": "FAA + DOT",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.faa.gov/",
+    "description": "Pilot and aviation mechanic training",
+    "eligibility": {
+      "industries": "Aviation,Education"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 697,
+    "name": "Airport Infrastructure Grant",
+    "provider": "FAA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.faa.gov/",
+    "description": "Airport improvement projects",
+    "eligibility": {
+      "industries": "Aviation,Transportation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 698,
+    "name": "Drone Technology Development",
+    "provider": "NASA + FAA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nasa.gov/",
+    "description": "UAV and drone innovation",
+    "eligibility": {
+      "industries": "Aviation,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 699,
+    "name": "Air Cargo Facility Grant",
+    "provider": "DOT + FAA",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.faa.gov/",
+    "description": "Air freight infrastructure",
+    "eligibility": {
+      "industries": "Aviation,Transportation,Logistics"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 700,
+    "name": "Space Industry Development",
+    "provider": "NASA + Commerce",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.nasa.gov/",
+    "description": "Commercial space technology",
+    "eligibility": {
+      "industries": "Aerospace,Technology"
+    },
+    "obscurity": 7
+  }
+]

@@ -1,0 +1,29 @@
+# Data & DB
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.env
+.env.local
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Archives (optional – remove if you want to track)
+# *.tar.gz

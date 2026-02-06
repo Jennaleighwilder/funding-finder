@@ -1,0 +1,1583 @@
+[
+  {
+    "id": 1,
+    "name": "SBA 7(a) Loan Program",
+    "provider": "US Small Business Administration",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/funding-programs/loans/7a-loans",
+    "description": "SBA's primary program for providing financial assistance",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "All"
+    },
+    "obscurity": 1
+  },
+  {
+    "id": 2,
+    "name": "SBA 504 Loan Program",
+    "provider": "US Small Business Administration",
+    "type": "Loan",
+    "amount_min": 125000,
+    "amount_max": 5500000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/funding-programs/loans/504-loans",
+    "description": "Long-term fixed-rate financing for major assets",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "All"
+    },
+    "obscurity": 2
+  },
+  {
+    "id": 3,
+    "name": "SBA Microloan Program",
+    "provider": "US Small Business Administration",
+    "type": "Loan",
+    "amount_min": 500,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/funding-programs/loans/microloans",
+    "description": "Small loans for working capital and equipment",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "All"
+    },
+    "obscurity": 2
+  },
+  {
+    "id": 4,
+    "name": "SBA Disaster Loans",
+    "provider": "US Small Business Administration",
+    "type": "Loan",
+    "amount_min": 500,
+    "amount_max": 2000000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/funding-programs/disaster-assistance",
+    "description": "Low-interest disaster recovery loans",
+    "eligibility": {
+      "states": "ALL",
+      "disaster": true
+    },
+    "obscurity": 2
+  },
+  {
+    "id": 5,
+    "name": "SBA Community Advantage",
+    "provider": "US Small Business Administration",
+    "type": "Loan",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/funding-programs/loans/community-advantage",
+    "description": "Loans for underserved markets",
+    "eligibility": {
+      "states": "ALL",
+      "underserved": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 6,
+    "name": "SBIR Phase I - Department of Defense",
+    "provider": "Department of Defense",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.defensesbir.mil/",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 7,
+    "name": "SBIR Phase I - National Institutes of Health",
+    "provider": "National Institutes of Health",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://sbir.nih.gov/",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 8,
+    "name": "SBIR Phase I - National Science Foundation",
+    "provider": "National Science Foundation",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.nsf.gov/eng/iip/sbir/",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 9,
+    "name": "SBIR Phase I - Department of Energy",
+    "provider": "Department of Energy",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.sbir.gov/sbirsearch/agency/all/program/DOE",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 10,
+    "name": "SBIR Phase I - NASA",
+    "provider": "NASA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://sbir.nasa.gov/",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 11,
+    "name": "SBIR Phase I - Department of Agriculture",
+    "provider": "Department of Agriculture",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.sbir.gov/sbirsearch/agency/all/program/USDA",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 12,
+    "name": "SBIR Phase I - Department of Commerce",
+    "provider": "Department of Commerce",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.sbir.gov/sbirsearch/agency/all/program/DOC",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 13,
+    "name": "SBIR Phase I - Department of Education",
+    "provider": "Department of Education",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://ies.ed.gov/sbir/",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 14,
+    "name": "SBIR Phase I - Department of Transportation",
+    "provider": "Department of Transportation",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.sbir.gov/sbirsearch/agency/all/program/DOT",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 15,
+    "name": "SBIR Phase I - EPA",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.sbir.gov/sbirsearch/agency/all/program/EPA",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 16,
+    "name": "SBIR Phase I - DHS",
+    "provider": "DHS",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://www.dhs.gov/science-and-technology/sbir",
+    "description": "Small Business Innovation Research for tech development",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Technology,Research"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 17,
+    "name": "Amber Grant for Women",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Monthly",
+    "url": "https://www.womensnet.org/amber-grant/",
+    "description": "Monthly $10K grant for women entrepreneurs, plus annual $25K",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 18,
+    "name": "Cartier Women's Initiative",
+    "provider": "Cartier",
+    "type": "Grant",
+    "amount_min": 30000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "description": "$30K-$100K grants for women entrepreneurs with social impact",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 19,
+    "name": "Tory Burch Foundation Fellowship",
+    "provider": "Tory Burch Foundation",
+    "type": "Fellowship",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.toryburchfoundation.org/fellows/",
+    "description": "$5K grant + education for women entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 20,
+    "name": "Eileen Fisher Women-Owned Grant",
+    "provider": "Eileen Fisher",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 40000,
+    "deadline": "Annual",
+    "url": "https://www.eileenfisher.com/grants/",
+    "description": "Grants for women-led environmental businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 21,
+    "name": "IFundWomen Universal Grant",
+    "provider": "IFundWomen",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 25000,
+    "deadline": "Monthly",
+    "url": "https://www.ifundwomen.com/grants/",
+    "description": "Corporate partnership grants for women entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 22,
+    "name": "Hay Helen Grant",
+    "provider": "Her Agenda",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://heragenda.com/",
+    "description": "$10K for women-owned businesses under $1M revenue",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 23,
+    "name": "Women Founders Grant",
+    "provider": "IFundWomen",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Monthly",
+    "url": "https://www.ifundwomen.com/grants/",
+    "description": "Monthly $5K grant for women-owned businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 24,
+    "name": "YippityDoo Big Idea Grant",
+    "provider": "YippityDoo",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Monthly",
+    "url": "https://www.yippitydoo.com/",
+    "description": "Monthly $1K + coaching for women entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 25,
+    "name": "The Kitty Fund",
+    "provider": "The Kitty Fund",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Annual",
+    "url": "https://www.thekittyfund.org/",
+    "description": "$1K micro-grants for 25 mother-owned businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 9
+  },
+  {
+    "id": 26,
+    "name": "Enthuse Foundation Grant",
+    "provider": "Enthuse Foundation",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 2500,
+    "deadline": "Annual",
+    "url": "https://www.enthusefoundation.org/",
+    "description": "$2,500 for 10 female entrepreneurs annually",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 27,
+    "name": "Women Founders Network Fast Pitch",
+    "provider": "Women Founders Network",
+    "type": "Prize",
+    "amount_min": 10000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.womenfoundersnetwork.org/",
+    "description": "$55K total in pitch competition prizes",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 28,
+    "name": "She's Connected by AT&T",
+    "provider": "AT&T",
+    "type": "Grant",
+    "amount_min": 20000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.att.com/",
+    "description": "$20K + AT&T services for women-owned businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 29,
+    "name": "BMO Celebrating Women Grant",
+    "provider": "BMO Bank",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.bmo.com/",
+    "description": "$10K for women-owned businesses in 24 states",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 30,
+    "name": "Fund Her Future",
+    "provider": "H&R Block",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.blockadvisors.com/fund-her-future-small-business-grants/",
+    "description": "$10K grants for established women-owned businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 31,
+    "name": "SheEO Venture Fund",
+    "provider": "SheEO",
+    "type": "Loan",
+    "amount_min": 50000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://sheeo.world/",
+    "description": "$50K 0% interest loans for women-led ventures",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 32,
+    "name": "Women's Venture Fund",
+    "provider": "Women's Venture Fund",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://womensventurefund.org/",
+    "description": "Loans + training for women entrepreneurs in NYC",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "NY"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 33,
+    "name": "Spanx LEGS Grant",
+    "provider": "Spanx by Sara Blakely Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://spanx.com/",
+    "description": "$5K for female entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 34,
+    "name": "Rent the Runway Foundation",
+    "provider": "Rent the Runway",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.renttherunway.com/",
+    "description": "Grants for women in fashion/retail",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 35,
+    "name": "Halcyon Incubator",
+    "provider": "Halcyon",
+    "type": "Fellowship",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.halcyonhouse.org/",
+    "description": "$10K + resources for social impact entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "DC"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 36,
+    "name": "Pipeline Angels Investment",
+    "provider": "Pipeline Angels",
+    "type": "Investment",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://pipelineangels.com/",
+    "description": "Angel investing in women-led startups",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 37,
+    "name": "Golden Seeds Investment",
+    "provider": "Golden Seeds",
+    "type": "Investment",
+    "amount_min": 250000,
+    "amount_max": 2000000,
+    "deadline": "Rolling",
+    "url": "https://goldenseeds.com/",
+    "description": "Angel investment for women-led businesses",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 38,
+    "name": "37 Angels",
+    "provider": "37 Angels",
+    "type": "Investment",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://www.37angels.com/",
+    "description": "Angel investing + training for women founders",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 39,
+    "name": "Bumble Fund",
+    "provider": "Bumble",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://bumble.com/",
+    "description": "Grants for women-founded companies",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 40,
+    "name": "Vinetta Project",
+    "provider": "Vinetta Project",
+    "type": "Fellowship",
+    "amount_min": 15000,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://www.vinettaproject.com/",
+    "description": "$15K + mentorship for women in tech",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 41,
+    "name": "Female Founders Fund",
+    "provider": "Female Founders Fund",
+    "type": "Investment",
+    "amount_min": 500000,
+    "amount_max": 3000000,
+    "deadline": "Rolling",
+    "url": "https://femalefoundersfund.com/",
+    "description": "VC funding for women-founded tech companies",
+    "eligibility": {
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 42,
+    "name": "MBDA Business Center Grants",
+    "provider": "Minority Business Development Agency",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 300000,
+    "deadline": "Annual",
+    "url": "https://www.mbda.gov/",
+    "description": "Grants for minority business development centers",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 43,
+    "name": "National Black MBA Scale-Up",
+    "provider": "NBMBAA",
+    "type": "Prize",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://nbmbaa.org/scale-up/",
+    "description": "Pitch competition for Black entrepreneurs",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 44,
+    "name": "Comcast RISE",
+    "provider": "Comcast",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://www.comcastrise.com/",
+    "description": "Grants + services for minority-owned businesses",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 45,
+    "name": "Google Black Founders Fund",
+    "provider": "Google",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://startup.google.com/programs/black-founders-fund/",
+    "description": "Non-dilutive funding for Black-led startups",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 46,
+    "name": "Latino Startup Alliance",
+    "provider": "LSA",
+    "type": "Prize",
+    "amount_min": 25000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://latinostartupalliance.org/",
+    "description": "Pitch competition for Latino founders",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 47,
+    "name": "Black Ambition Prize",
+    "provider": "Pharrell Williams",
+    "type": "Prize",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.blackambition.com/",
+    "description": "$100K-$1M for Black/Hispanic entrepreneurs",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 48,
+    "name": "Fearless Fund",
+    "provider": "Fearless Fund",
+    "type": "Grant",
+    "amount_min": 20000,
+    "amount_max": 20000,
+    "deadline": "Quarterly",
+    "url": "https://www.fearlessfund.com/",
+    "description": "$20K for women of color entrepreneurs",
+    "eligibility": {
+      "woman_owned": true,
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 49,
+    "name": "Backstage Capital",
+    "provider": "Backstage Capital",
+    "type": "Investment",
+    "amount_min": 100000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://backstagecapital.com/",
+    "description": "Investment for underrepresented founders",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 50,
+    "name": "Harlem Capital",
+    "provider": "Harlem Capital",
+    "type": "Investment",
+    "amount_min": 500000,
+    "amount_max": 3000000,
+    "deadline": "Rolling",
+    "url": "https://harlem.capital/",
+    "description": "VC for minority and women founders",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 51,
+    "name": "Base10 Partners",
+    "provider": "Base10",
+    "type": "Investment",
+    "amount_min": 1000000,
+    "amount_max": 10000000,
+    "deadline": "Rolling",
+    "url": "https://base10.vc/",
+    "description": "VC for diverse founders in tech",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 52,
+    "name": "Chingona Ventures",
+    "provider": "Chingona Ventures",
+    "type": "Investment",
+    "amount_min": 250000,
+    "amount_max": 1000000,
+    "deadline": "Rolling",
+    "url": "https://www.chingonaventures.com/",
+    "description": "VC for Latina founders",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 53,
+    "name": "Brown Venture Group",
+    "provider": "Brown Venture Group",
+    "type": "Investment",
+    "amount_min": 100000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://www.brownventuregroup.com/",
+    "description": "Investment for Latino entrepreneurs",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 54,
+    "name": "AAPI Equity Fund",
+    "provider": "AAPI Equity Fund",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.taaf.org/",
+    "description": "Grants for Asian American Pacific Islander businesses",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 55,
+    "name": "Black Innovation Alliance",
+    "provider": "BIA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.blackinnovationalliance.com/",
+    "description": "Grants for Black innovators",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 56,
+    "name": "Impact America Fund",
+    "provider": "Impact America",
+    "type": "Investment",
+    "amount_min": 100000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://www.impactamericafund.com/",
+    "description": "Investment for minority entrepreneurs",
+    "eligibility": {
+      "minority_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 57,
+    "name": "StreetShares Veteran Fund",
+    "provider": "StreetShares Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Monthly",
+    "url": "https://streetsharesfoundation.org/",
+    "description": "Monthly $5K for veteran-owned businesses",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 58,
+    "name": "FedEx Veteran Track",
+    "provider": "FedEx",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.fedex.com/en-us/small-business/grant-contest.html",
+    "description": "Special grant track for veteran-owned businesses",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 59,
+    "name": "Bunker Labs LaunchLab",
+    "provider": "Bunker Labs",
+    "type": "Fellowship",
+    "amount_min": 5000,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://bunkerlabs.org/",
+    "description": "Fellowship + funding for veteran entrepreneurs",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 60,
+    "name": "Hivers and Strivers",
+    "provider": "Hivers and Strivers",
+    "type": "Investment",
+    "amount_min": 250000,
+    "amount_max": 1000000,
+    "deadline": "Rolling",
+    "url": "https://www.hiversandstrivers.com/",
+    "description": "Angel investment for veteran founders",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 61,
+    "name": "Boots to Business",
+    "provider": "SBA",
+    "type": "Training",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/business-guide/grow-your-business/veteran-owned-businesses",
+    "description": "Free entrepreneurship training for veterans",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 62,
+    "name": "V-WISE",
+    "provider": "Syracuse University",
+    "type": "Training",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Annual",
+    "url": "https://whitman.syracuse.edu/programs-and-academics/programs-for-executives/entrepreneurship-programs/v-wise/",
+    "description": "Free training for veteran women entrepreneurs",
+    "eligibility": {
+      "veteran": true,
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 63,
+    "name": "Patriot Boot Camp",
+    "provider": "Techstars",
+    "type": "Training",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Annual",
+    "url": "https://www.patriotbootcamp.org/",
+    "description": "Free tech entrepreneurship bootcamp for veterans",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 64,
+    "name": "VetsinTech",
+    "provider": "VetsinTech",
+    "type": "Training",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://vetsintech.co/",
+    "description": "Tech training + job placement for veterans",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 65,
+    "name": "Honor Foundation",
+    "provider": "Honor Foundation",
+    "type": "Training",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://www.honor.org/",
+    "description": "Transition program for special operations veterans",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 66,
+    "name": "Veteran Business Fund",
+    "provider": "Syracuse VBF",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Rolling",
+    "url": "https://whitman.syracuse.edu/",
+    "description": "Low-interest loans for veteran entrepreneurs",
+    "eligibility": {
+      "veteran": true,
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 67,
+    "name": "StartOut Growth Lab",
+    "provider": "StartOut",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://startout.org/growth-lab/",
+    "description": "Funding + mentorship for LGBTQ+ entrepreneurs",
+    "eligibility": {
+      "lgbtq": true,
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 68,
+    "name": "Gaingels",
+    "provider": "Gaingels",
+    "type": "Investment",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://gaingels.com/",
+    "description": "Investment fund for LGBTQ+ founders",
+    "eligibility": {
+      "lgbtq": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 69,
+    "name": "NGLCC Supplier Diversity",
+    "provider": "NGLCC",
+    "type": "Certification",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://nglcc.org/",
+    "description": "LGBTQ+ business certification for contracts",
+    "eligibility": {
+      "lgbtq": true,
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 70,
+    "name": "Lesbians Who Tech",
+    "provider": "Lesbians Who Tech",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://lesbianswhotech.org/",
+    "description": "Grants for LGBTQ+ women in tech",
+    "eligibility": {
+      "lgbtq": true,
+      "woman_owned": true,
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 71,
+    "name": "Pride Foundation",
+    "provider": "Pride Foundation",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.pridefoundation.org/",
+    "description": "Grants for LGBTQ+ community organizations",
+    "eligibility": {
+      "lgbtq": true,
+      "states": "WA,OR,ID,MT,AK"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 72,
+    "name": "FedEx Small Business Grant",
+    "provider": "FedEx",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.fedex.com/en-us/small-business/grant-contest.html",
+    "description": "Annual contest for small businesses",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 73,
+    "name": "Verizon Small Business Digital Ready",
+    "provider": "Verizon",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://www.verizon.com/",
+    "description": "Grants for businesses completing Verizon training",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 74,
+    "name": "NASE Growth Grant",
+    "provider": "National Association for the Self-Employed",
+    "type": "Grant",
+    "amount_min": 4000,
+    "amount_max": 4000,
+    "deadline": "Quarterly",
+    "url": "https://www.nase.org/",
+    "description": "Quarterly $4K grants for NASE members",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 75,
+    "name": "Lenovo Evolve Small",
+    "provider": "Lenovo",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.lenovo.com/",
+    "description": "$25K + $10K in tech + AI mentorship",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 76,
+    "name": "Amex Shop Small Grants",
+    "provider": "American Express",
+    "type": "Grant",
+    "amount_min": 20000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.americanexpress.com/en-us/business/trends-and-insights/articles/small-business-saturday/",
+    "description": "$20K for brick-and-mortar businesses",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 77,
+    "name": "Kiva Loans",
+    "provider": "Kiva",
+    "type": "Loan",
+    "amount_min": 1000,
+    "amount_max": 15000,
+    "deadline": "Rolling",
+    "url": "https://www.kiva.org/",
+    "description": "0% interest crowdfunded loans",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 78,
+    "name": "Hello Alice Grants",
+    "provider": "Hello Alice",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Monthly",
+    "url": "https://www.helloalice.com/",
+    "description": "Grants through corporate partnerships",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 79,
+    "name": "Freed Fellowship",
+    "provider": "Freed Studio",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 500,
+    "deadline": "Monthly",
+    "url": "https://www.freedstudio.com/",
+    "description": "$500 monthly + mentoring",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 80,
+    "name": "Visa Everywhere Initiative",
+    "provider": "Visa",
+    "type": "Prize",
+    "amount_min": 50000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://usa.visa.com/run-your-business/visa-everywhere-initiative.html",
+    "description": "$50K for fintech startups",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Fintech"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 81,
+    "name": "ZenBusiness Grants",
+    "provider": "ZenBusiness",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Ongoing",
+    "url": "https://www.zenbusiness.com/",
+    "description": "$5K for businesses formed in last 6 months",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 82,
+    "name": "Start.Pivot.Grow Microgrant",
+    "provider": "Start.Pivot.Grow",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 2500,
+    "deadline": "Quarterly",
+    "url": "https://www.startpivotgrow.com/",
+    "description": "$2,500 quarterly microgrants",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 83,
+    "name": "Skip Grants",
+    "provider": "Skip",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 10000,
+    "deadline": "Monthly",
+    "url": "https://www.skipgrants.com/",
+    "description": "Monthly grants via grant marketplace",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 84,
+    "name": "Pollination Project Daily Grant",
+    "provider": "The Pollination Project",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Daily",
+    "url": "https://thepollinationproject.org/",
+    "description": "$1000 DAILY grants for social entrepreneurs",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 9
+  },
+  {
+    "id": 85,
+    "name": "Awesome Foundation",
+    "provider": "Awesome Foundation",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Monthly",
+    "url": "https://www.awesomefoundation.org/",
+    "description": "$1000 no-strings monthly grants for awesome ideas",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 9
+  },
+  {
+    "id": 86,
+    "name": "Ben & Jerry's Foundation",
+    "provider": "Ben & Jerry's",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 20000,
+    "deadline": "Biannual",
+    "url": "https://benandjerrysfoundation.org/",
+    "description": "Grassroots organizing for social change",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 87,
+    "name": "Clif Bar Small Business Grant",
+    "provider": "Clif Bar",
+    "type": "Grant",
+    "amount_min": 15000,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://www.clifbar.com/",
+    "description": "$15K for sustainable food businesses",
+    "eligibility": {
+      "states": "ALL",
+      "industries": "Food"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 88,
+    "name": "Patagonia Environmental Grants",
+    "provider": "Patagonia",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Quarterly",
+    "url": "https://www.patagonia.com/how-we-fund/",
+    "description": "Grants for environmental activism",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 89,
+    "name": "Newman's Own Foundation",
+    "provider": "Newman's Own",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 200000,
+    "deadline": "Biannual",
+    "url": "https://newmansownfoundation.org/",
+    "description": "Grants for nutrition and children",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 90,
+    "name": "Giving Tuesday Spark Grant",
+    "provider": "Giving Tuesday",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.givingtuesday.org/",
+    "description": "Micro-grants for generosity-focused initiatives",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 91,
+    "name": "Tulsa Remote",
+    "provider": "George Kaiser Family Foundation",
+    "type": "Relocation Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://tulsaremote.com/",
+    "description": "$10K to move to Tulsa + free coworking",
+    "eligibility": {
+      "states": "ALL",
+      "remote_worker": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 92,
+    "name": "Vermont Remote Worker Grant",
+    "provider": "State of Vermont",
+    "type": "Relocation Grant",
+    "amount_min": 7500,
+    "amount_max": 7500,
+    "deadline": "Rolling",
+    "url": "https://thinkvermont.com/",
+    "description": "$7,500 to relocate to Vermont",
+    "eligibility": {
+      "states": "ALL",
+      "remote_worker": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 93,
+    "name": "Appalachian Regional Commission Grants",
+    "provider": "ARC",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.arc.gov/",
+    "description": "Economic development grants for Appalachia",
+    "eligibility": {
+      "states": "AL,GA,KY,MD,MS,NC,NY,OH,PA,SC,TN,VA,WV"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 94,
+    "name": "Delta Regional Authority",
+    "provider": "DRA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 300000,
+    "deadline": "Annual",
+    "url": "https://dra.gov/",
+    "description": "Economic development for Mississippi Delta region",
+    "eligibility": {
+      "states": "AL,AR,IL,KY,LA,MS,MO,TN"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 95,
+    "name": "Northern Border Regional Commission",
+    "provider": "NBRC",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nbrc.gov/",
+    "description": "Economic development for northern border states",
+    "eligibility": {
+      "states": "ME,NH,VT,NY"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 96,
+    "name": "Denali Commission",
+    "provider": "Denali Commission",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.denali.gov/",
+    "description": "Infrastructure and economic development for Alaska",
+    "eligibility": {
+      "states": "AK"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 97,
+    "name": "Native American Business Development",
+    "provider": "NABDI",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.bia.gov/",
+    "description": "Grants for Native American-owned businesses",
+    "eligibility": {
+      "states": "ALL",
+      "native_american": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 98,
+    "name": "Uncharted Fund for Immigrant Entrepreneurs",
+    "provider": "Uncharted",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.uncharted.org/",
+    "description": "$5K for immigrant and refugee entrepreneurs",
+    "eligibility": {
+      "states": "ALL",
+      "immigrant": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 99,
+    "name": "Disability:IN NextGen Leaders",
+    "provider": "Disability:IN",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://disabilityin.org/",
+    "description": "Grants for disability-owned businesses",
+    "eligibility": {
+      "states": "ALL",
+      "disability": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 100,
+    "name": "Square Cornerstone Grant",
+    "provider": "Square",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://squareup.com/us/en/townsquare/cornerstone-grant",
+    "description": "$10K + mentorship for Square sellers",
+    "eligibility": {
+      "states": "ALL"
+    },
+    "obscurity": 5
+  }
+]

@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 801,
+    "name": "Registered Apprenticeship Expansion Grant",
+    "provider": "DOL",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Apprenticeship program development",
+    "eligibility": {
+      "industries": "Apprenticeship,Training"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 802,
+    "name": "Pre-Apprenticeship Grant",
+    "provider": "DOL + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Pre-apprenticeship training programs",
+    "eligibility": {
+      "industries": "Training,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 803,
+    "name": "Youth Apprenticeship Grant",
+    "provider": "DOL + Education",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "High school apprenticeship programs",
+    "eligibility": {
+      "industries": "Education,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 804,
+    "name": "Women in Trades Grant",
+    "provider": "DOL + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Women in skilled trades training",
+    "eligibility": {
+      "industries": "Apprenticeship,Construction",
+      "women_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 805,
+    "name": "Trade Union Training Grant",
+    "provider": "DOL",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Union-sponsored training programs",
+    "eligibility": {
+      "industries": "Labor,Training"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 806,
+    "name": "Building Trades Apprenticeship",
+    "provider": "DOL + State Building Trades",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Construction trades training",
+    "eligibility": {
+      "industries": "Construction,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 807,
+    "name": "Manufacturing Apprenticeship Grant",
+    "provider": "DOL + MEP",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Advanced manufacturing apprenticeships",
+    "eligibility": {
+      "industries": "Manufacturing,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 808,
+    "name": "Healthcare Apprenticeship Grant",
+    "provider": "DOL + HRSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Healthcare occupation apprenticeships",
+    "eligibility": {
+      "industries": "Healthcare,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 809,
+    "name": "IT Apprenticeship Development",
+    "provider": "DOL + Tech Industry",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Technology apprenticeship programs",
+    "eligibility": {
+      "industries": "Technology,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 810,
+    "name": "Culinary Apprenticeship Grant",
+    "provider": "DOL + ACF",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Chef and culinary training programs",
+    "eligibility": {
+      "industries": "Restaurant,Hospitality,Apprenticeship"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 811,
+    "name": "Green Jobs Apprenticeship",
+    "provider": "DOL + DOE",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Clean energy trades training",
+    "eligibility": {
+      "industries": "CleanEnergy,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 812,
+    "name": "Automotive Technician Apprenticeship",
+    "provider": "DOL + Auto Industry",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Auto repair and EV training",
+    "eligibility": {
+      "industries": "Automotive,Apprenticeship"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 813,
+    "name": "Welding and Fabrication Apprenticeship",
+    "provider": "DOL + AWS",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Welding trades certification",
+    "eligibility": {
+      "industries": "Manufacturing,Construction,Apprenticeship"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 814,
+    "name": "Cybersecurity Apprenticeship",
+    "provider": "DOL + DHS",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Cybersecurity workforce development",
+    "eligibility": {
+      "industries": "Technology,Cybersecurity,Apprenticeship"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 815,
+    "name": "Maritime Apprenticeship Grant",
+    "provider": "DOL + MARAD",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Merchant marine and shipbuilding",
+    "eligibility": {
+      "industries": "Maritime,Apprenticeship"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 816,
+    "name": "Artist Studio Space Grant",
+    "provider": "NEA + Local Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Artist workspace development",
+    "eligibility": {
+      "industries": "Arts",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 817,
+    "name": "Artist Residency Program Grant",
+    "provider": "NEA + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Artist-in-residence programs",
+    "eligibility": {
+      "industries": "Arts",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 818,
+    "name": "Public Art Installation Grant",
+    "provider": "NEA + Cities",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Public art commissions and installations",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 819,
+    "name": "Art Gallery Operating Support",
+    "provider": "State Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Commercial and nonprofit gallery support",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 820,
+    "name": "Craft Business Development Grant",
+    "provider": "ACC + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.craftcouncil.org/",
+    "description": "Artisan and craft business support",
+    "eligibility": {
+      "industries": "Arts,Crafts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 821,
+    "name": "Digital Art Platform Grant",
+    "provider": "Tech + Arts Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Digital and new media art platforms",
+    "eligibility": {
+      "industries": "Arts,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 822,
+    "name": "Art Market and Fair Grant",
+    "provider": "NEA + Private Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Art marketplace development",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 823,
+    "name": "Artist Cooperative Grant",
+    "provider": "USDA + Arts Councils",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Artist-owned cooperative spaces",
+    "eligibility": {
+      "industries": "Arts,Cooperative"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 824,
+    "name": "Art Therapy Practice Grant",
+    "provider": "AATA + Health Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://arttherapy.org/",
+    "description": "Art therapy clinical practice",
+    "eligibility": {
+      "industries": "Arts,Healthcare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 825,
+    "name": "Textile and Fiber Arts Grant",
+    "provider": "Arts Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Textile art business development",
+    "eligibility": {
+      "industries": "Arts,Crafts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 826,
+    "name": "Ceramic Arts Studio Grant",
+    "provider": "NCECA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Pottery and ceramics studio equipment",
+    "eligibility": {
+      "industries": "Arts,Crafts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 827,
+    "name": "Printmaking Studio Grant",
+    "provider": "Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Print studio equipment and space",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 828,
+    "name": "Sculpture Fabrication Grant",
+    "provider": "Arts Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Sculpture studio and fabrication",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 829,
+    "name": "Street Art and Mural Grant",
+    "provider": "Cities + Arts Councils",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Mural artist commissions",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 830,
+    "name": "Art Conservation and Restoration",
+    "provider": "NEH + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Art restoration business development",
+    "eligibility": {
+      "industries": "Arts,Heritage"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 831,
+    "name": "Independent Music Venue Grant",
+    "provider": "SBA + SVOG",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Live music venue support",
+    "eligibility": {
+      "industries": "Music,Entertainment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 832,
+    "name": "Music School Operating Grant",
+    "provider": "NAMM Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.nammfoundation.org/",
+    "description": "Music education business support",
+    "eligibility": {
+      "industries": "Music,Education"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 833,
+    "name": "Recording Studio Equipment Grant",
+    "provider": "GRAMMY Foundation",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grammy.org/",
+    "description": "Recording studio technology",
+    "eligibility": {
+      "industries": "Music,Media"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 834,
+    "name": "Music Festival Development",
+    "provider": "Arts Councils + Tourism",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Music festival infrastructure",
+    "eligibility": {
+      "industries": "Music,Events,Tourism"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 835,
+    "name": "Music Therapy Practice Grant",
+    "provider": "AMTA + Health Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.musictherapy.org/",
+    "description": "Music therapy clinical practice",
+    "eligibility": {
+      "industries": "Music,Healthcare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 836,
+    "name": "Instrument Repair Shop Grant",
+    "provider": "NAPBIRT + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Musical instrument repair business",
+    "eligibility": {
+      "industries": "Music,Retail"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 837,
+    "name": "Music Distribution Platform Grant",
+    "provider": "Tech + Music Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Independent music distribution tech",
+    "eligibility": {
+      "industries": "Music,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 838,
+    "name": "Band and Orchestra Instrument Grant",
+    "provider": "Music Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "School music program instruments",
+    "eligibility": {
+      "industries": "Music,Education",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 839,
+    "name": "DJ and Audio Equipment Grant",
+    "provider": "Music Industry Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "DJ and audio production equipment",
+    "eligibility": {
+      "industries": "Music,Entertainment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 840,
+    "name": "Music Archive and Preservation",
+    "provider": "GRAMMY Foundation + NEH",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grammy.org/",
+    "description": "Music heritage preservation",
+    "eligibility": {
+      "industries": "Music,Heritage",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 841,
+    "name": "Independent Film Production Grant",
+    "provider": "Sundance Institute + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.sundance.org/",
+    "description": "Independent film financing",
+    "eligibility": {
+      "industries": "Film,Media"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 842,
+    "name": "Film Tax Credit",
+    "provider": "State Film Commissions",
+    "type": "Tax Credit",
+    "amount_min": 50000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Film production tax incentives",
+    "eligibility": {
+      "industries": "Film,Media"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 843,
+    "name": "Documentary Film Grant",
+    "provider": "ITVS + POV",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.itvs.org/",
+    "description": "Documentary production funding",
+    "eligibility": {
+      "industries": "Film,Documentary,Media"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 844,
+    "name": "Film Festival Operating Grant",
+    "provider": "Arts Councils + Tourism",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Film festival development",
+    "eligibility": {
+      "industries": "Film,Events"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 845,
+    "name": "Animation Studio Grant",
+    "provider": "Arts + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Animation production support",
+    "eligibility": {
+      "industries": "Film,Animation,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 846,
+    "name": "Film Commission Development",
+    "provider": "State Economic Development",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Regional film commission support",
+    "eligibility": {
+      "industries": "Film,Tourism"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 847,
+    "name": "Post-Production Facility Grant",
+    "provider": "Arts + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Editing and post-production facilities",
+    "eligibility": {
+      "industries": "Film,Media"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 848,
+    "name": "VFX and Special Effects Grant",
+    "provider": "Film Industry Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Visual effects studio equipment",
+    "eligibility": {
+      "industries": "Film,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 849,
+    "name": "Film Education Program Grant",
+    "provider": "AFI + Film Schools",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.afi.com/",
+    "description": "Film school and training programs",
+    "eligibility": {
+      "industries": "Film,Education"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 850,
+    "name": "Film Archive and Preservation",
+    "provider": "Library of Congress + NEH",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Film heritage preservation",
+    "eligibility": {
+      "industries": "Film,Heritage",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 851,
+    "name": "Theater Company Operating Grant",
+    "provider": "NEA + State Arts Councils",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Theater company operations",
+    "eligibility": {
+      "industries": "PerformingArts,Theater",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 852,
+    "name": "Dance Company Grant",
+    "provider": "NEA + Dance Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Professional dance company support",
+    "eligibility": {
+      "industries": "PerformingArts,Dance",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 853,
+    "name": "Performing Arts Venue Grant",
+    "provider": "NEA + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Theater and performance venue development",
+    "eligibility": {
+      "industries": "PerformingArts",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 854,
+    "name": "Opera Company Operating Support",
+    "provider": "OPERA America + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.operaamerica.org/",
+    "description": "Opera production and operations",
+    "eligibility": {
+      "industries": "PerformingArts,Opera",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 855,
+    "name": "Comedy Club and Improv Theater Grant",
+    "provider": "Arts Councils + Cities",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Comedy venue support",
+    "eligibility": {
+      "industries": "PerformingArts,Comedy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 856,
+    "name": "Circus Arts Grant",
+    "provider": "Arts Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Contemporary circus development",
+    "eligibility": {
+      "industries": "PerformingArts,Circus"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 857,
+    "name": "Puppet Theater Grant",
+    "provider": "Arts Councils",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Puppetry and object theater",
+    "eligibility": {
+      "industries": "PerformingArts,Theater"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 858,
+    "name": "Mime and Physical Theater Grant",
+    "provider": "Arts Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Physical and movement theater",
+    "eligibility": {
+      "industries": "PerformingArts,Theater"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 859,
+    "name": "Youth Theater Program Grant",
+    "provider": "NEA + Education Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Youth performing arts education",
+    "eligibility": {
+      "industries": "PerformingArts,Education",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 860,
+    "name": "Experimental Performance Grant",
+    "provider": "Arts Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Avant-garde and experimental performance",
+    "eligibility": {
+      "industries": "PerformingArts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 861,
+    "name": "Historic Building Preservation",
+    "provider": "National Park Service",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Historic property rehabilitation",
+    "eligibility": {
+      "industries": "Heritage,RealEstate",
+      "historic": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 862,
+    "name": "Museum Operating Support",
+    "provider": "IMLS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Museum operations and programs",
+    "eligibility": {
+      "industries": "Heritage,Museum",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 863,
+    "name": "Cultural Center Development",
+    "provider": "NEH + Community Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Community cultural facilities",
+    "eligibility": {
+      "industries": "Heritage,Community",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 864,
+    "name": "Genealogy Research Center Grant",
+    "provider": "NEH + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Genealogical research facilities",
+    "eligibility": {
+      "industries": "Heritage,Research",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 865,
+    "name": "Oral History Project Grant",
+    "provider": "NEH + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Oral history collection and preservation",
+    "eligibility": {
+      "industries": "Heritage,History",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 866,
+    "name": "Archaeological Site Grant",
+    "provider": "NEH + State Historic Preservation",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Archaeological excavation and preservation",
+    "eligibility": {
+      "industries": "Heritage,Archaeology",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 867,
+    "name": "Heritage Tourism Development",
+    "provider": "National Park Service + State Tourism",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Heritage tourism infrastructure",
+    "eligibility": {
+      "industries": "Heritage,Tourism"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 868,
+    "name": "Living History Program Grant",
+    "provider": "NEH + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Historical reenactment programs",
+    "eligibility": {
+      "industries": "Heritage,Education",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 869,
+    "name": "Historic Site Interpretation Grant",
+    "provider": "National Park Service",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Historic site visitor programs",
+    "eligibility": {
+      "industries": "Heritage,Tourism",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 870,
+    "name": "Maritime Heritage Grant",
+    "provider": "NOAA + National Park Service",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Maritime heritage preservation",
+    "eligibility": {
+      "industries": "Heritage,Maritime",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 871,
+    "name": "Public Library Grant",
+    "provider": "IMLS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Public library services and technology",
+    "eligibility": {
+      "industries": "Library",
+      "nonprofit": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 872,
+    "name": "Special Collections Library Grant",
+    "provider": "NEH + IMLS",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Special collections and archives",
+    "eligibility": {
+      "industries": "Library,Archives",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 873,
+    "name": "Digital Archive Development",
+    "provider": "IMLS + NEH",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Digital preservation infrastructure",
+    "eligibility": {
+      "industries": "Library,Archives,Technology",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 874,
+    "name": "Little Free Library Grant",
+    "provider": "Little Free Library Foundation",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://littlefreelibrary.org/",
+    "description": "Community book sharing boxes",
+    "eligibility": {
+      "industries": "Library,Community"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 875,
+    "name": "Library Technology Grant",
+    "provider": "IMLS + Gates Foundation",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Library digital services",
+    "eligibility": {
+      "industries": "Library,Technology",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 876,
+    "name": "Rare Book Library Grant",
+    "provider": "NEH + Antiquarian Booksellers",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Rare books and manuscripts",
+    "eligibility": {
+      "industries": "Library,Heritage",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 877,
+    "name": "School Library Improvement",
+    "provider": "IMLS + State Libraries",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "School library collections and programs",
+    "eligibility": {
+      "industries": "Library,Education"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 878,
+    "name": "Tribal Library Grant",
+    "provider": "IMLS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Native American library services",
+    "eligibility": {
+      "industries": "Library",
+      "tribal": true,
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 879,
+    "name": "Prison Library Grant",
+    "provider": "IMLS + Corrections Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.imls.gov/",
+    "description": "Correctional facility library services",
+    "eligibility": {
+      "industries": "Library",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 880,
+    "name": "Medical Library Grant",
+    "provider": "NLM + MLA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nlm.nih.gov/",
+    "description": "Medical and health sciences libraries",
+    "eligibility": {
+      "industries": "Library,Healthcare",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 881,
+    "name": "Community Sports Complex Grant",
+    "provider": "State Parks + Recreation",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Multi-sport facility development",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 882,
+    "name": "Baseball/Softball Field Grant",
+    "provider": "MLB + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Youth baseball field development",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 883,
+    "name": "Soccer Field Development Grant",
+    "provider": "US Soccer Foundation",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://ussoccerfoundation.org/",
+    "description": "Soccer pitch construction",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 884,
+    "name": "Basketball Court Grant",
+    "provider": "NBA + WNBA Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nba.com/",
+    "description": "Outdoor and indoor basketball courts",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 885,
+    "name": "Tennis Court Improvement Grant",
+    "provider": "USTA Foundation",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usta.com/",
+    "description": "Tennis facility development",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 886,
+    "name": "Ice Rink Development Grant",
+    "provider": "USA Hockey + NHL Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.usahockey.com/",
+    "description": "Ice hockey facility construction",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 887,
+    "name": "Track and Field Facility Grant",
+    "provider": "USATF + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.usatf.org/",
+    "description": "Track and field development",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 888,
+    "name": "Adaptive Sports Facility Grant",
+    "provider": "Paralympic + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.teamusa.org/",
+    "description": "Accessible sports facilities",
+    "eligibility": {
+      "industries": "Recreation,Sports",
+      "disability_serving": true,
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 889,
+    "name": "Playground Equipment Grant",
+    "provider": "KaBOOM! + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://kaboom.org/",
+    "description": "Community playground construction",
+    "eligibility": {
+      "industries": "Recreation",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 890,
+    "name": "Outdoor Recreation Trail Grant",
+    "provider": "RTP + State Parks",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Hiking and biking trail development",
+    "eligibility": {
+      "industries": "Recreation,Outdoors",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 891,
+    "name": "Child Care Center Startup Grant",
+    "provider": "HHS + State Child Care",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/",
+    "description": "Licensed child care facility development",
+    "eligibility": {
+      "industries": "ChildCare,Education"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 892,
+    "name": "Family Child Care Home Grant",
+    "provider": "State Child Care Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Home-based child care startup",
+    "eligibility": {
+      "industries": "ChildCare"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 893,
+    "name": "Infant-Toddler Care Grant",
+    "provider": "HHS + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/",
+    "description": "Infant and toddler care programs",
+    "eligibility": {
+      "industries": "ChildCare,Education"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 894,
+    "name": "Employer-Sponsored Child Care Grant",
+    "provider": "State + Business Councils",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Workplace child care facilities",
+    "eligibility": {
+      "industries": "ChildCare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 895,
+    "name": "Head Start Facility Grant",
+    "provider": "HHS",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/ohs",
+    "description": "Head Start center development",
+    "eligibility": {
+      "industries": "ChildCare,Education",
+      "nonprofit": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 896,
+    "name": "Child Care Food Program Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.fns.usda.gov/",
+    "description": "Child care nutrition programs",
+    "eligibility": {
+      "industries": "ChildCare,Food"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 897,
+    "name": "Outdoor Preschool Grant",
+    "provider": "Education + Environment Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Nature-based early childhood education",
+    "eligibility": {
+      "industries": "ChildCare,Education,Environment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 898,
+    "name": "Bilingual Child Care Grant",
+    "provider": "State Education + HHS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Dual language early childhood programs",
+    "eligibility": {
+      "industries": "ChildCare,Education"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 899,
+    "name": "Special Needs Child Care Grant",
+    "provider": "HHS + Disability Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/",
+    "description": "Inclusive child care for children with disabilities",
+    "eligibility": {
+      "industries": "ChildCare,Education",
+      "disability_serving": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 900,
+    "name": "24-Hour Child Care Grant",
+    "provider": "State + Business Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Extended hours child care for shift workers",
+    "eligibility": {
+      "industries": "ChildCare"
+    },
+    "obscurity": 7
+  }
+]

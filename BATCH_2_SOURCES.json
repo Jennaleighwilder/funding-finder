@@ -1,0 +1,1579 @@
+[
+  {
+    "id": 101,
+    "name": "California STEP Export Program",
+    "provider": "CalOSBA",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://calosba.ca.gov/",
+    "description": "Export vouchers for CA small businesses entering global markets",
+    "eligibility": {
+      "states": "CA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 102,
+    "name": "CA Small Business Collateral Support",
+    "provider": "IBank",
+    "type": "Loan Support",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://ibank.ca.gov/",
+    "description": "$472.8M program providing cash collateral for loans",
+    "eligibility": {
+      "states": "CA"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 103,
+    "name": "CA Small Business Loan Guarantee",
+    "provider": "IBank",
+    "type": "Loan Guarantee",
+    "amount_min": 50000,
+    "amount_max": 2500000,
+    "deadline": "Rolling",
+    "url": "https://ibank.ca.gov/",
+    "description": "$391M loan guarantee program",
+    "eligibility": {
+      "states": "CA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 104,
+    "name": "CA Industrial Development Bonds",
+    "provider": "IBank",
+    "type": "Tax-Exempt Financing",
+    "amount_min": 1000000,
+    "amount_max": 10000000,
+    "deadline": "Rolling",
+    "url": "https://ibank.ca.gov/",
+    "description": "Tax-exempt financing for manufacturing facilities",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 105,
+    "name": "CA Recycling Market Development Zone Loans",
+    "provider": "CalRecycle",
+    "type": "Loan",
+    "amount_min": 25000,
+    "amount_max": 3000000,
+    "deadline": "Rolling",
+    "url": "https://www.calrecycle.ca.gov/",
+    "description": "Loans for businesses using recycled materials",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Recycling,Manufacturing"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 106,
+    "name": "CA Zero-Emission Truck Loan",
+    "provider": "CARB",
+    "type": "Loan",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://ww2.arb.ca.gov/",
+    "description": "Financing for zero-emission vehicles and infrastructure",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Transportation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 107,
+    "name": "CA Agriculture Climate Smart Program",
+    "provider": "CDFA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.cdfa.ca.gov/",
+    "description": "Grants for sustainable agriculture practices",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Agriculture"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 108,
+    "name": "CA Brownfields Revolving Loan",
+    "provider": "DTSC",
+    "type": "Loan",
+    "amount_min": 200000,
+    "amount_max": 900000,
+    "deadline": "Rolling",
+    "url": "https://dtsc.ca.gov/",
+    "description": "Low-interest loans for site cleanup and restoration",
+    "eligibility": {
+      "states": "CA"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 109,
+    "name": "CA MWBE Program",
+    "provider": "CalOSBA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://calosba.ca.gov/",
+    "description": "Grants for minority and women-owned businesses",
+    "eligibility": {
+      "states": "CA",
+      "minority_owned": true,
+      "woman_owned": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 110,
+    "name": "Los Angeles Small Business Emergency Microloan",
+    "provider": "City of LA",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Rolling",
+    "url": "https://www.lacity.org/",
+    "description": "Emergency microloans for LA businesses",
+    "eligibility": {
+      "states": "CA",
+      "cities": "Los Angeles"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 111,
+    "name": "San Francisco Small Business Grant",
+    "provider": "City of SF",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://sf.gov/",
+    "description": "Grants for SF-based small businesses",
+    "eligibility": {
+      "states": "CA",
+      "cities": "San Francisco"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 112,
+    "name": "San Diego Small Business Relief Program",
+    "provider": "City of SD",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.sandiego.gov/",
+    "description": "Relief grants for San Diego businesses",
+    "eligibility": {
+      "states": "CA",
+      "cities": "San Diego"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 113,
+    "name": "Sacramento Small Business Accelerator",
+    "provider": "City of Sacramento",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://www.cityofsacramento.org/",
+    "description": "Accelerator grants for Sacramento startups",
+    "eligibility": {
+      "states": "CA",
+      "cities": "Sacramento"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 114,
+    "name": "Oakland Small Business Grant",
+    "provider": "City of Oakland",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.oaklandca.gov/",
+    "description": "Grants for Oakland small businesses",
+    "eligibility": {
+      "states": "CA",
+      "cities": "Oakland"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 115,
+    "name": "Silicon Valley Clean Energy Business Rebates",
+    "provider": "SVCE",
+    "type": "Rebate",
+    "amount_min": 500,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.svcleanenergy.org/",
+    "description": "Energy efficiency rebates for businesses",
+    "eligibility": {
+      "states": "CA",
+      "industries": "All"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 116,
+    "name": "CA Employment Training Panel",
+    "provider": "ETP",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://etp.ca.gov/",
+    "description": "Worker training grants for CA businesses",
+    "eligibility": {
+      "states": "CA"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 117,
+    "name": "Bay Area Air Quality Management Grants",
+    "provider": "BAAQMD",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.baaqmd.gov/",
+    "description": "Clean air technology grants",
+    "eligibility": {
+      "states": "CA",
+      "regions": "Bay Area"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 118,
+    "name": "CA Innovation Hub Program",
+    "provider": "iHub",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://innovation.ca.gov/",
+    "description": "Innovation grants for tech startups",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 119,
+    "name": "CA Film & TV Tax Credit",
+    "provider": "CFC",
+    "type": "Tax Credit",
+    "amount_min": 100000,
+    "amount_max": 25000000,
+    "deadline": "Annual",
+    "url": "https://film.ca.gov/",
+    "description": "Tax credits for film and TV production",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Film,Entertainment"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 120,
+    "name": "CA Cannabis Equity Program",
+    "provider": "DCC",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://dcc.ca.gov/",
+    "description": "Equity grants for cannabis businesses",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Cannabis"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 121,
+    "name": "Texas Enterprise Fund",
+    "provider": "Office of the Governor",
+    "type": "Grant",
+    "amount_min": 75000,
+    "amount_max": 10000000,
+    "deadline": "Rolling",
+    "url": "https://gov.texas.gov/business/page/incentives",
+    "description": "Deal-closing fund for major job creation projects",
+    "eligibility": {
+      "states": "TX"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 122,
+    "name": "TX Skills for Small Business",
+    "provider": "Texas Workforce Commission",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.twc.texas.gov/",
+    "description": "Training grants for businesses under 100 employees",
+    "eligibility": {
+      "states": "TX",
+      "max_employees": 100
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 123,
+    "name": "TX Young Farmer Grant",
+    "provider": "Texas Department of Agriculture",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.texasagriculture.gov/",
+    "description": "50% reimbursement for ag entrepreneurs ages 18-46",
+    "eligibility": {
+      "states": "TX",
+      "industries": "Agriculture",
+      "age_18_46": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 124,
+    "name": "TX Small Business Credit Initiative",
+    "provider": "Texas Treasury",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://comptroller.texas.gov/",
+    "description": "$472M program for capital access",
+    "eligibility": {
+      "states": "TX"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 125,
+    "name": "TX Skills Development Fund",
+    "provider": "TWC",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Quarterly",
+    "url": "https://www.twc.texas.gov/",
+    "description": "Job training partnerships with community colleges",
+    "eligibility": {
+      "states": "TX"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 126,
+    "name": "TX Enterprise Zone Program",
+    "provider": "Office of the Governor",
+    "type": "Tax Incentive",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://gov.texas.gov/",
+    "description": "Economic development in distressed areas",
+    "eligibility": {
+      "states": "TX",
+      "enterprise_zone": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 127,
+    "name": "TX Micro-Business Disaster Recovery",
+    "provider": "Texas TDHCA",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.tdhca.state.tx.us/",
+    "description": "Zero-interest loans to CDFIs for disaster recovery",
+    "eligibility": {
+      "states": "TX",
+      "disaster": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 128,
+    "name": "TX FAST Partnership Program",
+    "provider": "Office of the Governor",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://gov.texas.gov/",
+    "description": "Non-equity capital for tech innovation",
+    "eligibility": {
+      "states": "TX",
+      "industries": "Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 129,
+    "name": "TX Semiconductor Investment Fund",
+    "provider": "State of Texas",
+    "type": "Grant",
+    "amount_min": 1000000,
+    "amount_max": 50000000,
+    "deadline": "Annual",
+    "url": "https://gov.texas.gov/",
+    "description": "Grants for semiconductor manufacturing",
+    "eligibility": {
+      "states": "TX",
+      "industries": "Semiconductor"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 130,
+    "name": "Austin Small Business Program",
+    "provider": "City of Austin",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.austintexas.gov/",
+    "description": "Grants for Austin small businesses",
+    "eligibility": {
+      "states": "TX",
+      "cities": "Austin"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 131,
+    "name": "Houston Small Business Development",
+    "provider": "City of Houston",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.houstontx.gov/",
+    "description": "Economic development grants for Houston businesses",
+    "eligibility": {
+      "states": "TX",
+      "cities": "Houston"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 132,
+    "name": "Dallas Small Business Continuity Fund",
+    "provider": "City of Dallas",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Rolling",
+    "url": "https://dallascityhall.com/",
+    "description": "Emergency grants for Dallas businesses",
+    "eligibility": {
+      "states": "TX",
+      "cities": "Dallas"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 133,
+    "name": "San Antonio SBDC Grants",
+    "provider": "City of San Antonio",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Quarterly",
+    "url": "https://www.sanantonio.gov/",
+    "description": "Grants for SA small businesses",
+    "eligibility": {
+      "states": "TX",
+      "cities": "San Antonio"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 134,
+    "name": "TX Women's University StartHER Grant",
+    "provider": "TWU CWE",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.twu.edu/",
+    "description": "25 grants for women entrepreneurs in TX",
+    "eligibility": {
+      "states": "TX",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 135,
+    "name": "TX Veteran Woman Grant",
+    "provider": "TWU CWE",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.twu.edu/",
+    "description": "5 grants for women veteran entrepreneurs in TX",
+    "eligibility": {
+      "states": "TX",
+      "woman_owned": true,
+      "veteran": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 136,
+    "name": "TX Rural Women Grant",
+    "provider": "TWU CWE",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.twu.edu/",
+    "description": "10 grants for rural women-owned businesses",
+    "eligibility": {
+      "states": "TX",
+      "woman_owned": true,
+      "rural": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 137,
+    "name": "TX Energy Efficiency Loan Program",
+    "provider": "SECO",
+    "type": "Loan",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://comptroller.texas.gov/",
+    "description": "Low-interest loans for energy upgrades",
+    "eligibility": {
+      "states": "TX"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 138,
+    "name": "TX Defense Economic Adjustment",
+    "provider": "Office of the Governor",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://gov.texas.gov/",
+    "description": "Grants near defense installations",
+    "eligibility": {
+      "states": "TX",
+      "defense_community": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 139,
+    "name": "TX Historic Preservation Tax Credit",
+    "provider": "THC",
+    "type": "Tax Credit",
+    "amount_min": 10000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.thc.texas.gov/",
+    "description": "25% tax credit for historic building rehab",
+    "eligibility": {
+      "states": "TX",
+      "historic_building": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 140,
+    "name": "TX Main Street Program",
+    "provider": "THC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.thc.texas.gov/",
+    "description": "Downtown revitalization grants",
+    "eligibility": {
+      "states": "TX",
+      "main_street": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 141,
+    "name": "NY Global NY Export Grant",
+    "provider": "Empire State Development",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 25000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "50% reimbursement for export costs",
+    "eligibility": {
+      "states": "NY"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 142,
+    "name": "NY Small Business Credit Initiative",
+    "provider": "NY Ventures",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "$500M+ federal funding for small businesses",
+    "eligibility": {
+      "states": "NY"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 143,
+    "name": "NY Start-Up NY Program",
+    "provider": "ESD",
+    "type": "Tax Incentive",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "10 years tax-free for businesses near universities",
+    "eligibility": {
+      "states": "NY",
+      "university_affiliated": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 144,
+    "name": "NY Innovation Matching Grants",
+    "provider": "NYSTAR",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 200000,
+    "deadline": "Quarterly",
+    "url": "https://esd.ny.gov/",
+    "description": "Matches SBIR/STTR federal grants for commercialization",
+    "eligibility": {
+      "states": "NY",
+      "industries": "Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 145,
+    "name": "NY MWBE Supplier Innovation Finance",
+    "provider": "ESD",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://esd.ny.gov/",
+    "description": "Unrestricted grants for diverse businesses",
+    "eligibility": {
+      "states": "NY",
+      "minority_owned": true,
+      "woman_owned": true,
+      "lgbtq_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 146,
+    "name": "NY Manufacturing Direct Loans",
+    "provider": "ESD",
+    "type": "Loan",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "Direct loans for manufacturing facilities",
+    "eligibility": {
+      "states": "NY",
+      "industries": "Manufacturing"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 147,
+    "name": "NY Excelsior Jobs Tax Credit",
+    "provider": "ESD",
+    "type": "Tax Credit",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://esd.ny.gov/",
+    "description": "Tax credits for job creation in strategic industries",
+    "eligibility": {
+      "states": "NY"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 148,
+    "name": "NYC Customized Training Grant",
+    "provider": "NYC SBS",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www1.nyc.gov/site/sbs/",
+    "description": "60% reimbursement for employee training (10+ employees)",
+    "eligibility": {
+      "states": "NY",
+      "cities": "New York City"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 149,
+    "name": "Citizens NYC Neighborhood Business Grant",
+    "provider": "CitizensNYC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.citizensnyc.org/",
+    "description": "Grants for NYC businesses strengthening communities",
+    "eligibility": {
+      "states": "NY",
+      "cities": "New York City"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 150,
+    "name": "Downtown Alliance Pop-Up Grant",
+    "provider": "Downtown Alliance",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://downtownny.com/",
+    "description": "Free space + grant for pop-up retailers in NYC",
+    "eligibility": {
+      "states": "NY",
+      "cities": "New York City"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 151,
+    "name": "Queens Startup Sprint",
+    "provider": "QEDC",
+    "type": "Prize",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.qedc.com/",
+    "description": "5 grants up to $20K for Queens startups",
+    "eligibility": {
+      "states": "NY",
+      "cities": "Queens"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 152,
+    "name": "Launch NY SSBCI Technical Assistance",
+    "provider": "Launch NY",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.launchny.org/",
+    "description": "$1M program for startup legal/accounting/financial services",
+    "eligibility": {
+      "states": "NY"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 153,
+    "name": "NY POWER UP Infrastructure Grant",
+    "provider": "ESD",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "$100M for electric infrastructure at industrial sites",
+    "eligibility": {
+      "states": "NY",
+      "municipalities": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 154,
+    "name": "NY FAST NY Shovel-Ready Grant",
+    "provider": "ESD",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 50000000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "$400M for site preparation and infrastructure",
+    "eligibility": {
+      "states": "NY",
+      "municipalities": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 155,
+    "name": "NY Regional Council Capital Fund",
+    "provider": "ESD",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://esd.ny.gov/",
+    "description": "$60M for regional economic development projects",
+    "eligibility": {
+      "states": "NY"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 156,
+    "name": "NY Creative Opportunity Fund",
+    "provider": "A.R.T./New York",
+    "type": "Grant",
+    "amount_min": 2000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.art-newyork.org/",
+    "description": "General operating support for small theaters",
+    "eligibility": {
+      "states": "NY",
+      "industries": "Arts,Theater",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 157,
+    "name": "NY Employee Training Incentive",
+    "provider": "ESD",
+    "type": "Tax Credit",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://esd.ny.gov/",
+    "description": "50% tax credit per employee for tech training",
+    "eligibility": {
+      "states": "NY",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 158,
+    "name": "Buffalo Small Business Grant",
+    "provider": "City of Buffalo",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.buffalony.gov/",
+    "description": "Grants for Buffalo small businesses",
+    "eligibility": {
+      "states": "NY",
+      "cities": "Buffalo"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 159,
+    "name": "Rochester Economic Development",
+    "provider": "City of Rochester",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.cityofrochester.gov/",
+    "description": "Economic development grants for Rochester businesses",
+    "eligibility": {
+      "states": "NY",
+      "cities": "Rochester"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 160,
+    "name": "Albany Small Business Accelerator",
+    "provider": "City of Albany",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Quarterly",
+    "url": "https://www.albanyny.gov/",
+    "description": "Accelerator grants for Albany startups",
+    "eligibility": {
+      "states": "NY",
+      "cities": "Albany"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 161,
+    "name": "FL Job Growth Grant Fund",
+    "provider": "DEO",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.floridajobs.org/",
+    "description": "Workforce training and infrastructure grants",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 162,
+    "name": "FL Quick Response Training",
+    "provider": "CareerSource Florida",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://careersourceflorida.com/",
+    "description": "75% reimbursement for employee training",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 163,
+    "name": "FL Small Business Credit Initiative",
+    "provider": "FL DEO",
+    "type": "Loan Support",
+    "amount_min": 25000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://www.floridajobs.org/",
+    "description": "$488M collateral support program",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 164,
+    "name": "FL High Tech Corridor Matching Grant",
+    "provider": "FL High Tech Corridor",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.floridahightech.com/",
+    "description": "R&D grants with UCF/USF partnerships",
+    "eligibility": {
+      "states": "FL",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 165,
+    "name": "FL STEP Export Program",
+    "provider": "Enterprise Florida",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://www.enterpriseflorida.com/",
+    "description": "Export promotion reimbursement",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 166,
+    "name": "FL Enterprise Zone Program",
+    "provider": "FL DEO",
+    "type": "Tax Credit",
+    "amount_min": 0,
+    "amount_max": 0,
+    "deadline": "Rolling",
+    "url": "https://www.floridajobs.org/",
+    "description": "Tax incentives in economically distressed zones",
+    "eligibility": {
+      "states": "FL",
+      "enterprise_zone": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 167,
+    "name": "FL Emergency Bridge Loan",
+    "provider": "FL DEO",
+    "type": "Loan",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.floridajobs.org/",
+    "description": "Zero-interest disaster recovery loans",
+    "eligibility": {
+      "states": "FL",
+      "disaster": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 168,
+    "name": "FL Rural Infrastructure Fund",
+    "provider": "FL DEO",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 3000000,
+    "deadline": "Annual",
+    "url": "https://www.floridajobs.org/",
+    "description": "Infrastructure for rural economic development",
+    "eligibility": {
+      "states": "FL",
+      "rural": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 169,
+    "name": "FL FAU Runway Program",
+    "provider": "Florida Atlantic University",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.fau.edu/",
+    "description": "Startup grants with veteran mentorship",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 170,
+    "name": "FL Venture Forum Early Stage Prize",
+    "provider": "FVF",
+    "type": "Prize",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://flventure.org/",
+    "description": "Pitch competition for startups",
+    "eligibility": {
+      "states": "FL"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 171,
+    "name": "Miami-Dade Mom and Pop Grant",
+    "provider": "Miami-Dade County",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.miamidade.gov/",
+    "description": "Grants for small Miami-Dade businesses",
+    "eligibility": {
+      "states": "FL",
+      "counties": "Miami-Dade"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 172,
+    "name": "Orlando Business Assistance Program",
+    "provider": "City of Orlando",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.orlando.gov/",
+    "description": "50% matching grant up to $20K",
+    "eligibility": {
+      "states": "FL",
+      "cities": "Orlando"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 173,
+    "name": "Tampa CRA Microgrant",
+    "provider": "Tampa CRA",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://www.tampagov.net/",
+    "description": "Community redevelopment microgrants",
+    "eligibility": {
+      "states": "FL",
+      "cities": "Tampa"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 174,
+    "name": "Jacksonville Small Business Grant",
+    "provider": "City of Jacksonville",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://www.coj.net/",
+    "description": "Grants for Jacksonville businesses",
+    "eligibility": {
+      "states": "FL",
+      "cities": "Jacksonville"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 175,
+    "name": "Fort Lauderdale CRA Grant",
+    "provider": "Fort Lauderdale CRA",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://www.fortlauderdale.gov/",
+    "description": "Facade and building improvement grants",
+    "eligibility": {
+      "states": "FL",
+      "cities": "Fort Lauderdale"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 176,
+    "name": "Broward County Microgrant",
+    "provider": "Broward County",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.broward.org/",
+    "description": "Small business microgrants for Broward",
+    "eligibility": {
+      "states": "FL",
+      "counties": "Broward"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 177,
+    "name": "FL Space Florida Innovation",
+    "provider": "Space Florida",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.spaceflorida.gov/",
+    "description": "Aerospace and space tech grants",
+    "eligibility": {
+      "states": "FL",
+      "industries": "Aerospace"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 178,
+    "name": "FL WBENC Pitch Competition",
+    "provider": "WBENC Florida",
+    "type": "Prize",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.wbenc.org/",
+    "description": "Women-owned business pitch contest",
+    "eligibility": {
+      "states": "FL",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 179,
+    "name": "FL Agriculture Innovation Grant",
+    "provider": "FDACS",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.fdacs.gov/",
+    "description": "Agricultural innovation and sustainability",
+    "eligibility": {
+      "states": "FL",
+      "industries": "Agriculture"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 180,
+    "name": "FL Film & Entertainment Grant",
+    "provider": "Visit Florida",
+    "type": "Tax Incentive",
+    "amount_min": 100000,
+    "amount_max": 8000000,
+    "deadline": "Annual",
+    "url": "https://www.visitflorida.org/",
+    "description": "Film production tax incentives",
+    "eligibility": {
+      "states": "FL",
+      "industries": "Film,Entertainment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 181,
+    "name": "PA Small Business Advantage Grant",
+    "provider": "PA DEP",
+    "type": "Grant",
+    "amount_min": 3750,
+    "amount_max": 12000,
+    "deadline": "Annual",
+    "url": "https://www.pa.gov/",
+    "description": "50-80% reimbursement for energy/pollution projects",
+    "eligibility": {
+      "states": "PA",
+      "max_employees": 100
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 182,
+    "name": "PA Global Access Program",
+    "provider": "DCED",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://dced.pa.gov/",
+    "description": "75% reimbursement for export costs",
+    "eligibility": {
+      "states": "PA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 183,
+    "name": "PA Small Business Credit Initiative",
+    "provider": "PA Treasury",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://www.patreasury.gov/",
+    "description": "$300M+ capital access program",
+    "eligibility": {
+      "states": "PA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 184,
+    "name": "PA First Program",
+    "provider": "DCED",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://dced.pa.gov/",
+    "description": "Job training, property, equipment grants",
+    "eligibility": {
+      "states": "PA"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 185,
+    "name": "PA High Performance Building Grant",
+    "provider": "DCED",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://dced.pa.gov/",
+    "description": "Sustainable building construction/renovation",
+    "eligibility": {
+      "states": "PA",
+      "max_employees": 100
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 186,
+    "name": "Ben Franklin Technology Partners",
+    "provider": "BFTP",
+    "type": "Investment",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://benfranklin.org/",
+    "description": "Tech startup equity investments and grants",
+    "eligibility": {
+      "states": "PA",
+      "industries": "Technology"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 187,
+    "name": "Philadelphia Small Business Relief",
+    "provider": "City of Philadelphia",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.phila.gov/",
+    "description": "Grants for Philadelphia businesses",
+    "eligibility": {
+      "states": "PA",
+      "cities": "Philadelphia"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 188,
+    "name": "Pittsburgh Small Business Grant",
+    "provider": "City of Pittsburgh",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://pittsburghpa.gov/",
+    "description": "Grants for Pittsburgh small businesses",
+    "eligibility": {
+      "states": "PA",
+      "cities": "Pittsburgh"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 189,
+    "name": "Montgomery County LGBT Business Grant",
+    "provider": "Montgomery County",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.montgomerycountypa.gov/",
+    "description": "Technical assistance for LGBTQ+ businesses",
+    "eligibility": {
+      "states": "PA",
+      "counties": "Montgomery",
+      "lgbtq_owned": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 190,
+    "name": "Reading ARPA Small Business Grant",
+    "provider": "City of Reading",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.readingpa.gov/",
+    "description": "ARPA-funded business recovery grants",
+    "eligibility": {
+      "states": "PA",
+      "cities": "Reading"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 191,
+    "name": "Illinois Small Business COVID Relief",
+    "provider": "IL DCEO",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www2.illinois.gov/dceo/",
+    "description": "Economic recovery grants for IL businesses",
+    "eligibility": {
+      "states": "IL"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 192,
+    "name": "Massachusetts Small Business Recovery",
+    "provider": "MassDevelopment",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Annual",
+    "url": "https://www.massdevelopment.com/",
+    "description": "Recovery grants for MA businesses",
+    "eligibility": {
+      "states": "MA"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 193,
+    "name": "Washington State Small Business Credit",
+    "provider": "WA Commerce",
+    "type": "Loan Support",
+    "amount_min": 25000,
+    "amount_max": 2000000,
+    "deadline": "Rolling",
+    "url": "https://www.commerce.wa.gov/",
+    "description": "Loan guarantee program",
+    "eligibility": {
+      "states": "WA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 194,
+    "name": "Colorado Advanced Industries Accelerator",
+    "provider": "CO OEDIT",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Quarterly",
+    "url": "https://oedit.colorado.gov/",
+    "description": "Tech and advanced manufacturing grants",
+    "eligibility": {
+      "states": "CO",
+      "industries": "Technology,Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 195,
+    "name": "Georgia Small Business Assistance",
+    "provider": "GA DCA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.dca.ga.gov/",
+    "description": "Small business development grants",
+    "eligibility": {
+      "states": "GA"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 196,
+    "name": "Michigan Small Business Relief",
+    "provider": "Michigan MEDC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "Economic relief for MI businesses",
+    "eligibility": {
+      "states": "MI"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 197,
+    "name": "North Carolina Small Business Credit",
+    "provider": "NC Commerce",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://www.commerce.nc.gov/",
+    "description": "$150M capital access program",
+    "eligibility": {
+      "states": "NC"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 198,
+    "name": "Virginia Small Business Jobs Grant",
+    "provider": "VA DHCD",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.dhcd.virginia.gov/",
+    "description": "Job creation grants",
+    "eligibility": {
+      "states": "VA"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 199,
+    "name": "Ohio Minority Business Development",
+    "provider": "Ohio DSA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://dsa.ohio.gov/",
+    "description": "Grants for minority-owned businesses",
+    "eligibility": {
+      "states": "OH",
+      "minority_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 200,
+    "name": "Arizona Commerce Authority Grant",
+    "provider": "ACA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.azcommerce.com/",
+    "description": "Economic development and innovation grants",
+    "eligibility": {
+      "states": "AZ"
+    },
+    "obscurity": 7
+  }
+]

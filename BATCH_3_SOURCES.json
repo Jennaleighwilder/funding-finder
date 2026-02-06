@@ -1,0 +1,1543 @@
+[
+  {
+    "id": 201,
+    "name": "JobsOhio Small Business Grant",
+    "provider": "JobsOhio",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.jobsohio.com/",
+    "description": "Grants for job creation and business growth",
+    "eligibility": {
+      "states": "OH",
+      "min_revenue": 100000
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 202,
+    "name": "OH Capital Access Program",
+    "provider": "OH Development",
+    "type": "Loan Support",
+    "amount_min": 25000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://development.ohio.gov/",
+    "description": "Loan portfolio insurance program",
+    "eligibility": {
+      "states": "OH"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 203,
+    "name": "OH Collateral Enhancement Program",
+    "provider": "OH Development",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Rolling",
+    "url": "https://development.ohio.gov/",
+    "description": "For businesses lacking collateral",
+    "eligibility": {
+      "states": "OH",
+      "minority_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 204,
+    "name": "OH Benefit Bridge Employer Grant",
+    "provider": "OH DJFS",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://jfs.ohio.gov/",
+    "description": "$5K per employee for benefits support",
+    "eligibility": {
+      "states": "OH"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 205,
+    "name": "Cuyahoga County STIMulus Grant",
+    "provider": "Cuyahoga County",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://cuyahogacounty.gov/",
+    "description": "COVID recovery for Cleveland-area businesses",
+    "eligibility": {
+      "states": "OH",
+      "counties": "Cuyahoga"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 206,
+    "name": "Cincinnati Small Business Grant",
+    "provider": "City of Cincinnati",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.cincinnati-oh.gov/",
+    "description": "Grants for Cincinnati businesses",
+    "eligibility": {
+      "states": "OH",
+      "cities": "Cincinnati"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 207,
+    "name": "Columbus Small Business Fund",
+    "provider": "City of Columbus",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.columbus.gov/",
+    "description": "Economic development grants for Columbus",
+    "eligibility": {
+      "states": "OH",
+      "cities": "Columbus"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 208,
+    "name": "Toledo Facade Improvement Grant",
+    "provider": "City of Toledo",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Rolling",
+    "url": "https://toledo.oh.gov/",
+    "description": "Storefront improvement grants",
+    "eligibility": {
+      "states": "OH",
+      "cities": "Toledo"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 209,
+    "name": "OH Food & Beverage Grant",
+    "provider": "OH Development",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Annual",
+    "url": "https://development.ohio.gov/",
+    "description": "Grants for restaurants and bars",
+    "eligibility": {
+      "states": "OH",
+      "industries": "Food,Restaurant"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 210,
+    "name": "OH STEP Export Grant",
+    "provider": "OH Development",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 400000,
+    "deadline": "Annual",
+    "url": "https://development.ohio.gov/",
+    "description": "Export expansion grants",
+    "eligibility": {
+      "states": "OH"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 211,
+    "name": "WI Small Business Development Grant",
+    "provider": "WEDC",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://wedc.org/",
+    "description": "$1.5M program for economic development orgs",
+    "eligibility": {
+      "states": "WI"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 212,
+    "name": "WI Global Export Grant",
+    "provider": "WEDC",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 30000,
+    "deadline": "Annual",
+    "url": "https://wedc.org/",
+    "description": "Export expansion reimbursement",
+    "eligibility": {
+      "states": "WI"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 213,
+    "name": "WI Entrepreneurial Training Program",
+    "provider": "WEDC",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 4500,
+    "deadline": "Rolling",
+    "url": "https://wedc.org/",
+    "description": "$4500 reimbursement for completing startup courses",
+    "eligibility": {
+      "states": "WI"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 214,
+    "name": "WI Business Development Loan",
+    "provider": "WEDC",
+    "type": "Loan",
+    "amount_min": 100000,
+    "amount_max": 3000000,
+    "deadline": "Rolling",
+    "url": "https://wedc.org/",
+    "description": "Low-interest loans for businesses under 500 employees",
+    "eligibility": {
+      "states": "WI",
+      "max_employees": 500
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 215,
+    "name": "WI Tomorrow Recovery Grant",
+    "provider": "WI DOR",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Annual",
+    "url": "https://www.revenue.wi.gov/",
+    "description": "COVID recovery grants",
+    "eligibility": {
+      "states": "WI"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 216,
+    "name": "WI Main Street Bounceback Grant",
+    "provider": "WEDC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://wedc.org/",
+    "description": "Downtown revitalization grants",
+    "eligibility": {
+      "states": "WI"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 217,
+    "name": "Milwaukee Small Business Grant",
+    "provider": "City of Milwaukee",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://city.milwaukee.gov/",
+    "description": "Grants for Milwaukee businesses",
+    "eligibility": {
+      "states": "WI",
+      "cities": "Milwaukee"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 218,
+    "name": "Madison Economic Development",
+    "provider": "City of Madison",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.cityofmadison.com/",
+    "description": "Economic development for Madison businesses",
+    "eligibility": {
+      "states": "WI",
+      "cities": "Madison"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 219,
+    "name": "WI Dairy Farm Grant",
+    "provider": "WI DATCP",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://datcp.wi.gov/",
+    "description": "Dairy production and marketing support",
+    "eligibility": {
+      "states": "WI",
+      "industries": "Agriculture,Dairy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 220,
+    "name": "WI Food & Agriculture Grant",
+    "provider": "WI DATCP",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 40000,
+    "deadline": "Annual",
+    "url": "https://datcp.wi.gov/",
+    "description": "Local food system improvements",
+    "eligibility": {
+      "states": "WI",
+      "industries": "Agriculture,Food"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 221,
+    "name": "MI Small Business Relief Grant",
+    "provider": "Michigan MEDC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "COVID recovery and economic relief",
+    "eligibility": {
+      "states": "MI"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 222,
+    "name": "MI Small Business Credit Initiative",
+    "provider": "MI MEDC",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "Capital access and loan support",
+    "eligibility": {
+      "states": "MI"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 223,
+    "name": "MI Innovation Fund",
+    "provider": "MEDC",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "Tech and innovation grants",
+    "eligibility": {
+      "states": "MI",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 224,
+    "name": "Detroit Small Business Grant",
+    "provider": "City of Detroit",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://detroitmi.gov/",
+    "description": "Grants for Detroit businesses",
+    "eligibility": {
+      "states": "MI",
+      "cities": "Detroit"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 225,
+    "name": "Grand Rapids Business Development",
+    "provider": "City of Grand Rapids",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.grandrapidsmi.gov/",
+    "description": "Economic development grants",
+    "eligibility": {
+      "states": "MI",
+      "cities": "Grand Rapids"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 226,
+    "name": "Ann Arbor SPARK Grant",
+    "provider": "Ann Arbor SPARK",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://annarborusa.org/",
+    "description": "Tech startup and innovation grants",
+    "eligibility": {
+      "states": "MI",
+      "cities": "Ann Arbor"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 227,
+    "name": "MI Pure Michigan Business Connect",
+    "provider": "MEDC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Rolling",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "Supply chain development grants",
+    "eligibility": {
+      "states": "MI"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 228,
+    "name": "MI Community Ventures Fund",
+    "provider": "MEDC",
+    "type": "Investment",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://www.michiganbusiness.org/",
+    "description": "Equity investment for underserved communities",
+    "eligibility": {
+      "states": "MI",
+      "minority_owned": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 229,
+    "name": "MI Agriculture Innovation Grant",
+    "provider": "MI Dept of Ag",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.michigan.gov/mdard",
+    "description": "Agricultural innovation and sustainability",
+    "eligibility": {
+      "states": "MI",
+      "industries": "Agriculture"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 230,
+    "name": "FHLBank Indianapolis Elevate Grant",
+    "provider": "FHLBank",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.fhlbi.com/",
+    "description": "Small business grants for MI and IN (via bank members)",
+    "eligibility": {
+      "states": "MI,IN"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 231,
+    "name": "IN Small Business Restart Grant",
+    "provider": "IEDC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://iedc.in.gov/",
+    "description": "COVID recovery grants",
+    "eligibility": {
+      "states": "IN"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 232,
+    "name": "IN Manufacturing Readiness Grant",
+    "provider": "IEDC",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://iedc.in.gov/",
+    "description": "Manufacturing competitiveness grants",
+    "eligibility": {
+      "states": "IN",
+      "industries": "Manufacturing"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 233,
+    "name": "IN Small Business Credit Initiative",
+    "provider": "IEDC",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://iedc.in.gov/",
+    "description": "Loan guarantee and capital access",
+    "eligibility": {
+      "states": "IN"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 234,
+    "name": "Indianapolis Small Business Grant",
+    "provider": "City of Indianapolis",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.indy.gov/",
+    "description": "Grants for Indianapolis businesses",
+    "eligibility": {
+      "states": "IN",
+      "cities": "Indianapolis"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 235,
+    "name": "Fort Wayne Economic Development",
+    "provider": "City of Fort Wayne",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.cityoffortwayne.org/",
+    "description": "Business development grants",
+    "eligibility": {
+      "states": "IN",
+      "cities": "Fort Wayne"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 236,
+    "name": "South Bend Small Business Fund",
+    "provider": "City of South Bend",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://southbendin.gov/",
+    "description": "Small business development grants",
+    "eligibility": {
+      "states": "IN",
+      "cities": "South Bend"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 237,
+    "name": "IN AgBiz Innovation Grant",
+    "provider": "IN State Dept of Ag",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Annual",
+    "url": "https://www.in.gov/isda/",
+    "description": "Agricultural innovation grants",
+    "eligibility": {
+      "states": "IN",
+      "industries": "Agriculture"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 238,
+    "name": "IN Tech Ventures Fund",
+    "provider": "IEDC",
+    "type": "Investment",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Rolling",
+    "url": "https://iedc.in.gov/",
+    "description": "Venture capital for tech startups",
+    "eligibility": {
+      "states": "IN",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 239,
+    "name": "IN Workforce Training Grant",
+    "provider": "DWD",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.in.gov/dwd/",
+    "description": "Employee training reimbursement",
+    "eligibility": {
+      "states": "IN"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 240,
+    "name": "Michigan City Urban Enterprise Grant",
+    "provider": "Michigan City UEA",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Annual",
+    "url": "https://emichigancity.com/",
+    "description": "Enterprise zone business grants",
+    "eligibility": {
+      "states": "IN",
+      "cities": "Michigan City"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 241,
+    "name": "MN Small Business Emergency Loan",
+    "provider": "MN DEED",
+    "type": "Loan",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://mn.gov/deed/",
+    "description": "Emergency loans for MN businesses",
+    "eligibility": {
+      "states": "MN"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 242,
+    "name": "MN Job Creation Fund",
+    "provider": "MN DEED",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://mn.gov/deed/",
+    "description": "Job creation grants",
+    "eligibility": {
+      "states": "MN"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 243,
+    "name": "MO Works Training Program",
+    "provider": "MO DED",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://ded.mo.gov/",
+    "description": "Employee training grants",
+    "eligibility": {
+      "states": "MO"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 244,
+    "name": "MO Small Business Credit Initiative",
+    "provider": "MO DED",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://ded.mo.gov/",
+    "description": "Capital access program",
+    "eligibility": {
+      "states": "MO"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 245,
+    "name": "TN Small Business Relief Grant",
+    "provider": "TN Dept of Economic Development",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Annual",
+    "url": "https://www.tn.gov/ecd/",
+    "description": "Economic relief grants",
+    "eligibility": {
+      "states": "TN"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 246,
+    "name": "TN FastTrack Grant",
+    "provider": "TN ECD",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://www.tn.gov/ecd/",
+    "description": "Job creation and training grants",
+    "eligibility": {
+      "states": "TN"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 247,
+    "name": "KY Small Business Credit Initiative",
+    "provider": "KY Cabinet",
+    "type": "Loan Support",
+    "amount_min": 50000,
+    "amount_max": 5000000,
+    "deadline": "Rolling",
+    "url": "https://ced.ky.gov/",
+    "description": "Loan guarantee program",
+    "eligibility": {
+      "states": "KY"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 248,
+    "name": "KY Business Investment Program",
+    "provider": "KY Cabinet",
+    "type": "Tax Credit",
+    "amount_min": 25000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://ced.ky.gov/",
+    "description": "Tax incentives for job creation",
+    "eligibility": {
+      "states": "KY"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 249,
+    "name": "IA Targeted Small Business Grant",
+    "provider": "IEDA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.iowaeconomicdevelopment.com/",
+    "description": "Grants for minority and women-owned businesses",
+    "eligibility": {
+      "states": "IA",
+      "minority_owned": true,
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 250,
+    "name": "IA Innovation Fund",
+    "provider": "IEDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.iowaeconomicdevelopment.com/",
+    "description": "Tech and innovation grants",
+    "eligibility": {
+      "states": "IA",
+      "industries": "Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 251,
+    "name": "KS Small Business Development Credit",
+    "provider": "KS Commerce",
+    "type": "Tax Credit",
+    "amount_min": 10000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.kansascommerce.gov/",
+    "description": "Tax credits for rural businesses",
+    "eligibility": {
+      "states": "KS",
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 252,
+    "name": "KS Workforce Training Grant",
+    "provider": "KS DOC",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.kansascommerce.gov/",
+    "description": "Employee training reimbursement",
+    "eligibility": {
+      "states": "KS"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 253,
+    "name": "NE Advantage Microenterprise Tax Credit",
+    "provider": "NE DED",
+    "type": "Tax Credit",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://opportunity.nebraska.gov/",
+    "description": "Tax credits for microenterprises",
+    "eligibility": {
+      "states": "NE",
+      "max_employees": 5
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 254,
+    "name": "NE Small Business Innovation Grant",
+    "provider": "NE DED",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://opportunity.nebraska.gov/",
+    "description": "Innovation and R&D grants",
+    "eligibility": {
+      "states": "NE"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 255,
+    "name": "ND PACE Fund",
+    "provider": "ND Commerce",
+    "type": "Loan",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.business.nd.gov/",
+    "description": "Primary sector business loans",
+    "eligibility": {
+      "states": "ND"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 256,
+    "name": "ND Flex PACE",
+    "provider": "ND Commerce",
+    "type": "Loan",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://www.business.nd.gov/",
+    "description": "Flexible business loans",
+    "eligibility": {
+      "states": "ND"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 257,
+    "name": "SD Revolving Economic Development Initiative",
+    "provider": "SD GOED",
+    "type": "Loan",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Rolling",
+    "url": "https://sdgoed.com/",
+    "description": "Low-interest business loans",
+    "eligibility": {
+      "states": "SD"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 258,
+    "name": "SD Value-Added Finance Program",
+    "provider": "SD GOED",
+    "type": "Loan",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Rolling",
+    "url": "https://sdgoed.com/",
+    "description": "Ag value-added processing loans",
+    "eligibility": {
+      "states": "SD",
+      "industries": "Agriculture"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 259,
+    "name": "AR Equity Investment Fund",
+    "provider": "AR Economic Development",
+    "type": "Investment",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Rolling",
+    "url": "https://www.arkansasedc.com/",
+    "description": "Equity investment for tech startups",
+    "eligibility": {
+      "states": "AR",
+      "industries": "Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 260,
+    "name": "AR Small Business Technology Development",
+    "provider": "AEDC",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.arkansasedc.com/",
+    "description": "Tech commercialization grants",
+    "eligibility": {
+      "states": "AR",
+      "industries": "Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 261,
+    "name": "USDA Value-Added Producer Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "Value-added agricultural product marketing",
+    "eligibility": {
+      "industries": "Agriculture"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 262,
+    "name": "USDA Organic Certification Cost Share",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 750,
+    "deadline": "Annual",
+    "url": "https://www.fsa.usda.gov/",
+    "description": "75% reimbursement for organic certification",
+    "eligibility": {
+      "industries": "Agriculture,Organic"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 263,
+    "name": "USDA Beginning Farmer Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Grants for new farmers under 10 years",
+    "eligibility": {
+      "industries": "Agriculture",
+      "beginning_farmer": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 264,
+    "name": "USDA Specialty Crop Block Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ams.usda.gov/",
+    "description": "Specialty crop (fruits, vegetables, nuts) enhancement",
+    "eligibility": {
+      "industries": "Agriculture,Produce"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 265,
+    "name": "USDA Farmers Market Promotion Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ams.usda.gov/",
+    "description": "Direct-to-consumer market development",
+    "eligibility": {
+      "industries": "Agriculture"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 266,
+    "name": "USDA Agroforestry Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.fs.usda.gov/",
+    "description": "Agroforestry practice adoption",
+    "eligibility": {
+      "industries": "Agriculture,Forestry"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 267,
+    "name": "National Young Farmers Coalition Grant",
+    "provider": "NYFC",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.youngfarmers.org/",
+    "description": "Young farmer development grants",
+    "eligibility": {
+      "industries": "Agriculture",
+      "age_under_40": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 268,
+    "name": "Farm Aid Farmer Resource Network Grant",
+    "provider": "Farm Aid",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://www.farmaid.org/",
+    "description": "Emergency assistance for family farmers",
+    "eligibility": {
+      "industries": "Agriculture"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 269,
+    "name": "USDA Environmental Quality Incentives",
+    "provider": "USDA NRCS",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 450000,
+    "deadline": "Annual",
+    "url": "https://www.nrcs.usda.gov/",
+    "description": "Conservation practice implementation",
+    "eligibility": {
+      "industries": "Agriculture"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 270,
+    "name": "USDA Local Food Promotion Program",
+    "provider": "USDA AMS",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ams.usda.gov/",
+    "description": "Local and regional food systems",
+    "eligibility": {
+      "industries": "Agriculture,Food"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 271,
+    "name": "NSF Small Business Innovation Research",
+    "provider": "NSF",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 256000,
+    "deadline": "Quarterly",
+    "url": "https://www.nsf.gov/",
+    "description": "Phase I tech R&D grants",
+    "eligibility": {
+      "industries": "Technology",
+      "max_employees": 500
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 272,
+    "name": "DOE SBIR Phase I",
+    "provider": "Department of Energy",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 256000,
+    "deadline": "Quarterly",
+    "url": "https://www.energy.gov/",
+    "description": "Energy tech innovation grants",
+    "eligibility": {
+      "industries": "Technology,Energy"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 273,
+    "name": "NASA SBIR Phase I",
+    "provider": "NASA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 175000,
+    "deadline": "Annual",
+    "url": "https://www.nasa.gov/",
+    "description": "Space and aerospace tech R&D",
+    "eligibility": {
+      "industries": "Technology,Aerospace"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 274,
+    "name": "NIST Manufacturing Extension Partnership",
+    "provider": "NIST",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "Manufacturing technology adoption",
+    "eligibility": {
+      "industries": "Manufacturing,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 275,
+    "name": "FCC Rural Digital Opportunity Fund",
+    "provider": "FCC",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.fcc.gov/",
+    "description": "Broadband deployment in rural areas",
+    "eligibility": {
+      "industries": "Technology,Telecommunications",
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 276,
+    "name": "Google for Startups Black Founders Fund",
+    "provider": "Google",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://startup.google.com/",
+    "description": "$100K non-equity awards for Black tech founders",
+    "eligibility": {
+      "industries": "Technology",
+      "black_owned": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 277,
+    "name": "AWS Activate for Startups",
+    "provider": "Amazon",
+    "type": "Credit",
+    "amount_min": 1000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://aws.amazon.com/activate/",
+    "description": "AWS cloud credits for startups",
+    "eligibility": {
+      "industries": "Technology"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 278,
+    "name": "Microsoft for Startups Founders Hub",
+    "provider": "Microsoft",
+    "type": "Credit",
+    "amount_min": 1000,
+    "amount_max": 150000,
+    "deadline": "Rolling",
+    "url": "https://www.microsoft.com/en-us/startups",
+    "description": "Azure credits and tech support",
+    "eligibility": {
+      "industries": "Technology"
+    },
+    "obscurity": 3
+  },
+  {
+    "id": 279,
+    "name": "Stripe Climate Grants",
+    "provider": "Stripe",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://stripe.com/climate",
+    "description": "Carbon removal technology grants",
+    "eligibility": {
+      "industries": "Technology,CleanTech"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 280,
+    "name": "Y Combinator Startup School",
+    "provider": "Y Combinator",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Quarterly",
+    "url": "https://www.startupschool.org/",
+    "description": "$10K grants for course completion",
+    "eligibility": {
+      "industries": "Technology"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 281,
+    "name": "DOD Industrial Base Analysis Grant",
+    "provider": "Department of Defense",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.defense.gov/",
+    "description": "Defense manufacturing strengthening",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 282,
+    "name": "EDA Manufacturing Communities Support",
+    "provider": "EDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 3000000,
+    "deadline": "Annual",
+    "url": "https://www.eda.gov/",
+    "description": "Regional manufacturing development",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 283,
+    "name": "NIST Advanced Manufacturing Grant",
+    "provider": "NIST",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/",
+    "description": "Advanced manufacturing R&D",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 284,
+    "name": "Made in America Manufacturing Grant",
+    "provider": "EDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.eda.gov/",
+    "description": "Reshoring and domestic production",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 285,
+    "name": "Industrial Assessment Center Program",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.energy.gov/",
+    "description": "Energy efficiency assessments and grants",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 286,
+    "name": "Hollings Manufacturing Extension",
+    "provider": "NIST MEP",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Rolling",
+    "url": "https://www.nist.gov/mep",
+    "description": "Productivity improvement grants",
+    "eligibility": {
+      "industries": "Manufacturing",
+      "max_employees": 500
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 287,
+    "name": "America Makes Technology Grant",
+    "provider": "America Makes",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.americamakes.us/",
+    "description": "Additive manufacturing innovation",
+    "eligibility": {
+      "industries": "Manufacturing,3D Printing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 288,
+    "name": "Advanced Robotics Manufacturing Grant",
+    "provider": "ARM Institute",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://arminstitute.org/",
+    "description": "Robotics and automation R&D",
+    "eligibility": {
+      "industries": "Manufacturing,Robotics"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 289,
+    "name": "Clean Energy Manufacturing Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Clean energy equipment manufacturing",
+    "eligibility": {
+      "industries": "Manufacturing,CleanEnergy"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 290,
+    "name": "Apprenticeship Manufacturing Grant",
+    "provider": "DOL",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Manufacturing apprenticeship programs",
+    "eligibility": {
+      "industries": "Manufacturing"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 291,
+    "name": "HRSA Rural Health Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Rural healthcare access improvement",
+    "eligibility": {
+      "industries": "Healthcare",
+      "rural": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 292,
+    "name": "NIH SBIR Healthcare Innovation",
+    "provider": "NIH",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 256000,
+    "deadline": "Quarterly",
+    "url": "https://www.nih.gov/",
+    "description": "Medical device and health tech R&D",
+    "eligibility": {
+      "industries": "Healthcare,MedTech"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 293,
+    "name": "CDC Public Health Infrastructure Grant",
+    "provider": "CDC",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.cdc.gov/",
+    "description": "Public health capacity building",
+    "eligibility": {
+      "industries": "Healthcare,PublicHealth"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 294,
+    "name": "Telehealth Technology Grant",
+    "provider": "HRSA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Telehealth infrastructure development",
+    "eligibility": {
+      "industries": "Healthcare,Telehealth"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 295,
+    "name": "Mental Health Service Grant",
+    "provider": "SAMHSA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 300000,
+    "deadline": "Annual",
+    "url": "https://www.samhsa.gov/",
+    "description": "Mental health and substance abuse services",
+    "eligibility": {
+      "industries": "Healthcare,MentalHealth"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 296,
+    "name": "DOE Solar Energy Innovation Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 3000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Solar technology R&D and deployment",
+    "eligibility": {
+      "industries": "CleanEnergy,Solar"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 297,
+    "name": "DOE Wind Energy Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Wind energy technology advancement",
+    "eligibility": {
+      "industries": "CleanEnergy,Wind"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 298,
+    "name": "DOE Geothermal Technologies Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Geothermal energy development",
+    "eligibility": {
+      "industries": "CleanEnergy,Geothermal"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 299,
+    "name": "DOE Battery and Energy Storage Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Energy storage technology development",
+    "eligibility": {
+      "industries": "CleanEnergy,Battery"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 300,
+    "name": "EPA Environmental Justice Grant",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Clean energy in underserved communities",
+    "eligibility": {
+      "industries": "CleanEnergy",
+      "environmental_justice": true
+    },
+    "obscurity": 6
+  }
+]

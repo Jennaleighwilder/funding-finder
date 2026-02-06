@@ -1,0 +1,1527 @@
+[
+  {
+    "id": 701,
+    "name": "Blockchain Innovation Grant",
+    "provider": "NSF + Private Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Distributed ledger technology development",
+    "eligibility": {
+      "industries": "Technology,Blockchain"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 702,
+    "name": "Cryptocurrency Compliance Grant",
+    "provider": "FinCEN + State Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.fincen.gov/",
+    "description": "Crypto regulatory compliance systems",
+    "eligibility": {
+      "industries": "Technology,Crypto,FinTech"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 703,
+    "name": "Web3 Development Grant",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Decentralized web applications",
+    "eligibility": {
+      "industries": "Technology,Web3,Blockchain"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 704,
+    "name": "NFT Platform Development",
+    "provider": "Arts + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "NFT marketplace and creator tools",
+    "eligibility": {
+      "industries": "Technology,Blockchain,Arts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 705,
+    "name": "DeFi Innovation Grant",
+    "provider": "FinTech Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Decentralized finance protocols",
+    "eligibility": {
+      "industries": "Technology,FinTech,Blockchain"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 706,
+    "name": "Smart Contract Development",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Smart contract security and auditing",
+    "eligibility": {
+      "industries": "Technology,Blockchain"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 707,
+    "name": "Crypto Mining Sustainability",
+    "provider": "DOE + Environmental Funds",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Green cryptocurrency mining operations",
+    "eligibility": {
+      "industries": "Technology,Crypto,CleanEnergy"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 708,
+    "name": "Blockchain Supply Chain Grant",
+    "provider": "Commerce + Private",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "Supply chain transparency solutions",
+    "eligibility": {
+      "industries": "Technology,Blockchain,Logistics"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 709,
+    "name": "Digital Identity Solutions",
+    "provider": "DHS + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dhs.gov/",
+    "description": "Blockchain-based identity verification",
+    "eligibility": {
+      "industries": "Technology,Blockchain,Security"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 710,
+    "name": "Tokenization Platform Grant",
+    "provider": "FinTech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Asset tokenization technology",
+    "eligibility": {
+      "industries": "Technology,Blockchain,FinTech"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 711,
+    "name": "Hemp Farming Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Industrial hemp cultivation",
+    "eligibility": {
+      "industries": "Agriculture,Hemp"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 712,
+    "name": "Cannabis Research Grant",
+    "provider": "NIH + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nih.gov/",
+    "description": "Medical cannabis clinical research",
+    "eligibility": {
+      "industries": "Healthcare,Cannabis,Research"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 713,
+    "name": "Cannabis Social Equity Grant",
+    "provider": "State Cannabis Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Social equity cannabis business support",
+    "eligibility": {
+      "industries": "Cannabis",
+      "social_equity": true,
+      "states": "CA,IL,MA,MI,NJ,NY"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 714,
+    "name": "Hemp Processing Equipment",
+    "provider": "USDA + State Ag",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Hemp fiber and CBD processing",
+    "eligibility": {
+      "industries": "Agriculture,Hemp,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 715,
+    "name": "Cannabis Testing Laboratory",
+    "provider": "State Health + Ag Depts",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Cannabis testing facility equipment",
+    "eligibility": {
+      "industries": "Cannabis,Laboratory"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 716,
+    "name": "CBD Product Development",
+    "provider": "State + Private Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "CBD consumer product innovation",
+    "eligibility": {
+      "industries": "Hemp,Cannabis,CPG"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 717,
+    "name": "Cannabis Compliance Technology",
+    "provider": "State Cannabis Boards",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Seed-to-sale tracking systems",
+    "eligibility": {
+      "industries": "Cannabis,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 718,
+    "name": "Hemp Construction Materials",
+    "provider": "DOE + USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Hempcrete and sustainable building",
+    "eligibility": {
+      "industries": "Hemp,Construction,Environment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 719,
+    "name": "Cannabis Delivery Service Grant",
+    "provider": "State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Cannabis delivery infrastructure",
+    "eligibility": {
+      "industries": "Cannabis,Delivery"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 720,
+    "name": "Cannabis Waste Management",
+    "provider": "EPA + State Environmental",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Cannabis waste disposal solutions",
+    "eligibility": {
+      "industries": "Cannabis,Environment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 721,
+    "name": "Carbon Capture Technology Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Direct air capture and sequestration",
+    "eligibility": {
+      "industries": "CleanEnergy,Technology,Climate"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 722,
+    "name": "Climate Adaptation Planning Grant",
+    "provider": "NOAA + EPA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Climate resilience and adaptation",
+    "eligibility": {
+      "industries": "Environment,Climate"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 723,
+    "name": "Carbon Offset Project Grant",
+    "provider": "Private Carbon Markets",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Carbon credit project development",
+    "eligibility": {
+      "industries": "Environment,Climate,Agriculture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 724,
+    "name": "Climate-Smart Agriculture Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Regenerative farming practices",
+    "eligibility": {
+      "industries": "Agriculture,Climate"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 725,
+    "name": "Electric Grid Resilience Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Climate-resilient energy infrastructure",
+    "eligibility": {
+      "industries": "CleanEnergy,Infrastructure"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 726,
+    "name": "Green Hydrogen Development",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 1000000,
+    "amount_max": 20000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Hydrogen production and infrastructure",
+    "eligibility": {
+      "industries": "CleanEnergy,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 727,
+    "name": "Sustainable Aviation Fuel Grant",
+    "provider": "FAA + DOE",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "SAF production and technology",
+    "eligibility": {
+      "industries": "Aviation,CleanEnergy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 728,
+    "name": "Ocean-Based Climate Solutions",
+    "provider": "NOAA + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Blue carbon and ocean restoration",
+    "eligibility": {
+      "industries": "Environment,Climate,Marine"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 729,
+    "name": "Climate Tech Startup Accelerator",
+    "provider": "Private Accelerators",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Climate technology commercialization",
+    "eligibility": {
+      "industries": "CleanEnergy,Technology,Climate"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 730,
+    "name": "Coastal Resilience Infrastructure",
+    "provider": "FEMA + NOAA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.fema.gov/",
+    "description": "Flood and storm protection",
+    "eligibility": {
+      "industries": "Infrastructure,Climate",
+      "coastal": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 731,
+    "name": "Urban Heat Island Mitigation",
+    "provider": "EPA + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Cool roofs and urban greening",
+    "eligibility": {
+      "industries": "Environment,Urban,Climate"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 732,
+    "name": "Battery Recycling Technology",
+    "provider": "DOE + EPA",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "EV battery recycling and reuse",
+    "eligibility": {
+      "industries": "CleanEnergy,Environment,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 733,
+    "name": "Geothermal Heat Pump Grant",
+    "provider": "DOE + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Ground-source heat pump systems",
+    "eligibility": {
+      "industries": "CleanEnergy,HVAC"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 734,
+    "name": "Climate Data Analytics Grant",
+    "provider": "NOAA + NSF",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Climate modeling and prediction tools",
+    "eligibility": {
+      "industries": "Technology,Climate,Data"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 735,
+    "name": "Low-Carbon Cement Production",
+    "provider": "DOE + Industry",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Sustainable concrete manufacturing",
+    "eligibility": {
+      "industries": "Manufacturing,Construction,Climate"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 736,
+    "name": "Textile Recycling Innovation",
+    "provider": "EPA + Industry",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Clothing and fabric waste recovery",
+    "eligibility": {
+      "industries": "Environment,Manufacturing,Recycling"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 737,
+    "name": "E-Waste Recycling Facility",
+    "provider": "EPA + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Electronics recycling infrastructure",
+    "eligibility": {
+      "industries": "Environment,Recycling,Technology"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 738,
+    "name": "Food Waste Composting Grant",
+    "provider": "EPA + USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Commercial composting operations",
+    "eligibility": {
+      "industries": "Environment,Agriculture,Food"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 739,
+    "name": "Construction Waste Diversion",
+    "provider": "EPA + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "C&D debris recycling",
+    "eligibility": {
+      "industries": "Construction,Environment,Recycling"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 740,
+    "name": "Reusable Packaging Systems",
+    "provider": "EPA + Industry Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Returnable container platforms",
+    "eligibility": {
+      "industries": "Environment,Logistics,Packaging"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 741,
+    "name": "Repair Cafe and Tool Library",
+    "provider": "Community Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Community repair and sharing hubs",
+    "eligibility": {
+      "industries": "Environment,Community",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 742,
+    "name": "Upcycling Product Development",
+    "provider": "EPA + Private Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Upcycled material product design",
+    "eligibility": {
+      "industries": "Environment,Manufacturing,Design"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 743,
+    "name": "Product-as-a-Service Model Grant",
+    "provider": "Commerce + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "Subscription and leasing business models",
+    "eligibility": {
+      "industries": "Environment,Business"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 744,
+    "name": "Industrial Symbiosis Grant",
+    "provider": "EPA + Economic Development",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Waste-to-resource exchange networks",
+    "eligibility": {
+      "industries": "Environment,Manufacturing"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 745,
+    "name": "Refurbishment and Remanufacturing",
+    "provider": "EPA + Manufacturing Extension",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Product refurbishment facilities",
+    "eligibility": {
+      "industries": "Manufacturing,Environment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 746,
+    "name": "Social Enterprise Accelerator",
+    "provider": "Echoing Green + Others",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.echoinggreen.org/",
+    "description": "Social impact startup support",
+    "eligibility": {
+      "industries": "SocialEnterprise"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 747,
+    "name": "B Corporation Certification Grant",
+    "provider": "B Lab + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.bcorporation.net/",
+    "description": "B Corp certification and transition",
+    "eligibility": {
+      "industries": "SocialEnterprise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 748,
+    "name": "Community Wealth Building Grant",
+    "provider": "Community Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Local ownership and worker co-ops",
+    "eligibility": {
+      "industries": "SocialEnterprise,Cooperative"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 749,
+    "name": "Fair Trade Business Grant",
+    "provider": "Fair Trade Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.fairtradecertified.org/",
+    "description": "Fair trade supply chain development",
+    "eligibility": {
+      "industries": "SocialEnterprise,Retail"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 750,
+    "name": "Social Impact Bond Grant",
+    "provider": "Government + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Pay-for-success program development",
+    "eligibility": {
+      "industries": "SocialEnterprise",
+      "nonprofit": true
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 751,
+    "name": "Employment Social Enterprise Grant",
+    "provider": "DOL + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Transitional employment programs",
+    "eligibility": {
+      "industries": "SocialEnterprise",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 752,
+    "name": "Microenterprise Development Grant",
+    "provider": "SBA + CDFI Fund",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Microenterprise support and training",
+    "eligibility": {
+      "industries": "SocialEnterprise,SmallBusiness"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 753,
+    "name": "Community Development Financial Institution",
+    "provider": "CDFI Fund",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.cdfifund.gov/",
+    "description": "CDFI operating and financial assistance",
+    "eligibility": {
+      "industries": "Finance,SocialEnterprise"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 754,
+    "name": "Triple Bottom Line Business Grant",
+    "provider": "Impact Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "People, planet, profit business models",
+    "eligibility": {
+      "industries": "SocialEnterprise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 755,
+    "name": "Benefit Corporation Transition",
+    "provider": "State + Private Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Benefit corp legal structure conversion",
+    "eligibility": {
+      "industries": "SocialEnterprise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 756,
+    "name": "Impact Measurement Grant",
+    "provider": "Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Social impact measurement systems",
+    "eligibility": {
+      "industries": "SocialEnterprise",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 757,
+    "name": "Community Land Trust Grant",
+    "provider": "HUD + Community Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Permanently affordable housing development",
+    "eligibility": {
+      "industries": "Housing,SocialEnterprise",
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 758,
+    "name": "Food Co-op Development Grant",
+    "provider": "USDA + Cooperative Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Food cooperative startup and expansion",
+    "eligibility": {
+      "industries": "Food,Cooperative,SocialEnterprise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 759,
+    "name": "Worker Cooperative Grant",
+    "provider": "USDA + Democracy at Work",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Worker-owned business development",
+    "eligibility": {
+      "industries": "Cooperative,SocialEnterprise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 760,
+    "name": "Social Finance Innovation Grant",
+    "provider": "Treasury + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.treasury.gov/",
+    "description": "Innovative social finance mechanisms",
+    "eligibility": {
+      "industries": "Finance,SocialEnterprise"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 761,
+    "name": "Impact Investing Fund Grant",
+    "provider": "Private Foundations",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Impact investment fund development",
+    "eligibility": {
+      "industries": "Finance,Impact"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 762,
+    "name": "ESG Data Platform Grant",
+    "provider": "Finance + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Environmental, social, governance analytics",
+    "eligibility": {
+      "industries": "Finance,Technology,Impact"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 763,
+    "name": "Green Bond Development",
+    "provider": "Treasury + Environmental Funds",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.treasury.gov/",
+    "description": "Environmental bond issuance support",
+    "eligibility": {
+      "industries": "Finance,Environment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 764,
+    "name": "Community Investment Fund",
+    "provider": "CDFI Fund + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.cdfifund.gov/",
+    "description": "Community-focused investment vehicles",
+    "eligibility": {
+      "industries": "Finance,Community"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 765,
+    "name": "Sustainable Investment Platform",
+    "provider": "Finance Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Sustainable investing technology",
+    "eligibility": {
+      "industries": "Finance,Technology,Sustainability"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 766,
+    "name": "Blended Finance Structure Grant",
+    "provider": "Development Finance Institutions",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Blended capital transaction design",
+    "eligibility": {
+      "industries": "Finance,Impact"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 767,
+    "name": "Gender Lens Investing Grant",
+    "provider": "Women's Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Women-focused investment strategies",
+    "eligibility": {
+      "industries": "Finance,Impact",
+      "women_owned": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 768,
+    "name": "Racial Equity Investment Fund",
+    "provider": "Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "BIPOC-focused investment vehicles",
+    "eligibility": {
+      "industries": "Finance,Impact",
+      "minority_owned": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 769,
+    "name": "Impact Reporting Platform Grant",
+    "provider": "GIIN + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Impact measurement and management tech",
+    "eligibility": {
+      "industries": "Finance,Technology,Impact"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 770,
+    "name": "Microfinance Platform Development",
+    "provider": "USAID + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.usaid.gov/",
+    "description": "Microfinance technology platforms",
+    "eligibility": {
+      "industries": "Finance,Technology,Impact"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 771,
+    "name": "Native American Business Development",
+    "provider": "BIA + Tribal Affairs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.bia.gov/",
+    "description": "Native-owned business growth",
+    "eligibility": {
+      "native_owned": true,
+      "tribal": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 772,
+    "name": "Tribal Energy Development Grant",
+    "provider": "DOE Office of Indian Energy",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Renewable energy on tribal lands",
+    "eligibility": {
+      "tribal": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 773,
+    "name": "Native CDFI Assistance",
+    "provider": "CDFI Fund",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.cdfifund.gov/",
+    "description": "Native community development finance",
+    "eligibility": {
+      "tribal": true,
+      "native_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 774,
+    "name": "Tribal Tourism Development",
+    "provider": "BIA + State Tourism",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.bia.gov/",
+    "description": "Cultural and heritage tourism",
+    "eligibility": {
+      "tribal": true,
+      "industries": "Tourism"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 775,
+    "name": "Native Language Preservation Tech",
+    "provider": "NEH + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.neh.gov/",
+    "description": "Indigenous language technology",
+    "eligibility": {
+      "tribal": true,
+      "industries": "Technology,Culture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 776,
+    "name": "Tribal Food Sovereignty Grant",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Indigenous food systems development",
+    "eligibility": {
+      "tribal": true,
+      "industries": "Agriculture,Food"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 777,
+    "name": "Native Arts and Crafts Grant",
+    "provider": "NEA + Indian Arts and Crafts Board",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Traditional and contemporary Native arts",
+    "eligibility": {
+      "tribal": true,
+      "native_owned": true,
+      "industries": "Arts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 778,
+    "name": "Tribal Broadband Grant",
+    "provider": "FCC + NTIA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.fcc.gov/",
+    "description": "Internet access on tribal lands",
+    "eligibility": {
+      "tribal": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 779,
+    "name": "Native Youth Entrepreneurship",
+    "provider": "SBA + Tribal Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Native youth business development",
+    "eligibility": {
+      "tribal": true,
+      "native_owned": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 780,
+    "name": "Tribal Health and Wellness Enterprise",
+    "provider": "IHS + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ihs.gov/",
+    "description": "Tribal health services and facilities",
+    "eligibility": {
+      "tribal": true,
+      "industries": "Healthcare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 781,
+    "name": "Refugee Microenterprise Grant",
+    "provider": "ORR + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/orr",
+    "description": "Refugee small business support",
+    "eligibility": {
+      "refugee_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 782,
+    "name": "Immigrant Entrepreneur Grant",
+    "provider": "SBA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Immigrant business development",
+    "eligibility": {
+      "immigrant_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 783,
+    "name": "New American Business Incubator",
+    "provider": "Community Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Immigrant entrepreneur incubators",
+    "eligibility": {
+      "immigrant_owned": true,
+      "nonprofit": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 784,
+    "name": "Refugee Workforce Training Grant",
+    "provider": "DOL + ORR",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Job training for refugee populations",
+    "eligibility": {
+      "industries": "Training",
+      "nonprofit": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 785,
+    "name": "Immigrant Food Business Grant",
+    "provider": "USDA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Immigrant-owned food enterprises",
+    "eligibility": {
+      "immigrant_owned": true,
+      "industries": "Food,Restaurant"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 786,
+    "name": "DACA Entrepreneur Support",
+    "provider": "Private Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Business support for DACA recipients",
+    "eligibility": {
+      "daca": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 787,
+    "name": "Immigrant Healthcare Practice Grant",
+    "provider": "HRSA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Immigrant-owned healthcare services",
+    "eligibility": {
+      "immigrant_owned": true,
+      "industries": "Healthcare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 788,
+    "name": "Newcomer Financial Inclusion",
+    "provider": "CDFI Fund + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.cdfifund.gov/",
+    "description": "Financial services for immigrants",
+    "eligibility": {
+      "industries": "Finance",
+      "immigrant_serving": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 789,
+    "name": "Ethnic Business District Revitalization",
+    "provider": "HUD + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Immigrant commercial corridor development",
+    "eligibility": {
+      "industries": "Community"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 790,
+    "name": "Immigrant Arts and Culture Grant",
+    "provider": "NEA + Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Immigrant cultural businesses",
+    "eligibility": {
+      "immigrant_owned": true,
+      "industries": "Arts,Culture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 791,
+    "name": "Freelancer Emergency Fund Grant",
+    "provider": "Freelancers Union + Foundations",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Rolling",
+    "url": "https://www.freelancersunion.org/",
+    "description": "Emergency assistance for independent workers",
+    "eligibility": {
+      "industries": "Freelance,GigEconomy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 792,
+    "name": "Independent Contractor Business Grant",
+    "provider": "SBA + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Business development for contractors",
+    "eligibility": {
+      "industries": "Freelance,GigEconomy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 793,
+    "name": "Platform Cooperative Development",
+    "provider": "USDA + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Worker-owned platform businesses",
+    "eligibility": {
+      "industries": "Technology,Cooperative,GigEconomy"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 794,
+    "name": "Gig Worker Benefits Platform",
+    "provider": "DOL + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Portable benefits technology",
+    "eligibility": {
+      "industries": "Technology,GigEconomy,Benefits"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 795,
+    "name": "Solopreneur Technology Grant",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Business tools for solo entrepreneurs",
+    "eligibility": {
+      "industries": "Freelance,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 796,
+    "name": "Remote Work Infrastructure Grant",
+    "provider": "EDA + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.eda.gov/",
+    "description": "Coworking and remote work facilities",
+    "eligibility": {
+      "industries": "RealEstate,GigEconomy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 797,
+    "name": "Creator Economy Grant",
+    "provider": "Tech Platforms + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Content creator business support",
+    "eligibility": {
+      "industries": "Media,CreatorEconomy"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 798,
+    "name": "Rideshare Driver Support Grant",
+    "provider": "Transportation Foundations",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Support for gig transportation workers",
+    "eligibility": {
+      "industries": "Transportation,GigEconomy"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 799,
+    "name": "Task-Based Work Platform Grant",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "On-demand service platforms",
+    "eligibility": {
+      "industries": "Technology,GigEconomy"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 800,
+    "name": "Freelance Collective Grant",
+    "provider": "Cooperative Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Freelancer cooperative organizations",
+    "eligibility": {
+      "industries": "Freelance,Cooperative"
+    },
+    "obscurity": 7
+  }
+]

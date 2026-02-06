@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Funding Finder</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Recoleta:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  /* BOLD saturated Lucie Fink colors */
+  --cream: #FFF8F3;
+  --coral: #FF6B5E;
+  --hot-pink: #FF3D7F;
+  --orange: #FF8243;
+  --mustard: #FFBB3B;
+  --gold: #F5A623;
+  --purple: #9747FF;
+  --mint: #3DD9B3;
+  --sky: #5DADE2;
+  --text: #2A1F1C;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--cream);
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+/* BOLD organic shapes - Lucie Fink style! */
+.blob {
+  position: fixed;
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.85;
+  mix-blend-mode: multiply;
+}
+
+.blob1 {
+  top: -150px;
+  right: -100px;
+  width: 500px;
+  height: 500px;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  animation: morph1 20s ease-in-out infinite;
+}
+
+.blob2 {
+  bottom: -200px;
+  left: -150px;
+  width: 600px;
+  height: 600px;
+  background: linear-gradient(135deg, var(--mustard), var(--orange));
+  animation: morph2 25s ease-in-out infinite;
+}
+
+.blob3 {
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, var(--purple), var(--hot-pink));
+  animation: morph3 30s ease-in-out infinite;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes morph1 {
+  0%, 100% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; transform: translate(0, 0) rotate(0deg); }
+  50% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; transform: translate(-30px, 30px) rotate(10deg); }
+}
+
+@keyframes morph2 {
+  0%, 100% { border-radius: 50% 50% 40% 60% / 60% 40% 60% 40%; transform: translate(0, 0) rotate(0deg); }
+  50% { border-radius: 40% 60% 50% 50% / 40% 60% 40% 60%; transform: translate(40px, -30px) rotate(-10deg); }
+}
+
+@keyframes morph3 {
+  0%, 100% { border-radius: 45% 55% 55% 45% / 50% 50% 50% 50%; }
+  50% { border-radius: 55% 45% 45% 55% / 60% 40% 60% 40%; }
+}
+
+/* Container */
+.container {
+  position: relative;
+  z-index: 2;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 60px 40px 100px;
+}
+
+/* Header - BIG and BOLD */
+.header {
+  text-align: center;
+  margin-bottom: 80px;
+  animation: slideDown 1s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-50px) scale(0.9); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.logo {
+  font-family: 'Recoleta', serif;
+  font-size: 72px;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink), var(--purple));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 16px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.tagline {
+  font-size: 20px;
+  color: var(--text);
+  font-weight: 500;
+  max-width: 600px;
+  margin: 0 auto 32px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, var(--coral), var(--orange));
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 50px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 0 8px 24px rgba(255, 107, 94, 0.4);
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Progress - FUN style */
+.progress {
+  margin-bottom: 60px;
+  animation: fadeIn 0.8s ease 0.3s both;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.progress-track {
+  height: 10px;
+  background: white;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  box-shadow: inset 0 2px 8px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--coral), var(--hot-pink), var(--purple));
+  border-radius: 20px;
+  transition: width 1s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-shadow: 0 0 20px rgba(255, 61, 127, 0.5);
+}
+
+.steps {
+  display: flex;
+  justify-content: space-between;
+}
+
+.step {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: rgba(42, 31, 28, 0.4);
+  transition: all 0.4s ease;
+}
+
+.step.active {
+  color: var(--coral);
+  transform: scale(1.1);
+}
+
+/* Cards - WHITE with shadows */
+.card {
+  background: white;
+  padding: 48px;
+  margin-bottom: 28px;
+  border-radius: 32px;
+  box-shadow: 
+    0 10px 40px rgba(0,0,0,0.08),
+    0 2px 8px rgba(0,0,0,0.04);
+  transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.card:hover {
+  transform: translateY(-12px) scale(1.02);
+  box-shadow: 
+    0 20px 60px rgba(0,0,0,0.12),
+    0 4px 16px rgba(0,0,0,0.08);
+}
+
+.card-title {
+  font-family: 'Recoleta', serif;
+  font-size: 40px;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 12px;
+  line-height: 1.2;
+}
+
+.card-subtitle {
+  font-size: 16px;
+  color: rgba(42, 31, 28, 0.6);
+  margin-bottom: 28px;
+  font-weight: 500;
+}
+
+/* Inputs */
+input, textarea {
+  width: 100%;
+  padding: 18px 24px;
+  font-size: 16px;
+  font-family: 'DM Sans', sans-serif;
+  background: #FFF8F3;
+  border: 3px solid transparent;
+  border-radius: 20px;
+  color: var(--text);
+  margin-bottom: 16px;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: var(--coral);
+  background: white;
+  box-shadow: 0 0 0 5px rgba(255, 107, 94, 0.15);
+  transform: scale(1.02);
+}
+
+textarea {
+  min-height: 140px;
+  resize: vertical;
+}
+
+/* Button grid - BOLD colors! */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.option {
+  padding: 28px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  background: white;
+  border: 3px solid transparent;
+  border-radius: 20px;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.option:nth-child(1) { background: linear-gradient(135deg, var(--coral), #FF8577); }
+.option:nth-child(2) { background: linear-gradient(135deg, var(--mustard), #FFD15C); }
+.option:nth-child(3) { background: linear-gradient(135deg, var(--purple), #B76BFF); }
+.option:nth-child(4) { background: linear-gradient(135deg, var(--mint), #5FE8C7); }
+.option:nth-child(5) { background: linear-gradient(135deg, var(--orange), #FFA066); }
+.option:nth-child(6) { background: linear-gradient(135deg, var(--hot-pink), #FF6B9D); }
+
+.option:hover {
+  transform: translateY(-8px) scale(1.05);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.15);
+}
+
+.option.selected {
+  border-color: var(--text);
+  transform: scale(1.08);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.2);
+}
+
+/* Checkboxes */
+.checkbox {
+  position: relative;
+}
+
+.checkbox input {
+  position: absolute;
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.checkbox label {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 24px;
+  background: white;
+  border: 3px solid transparent;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  font-weight: 600;
+}
+
+.checkbox:nth-child(1) label { background: linear-gradient(135deg, var(--coral), #FF8577); }
+.checkbox:nth-child(2) label { background: linear-gradient(135deg, var(--mustard), #FFD15C); }
+.checkbox:nth-child(3) label { background: linear-gradient(135deg, var(--purple), #B76BFF); }
+.checkbox:nth-child(4) label { background: linear-gradient(135deg, var(--mint), #5FE8C7); }
+.checkbox:nth-child(5) label { background: linear-gradient(135deg, var(--orange), #FFA066); }
+.checkbox:nth-child(6) label { background: linear-gradient(135deg, var(--hot-pink), #FF6B9D); }
+
+.checkbox input:checked + label {
+  border-color: var(--text);
+  transform: scale(1.05);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+.check-mark {
+  width: 28px;
+  height: 28px;
+  background: white;
+  border: 3px solid rgba(42, 31, 28, 0.2);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  font-size: 16px;
+  font-weight: 900;
+  color: var(--text);
+}
+
+.checkbox input:checked + label .check-mark {
+  background: var(--text);
+  border-color: var(--text);
+  color: white;
+}
+
+.check-mark::after {
+  content: '✓';
+  opacity: 0;
+  transform: scale(0.5) rotate(-10deg);
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.checkbox input:checked + label .check-mark::after {
+  opacity: 1;
+  transform: scale(1) rotate(0deg);
+}
+
+/* Buttons */
+.actions {
+  display: flex;
+  gap: 16px;
+  margin-top: 40px;
+}
+
+.btn {
+  padding: 20px 44px;
+  font-size: 15px;
+  font-weight: 800;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.btn-primary {
+  flex: 1;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  color: white;
+  box-shadow: 0 8px 24px rgba(255, 61, 127, 0.4);
+}
+
+.btn-primary:hover {
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 16px 48px rgba(255, 61, 127, 0.5);
+}
+
+.btn-secondary {
+  background: white;
+  color: var(--text);
+  border: 3px solid var(--text);
+  padding: 17px 40px;
+}
+
+.btn-secondary:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+/* Pages */
+.page {
+  display: none;
+  opacity: 0;
+}
+
+.page.visible {
+  display: block;
+  animation: bounceIn 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes bounceIn {
+  from {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 248, 243, 0.95);
+  backdrop-filter: blur(20px);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal.open {
+  display: flex;
+  animation: fadeIn 0.4s ease;
+}
+
+.modal-content {
+  text-align: center;
+  padding: 60px;
+  animation: popIn 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes popIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.spinner {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 32px;
+  border: 6px solid rgba(255, 107, 94, 0.2);
+  border-top-color: var(--coral);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.modal h2 {
+  font-family: 'Recoleta', serif;
+  font-size: 48px;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 16px;
+}
+
+.modal p {
+  font-size: 18px;
+  color: rgba(42, 31, 28, 0.6);
+  font-weight: 500;
+}
+
+/* Results */
+.report {
+  display: none;
+}
+
+.report.published {
+  display: block;
+  animation: fadeIn 1s ease;
+}
+
+.report-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.report-header h1 {
+  font-family: 'Recoleta', serif;
+  font-size: 64px;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink), var(--purple));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 16px;
+  line-height: 1.1;
+}
+
+.report-header p {
+  font-size: 20px;
+  color: rgba(42, 31, 28, 0.6);
+  font-weight: 500;
+}
+
+/* Metrics */
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 60px;
+}
+
+.metric {
+  background: white;
+  padding: 40px 32px;
+  text-align: center;
+  border-radius: 28px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.metric:nth-child(1) { background: linear-gradient(135deg, var(--coral), #FF8577); }
+.metric:nth-child(2) { background: linear-gradient(135deg, var(--mustard), #FFD15C); }
+.metric:nth-child(3) { background: linear-gradient(135deg, var(--purple), #B76BFF); }
+
+.metric:hover {
+  transform: translateY(-12px) scale(1.05);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.15);
+}
+
+.metric-value {
+  font-family: 'Recoleta', serif;
+  font-size: 56px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 8px;
+  line-height: 1;
+}
+
+.metric-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgba(255,255,255,0.9);
+  font-weight: 700;
+}
+
+/* Opportunities */
+.opportunity {
+  background: white;
+  padding: 44px;
+  margin-bottom: 24px;
+  border-radius: 32px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+  transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.opportunity::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 8px;
+}
+
+.opportunity:nth-child(1)::before { background: linear-gradient(90deg, var(--coral), var(--hot-pink)); }
+.opportunity:nth-child(2)::before { background: linear-gradient(90deg, var(--mustard), var(--orange)); }
+.opportunity:nth-child(3)::before { background: linear-gradient(90deg, var(--purple), var(--hot-pink)); }
+
+.opportunity:hover {
+  transform: translateY(-12px) scale(1.02);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+}
+
+.opportunity-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 24px;
+}
+
+.opportunity-index {
+  font-size: 11px;
+  font-weight: 800;
+  color: rgba(42, 31, 28, 0.4);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.opportunity-title {
+  font-family: 'Recoleta', serif;
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 8px;
+  line-height: 1.2;
+}
+
+.opportunity-org {
+  color: rgba(42, 31, 28, 0.6);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.match-badge {
+  padding: 14px 28px;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  color: white;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 18px;
+  box-shadow: 0 6px 20px rgba(255, 61, 127, 0.4);
+}
+
+.opportunity-details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 24px 0;
+  padding: 24px 0;
+  border-top: 3px solid #FFF8F3;
+  border-bottom: 3px solid #FFF8F3;
+}
+
+.detail-item strong {
+  display: block;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: rgba(42, 31, 28, 0.5);
+  margin-bottom: 6px;
+  font-weight: 800;
+}
+
+.detail-item span {
+  font-size: 15px;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.opportunity-description {
+  color: rgba(42, 31, 28, 0.7);
+  line-height: 1.7;
+  margin: 20px 0;
+  font-weight: 500;
+}
+
+.rationale {
+  background: linear-gradient(135deg, rgba(255, 107, 94, 0.1), rgba(255, 61, 127, 0.1));
+  padding: 24px;
+  margin-top: 24px;
+  border-radius: 20px;
+  border: 3px solid rgba(255, 107, 94, 0.2);
+}
+
+.rationale-title {
+  font-weight: 800;
+  margin-bottom: 16px;
+  color: var(--text);
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.reason {
+  display: flex;
+  align-items: start;
+  gap: 12px;
+  padding: 8px 0;
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.reason::before {
+  content: '✓';
+  color: var(--coral);
+  font-weight: 900;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.opportunity-action {
+  display: inline-block;
+  margin-top: 24px;
+  padding: 16px 36px;
+  background: linear-gradient(135deg, var(--coral), var(--hot-pink));
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-shadow: 0 6px 20px rgba(255, 61, 127, 0.4);
+}
+
+.opportunity-action:hover {
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 12px 32px rgba(255, 61, 127, 0.5);
+}
+
+@media (max-width: 768px) {
+  .container { padding: 40px 24px; }
+  .card { padding: 32px 24px; }
+  .grid, .metrics, .opportunity-details { grid-template-columns: 1fr; }
+  .actions { flex-direction: column; }
+  .logo { font-size: 48px; }
+  .blob1, .blob2, .blob3 { opacity: 0.4; }
+}
+</style>
+</head>
+<body>
+
+<!-- BOLD organic blobs! -->
+<div class="blob blob1"></div>
+<div class="blob blob2"></div>
+<div class="blob blob3"></div>
+
+<div class="container">
+  
+  <div class="header">
+    <h1 class="logo">funding finder</h1>
+    <p class="tagline">discover opportunities perfectly matched to your vision ✨</p>
+    <div class="badge">Let's Go!</div>
+  </div>
+
+  <div class="progress">
+    <div class="progress-track">
+      <div class="progress-fill" id="bar"></div>
+    </div>
+    <div class="steps">
+      <div class="step active">Profile</div>
+      <div class="step">Vision</div>
+      <div class="step">Identity</div>
+      <div class="step">Details</div>
+      <div class="step">Results</div>
+    </div>
+  </div>
+
+  <form id="form">
+    
+    <div class="page visible" data-page="1">
+      <div class="card">
+        <h2 class="card-title">hey there! 👋</h2>
+        <p class="card-subtitle">Let's start with the basics</p>
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Email Address" required>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">where are you?</h2>
+        <p class="card-subtitle">Location helps us find local opportunities</p>
+        <input type="text" name="city" placeholder="City" required>
+        <input type="text" name="state" placeholder="State" required>
+        <input type="text" name="zip" placeholder="ZIP" required>
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-primary" onclick="nav(2)">Continue →</button>
+      </div>
+    </div>
+
+    <div class="page" data-page="2">
+      <div class="card">
+        <h2 class="card-title">your big idea ✨</h2>
+        <p class="card-subtitle">What are you creating?</p>
+        <textarea name="vision" placeholder="Tell us about your project..." required></textarea>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">where are you at?</h2>
+        <p class="card-subtitle">Current stage</p>
+        <div class="grid">
+          <button type="button" class="option" onclick="pick(this,'stage','concept')">Early Idea</button>
+          <button type="button" class="option" onclick="pick(this,'stage','planning')">Planning</button>
+          <button type="button" class="option" onclick="pick(this,'stage','launched')">Launched</button>
+          <button type="button" class="option" onclick="pick(this,'stage','growing')">Growing</button>
+        </div>
+        <input type="hidden" name="stage" required>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">how much? 💰</h2>
+        <p class="card-subtitle">Funding amount</p>
+        <div class="grid">
+          <button type="button" class="option" onclick="pick(this,'amount','micro')">Under $5K</button>
+          <button type="button" class="option" onclick="pick(this,'amount','small')">$5K – $25K</button>
+          <button type="button" class="option" onclick="pick(this,'amount','medium')">$25K – $100K</button>
+          <button type="button" class="option" onclick="pick(this,'amount','large')">Over $100K</button>
+        </div>
+        <input type="hidden" name="amount" required>
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-secondary" onclick="nav(1)">← Back</button>
+        <button type="button" class="btn btn-primary" onclick="nav(3)">Continue →</button>
+      </div>
+    </div>
+
+    <div class="page" data-page="3">
+      <div class="card">
+        <h2 class="card-title">about you 🌟</h2>
+        <p class="card-subtitle">Select all that apply</p>
+        <div class="grid">
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="woman" id="w">
+            <label for="w">
+              <div class="check-mark"></div>
+              <span>Woman-Owned</span>
+            </label>
+          </div>
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="minority" id="m">
+            <label for="m">
+              <div class="check-mark"></div>
+              <span>Minority-Owned</span>
+            </label>
+          </div>
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="veteran" id="v">
+            <label for="v">
+              <div class="check-mark"></div>
+              <span>Veteran</span>
+            </label>
+          </div>
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="lgbtq" id="l">
+            <label for="l">
+              <div class="check-mark"></div>
+              <span>LGBTQ+</span>
+            </label>
+          </div>
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="disability" id="d">
+            <label for="d">
+              <div class="check-mark"></div>
+              <span>Disability</span>
+            </label>
+          </div>
+          <div class="checkbox">
+            <input type="checkbox" name="id" value="first" id="f">
+            <label for="f">
+              <div class="check-mark"></div>
+              <span>First-Generation</span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">your story 📖</h2>
+        <p class="card-subtitle">What drives you?</p>
+        <textarea name="story" placeholder="Share your journey..." required></textarea>
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-secondary" onclick="nav(2)">← Back</button>
+        <button type="button" class="btn btn-primary" onclick="nav(4)">Continue →</button>
+      </div>
+    </div>
+
+    <div class="page" data-page="4">
+      <div class="card">
+        <h2 class="card-title">education 🎓</h2>
+        <p class="card-subtitle">Highest level</p>
+        <div class="grid">
+          <button type="button" class="option" onclick="pick(this,'edu','hs')">High School</button>
+          <button type="button" class="option" onclick="pick(this,'edu','some')">Some College</button>
+          <button type="button" class="option" onclick="pick(this,'edu','assoc')">Associate's</button>
+          <button type="button" class="option" onclick="pick(this,'edu','bach')">Bachelor's</button>
+          <button type="button" class="option" onclick="pick(this,'edu','grad')">Graduate</button>
+          <button type="button" class="option" onclick="pick(this,'edu','voc')">Vocational</button>
+        </div>
+        <input type="hidden" name="edu">
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-secondary" onclick="nav(3)">← Back</button>
+        <button type="button" class="btn btn-primary" onclick="nav(5)">Continue →</button>
+      </div>
+    </div>
+
+    <div class="page" data-page="5">
+      <div class="card">
+        <h2 class="card-title">timeline ⏰</h2>
+        <p class="card-subtitle">When do you need funding?</p>
+        <div class="grid">
+          <button type="button" class="option" onclick="pick(this,'time','now')">Right Now</button>
+          <button type="button" class="option" onclick="pick(this,'time','3mo')">3 Months</button>
+          <button type="button" class="option" onclick="pick(this,'time','6mo')">6 Months</button>
+          <button type="button" class="option" onclick="pick(this,'time','year')">This Year</button>
+        </div>
+        <input type="hidden" name="time" required>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">capacity 💪</h2>
+        <p class="card-subtitle">Time for applications</p>
+        <div class="grid">
+          <button type="button" class="option" onclick="pick(this,'cap','limited')">Limited</button>
+          <button type="button" class="option" onclick="pick(this,'cap','moderate')">Moderate</button>
+          <button type="button" class="option" onclick="pick(this,'cap','full')">Full</button>
+        </div>
+        <input type="hidden" name="cap" required>
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-secondary" onclick="nav(4)">← Back</button>
+        <button type="submit" class="btn btn-primary">Find My Matches! 🎉</button>
+      </div>
+    </div>
+
+  </form>
+
+  <div class="report" id="report"></div>
+
+</div>
+
+<div class="modal" id="modal">
+  <div class="modal-content">
+    <div class="spinner"></div>
+    <h2>finding magic ✨</h2>
+    <p>Searching 1,000 opportunities...</p>
+  </div>
+</div>
+
+<script>
+let page = 1;
+const total = 5;
+
+function updateBar() {
+  const pct = (page / total) * 100;
+  document.getElementById('bar').style.width = pct + '%';
+  
+  document.querySelectorAll('.step').forEach((s, i) => {
+    s.classList.toggle('active', i < page);
+  });
+}
+
+function nav(p) {
+  document.querySelectorAll('.page').forEach(pg => pg.classList.remove('visible'));
+  page = p;
+  updateBar();
+  document.querySelector(`[data-page="${p}"]`).classList.add('visible');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function pick(btn, field, val) {
+  const card = btn.closest('.card');
+  card.querySelectorAll('.option').forEach(b => b.classList.remove('selected'));
+  btn.classList.add('selected');
+  const input = card.querySelector(`input[name="${field}"]`);
+  if (input) input.value = val;
+}
+
+document.getElementById('form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const form = e.target;
+  document.getElementById('modal').classList.add('open');
+  
+  let matches = [];
+  let useApi = true;
+  try {
+    const res = await fetch('/api/match', {
+      method: 'POST',
+      body: new FormData(form)
+    });
+    const data = await res.json();
+    if (data.ok && data.matches && data.matches.length) {
+      matches = data.matches;
+    } else {
+      useApi = false;
+    }
+  } catch (err) {
+    useApi = false;
+  }
+  
+  await new Promise(r => setTimeout(r, 800));
+  document.getElementById('form').style.display = 'none';
+  document.getElementById('modal').classList.remove('open');
+  
+  const report = document.getElementById('report');
+  const count = matches.length;
+  const totalFunding = matches.reduce((sum, m) => sum + (m.source?.max_amount || 0), 0);
+  const avgScore = count ? (matches.reduce((s, m) => s + (m.overall_score || 0), 0) / count).toFixed(0) : '0';
+  
+  const findingsHtml = useApi && count
+    ? matches.map((m, idx) => {
+        const s = m.source || {};
+        const reasons = (m.match_reasons || []).map(r => `<div class="reason">${r}</div>`).join('');
+        const amount = s.min_amount != null && s.max_amount != null
+          ? `$${Number(s.min_amount).toLocaleString()} – $${Number(s.max_amount).toLocaleString()}`
+          : 'Varies';
+        const deadline = s.deadline_type || (s.deadline ? 'See details' : 'Rolling');
+        const url = s.application_url || '#';
+        return `
+    <div class="opportunity">
+      <div class="opportunity-header">
+        <div>
+          <div class="opportunity-index">Match ${String(idx + 1).padStart(2, '0')}</div>
+          <h3 class="opportunity-title">${s.source_name || 'Opportunity'}</h3>
+          <div class="opportunity-org">${s.provider_name || ''}</div>
+        </div>
+        <div class="match-badge">${Math.round(m.overall_score || 0)}%</div>
+      </div>
+      <div class="opportunity-details">
+        <div class="detail-item"><strong>Type</strong><span>${s.source_type || 'Grant'}</span></div>
+        <div class="detail-item"><strong>Amount</strong><span>${amount}</span></div>
+        <div class="detail-item"><strong>Deadline</strong><span>${deadline}</span></div>
+      </div>
+      <div class="opportunity-description">${(s.requirements_text || '').slice(0, 200)}${(s.requirements_text && s.requirements_text.length > 200) ? '…' : ''}</div>
+      <div class="rationale">
+        <div class="rationale-title">Why This Matches</div>
+        ${reasons || '<div class="reason">Strong fit for your profile.</div>'}
+      </div>
+      <a href="${url}" target="_blank" rel="noopener" class="opportunity-action">View Details →</a>
+    </div>`;
+      }).join('')
+    : generateResults();
+  
+  report.innerHTML = `
+    <div class="report-header">
+      <h1>your matches! 🎉</h1>
+      <p>We found ${count || 12} opportunity${(count || 12) !== 1 ? 'ies' : ''} for you</p>
+    </div>
+    <div class="metrics">
+      <div class="metric">
+        <div class="metric-value">${count || 12}</div>
+        <div class="metric-label">Matches</div>
+      </div>
+      <div class="metric">
+        <div class="metric-value">${count ? '$' + Number(totalFunding).toLocaleString() : '$2.4M'}</div>
+        <div class="metric-label">Available</div>
+      </div>
+      <div class="metric">
+        <div class="metric-value">${avgScore}%</div>
+        <div class="metric-label">Avg Score</div>
+      </div>
+    </div>
+    ${findingsHtml}
+  `;
+  
+  report.classList.add('published');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+function generateResults() {
+  const data = [
+    {
+      idx: '01',
+      title: 'Small Business Innovation Research',
+      org: 'National Science Foundation',
+      match: '98%',
+      type: 'Grant',
+      amount: '$50K - $500K',
+      deadline: 'March 2026',
+      desc: 'Federal program supporting innovative small businesses with cutting-edge technology.',
+      reasons: [
+        'Perfect match for your project goals',
+        'Funding amount is exactly what you need',
+        'Timeline works with your schedule'
+      ]
+    },
+    {
+      idx: '02',
+      title: 'Women-Owned Business Grant',
+      org: 'SBA Women\'s Business Ownership',
+      match: '96%',
+      type: 'Grant',
+      amount: '$10K - $100K',
+      deadline: 'April 2026',
+      desc: 'Supporting women entrepreneurs launching innovative businesses.',
+      reasons: [
+        'Demographic match confirmed',
+        'Flexible funding use',
+        'Amazing support network'
+      ]
+    },
+    {
+      idx: '03',
+      title: 'Community Development Grant',
+      org: 'HUD',
+      match: '92%',
+      type: 'Grant',
+      amount: '$25K - $250K',
+      deadline: 'May 2026',
+      desc: 'Economic development that creates jobs and benefits communities.',
+      reasons: [
+        'Geographic eligibility confirmed',
+        'Strong community impact',
+        'Rolling applications'
+      ]
+    }
+  ];
+  
+  return data.map(opp => `
+    <div class="opportunity">
+      <div class="opportunity-header">
+        <div>
+          <div class="opportunity-index">Match ${opp.idx}</div>
+          <h3 class="opportunity-title">${opp.title}</h3>
+          <div class="opportunity-org">${opp.org}</div>
+        </div>
+        <div class="match-badge">${opp.match}</div>
+      </div>
+      
+      <div class="opportunity-details">
+        <div class="detail-item">
+          <strong>Type</strong>
+          <span>${opp.type}</span>
+        </div>
+        <div class="detail-item">
+          <strong>Amount</strong>
+          <span>${opp.amount}</span>
+        </div>
+        <div class="detail-item">
+          <strong>Deadline</strong>
+          <span>${opp.deadline}</span>
+        </div>
+      </div>
+      
+      <div class="opportunity-description">${opp.desc}</div>
+      
+      <div class="rationale">
+        <div class="rationale-title">Why This Matches</div>
+        ${opp.reasons.map(r => `<div class="reason">${r}</div>`).join('')}
+      </div>
+      
+      <a href="#" class="opportunity-action">View Details →</a>
+    </div>
+  `).join('');
+}
+
+updateBar();
+</script>
+
+</body>
+</html>

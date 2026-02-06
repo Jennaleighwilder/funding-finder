@@ -1,0 +1,1506 @@
+[
+  {
+    "id": 901,
+    "name": "Cooperative Development Grant",
+    "provider": "USDA Rural Cooperative Development",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Co-op startup and expansion",
+    "eligibility": {
+      "industries": "Cooperative"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 902,
+    "name": "Credit Union Expansion Grant",
+    "provider": "NCUA + CDFI Fund",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.ncua.gov/",
+    "description": "Credit union growth and services",
+    "eligibility": {
+      "industries": "Finance,CreditUnion,Cooperative"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 903,
+    "name": "Energy Cooperative Grant",
+    "provider": "USDA + DOE",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Electric and renewable energy co-ops",
+    "eligibility": {
+      "industries": "CleanEnergy,Cooperative"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 904,
+    "name": "Housing Cooperative Development",
+    "provider": "HUD + State Housing",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Housing co-op development",
+    "eligibility": {
+      "industries": "Housing,Cooperative"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 905,
+    "name": "Producer Cooperative Grant",
+    "provider": "USDA + State Ag",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Agricultural producer co-ops",
+    "eligibility": {
+      "industries": "Agriculture,Cooperative"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 906,
+    "name": "Childcare Cooperative Grant",
+    "provider": "HHS + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/",
+    "description": "Parent-owned childcare co-ops",
+    "eligibility": {
+      "industries": "ChildCare,Cooperative"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 907,
+    "name": "Purchasing Cooperative Grant",
+    "provider": "USDA + Commerce",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Buyer group purchasing co-ops",
+    "eligibility": {
+      "industries": "Cooperative,Retail"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 908,
+    "name": "Telecommunications Cooperative",
+    "provider": "USDA + FCC",
+    "type": "Grant",
+    "amount_min": 250000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Rural telecom and broadband co-ops",
+    "eligibility": {
+      "industries": "Telecommunications,Cooperative",
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 909,
+    "name": "Healthcare Cooperative Grant",
+    "provider": "HRSA + Foundations",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Health services co-ops",
+    "eligibility": {
+      "industries": "Healthcare,Cooperative"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 910,
+    "name": "Shared Services Cooperative",
+    "provider": "USDA + Economic Development",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Shared business services co-ops",
+    "eligibility": {
+      "industries": "Cooperative,ProfessionalServices"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 911,
+    "name": "Franchise Startup Grant",
+    "provider": "SBA + Franchise Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "First-time franchise purchase",
+    "eligibility": {
+      "industries": "Franchise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 912,
+    "name": "Multi-Unit Franchise Grant",
+    "provider": "Private Franchisors + Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Multiple franchise unit expansion",
+    "eligibility": {
+      "industries": "Franchise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 913,
+    "name": "Franchise Conversion Grant",
+    "provider": "Economic Development + Franchisors",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Independent business to franchise conversion",
+    "eligibility": {
+      "industries": "Franchise"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 914,
+    "name": "Veteran Franchise Grant",
+    "provider": "VetFran + VA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.va.gov/",
+    "description": "Veteran-owned franchise support",
+    "eligibility": {
+      "industries": "Franchise",
+      "veteran_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 915,
+    "name": "Minority Franchise Development",
+    "provider": "MBDA + Franchisors",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.mbda.gov/",
+    "description": "Minority franchisee support",
+    "eligibility": {
+      "industries": "Franchise",
+      "minority_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 916,
+    "name": "Women Franchise Owner Grant",
+    "provider": "Women's Business Centers + Franchisors",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Women franchisee development",
+    "eligibility": {
+      "industries": "Franchise",
+      "women_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 917,
+    "name": "Food Franchise Equipment Grant",
+    "provider": "Industry Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Restaurant franchise equipment",
+    "eligibility": {
+      "industries": "Franchise,Restaurant"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 918,
+    "name": "Service Franchise Technology",
+    "provider": "Franchisors + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Service franchise technology systems",
+    "eligibility": {
+      "industries": "Franchise,Services"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 919,
+    "name": "Franchise Relocation Grant",
+    "provider": "Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Franchise location change support",
+    "eligibility": {
+      "industries": "Franchise"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 920,
+    "name": "Franchise Marketing Co-op Grant",
+    "provider": "Franchisors",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Local franchise advertising",
+    "eligibility": {
+      "industries": "Franchise,Marketing"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 921,
+    "name": "Patent Commercialization Grant",
+    "provider": "NSF + Commerce",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Patent-to-market development",
+    "eligibility": {
+      "industries": "Technology,IP"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 922,
+    "name": "Trademark Protection Grant",
+    "provider": "USPTO + State Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.uspto.gov/",
+    "description": "Trademark registration and protection",
+    "eligibility": {
+      "industries": "IP,Legal"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 923,
+    "name": "Copyright Business Grant",
+    "provider": "Copyright Office + Foundations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.copyright.gov/",
+    "description": "Copyright protection and licensing",
+    "eligibility": {
+      "industries": "IP,Media,Arts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 924,
+    "name": "University Technology Transfer",
+    "provider": "NSF + Universities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "University IP commercialization",
+    "eligibility": {
+      "industries": "Technology,IP,Research"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 925,
+    "name": "Licensing Revenue Development",
+    "provider": "Commerce + Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "IP licensing business models",
+    "eligibility": {
+      "industries": "IP,Business"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 926,
+    "name": "Software Licensing Platform",
+    "provider": "Tech Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Software licensing infrastructure",
+    "eligibility": {
+      "industries": "Technology,Software,IP"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 927,
+    "name": "Brand Licensing Grant",
+    "provider": "Industry Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Character and brand licensing",
+    "eligibility": {
+      "industries": "IP,Marketing,Entertainment"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 928,
+    "name": "Music Rights Management Grant",
+    "provider": "Music Industry Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Music licensing and royalties",
+    "eligibility": {
+      "industries": "Music,IP"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 929,
+    "name": "Design Patent Grant",
+    "provider": "USPTO + Design Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.uspto.gov/",
+    "description": "Design patent protection",
+    "eligibility": {
+      "industries": "IP,Design,Manufacturing"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 930,
+    "name": "Trade Secret Protection Grant",
+    "provider": "Commerce + Legal Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "Trade secret security systems",
+    "eligibility": {
+      "industries": "IP,Legal,Technology"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 931,
+    "name": "Equipment Lease Subsidy Grant",
+    "provider": "SBA + State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Equipment leasing payment assistance",
+    "eligibility": {
+      "industries": "Equipment,Finance"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 932,
+    "name": "Heavy Equipment Grant",
+    "provider": "Economic Development + Industry",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Construction and industrial equipment",
+    "eligibility": {
+      "industries": "Construction,Manufacturing,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 933,
+    "name": "Medical Equipment Financing",
+    "provider": "HRSA + Health Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.hrsa.gov/",
+    "description": "Healthcare equipment acquisition",
+    "eligibility": {
+      "industries": "Healthcare,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 934,
+    "name": "Agricultural Equipment Grant",
+    "provider": "USDA + FSA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Farm machinery and equipment",
+    "eligibility": {
+      "industries": "Agriculture,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 935,
+    "name": "Commercial Kitchen Equipment",
+    "provider": "Economic Development + Food Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Restaurant and food service equipment",
+    "eligibility": {
+      "industries": "Restaurant,Food,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 936,
+    "name": "Manufacturing Equipment Grant",
+    "provider": "MEP + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "Manufacturing machinery upgrades",
+    "eligibility": {
+      "industries": "Manufacturing,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 937,
+    "name": "Fleet Vehicle Grant",
+    "provider": "DOT + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.transportation.gov/",
+    "description": "Commercial vehicle fleet acquisition",
+    "eligibility": {
+      "industries": "Transportation,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 938,
+    "name": "Technology Equipment Grant",
+    "provider": "Tech Foundations + Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "IT and technology hardware",
+    "eligibility": {
+      "industries": "Technology,Equipment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 939,
+    "name": "Packaging Equipment Grant",
+    "provider": "USDA + Manufacturing Extension",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Product packaging machinery",
+    "eligibility": {
+      "industries": "Manufacturing,Food,Equipment"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 940,
+    "name": "Clean Energy Equipment Grant",
+    "provider": "DOE + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Renewable energy equipment",
+    "eligibility": {
+      "industries": "CleanEnergy,Equipment"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 941,
+    "name": "Working Capital Bridge Grant",
+    "provider": "SBA + CDFI",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.sba.gov/",
+    "description": "Short-term cash flow assistance",
+    "eligibility": {
+      "industries": "WorkingCapital"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 942,
+    "name": "Inventory Financing Grant",
+    "provider": "Economic Development + Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Inventory purchase assistance",
+    "eligibility": {
+      "industries": "Retail,Manufacturing,WorkingCapital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 943,
+    "name": "Seasonal Business Grant",
+    "provider": "SBA + State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Seasonal cash flow support",
+    "eligibility": {
+      "industries": "WorkingCapital,Seasonal"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 944,
+    "name": "Accounts Receivable Financing",
+    "provider": "CDFI + Economic Development",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.grants.gov/",
+    "description": "Invoice and A/R financing support",
+    "eligibility": {
+      "industries": "WorkingCapital,Finance"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 945,
+    "name": "Payroll Assistance Grant",
+    "provider": "State + Local Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Rolling",
+    "url": "https://www.grants.gov/",
+    "description": "Short-term payroll support",
+    "eligibility": {
+      "industries": "WorkingCapital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 946,
+    "name": "Contract Fulfillment Grant",
+    "provider": "SBA + Procurement Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Government contract working capital",
+    "eligibility": {
+      "industries": "WorkingCapital,Government"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 947,
+    "name": "Export Working Capital Grant",
+    "provider": "SBA + Export-Import Bank",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Export transaction financing",
+    "eligibility": {
+      "industries": "WorkingCapital,Export"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 948,
+    "name": "Emergency Cash Flow Grant",
+    "provider": "Community Foundations + CDFI",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.grants.gov/",
+    "description": "Emergency operating funds",
+    "eligibility": {
+      "industries": "WorkingCapital"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 949,
+    "name": "Marketing and Advertising Grant",
+    "provider": "Economic Development + Tourism",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Marketing campaign funding",
+    "eligibility": {
+      "industries": "Marketing,WorkingCapital"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 950,
+    "name": "Technology Upgrade Grant",
+    "provider": "State + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Software and systems upgrades",
+    "eligibility": {
+      "industries": "Technology,WorkingCapital"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 951,
+    "name": "Trade Show Participation Grant",
+    "provider": "SBA + Industry Associations",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Trade show and conference support",
+    "eligibility": {
+      "industries": "Marketing,WorkingCapital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 952,
+    "name": "Professional Services Grant",
+    "provider": "Economic Development",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Consulting and professional fees",
+    "eligibility": {
+      "industries": "ProfessionalServices,WorkingCapital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 953,
+    "name": "Certification and Training Grant",
+    "provider": "DOL + Industry Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Staff training and certification",
+    "eligibility": {
+      "industries": "Training,WorkingCapital"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 954,
+    "name": "Debt Refinancing Grant",
+    "provider": "CDFI + State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Debt restructuring assistance",
+    "eligibility": {
+      "industries": "Finance,WorkingCapital"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 955,
+    "name": "Bridge to Sale Grant",
+    "provider": "Economic Development + Business Brokers",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Business sale transition support",
+    "eligibility": {
+      "industries": "WorkingCapital,Succession"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 956,
+    "name": "Second Location Grant",
+    "provider": "Economic Development + Cities",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Additional location expansion",
+    "eligibility": {
+      "industries": "Expansion"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 957,
+    "name": "Job Creation Grant",
+    "provider": "State Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "New job creation incentives",
+    "eligibility": {
+      "industries": "Expansion,Jobs"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 958,
+    "name": "Market Expansion Grant",
+    "provider": "SBA + Commerce",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "New market entry support",
+    "eligibility": {
+      "industries": "Expansion,Marketing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 959,
+    "name": "Acquisition Financing Grant",
+    "provider": "SBA + CDFI",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Business acquisition support",
+    "eligibility": {
+      "industries": "Expansion,Acquisition"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 960,
+    "name": "Merger and Acquisition Grant",
+    "provider": "Economic Development",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "M&A transaction support",
+    "eligibility": {
+      "industries": "Expansion,MA"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 961,
+    "name": "Product Line Expansion Grant",
+    "provider": "SBA + Industry Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "New product development",
+    "eligibility": {
+      "industries": "Expansion,Product"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 962,
+    "name": "Vertical Integration Grant",
+    "provider": "Manufacturing Extension + Economic Dev",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Supply chain integration",
+    "eligibility": {
+      "industries": "Expansion,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 963,
+    "name": "Franchise Territory Expansion",
+    "provider": "Franchisors + Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Franchise geographic expansion",
+    "eligibility": {
+      "industries": "Expansion,Franchise"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 964,
+    "name": "Capacity Expansion Grant",
+    "provider": "Manufacturing Extension + State Programs",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "Production capacity increase",
+    "eligibility": {
+      "industries": "Expansion,Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 965,
+    "name": "Service Area Expansion Grant",
+    "provider": "Economic Development + Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Geographic service expansion",
+    "eligibility": {
+      "industries": "Expansion,Services"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 966,
+    "name": "Online Sales Channel Grant",
+    "provider": "Commerce + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "E-commerce channel development",
+    "eligibility": {
+      "industries": "Expansion,Ecommerce"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 967,
+    "name": "Partnership Development Grant",
+    "provider": "Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Strategic partnership formation",
+    "eligibility": {
+      "industries": "Expansion,Partnership"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 968,
+    "name": "Licensing Expansion Grant",
+    "provider": "Commerce + Industry Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "IP licensing and expansion",
+    "eligibility": {
+      "industries": "Expansion,IP"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 969,
+    "name": "Wholesale Channel Development",
+    "provider": "Economic Development + Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "B2B wholesale channel expansion",
+    "eligibility": {
+      "industries": "Expansion,Wholesale"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 970,
+    "name": "Retail Chain Expansion Grant",
+    "provider": "Economic Development + Cities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Multi-location retail growth",
+    "eligibility": {
+      "industries": "Expansion,Retail"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 971,
+    "name": "State Trade Expansion Program",
+    "provider": "SBA STEP",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Export development assistance",
+    "eligibility": {
+      "industries": "Export,International"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 972,
+    "name": "Export-Import Bank Grant",
+    "provider": "EXIM Bank",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.exim.gov/",
+    "description": "Export financing support",
+    "eligibility": {
+      "industries": "Export,International"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 973,
+    "name": "Foreign Market Entry Grant",
+    "provider": "Commerce + ITA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.trade.gov/",
+    "description": "International market development",
+    "eligibility": {
+      "industries": "Export,International"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 974,
+    "name": "Trade Mission Participation",
+    "provider": "Commerce + State Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.trade.gov/",
+    "description": "International trade mission support",
+    "eligibility": {
+      "industries": "Export,International"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 975,
+    "name": "International Certification Grant",
+    "provider": "Commerce + Industry Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "International standards certification",
+    "eligibility": {
+      "industries": "Export,International,Certification"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 976,
+    "name": "Translation and Localization Grant",
+    "provider": "Commerce + Export Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.trade.gov/",
+    "description": "Product and marketing translation",
+    "eligibility": {
+      "industries": "Export,International,Marketing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 977,
+    "name": "Customs Compliance Grant",
+    "provider": "Commerce + CBP",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.cbp.gov/",
+    "description": "Import/export compliance systems",
+    "eligibility": {
+      "industries": "Export,International"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 978,
+    "name": "International Partnership Grant",
+    "provider": "Commerce + USAID",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usaid.gov/",
+    "description": "International joint ventures",
+    "eligibility": {
+      "industries": "Export,International,Partnership"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 979,
+    "name": "Freight and Shipping Grant",
+    "provider": "DOT + Export Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.transportation.gov/",
+    "description": "International shipping assistance",
+    "eligibility": {
+      "industries": "Export,International,Logistics"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 980,
+    "name": "E-commerce Export Platform Grant",
+    "provider": "Commerce + Tech Foundations",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "Cross-border e-commerce platforms",
+    "eligibility": {
+      "industries": "Export,International,Ecommerce"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 981,
+    "name": "Product Development Grant",
+    "provider": "NIST MEP + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "New product R&D",
+    "eligibility": {
+      "industries": "RD,Innovation,Product"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 982,
+    "name": "Process Innovation Grant",
+    "provider": "Manufacturing Extension + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "Process improvement R&D",
+    "eligibility": {
+      "industries": "RD,Innovation,Manufacturing"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 983,
+    "name": "Prototype Development Grant",
+    "provider": "NSF + Industry Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Product prototyping support",
+    "eligibility": {
+      "industries": "RD,Innovation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 984,
+    "name": "Design Thinking Grant",
+    "provider": "Commerce + Innovation Centers",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.commerce.gov/",
+    "description": "Innovation methodology implementation",
+    "eligibility": {
+      "industries": "RD,Innovation,Design"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 985,
+    "name": "Lean Startup Grant",
+    "provider": "Economic Development + Accelerators",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Lean methodology implementation",
+    "eligibility": {
+      "industries": "RD,Innovation,Startup"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 986,
+    "name": "Customer Discovery Grant",
+    "provider": "NSF + I-Corps",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Market validation research",
+    "eligibility": {
+      "industries": "RD,Innovation,Market"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 987,
+    "name": "Pilot Program Grant",
+    "provider": "Industry Foundations + Economic Development",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Pilot project implementation",
+    "eligibility": {
+      "industries": "RD,Innovation"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 988,
+    "name": "Beta Testing Grant",
+    "provider": "Tech Foundations + Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Product beta testing support",
+    "eligibility": {
+      "industries": "RD,Innovation,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 989,
+    "name": "Innovation Lab Grant",
+    "provider": "Economic Development + Universities",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Innovation center development",
+    "eligibility": {
+      "industries": "RD,Innovation"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 990,
+    "name": "Rapid Prototyping Grant",
+    "provider": "Manufacturing Extension + Tech",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/mep",
+    "description": "3D printing and rapid prototyping",
+    "eligibility": {
+      "industries": "RD,Innovation,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 991,
+    "name": "Mobile Business Unit Grant",
+    "provider": "Economic Development + Industry",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Food trucks, mobile retail, pop-up businesses",
+    "eligibility": {
+      "industries": "Mobile,Retail,Food"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 992,
+    "name": "Ghost Kitchen Grant",
+    "provider": "Economic Development + Food Industry",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Delivery-only kitchen facilities",
+    "eligibility": {
+      "industries": "Restaurant,Food,DeliveryOnly"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 993,
+    "name": "Dark Store Grant",
+    "provider": "Economic Development + Retail",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Fulfillment-only retail locations",
+    "eligibility": {
+      "industries": "Retail,Ecommerce,FulfillmentOnly"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 994,
+    "name": "Beekeeping and Apiary Grant",
+    "provider": "USDA + State Ag",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Honey production and pollination services",
+    "eligibility": {
+      "industries": "Agriculture,Apiary"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 995,
+    "name": "Taxidermy Business Grant",
+    "provider": "State Wildlife + Industry",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Wildlife preservation services",
+    "eligibility": {
+      "industries": "Taxidermy,Wildlife"
+    },
+    "obscurity": 9
+  },
+  {
+    "id": 996,
+    "name": "Coin-Op Laundry Grant",
+    "provider": "Economic Development + SBA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Laundromat equipment and facilities",
+    "eligibility": {
+      "industries": "Laundromat,Services"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 997,
+    "name": "Mobile Notary Service Grant",
+    "provider": "State Programs + Professional Assoc",
+    "type": "Grant",
+    "amount_min": 2000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Mobile notary business development",
+    "eligibility": {
+      "industries": "Legal,Mobile,ProfessionalServices"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 998,
+    "name": "Escape Room Business Grant",
+    "provider": "Tourism + Economic Development",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Entertainment venue development",
+    "eligibility": {
+      "industries": "Entertainment,Tourism"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 999,
+    "name": "Pet Sitting and Dog Walking Grant",
+    "provider": "Community Foundations + SBA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.sba.gov/",
+    "description": "Pet care service business",
+    "eligibility": {
+      "industries": "PetCare,Services"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 1000,
+    "name": "Virtual Assistant Business Grant",
+    "provider": "Tech Foundations + Small Business",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.grants.gov/",
+    "description": "Remote administrative services",
+    "eligibility": {
+      "industries": "VirtualAssistant,Remote,Services"
+    },
+    "obscurity": 7
+  }
+]

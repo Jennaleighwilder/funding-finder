@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 301,
+    "name": "PG&E Restaurant Resilience Grant",
+    "provider": "PG&E Corporation Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.pge.com/",
+    "description": "$5K grants for CA restaurants, 188 recipients annually",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Restaurant,Food",
+      "max_locations": 5,
+      "max_revenue": 3000000
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 302,
+    "name": "Grubhub Restaurant Accelerator Grant",
+    "provider": "Grubhub + National ACE",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.nationalace.org/",
+    "description": "$5K grants + training for independent restaurants",
+    "eligibility": {
+      "industries": "Restaurant"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 303,
+    "name": "Restaurants Care Resilience Fund",
+    "provider": "California Restaurant Foundation",
+    "type": "Grant",
+    "amount_min": 3000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://restaurantscare.org/",
+    "description": "CA restaurant resilience grants",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Restaurant,Catering"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 304,
+    "name": "American Express Backing Small Restaurants",
+    "provider": "American Express + IDA",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://downtown.org/",
+    "description": "International restaurant grants (14 cities globally)",
+    "eligibility": {
+      "industries": "Restaurant",
+      "independent": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 305,
+    "name": "Restaurants Care Worker Relief",
+    "provider": "Restaurants Care",
+    "type": "Grant",
+    "amount_min": 350,
+    "amount_max": 2500,
+    "deadline": "Rolling",
+    "url": "https://restaurantscare.org/",
+    "description": "Emergency grants for CA restaurant workers",
+    "eligibility": {
+      "states": "CA",
+      "industries": "Restaurant,Food"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 306,
+    "name": "APRON Inc Restaurant Worker Grant",
+    "provider": "APRON Inc",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 5000,
+    "deadline": "Rolling",
+    "url": "https://www.aproninc.org/",
+    "description": "Emergency grants for food service workers",
+    "eligibility": {
+      "industries": "Restaurant,Food"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 307,
+    "name": "Brooklyn Brewery $10K Grant",
+    "provider": "Brooklyn Brewery",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://brooklynbrewery.com/",
+    "description": "Food & Drink Innovation category grants",
+    "eligibility": {
+      "industries": "Restaurant,Food,Beverage"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 308,
+    "name": "Uber Eats Grants for Growth",
+    "provider": "Uber Eats",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.ubereats.com/",
+    "description": "Restaurant growth and technology grants",
+    "eligibility": {
+      "industries": "Restaurant"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 309,
+    "name": "USDA Meat Processing Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.usda.gov/",
+    "description": "Meat processing facility expansion",
+    "eligibility": {
+      "industries": "Food,MeatProcessing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 310,
+    "name": "Food Safety Specialty Crop Grant",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.ams.usda.gov/",
+    "description": "Food safety certification and training costs",
+    "eligibility": {
+      "industries": "Agriculture,Food,SpecialtyCrop"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 311,
+    "name": "Healthy Food Financing Initiative",
+    "provider": "USDA + HHS",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.acf.hhs.gov/",
+    "description": "Healthy food retail in underserved areas",
+    "eligibility": {
+      "industries": "Food,Grocery,Restaurant"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 312,
+    "name": "Comcast RISE Restaurant Grant",
+    "provider": "Comcast",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.comcastrise.com/",
+    "description": "$5K grants + tech makeovers for restaurants",
+    "eligibility": {
+      "industries": "Restaurant",
+      "minority_owned": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 313,
+    "name": "WomensNet Food & Beverage Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "March category grant for women in food/beverage",
+    "eligibility": {
+      "industries": "Restaurant,Food,Beverage",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 314,
+    "name": "DoorDash Restaurant Relief Fund",
+    "provider": "DoorDash + Hello Alice",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 15000,
+    "deadline": "Disaster Response",
+    "url": "https://www.doordash.com/",
+    "description": "Disaster recovery for restaurants",
+    "eligibility": {
+      "industries": "Restaurant",
+      "max_locations": 3
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 315,
+    "name": "Local Food Purchase Assistance",
+    "provider": "USDA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.ams.usda.gov/",
+    "description": "Local food procurement for institutions",
+    "eligibility": {
+      "industries": "Food,Agriculture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 316,
+    "name": "Faire Small Business Grant",
+    "provider": "Faire",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Quarterly",
+    "url": "https://www.faire.com/",
+    "description": "$5K Faire inventory credit for new retailers",
+    "eligibility": {
+      "industries": "Retail",
+      "new_business": true
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 317,
+    "name": "Binc Foundation Bookseller Emergency Grant",
+    "provider": "Binc Foundation",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 5000,
+    "deadline": "Rolling",
+    "url": "https://www.bincfoundation.org/",
+    "description": "Emergency assistance for bookstore employees",
+    "eligibility": {
+      "industries": "Retail,Books"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 318,
+    "name": "Etsy Disaster Relief Fund",
+    "provider": "Etsy + CERF+",
+    "type": "Grant",
+    "amount_min": 2000,
+    "amount_max": 2000,
+    "deadline": "Rolling",
+    "url": "https://www.etsy.com/",
+    "description": "$2K microgrants for disaster-affected Etsy sellers",
+    "eligibility": {
+      "industries": "Retail,Ecommerce,Crafts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 319,
+    "name": "Main Street America Storefront Grant",
+    "provider": "American Express + MSA",
+    "type": "Grant",
+    "amount_min": 20000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.mainstreet.org/",
+    "description": "250 grants of $20K for brick-and-mortar businesses",
+    "eligibility": {
+      "industries": "Retail",
+      "max_employees": 20,
+      "brick_and_mortar": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 320,
+    "name": "Lenovo Evolve Small Retail Grant",
+    "provider": "Lenovo",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 25000,
+    "deadline": "Annual",
+    "url": "https://www.lenovo.com/",
+    "description": "$25K + $10K tech package for retailers",
+    "eligibility": {
+      "industries": "Retail",
+      "max_revenue": 7500000
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 321,
+    "name": "Independent Retailer Disaster Relief",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 10000,
+    "deadline": "Disaster Response",
+    "url": "https://www.grantwatch.com/",
+    "description": "Emergency grants for disaster-affected retailers",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 322,
+    "name": "Verizon Digital Ready Retail Grant",
+    "provider": "Verizon",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://www.verizon.com/business/",
+    "description": "Digital transformation grants for retailers",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 323,
+    "name": "NASE Growth Grant for Retailers",
+    "provider": "NASE",
+    "type": "Grant",
+    "amount_min": 4000,
+    "amount_max": 4000,
+    "deadline": "Quarterly",
+    "url": "https://www.nase.org/",
+    "description": "$4K growth grants for NASE members",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 324,
+    "name": "Get Nearshored Retail Grant",
+    "provider": "Get Nearshored",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 5000,
+    "deadline": "Annual",
+    "url": "https://www.getnearshored.com/",
+    "description": "Nearshore production grants for retailers",
+    "eligibility": {
+      "industries": "Retail,Manufacturing"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 325,
+    "name": "Comic Book Store Relief Grant",
+    "provider": "Binc Foundation",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 5000,
+    "deadline": "Rolling",
+    "url": "https://www.bincfoundation.org/",
+    "description": "Emergency grants for comic store owners/employees",
+    "eligibility": {
+      "industries": "Retail,Comics"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 326,
+    "name": "Walmart Spark Good Local Grant",
+    "provider": "Walmart",
+    "type": "Grant",
+    "amount_min": 250,
+    "amount_max": 5000,
+    "deadline": "Rolling",
+    "url": "https://corporate.walmart.com/",
+    "description": "Community-focused retail grants",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 327,
+    "name": "Skip Capital Support Grant",
+    "provider": "Skip",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.skipgrants.com/",
+    "description": "Interest-free recoverable grants for retailers",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 328,
+    "name": "Freed Fellowship Retail Grant",
+    "provider": "Freed Fellowship",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 500,
+    "deadline": "Monthly",
+    "url": "https://freedfellowship.com/",
+    "description": "$500 monthly microgrants + mentoring",
+    "eligibility": {
+      "industries": "Retail"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 329,
+    "name": "Outta Excuses Retail Grant",
+    "provider": "Outta Excuses",
+    "type": "Grant",
+    "amount_min": 3000,
+    "amount_max": 3000,
+    "deadline": "Annual",
+    "url": "https://outtaexcuses.com/",
+    "description": "$3K quarterly grants for underserved retailers",
+    "eligibility": {
+      "industries": "Retail",
+      "max_revenue": 125000
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 330,
+    "name": "Secretsos Small Business Retail Grant",
+    "provider": "Secretsos",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 2500,
+    "deadline": "Quarterly",
+    "url": "https://www.secretsos.com/",
+    "description": "Grants for underserved retail entrepreneurs",
+    "eligibility": {
+      "industries": "Retail",
+      "underserved": true
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 331,
+    "name": "WomensNet Creative Arts Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "October category grant for women in creative arts",
+    "eligibility": {
+      "industries": "Arts,Creative",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 332,
+    "name": "Awesome Foundation Microgrant",
+    "provider": "Awesome Foundation",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Monthly",
+    "url": "https://www.awesomefoundation.org/",
+    "description": "$1K monthly microgrants for awesome projects",
+    "eligibility": {
+      "industries": "Arts,Creative,Community"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 333,
+    "name": "Rauschenberg Medical Emergency Grant",
+    "provider": "Rauschenberg Foundation",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 5000,
+    "deadline": "Biannual",
+    "url": "https://www.rauschenbergfoundation.org/",
+    "description": "Emergency grants for artists with medical crises",
+    "eligibility": {
+      "industries": "Arts,Film,Dance",
+      "max_income": 80000
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 334,
+    "name": "NEA Art Works Grant",
+    "provider": "National Endowment for the Arts",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.arts.gov/",
+    "description": "Federal arts project grants",
+    "eligibility": {
+      "industries": "Arts,Music,Theater,Dance"
+    },
+    "obscurity": 4
+  },
+  {
+    "id": 335,
+    "name": "Artists Communities Emergency Grant",
+    "provider": "Artist Communities Alliance",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 2500,
+    "deadline": "Rolling",
+    "url": "https://www.artistcommunities.org/",
+    "description": "Emergency relief for artists",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 336,
+    "name": "Foundation for Contemporary Arts",
+    "provider": "FCA",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 60000,
+    "deadline": "Annual",
+    "url": "https://www.foundationforcontemporaryarts.org/",
+    "description": "Grants for contemporary artists",
+    "eligibility": {
+      "industries": "Arts,Performance,Visual"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 337,
+    "name": "Pollination Project Daily Grant",
+    "provider": "Pollination Project",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "deadline": "Daily",
+    "url": "https://www.thepollinationproject.org/",
+    "description": "$1K daily grants for compassionate action projects",
+    "eligibility": {
+      "industries": "Arts,Social,Community"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 338,
+    "name": "Craft Emergency Relief Fund",
+    "provider": "CERF+",
+    "type": "Grant",
+    "amount_min": 500,
+    "amount_max": 8000,
+    "deadline": "Rolling",
+    "url": "https://cerfplus.org/",
+    "description": "Emergency relief for craft artists",
+    "eligibility": {
+      "industries": "Arts,Crafts"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 339,
+    "name": "Andy Warhol Foundation Grant",
+    "provider": "Warhol Foundation",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://warholfoundation.org/",
+    "description": "Visual arts organization grants",
+    "eligibility": {
+      "industries": "Arts,Visual"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 340,
+    "name": "Puffin Foundation Grant",
+    "provider": "Puffin Foundation",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 2500,
+    "deadline": "Rolling",
+    "url": "https://puffinfoundation.org/",
+    "description": "Grants for artists addressing social issues",
+    "eligibility": {
+      "industries": "Arts,Social"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 341,
+    "name": "Jerome Foundation Artist Grant",
+    "provider": "Jerome Foundation",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 20000,
+    "deadline": "Annual",
+    "url": "https://www.jeromefdn.org/",
+    "description": "Grants for early-career artists",
+    "eligibility": {
+      "industries": "Arts,Film,Dance,Theater"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 342,
+    "name": "United States Artists Fellowship",
+    "provider": "USA Artists",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://www.unitedstatesartists.org/",
+    "description": "$50K unrestricted fellowships for artists",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 343,
+    "name": "Joan Mitchell Foundation Grant",
+    "provider": "Joan Mitchell Foundation",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 60000,
+    "deadline": "Annual",
+    "url": "https://www.joanmitchellfoundation.org/",
+    "description": "Grants for painters and sculptors",
+    "eligibility": {
+      "industries": "Arts,Painting,Sculpture"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 344,
+    "name": "Creative Capital Award",
+    "provider": "Creative Capital",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Annual",
+    "url": "https://creative-capital.org/",
+    "description": "Grants + advisory support for artists",
+    "eligibility": {
+      "industries": "Arts"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 345,
+    "name": "Guggenheim Fellowship",
+    "provider": "John Simon Guggenheim Memorial Foundation",
+    "type": "Grant",
+    "amount_min": 40000,
+    "amount_max": 60000,
+    "deadline": "Annual",
+    "url": "https://www.gf.org/",
+    "description": "Prestigious fellowships for artists and scholars",
+    "eligibility": {
+      "industries": "Arts,Research"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 346,
+    "name": "WomensNet Business Support Services Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "June category grant for women in business services",
+    "eligibility": {
+      "industries": "Consulting,Accounting,BusinessServices",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 347,
+    "name": "WomensNet Health & Fitness Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "February category grant for women in health/fitness",
+    "eligibility": {
+      "industries": "Health,Fitness,Wellness",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 348,
+    "name": "WomensNet Mental Health Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "May category grant for mental/emotional support services",
+    "eligibility": {
+      "industries": "MentalHealth,Wellness,Counseling",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 349,
+    "name": "WomensNet Animal Services Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "July category grant for women in animal services",
+    "eligibility": {
+      "industries": "Veterinary,PetCare,AnimalServices",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 350,
+    "name": "WomensNet Hair Care Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "August category grant for women in hair care",
+    "eligibility": {
+      "industries": "HairCare,Beauty,Salon",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 351,
+    "name": "WomensNet Education Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "September category grant for women in education/childcare",
+    "eligibility": {
+      "industries": "Education,Childcare,Tutoring",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 352,
+    "name": "Daycare Grant Program",
+    "provider": "Various State Programs",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 100000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "State-level childcare provider grants",
+    "eligibility": {
+      "industries": "Childcare,Daycare"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 353,
+    "name": "Home Health Care Startup Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 50000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "Home healthcare business grants",
+    "eligibility": {
+      "industries": "Healthcare,HomeCare"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 354,
+    "name": "Fitness Studio Equipment Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 25000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Equipment grants for fitness businesses",
+    "eligibility": {
+      "industries": "Fitness,Gym,Wellness"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 355,
+    "name": "Cleaning Business Startup Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Grants for cleaning service businesses",
+    "eligibility": {
+      "industries": "Cleaning,Janitorial"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 356,
+    "name": "Landscaping Business Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Equipment and expansion grants for landscaping",
+    "eligibility": {
+      "industries": "Landscaping,Lawn Care"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 357,
+    "name": "Personal Training Business Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 1000,
+    "amount_max": 10000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Grants for personal trainers and coaches",
+    "eligibility": {
+      "industries": "Fitness,PersonalTraining"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 358,
+    "name": "Event Planning Business Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Grants for event planning businesses",
+    "eligibility": {
+      "industries": "EventPlanning,Catering"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 359,
+    "name": "Salon & Spa Renovation Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Renovation and equipment grants for salons",
+    "eligibility": {
+      "industries": "Salon,Spa,Beauty"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 360,
+    "name": "Consulting Business Development Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 20000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Business development for consultants",
+    "eligibility": {
+      "industries": "Consulting,Professional Services"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 361,
+    "name": "WomensNet Skilled Trades Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "January category grant for women in skilled trades",
+    "eligibility": {
+      "industries": "Construction,Trades,HVAC,Plumbing,Electrical",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 362,
+    "name": "Construction Equipment Grant",
+    "provider": "Various State Programs",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "Equipment purchase grants for contractors",
+    "eligibility": {
+      "industries": "Construction"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 363,
+    "name": "Green Building Grant",
+    "provider": "DOE + EPA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Sustainable construction practice grants",
+    "eligibility": {
+      "industries": "Construction,GreenBuilding"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 364,
+    "name": "HVAC Efficiency Upgrade Grant",
+    "provider": "Utility Companies",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Rolling",
+    "url": "https://www.dsireusa.org/",
+    "description": "HVAC contractor efficiency program grants",
+    "eligibility": {
+      "industries": "HVAC,Trades"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 365,
+    "name": "Electrical Contractor Apprenticeship Grant",
+    "provider": "DOL",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 150000,
+    "deadline": "Annual",
+    "url": "https://www.dol.gov/",
+    "description": "Apprenticeship program grants for electrical contractors",
+    "eligibility": {
+      "industries": "Electrical,Trades"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 366,
+    "name": "Plumbing Business Development Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 30000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Business development for plumbing contractors",
+    "eligibility": {
+      "industries": "Plumbing,Trades"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 367,
+    "name": "Roofing Contractor Equipment Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Equipment grants for roofing contractors",
+    "eligibility": {
+      "industries": "Roofing,Construction"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 368,
+    "name": "Carpentry Business Startup Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 25000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Startup grants for carpentry businesses",
+    "eligibility": {
+      "industries": "Carpentry,Construction,Trades"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 369,
+    "name": "Painting Contractor Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 2500,
+    "amount_max": 15000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Equipment and expansion grants for painters",
+    "eligibility": {
+      "industries": "Painting,Construction"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 370,
+    "name": "Solar Installation Training Grant",
+    "provider": "DOE + State Programs",
+    "type": "Grant",
+    "amount_min": 15000,
+    "amount_max": 200000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Training and equipment for solar installers",
+    "eligibility": {
+      "industries": "Solar,Construction,CleanEnergy"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 371,
+    "name": "Community Development Block Grant",
+    "provider": "HUD",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Real estate development in low-income communities",
+    "eligibility": {
+      "industries": "RealEstate,Development"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 372,
+    "name": "Historic Preservation Grant",
+    "provider": "National Park Service",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.nps.gov/",
+    "description": "Historic building restoration grants",
+    "eligibility": {
+      "industries": "RealEstate,Historic"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 373,
+    "name": "Brownfield Redevelopment Grant",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 200000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Contaminated property cleanup and redevelopment",
+    "eligibility": {
+      "industries": "RealEstate,Environmental"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 374,
+    "name": "Affordable Housing Development Grant",
+    "provider": "HUD + State Programs",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.hud.gov/",
+    "description": "Low-income housing development",
+    "eligibility": {
+      "industries": "RealEstate,AffordableHousing"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 375,
+    "name": "Main Street Revitalization Grant",
+    "provider": "State + Local Programs",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 500000,
+    "deadline": "Varies",
+    "url": "https://www.mainstreet.org/",
+    "description": "Downtown commercial property renovation",
+    "eligibility": {
+      "industries": "RealEstate,Commercial"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 376,
+    "name": "Commercial Corridor Improvement Grant",
+    "provider": "Local Governments",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 250000,
+    "deadline": "Varies",
+    "url": "https://www.grants.gov/",
+    "description": "Commercial district property improvements",
+    "eligibility": {
+      "industries": "RealEstate,Commercial"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 377,
+    "name": "Energy Efficiency Retrofit Grant",
+    "provider": "DOE + Utilities",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Commercial building energy upgrades",
+    "eligibility": {
+      "industries": "RealEstate,Commercial"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 378,
+    "name": "Rural Housing Development Grant",
+    "provider": "USDA Rural Development",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 3000000,
+    "deadline": "Annual",
+    "url": "https://www.rd.usda.gov/",
+    "description": "Rural housing construction and renovation",
+    "eligibility": {
+      "industries": "RealEstate,Rural"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 379,
+    "name": "Transit-Oriented Development Grant",
+    "provider": "FTA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.transit.dot.gov/",
+    "description": "Development near public transit",
+    "eligibility": {
+      "industries": "RealEstate,Development"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 380,
+    "name": "Facade Improvement Grant Program",
+    "provider": "Cities & Counties",
+    "type": "Grant",
+    "amount_min": 5000,
+    "amount_max": 50000,
+    "deadline": "Varies",
+    "url": "https://www.mainstreet.org/",
+    "description": "Commercial building facade renovations",
+    "eligibility": {
+      "industries": "RealEstate,Commercial"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 381,
+    "name": "Electric Vehicle Fleet Grant",
+    "provider": "DOE + EPA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 2000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "EV fleet conversion grants",
+    "eligibility": {
+      "industries": "Transportation,Logistics"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 382,
+    "name": "Trucking Clean Diesel Grant",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 400000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Diesel emission reduction for trucking",
+    "eligibility": {
+      "industries": "Transportation,Trucking"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 383,
+    "name": "School Bus Replacement Grant",
+    "provider": "EPA",
+    "type": "Grant",
+    "amount_min": 200000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Electric school bus purchases",
+    "eligibility": {
+      "industries": "Transportation,Education"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 384,
+    "name": "Port Electrification Grant",
+    "provider": "DOT + EPA",
+    "type": "Grant",
+    "amount_min": 500000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.transportation.gov/",
+    "description": "Port equipment electrification",
+    "eligibility": {
+      "industries": "Transportation,Maritime,Logistics"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 385,
+    "name": "Rural Transit Capital Grant",
+    "provider": "FTA",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 5000000,
+    "deadline": "Annual",
+    "url": "https://www.transit.dot.gov/",
+    "description": "Rural public transportation vehicles and equipment",
+    "eligibility": {
+      "industries": "Transportation,Transit",
+      "rural": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 386,
+    "name": "Alternative Fuel Vehicle Grant",
+    "provider": "DOE",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Alternative fuel vehicle acquisition",
+    "eligibility": {
+      "industries": "Transportation"
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 387,
+    "name": "Last-Mile Delivery Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 250000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Grants for last-mile delivery services",
+    "eligibility": {
+      "industries": "Transportation,Logistics,Delivery"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 388,
+    "name": "EV Charging Infrastructure Grant",
+    "provider": "DOE + State Programs",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "EV charging station installation",
+    "eligibility": {
+      "industries": "Transportation,CleanEnergy"
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 389,
+    "name": "Autonomous Vehicle Pilot Grant",
+    "provider": "DOT",
+    "type": "Grant",
+    "amount_min": 1000000,
+    "amount_max": 10000000,
+    "deadline": "Annual",
+    "url": "https://www.transportation.gov/",
+    "description": "Autonomous vehicle technology pilots",
+    "eligibility": {
+      "industries": "Transportation,Technology"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 390,
+    "name": "Moving Company Equipment Grant",
+    "provider": "Various",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "deadline": "Varies",
+    "url": "https://www.skipgrants.com/",
+    "description": "Equipment grants for moving companies",
+    "eligibility": {
+      "industries": "Transportation,Moving"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 391,
+    "name": "WomensNet Sustainability Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "April category grant for women in sustainability",
+    "eligibility": {
+      "industries": "Sustainability,CleanTech,Green",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 392,
+    "name": "WomensNet Fashion & Interior Design Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "December category grant for women in fashion/design",
+    "eligibility": {
+      "industries": "Fashion,InteriorDesign",
+      "woman_owned": true
+    },
+    "obscurity": 6
+  },
+  {
+    "id": 393,
+    "name": "WomensNet STEM Grant",
+    "provider": "WomensNet",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 10000,
+    "deadline": "Annual",
+    "url": "https://ambergrantsforwomen.com/",
+    "description": "November category grant for women in STEM",
+    "eligibility": {
+      "industries": "STEM,Science,Technology,Engineering,Math",
+      "woman_owned": true
+    },
+    "obscurity": 5
+  },
+  {
+    "id": 394,
+    "name": "Circular Economy Innovation Grant",
+    "provider": "EPA + Private Foundations",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Waste reduction and circular economy innovation",
+    "eligibility": {
+      "industries": "Recycling,Sustainability,Manufacturing"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 395,
+    "name": "Water Conservation Technology Grant",
+    "provider": "EPA + Water Agencies",
+    "type": "Grant",
+    "amount_min": 25000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.epa.gov/",
+    "description": "Water-saving technology development",
+    "eligibility": {
+      "industries": "Water,Agriculture,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 396,
+    "name": "Cybersecurity Small Business Grant",
+    "provider": "NIST + DHS",
+    "type": "Grant",
+    "amount_min": 10000,
+    "amount_max": 100000,
+    "deadline": "Annual",
+    "url": "https://www.nist.gov/",
+    "description": "Cybersecurity implementation grants",
+    "eligibility": {
+      "industries": "Technology,Cybersecurity"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 397,
+    "name": "Blockchain Innovation Grant",
+    "provider": "NSF",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 256000,
+    "deadline": "Annual",
+    "url": "https://www.nsf.gov/",
+    "description": "Blockchain technology R&D",
+    "eligibility": {
+      "industries": "Technology,Blockchain,Fintech"
+    },
+    "obscurity": 8
+  },
+  {
+    "id": 398,
+    "name": "Space Technology Small Business Grant",
+    "provider": "NASA",
+    "type": "Grant",
+    "amount_min": 125000,
+    "amount_max": 850000,
+    "deadline": "Annual",
+    "url": "https://www.nasa.gov/",
+    "description": "Space and aerospace technology development",
+    "eligibility": {
+      "industries": "Aerospace,Technology"
+    },
+    "obscurity": 7
+  },
+  {
+    "id": 399,
+    "name": "Quantum Computing Research Grant",
+    "provider": "DOE + NSF",
+    "type": "Grant",
+    "amount_min": 100000,
+    "amount_max": 1000000,
+    "deadline": "Annual",
+    "url": "https://www.energy.gov/",
+    "description": "Quantum technology research and development",
+    "eligibility": {
+      "industries": "Technology,QuantumComputing"
+    },
+    "obscurity": 9
+  },
+  {
+    "id": 400,
+    "name": "Ocean Technology Innovation Grant",
+    "provider": "NOAA",
+    "type": "Grant",
+    "amount_min": 50000,
+    "amount_max": 500000,
+    "deadline": "Annual",
+    "url": "https://www.noaa.gov/",
+    "description": "Marine and ocean technology development",
+    "eligibility": {
+      "industries": "Maritime,Technology,Environmental"
+    },
+    "obscurity": 8
+  }
+]
