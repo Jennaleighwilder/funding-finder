@@ -15,16 +15,17 @@ BASE_DIR = Path(__file__).resolve().parent
 DB_DIR = BASE_DIR / "data"
 DB_PATH = os.environ.get("DATABASE_PATH", str(DB_DIR / "funding_finder.db"))
 
-# Ensure data dir exists and init DB from schema if needed
-DB_DIR.mkdir(exist_ok=True)
-if not Path(DB_PATH).exists():
-    import sqlite3
-    schema_path = BASE_DIR / "schema.sql"
-    if schema_path.exists():
-        conn = sqlite3.connect(DB_PATH)
-        conn.executescript(schema_path.read_text())
-        conn.commit()
-        conn.close()
+# Lazy DB init so app starts fast and Railway healthcheck passes
+def _ensure_db():
+    DB_DIR.mkdir(exist_ok=True)
+    if not Path(DB_PATH).exists():
+        import sqlite3
+        schema_path = BASE_DIR / "schema.sql"
+        if schema_path.exists():
+            conn = sqlite3.connect(DB_PATH)
+            conn.executescript(schema_path.read_text())
+            conn.commit()
+            conn.close()
 
 from engine import FundingMatchEngine, UserProfile, Match
 
@@ -40,6 +41,7 @@ AMOUNT_MAP = {
 
 
 def _get_engine():
+    _ensure_db()
     return FundingMatchEngine(DB_PATH)
 
 
@@ -155,6 +157,7 @@ def api_match():
 
 @app.route("/api/health")
 def health():
+    # Fast response so Railway healthcheck passes; DB init happens on first /api/match
     return jsonify({"status": "ok", "database": Path(DB_PATH).exists()})
 
 

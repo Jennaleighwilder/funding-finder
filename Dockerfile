@@ -11,12 +11,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app.py engine.py questionnaire.py schema.sql ./
 COPY FUNDING_FINDER_FUN.html ./
 COPY SAMPLE_FUNDING_REPORT.html ./
+COPY start.sh ./
 
 # Create data dir for SQLite (writable at runtime)
-RUN mkdir -p /app/data
+RUN mkdir -p /app/data && chmod +x start.sh
 
 ENV PORT=5000
 EXPOSE 5000
 
-# Use gunicorn; PORT is set by Railway/Render etc.
-CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:${PORT:-5000} --workers 2 --threads 4 app:app"]
+# 1 worker = faster startup for Railway healthcheck; PORT from env
+CMD ["./start.sh"]
