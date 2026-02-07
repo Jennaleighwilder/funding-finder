@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1401,
+    "name": "New Mexico Job Training Incentive Program",
+    "source": "New Mexico Economic Development Department",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "new_mexico_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 5,
+    "url": "https://gonm.biz/jtip"
+  },
+  {
+    "id": 1402,
+    "name": "New Mexico Film Production Tax Credit",
+    "source": "New Mexico Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "new_mexico_filming"],
+    "funding_range": "25-35% of expenses",
+    "obscurity_score": 3,
+    "url": "https://nmfilm.com/tax-incentive"
+  },
+  {
+    "id": 1403,
+    "name": "New Mexico Local Economic Development Act",
+    "source": "New Mexico Economic Development Department",
+    "type": "tax_credit",
+    "eligibility": ["business_expansion", "job_creation", "new_mexico_based"],
+    "funding_range": "10 year tax abatement",
+    "obscurity_score": 5,
+    "url": "https://gonm.biz/leda"
+  },
+  {
+    "id": 1404,
+    "name": "New Mexico Small Business Investment Corporation",
+    "source": "New Mexico SBIC",
+    "type": "loan",
+    "eligibility": ["small_business", "new_mexico_based", "expansion"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://nmsbic.com/loans"
+  },
+  {
+    "id": 1405,
+    "name": "New Mexico Angel Investment Tax Credit",
+    "source": "New Mexico Taxation and Revenue Department",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "new_mexico_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 6,
+    "url": "https://tax.newmexico.gov/angel-investment"
+  },
+  {
+    "id": 1406,
+    "name": "New Mexico Technology Research Collaborative",
+    "source": "New Mexico Tech Research Collaborative",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "new_mexico_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://nmtrc.org/grants"
+  },
+  {
+    "id": 1407,
+    "name": "New Mexico Agriculture Innovation Grant",
+    "source": "New Mexico Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "new_mexico_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://nmda.nmsu.edu/grants"
+  },
+  {
+    "id": 1408,
+    "name": "New Mexico Renewable Energy Production Tax Credit",
+    "source": "New Mexico Taxation and Revenue Department",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "solar", "new_mexico_based"],
+    "funding_range": "30% of investment",
+    "obscurity_score": 5,
+    "url": "https://tax.newmexico.gov/renewable-energy"
+  },
+  {
+    "id": 1409,
+    "name": "New Mexico MainStreet Capital Outlay Grant",
+    "source": "New Mexico MainStreet Program",
+    "type": "grant",
+    "eligibility": ["downtown", "commercial_real_estate", "new_mexico_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://nmmainstreet.org/grants"
+  },
+  {
+    "id": 1410,
+    "name": "New Mexico Tourism Marketing Grant",
+    "source": "New Mexico Tourism Department",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 6,
+    "url": "https://newmexico.org/grants"
+  },
+  {
+    "id": 1411,
+    "name": "New Mexico Historic Preservation Tax Credit",
+    "source": "New Mexico Historic Preservation Division",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "new_mexico_based"],
+    "funding_range": "50% of expenses",
+    "obscurity_score": 5,
+    "url": "https://nmhistoricpreservation.org/tax-credits"
+  },
+  {
+    "id": 1412,
+    "name": "New Mexico Chile Promotion & Marketing",
+    "source": "New Mexico Chile Association",
+    "type": "grant",
+    "eligibility": ["chile_farming", "agriculture", "new_mexico_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://nmchileassociation.com/grants"
+  },
+  {
+    "id": 1413,
+    "name": "New Mexico Spaceport Tenant Incentive",
+    "source": "Spaceport America",
+    "type": "grant",
+    "eligibility": ["aerospace", "space_tech", "new_mexico_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://spaceportamerica.com/incentives"
+  },
+  {
+    "id": 1414,
+    "name": "New Mexico Broadband Infrastructure Grant",
+    "source": "New Mexico Department of Information Technology",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://doit.nm.gov/broadband-grants"
+  },
+  {
+    "id": 1415,
+    "name": "New Mexico Research & Development Tax Credit",
+    "source": "New Mexico Taxation and Revenue Department",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "new_mexico_based"],
+    "funding_range": "5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.newmexico.gov/rd-credit"
+  },
+  {
+    "id": 1416,
+    "name": "New Mexico Veteran Business Development",
+    "source": "New Mexico Veterans' Services Department",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "new_mexico_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://nmdvs.org/business-grants"
+  },
+  {
+    "id": 1417,
+    "name": "New Mexico Native American Business Development",
+    "source": "New Mexico Indian Affairs Department",
+    "type": "grant",
+    "eligibility": ["native_american", "tribal_enterprise", "new_mexico_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://iad.state.nm.us/business-grants"
+  },
+  {
+    "id": 1418,
+    "name": "New Mexico Advanced Energy Tax Credit",
+    "source": "New Mexico Energy, Minerals and Natural Resources Department",
+    "type": "tax_credit",
+    "eligibility": ["advanced_energy", "manufacturing", "new_mexico_based"],
+    "funding_range": "6% of investment",
+    "obscurity_score": 7,
+    "url": "https://emnrd.nm.gov/energy/advanced-energy-credit"
+  },
+  {
+    "id": 1419,
+    "name": "New Mexico Geothermal Development Grant",
+    "source": "New Mexico Energy, Minerals and Natural Resources Department",
+    "type": "grant",
+    "eligibility": ["geothermal", "renewable_energy", "new_mexico_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://emnrd.nm.gov/energy/geothermal"
+  },
+  {
+    "id": 1420,
+    "name": "New Mexico Wine & Grape Growers Association Grant",
+    "source": "New Mexico Wine Growers Association",
+    "type": "grant",
+    "eligibility": ["wine_industry", "agriculture", "new_mexico_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://nmwine.com/grants"
+  },
+  {
+    "id": 1421,
+    "name": "New York State Business Incentive Grant",
+    "source": "Empire State Development",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "new_york_based"],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 4,
+    "url": "https://esd.ny.gov/business-incentives"
+  },
+  {
+    "id": 1422,
+    "name": "New York Film Production Tax Credit",
+    "source": "New York Governor's Office of Motion Picture & Television Development",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "new_york_filming"],
+    "funding_range": "30% of expenses",
+    "obscurity_score": 3,
+    "url": "https://esd.ny.gov/film-tax-credit"
+  },
+  {
+    "id": 1423,
+    "name": "New York Innovation Venture Capital Fund",
+    "source": "Empire State Development",
+    "type": "equity",
+    "eligibility": ["tech_startup", "high_growth", "new_york_based"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://esd.ny.gov/innovation-venture-capital"
+  },
+  {
+    "id": 1424,
+    "name": "New York Manufacturing Modernization Grant",
+    "source": "New York Manufacturing Extension Partnership",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "new_york_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 6,
+    "url": "https://nymep.org/grants"
+  },
+  {
+    "id": 1425,
+    "name": "New York Excelsior Jobs Tax Credit",
+    "source": "Empire State Development",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "capital_investment", "new_york_based"],
+    "funding_range": "$3,000 - $5,000 per job",
+    "obscurity_score": 4,
+    "url": "https://esd.ny.gov/excelsior-jobs-program"
+  },
+  {
+    "id": 1426,
+    "name": "New York Life Sciences Laboratory Tax Credit",
+    "source": "Empire State Development",
+    "type": "tax_credit",
+    "eligibility": ["biotech", "life_sciences", "new_york_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://esd.ny.gov/life-sciences-lab-credit"
+  },
+  {
+    "id": 1427,
+    "name": "New York Agricultural Innovation Grant",
+    "source": "New York State Department of Agriculture and Markets",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "new_york_based"],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://agriculture.ny.gov/grants"
+  },
+  {
+    "id": 1428,
+    "name": "New York Brownfield Cleanup Tax Credit",
+    "source": "New York Department of Environmental Conservation",
+    "type": "tax_credit",
+    "eligibility": ["brownfield", "environmental_cleanup", "new_york_based"],
+    "funding_range": "10-24% of expenses",
+    "obscurity_score": 5,
+    "url": "https://dec.ny.gov/brownfield-cleanup-program"
+  },
+  {
+    "id": 1429,
+    "name": "New York Tourism Marketing Grant",
+    "source": "I Love NY",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 5,
+    "url": "https://esd.ny.gov/tourism-grants"
+  },
+  {
+    "id": 1430,
+    "name": "New York Historic Commercial Structures Tax Credit",
+    "source": "New York State Office of Parks, Recreation & Historic Preservation",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "new_york_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 5,
+    "url": "https://parks.ny.gov/shpo/tax-credit-programs"
+  },
+  {
+    "id": 1431,
+    "name": "New York Workforce Development Grant",
+    "source": "New York Department of Labor",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "new_york_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 4,
+    "url": "https://labor.ny.gov/workforce-development-grants"
+  },
+  {
+    "id": 1432,
+    "name": "New York Research & Development Tax Credit",
+    "source": "New York Department of Taxation and Finance",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "new_york_based"],
+    "funding_range": "6-9% of expenses",
+    "obscurity_score": 5,
+    "url": "https://tax.ny.gov/rd-tax-credit"
+  },
+  {
+    "id": 1433,
+    "name": "New York Craft Beverage Production Tax Credit",
+    "source": "New York State Liquor Authority",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "14-30¢ per gallon",
+    "obscurity_score": 5,
+    "url": "https://sla.ny.gov/craft-beverage-credit"
+  },
+  {
+    "id": 1434,
+    "name": "New York Clean Energy Fund Grant",
+    "source": "New York State Energy Research and Development Authority",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "new_york_based"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 5,
+    "url": "https://nyserda.ny.gov/cef"
+  },
+  {
+    "id": 1435,
+    "name": "New York Minority & Women-Owned Business Development",
+    "source": "Empire State Development",
+    "type": "grant",
+    "eligibility": ["minority_owned", "women_owned", "new_york_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://esd.ny.gov/mwbe-grants"
+  },
+  {
+    "id": 1436,
+    "name": "New York START-UP NY Tax Elimination",
+    "source": "Empire State Development",
+    "type": "tax_credit",
+    "eligibility": ["tech_startup", "university_partnership", "new_york_based"],
+    "funding_range": "10 year tax elimination",
+    "obscurity_score": 5,
+    "url": "https://esd.ny.gov/startup-ny"
+  },
+  {
+    "id": 1437,
+    "name": "New York Wine & Grape Foundation Grant",
+    "source": "New York Wine & Grape Foundation",
+    "type": "grant",
+    "eligibility": ["wine_industry", "viticulture", "new_york_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://newyorkwines.org/grants"
+  },
+  {
+    "id": 1438,
+    "name": "New York Offshore Wind Tax Credit",
+    "source": "New York State Energy Research and Development Authority",
+    "type": "tax_credit",
+    "eligibility": ["offshore_wind", "renewable_energy", "new_york_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 6,
+    "url": "https://nyserda.ny.gov/offshore-wind-credit"
+  },
+  {
+    "id": 1439,
+    "name": "New York Veteran Business Development",
+    "source": "New York Division of Veterans' Services",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "new_york_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 5,
+    "url": "https://veterans.ny.gov/business-grants"
+  },
+  {
+    "id": 1440,
+    "name": "New York Broadband for All Grant",
+    "source": "Empire State Development",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 5,
+    "url": "https://esd.ny.gov/broadband-program"
+  },
+  {
+    "id": 1441,
+    "name": "North Carolina One North Carolina Fund",
+    "source": "North Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "north_carolina_based"],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 5,
+    "url": "https://edpnc.com/incentives/one-nc-fund"
+  },
+  {
+    "id": 1442,
+    "name": "North Carolina Film & Entertainment Grant",
+    "source": "North Carolina Film Office",
+    "type": "grant",
+    "eligibility": ["film_production", "media", "north_carolina_filming"],
+    "funding_range": "25% rebate",
+    "obscurity_score": 4,
+    "url": "https://film.nc.gov/grants"
+  },
+  {
+    "id": 1443,
+    "name": "North Carolina Small Business Loan",
+    "source": "North Carolina Rural Economic Development Center",
+    "type": "loan",
+    "eligibility": ["small_business", "rural", "north_carolina_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://ncruralcenter.org/small-business-loans"
+  },
+  {
+    "id": 1444,
+    "name": "North Carolina Angel Investor Tax Credit",
+    "source": "North Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "north_carolina_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 6,
+    "url": "https://ncdor.gov/angel-investor"
+  },
+  {
+    "id": 1445,
+    "name": "North Carolina Biotechnology Center Grant",
+    "source": "North Carolina Biotechnology Center",
+    "type": "grant",
+    "eligibility": ["biotech", "life_sciences", "north_carolina_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://ncbiotech.org/grants-loans"
+  },
+  {
+    "id": 1446,
+    "name": "North Carolina Agricultural Development Grant",
+    "source": "North Carolina Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "value_added", "north_carolina_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://ncagr.gov/grants"
+  },
+  {
+    "id": 1447,
+    "name": "North Carolina Job Development Investment Grant",
+    "source": "North Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["job_creation", "high_wage", "north_carolina_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 4,
+    "url": "https://edpnc.com/incentives/jdig"
+  },
+  {
+    "id": 1448,
+    "name": "North Carolina Green Business Fund",
+    "source": "North Carolina Department of Environmental Quality",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "sustainability", "north_carolina_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://deq.nc.gov/green-business-fund"
+  },
+  {
+    "id": 1449,
+    "name": "North Carolina Historic Preservation Tax Credit",
+    "source": "North Carolina State Historic Preservation Office",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "north_carolina_based"],
+    "funding_range": "15-20% of expenses",
+    "obscurity_score": 5,
+    "url": "https://hpo.ncdcr.gov/tax-credits"
+  },
+  {
+    "id": 1450,
+    "name": "North Carolina Tourism Marketing Grant",
+    "source": "Visit North Carolina",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://visitnc.com/grants"
+  },
+  {
+    "id": 1451,
+    "name": "North Carolina Workforce Development Grant",
+    "source": "North Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "north_carolina_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 4,
+    "url": "https://nccommerce.com/workforce-grants"
+  },
+  {
+    "id": 1452,
+    "name": "North Carolina Research & Development Tax Credit",
+    "source": "North Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "north_carolina_based"],
+    "funding_range": "3-20% of expenses",
+    "obscurity_score": 5,
+    "url": "https://ncdor.gov/rd-credit"
+  },
+  {
+    "id": 1453,
+    "name": "North Carolina Broadband Infrastructure Grant",
+    "source": "North Carolina Department of Information Technology",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 5,
+    "url": "https://ncbroadband.gov/grants"
+  },
+  {
+    "id": 1454,
+    "name": "North Carolina Sweet Potato Commission Grant",
+    "source": "North Carolina SweetPotato Commission",
+    "type": "grant",
+    "eligibility": ["sweet_potato", "agriculture", "north_carolina_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 9,
+    "url": "https://ncsweetpotatoes.com/grants"
+  },
+  {
+    "id": 1455,
+    "name": "North Carolina Furniture Manufacturing Competitiveness",
+    "source": "North Carolina State University",
+    "type": "grant",
+    "eligibility": ["furniture", "manufacturing", "north_carolina_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://cnr.ncsu.edu/fwp/furniture-grants"
+  },
+  {
+    "id": 1456,
+    "name": "North Carolina Community Development Block Grant",
+    "source": "North Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["community_development", "small_business", "north_carolina_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 5,
+    "url": "https://nccommerce.com/cdbg"
+  },
+  {
+    "id": 1457,
+    "name": "North Carolina Motorsports & Automotive Development",
+    "source": "North Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["motorsports", "automotive", "north_carolina_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://edpnc.com/motorsports-grants"
+  },
+  {
+    "id": 1458,
+    "name": "North Carolina Veteran Business Development",
+    "source": "North Carolina Department of Military and Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "north_carolina_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 5,
+    "url": "https://ncmilitary.nc.gov/veterans/business"
+  },
+  {
+    "id": 1459,
+    "name": "North Carolina Craft Beverage Modernization",
+    "source": "North Carolina Alcoholic Beverage Control Commission",
+    "type": "grant",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://abc.nc.gov/craft-beverage-grants"
+  },
+  {
+    "id": 1460,
+    "name": "North Carolina Aquaculture Development Grant",
+    "source": "North Carolina Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["aquaculture", "seafood", "north_carolina_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://ncagr.gov/aquaculture"
+  },
+  {
+    "id": 1461,
+    "name": "Oklahoma Small Business Loan Guarantee",
+    "source": "Oklahoma Department of Commerce",
+    "type": "loan",
+    "eligibility": ["small_business", "oklahoma_based", "expansion"],
+    "funding_range": "$50,000 - $1,500,000",
+    "obscurity_score": 5,
+    "url": "https://okcommerce.gov/small-business-loan"
+  },
+  {
+    "id": 1462,
+    "name": "Oklahoma Film Enhancement Rebate",
+    "source": "Oklahoma Film + Music Office",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "oklahoma_filming"],
+    "funding_range": "35-37% rebate",
+    "obscurity_score": 5,
+    "url": "https://oklahomafilm.org/rebate"
+  },
+  {
+    "id": 1463,
+    "name": "Oklahoma Aerospace & Defense Business Incentive",
+    "source": "Oklahoma Department of Commerce",
+    "type": "grant",
+    "eligibility": ["aerospace", "defense", "oklahoma_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://okcommerce.gov/aerospace-grants"
+  },
+  {
+    "id": 1464,
+    "name": "Oklahoma Quality Jobs Tax Credit",
+    "source": "Oklahoma Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "high_wage", "oklahoma_based"],
+    "funding_range": "3.5-5% payroll rebate",
+    "obscurity_score": 4,
+    "url": "https://tax.ok.gov/quality-jobs"
+  },
+  {
+    "id": 1465,
+    "name": "Oklahoma Energy Capital Investment Tax Credit",
+    "source": "Oklahoma Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "oil_gas", "oklahoma_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 6,
+    "url": "https://tax.ok.gov/energy-credit"
+  },
+  {
+    "id": 1466,
+    "name": "Oklahoma Agricultural Linked Deposit Program",
+    "source": "Oklahoma Department of Agriculture",
+    "type": "loan",
+    "eligibility": ["agriculture", "farming", "oklahoma_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://oda.okstate.edu/linked-deposit"
+  },
+  {
+    "id": 1467,
+    "name": "Oklahoma Manufacturing Alliance Grant",
+    "source": "Oklahoma Manufacturing Alliance",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "oklahoma_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://okalliance.com/grants"
+  },
+  {
+    "id": 1468,
+    "name": "Oklahoma Tourism & Recreation Capital Grant",
+    "source": "Oklahoma Tourism & Recreation Department",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "capital_investment"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://travelok.com/capital-grants"
+  },
+  {
+    "id": 1469,
+    "name": "Oklahoma Historic Preservation Tax Credit",
+    "source": "Oklahoma Historical Society",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "oklahoma_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://okhistory.org/shpo/taxcredit"
+  },
+  {
+    "id": 1470,
+    "name": "Oklahoma Workforce Training Incentive",
+    "source": "Oklahoma Department of Commerce",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "oklahoma_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://okcommerce.gov/workforce-training"
+  },
+  {
+    "id": 1471,
+    "name": "Oklahoma Research & Development Tax Credit",
+    "source": "Oklahoma Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "oklahoma_based"],
+    "funding_range": "1-3% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.ok.gov/rd-credit"
+  },
+  {
+    "id": 1472,
+    "name": "Oklahoma Broadband Expansion Grant",
+    "source": "Oklahoma Broadband Office",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://broadband.ok.gov/grants"
+  },
+  {
+    "id": 1473,
+    "name": "Oklahoma Tribal Business Development",
+    "source": "Oklahoma Native American Business Development",
+    "type": "grant",
+    "eligibility": ["native_american", "tribal_enterprise", "oklahoma_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://oknativeassist.org/grants"
+  },
+  {
+    "id": 1474,
+    "name": "Oklahoma Zero-Emission Facility Tax Credit",
+    "source": "Oklahoma Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["zero_emission", "renewable_energy", "oklahoma_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 7,
+    "url": "https://tax.ok.gov/zero-emission"
+  },
+  {
+    "id": 1475,
+    "name": "Oklahoma Pecan Commission Marketing Grant",
+    "source": "Oklahoma Pecan Commission",
+    "type": "grant",
+    "eligibility": ["pecan_farming", "agriculture", "oklahoma_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://okpecan.org/grants"
+  },
+  {
+    "id": 1476,
+    "name": "Oklahoma Music Recording Incentive",
+    "source": "Oklahoma Film + Music Office",
+    "type": "rebate",
+    "eligibility": ["music_production", "recording", "oklahoma_based"],
+    "funding_range": "35% rebate",
+    "obscurity_score": 7,
+    "url": "https://oklahomafilm.org/music-rebate"
+  },
+  {
+    "id": 1477,
+    "name": "Oklahoma Small Business CDFI Loan",
+    "source": "Oklahoma CDFI Network",
+    "type": "loan",
+    "eligibility": ["small_business", "underserved", "oklahoma_based"],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://okcdfi.org/loans"
+  },
+  {
+    "id": 1478,
+    "name": "Oklahoma Veteran Business Development",
+    "source": "Oklahoma Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "oklahoma_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://ok.gov/veterans/business"
+  },
+  {
+    "id": 1479,
+    "name": "Oklahoma Wind Energy Production Tax Credit",
+    "source": "Oklahoma Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["wind_energy", "renewable_energy", "oklahoma_based"],
+    "funding_range": "0.5¢ per kWh",
+    "obscurity_score": 6,
+    "url": "https://tax.ok.gov/wind-credit"
+  },
+  {
+    "id": 1480,
+    "name": "Oklahoma Cattle & Livestock Marketing",
+    "source": "Oklahoma Beef Council",
+    "type": "grant",
+    "eligibility": ["cattle_ranching", "livestock", "oklahoma_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://okbeef.org/grants"
+  },
+  {
+    "id": 1481,
+    "name": "Oregon Business Development Fund",
+    "source": "Business Oregon",
+    "type": "loan",
+    "eligibility": ["small_business", "oregon_based", "expansion"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 5,
+    "url": "https://oregonbusinessplan.org/business-development-fund"
+  },
+  {
+    "id": 1482,
+    "name": "Oregon Film & Video Production Incentive",
+    "source": "Oregon Film Office",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "oregon_filming"],
+    "funding_range": "20% rebate",
+    "obscurity_score": 5,
+    "url": "https://oregonfilm.org/incentive"
+  },
+  {
+    "id": 1483,
+    "name": "Oregon SBIR/STTR Matching Grant",
+    "source": "Business Oregon",
+    "type": "grant",
+    "eligibility": ["tech_startup", "federal_sbir", "oregon_based"],
+    "funding_range": "$50,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://oregonbusinessplan.org/sbir-sttr"
+  },
+  {
+    "id": 1484,
+    "name": "Oregon Innovation Accelerator Challenge",
+    "source": "Business Oregon",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "oregon_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://oregonbusinessplan.org/innovation-challenge"
+  },
+  {
+    "id": 1485,
+    "name": "Oregon Agricultural Value-Added Grant",
+    "source": "Oregon Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "value_added", "oregon_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://oregon.gov/oda/value-added"
+  },
+  {
+    "id": 1486,
+    "name": "Oregon Strategic Investment Program",
+    "source": "Business Oregon",
+    "type": "tax_credit",
+    "eligibility": ["capital_investment", "large_scale", "oregon_based"],
+    "funding_range": "Property tax exemption",
+    "obscurity_score": 6,
+    "url": "https://oregonbusinessplan.org/strategic-investment"
+  },
+  {
+    "id": 1487,
+    "name": "Oregon Manufacturing Innovation Grant",
+    "source": "Oregon Manufacturing Extension Partnership",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "oregon_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://omep.org/grants"
+  },
+  {
+    "id": 1488,
+    "name": "Oregon Renewable Energy Development Grant",
+    "source": "Oregon Department of Energy",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "oregon_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://oregon.gov/energy/incentives/renewable-development"
+  },
+  {
+    "id": 1489,
+    "name": "Oregon Historic Preservation Tax Credit",
+    "source": "Oregon State Historic Preservation Office",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "oregon_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://oregonheritage.org/tax-credit"
+  },
+  {
+    "id": 1490,
+    "name": "Oregon Tourism Marketing Grant",
+    "source": "Travel Oregon",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://traveloregon.com/grants"
+  },
+  {
+    "id": 1491,
+    "name": "Oregon Workforce Training Grant",
+    "source": "Oregon Employment Department",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "oregon_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://oregon.gov/employ/businesses/workforce-training"
+  },
+  {
+    "id": 1492,
+    "name": "Oregon Research & Development Tax Credit",
+    "source": "Oregon Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "oregon_based"],
+    "funding_range": "5-7.5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://oregon.gov/dor/programs/businesses/rd-credit"
+  },
+  {
+    "id": 1493,
+    "name": "Oregon Broadband Infrastructure Grant",
+    "source": "Business Oregon",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://oregonbusinessplan.org/broadband"
+  },
+  {
+    "id": 1494,
+    "name": "Oregon Wine & Grape Marketing Grant",
+    "source": "Oregon Wine Board",
+    "type": "grant",
+    "eligibility": ["wine_industry", "viticulture", "oregon_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://oregonwine.org/grants"
+  },
+  {
+    "id": 1495,
+    "name": "Oregon Craft Beer Promotion Grant",
+    "source": "Oregon Brewers Guild",
+    "type": "grant",
+    "eligibility": ["brewery", "craft_beverage", "oregon_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://oregonbeer.org/grants"
+  },
+  {
+    "id": 1496,
+    "name": "Oregon Small Business Expansion Program",
+    "source": "Business Oregon",
+    "type": "loan",
+    "eligibility": ["small_business", "expansion", "oregon_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://oregonbusinessplan.org/expansion-program"
+  },
+  {
+    "id": 1497,
+    "name": "Oregon Veteran Business Development",
+    "source": "Oregon Department of Veterans' Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "oregon_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://oregon.gov/odva/business"
+  },
+  {
+    "id": 1498,
+    "name": "Oregon Seafood Marketing Grant",
+    "source": "Oregon Seafood Commission",
+    "type": "grant",
+    "eligibility": ["seafood", "fishing", "oregon_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://oregonseafood.org/grants"
+  },
+  {
+    "id": 1499,
+    "name": "Oregon Wood Products Innovation",
+    "source": "Oregon Department of Forestry",
+    "type": "grant",
+    "eligibility": ["forestry", "wood_products", "oregon_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://oregon.gov/odf/business/wood-innovation"
+  },
+  {
+    "id": 1500,
+    "name": "Oregon Outdoor Recreation Infrastructure",
+    "source": "Travel Oregon",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "oregon_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://traveloregon.com/outdoor-rec-grants"
+  }
+]

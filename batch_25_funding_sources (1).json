@@ -1,0 +1,1403 @@
+[
+  {
+    "id": 2401,
+    "name": "Minority Business Enterprise (MBE) Certification",
+    "source": "National Minority Supplier Development Council",
+    "type": "certification",
+    "eligibility": [
+      "minority_owned",
+      "51_percent_ownership",
+      "economically_disadvantaged"
+    ],
+    "funding_range": "$25,000 - $100,000,000",
+    "obscurity_score": 5,
+    "url": "https://nmsdc.org/mbe-certification"
+  },
+  {
+    "id": 2402,
+    "name": "8(a) Business Development Program",
+    "source": "Small Business Administration",
+    "type": "contract",
+    "eligibility": [
+      "socially_economically_disadvantaged",
+      "small_business",
+      "federal_contracts"
+    ],
+    "funding_range": "$100,000 - $100,000,000",
+    "obscurity_score": 5,
+    "url": "https://sba.gov/8a-program"
+  },
+  {
+    "id": 2403,
+    "name": "Minority Business Development Agency (MBDA) Grants",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "business_development",
+      "scalable"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://mbda.gov/grants"
+  },
+  {
+    "id": 2404,
+    "name": "National Urban League Entrepreneurship Center",
+    "source": "National Urban League",
+    "type": "grant",
+    "eligibility": [
+      "african_american",
+      "minority_entrepreneur",
+      "urban_communities"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://nul.org/entrepreneurship"
+  },
+  {
+    "id": 2405,
+    "name": "Minority Innovation Fund",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "minority_led",
+      "technology_innovation",
+      "high_growth"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/minority-innovation"
+  },
+  {
+    "id": 2406,
+    "name": "Diverse Founder Venture Capital Fund",
+    "source": "U.S. Department of Commerce",
+    "type": "investment",
+    "eligibility": [
+      "minority_founder",
+      "underrepresented",
+      "venture_scale"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/diverse-founder-vc"
+  },
+  {
+    "id": 2407,
+    "name": "Minority Supplier Diversity Program",
+    "source": "National Minority Supplier Development Council",
+    "type": "contract",
+    "eligibility": [
+      "minority_owned",
+      "corporate_supply_chain",
+      "manufacturing_services"
+    ],
+    "funding_range": "$50,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://nmsdc.org/supplier-diversity"
+  },
+  {
+    "id": 2408,
+    "name": "Historically Underutilized Business Zone (HUBZone)",
+    "source": "Small Business Administration",
+    "type": "contract",
+    "eligibility": [
+      "underutilized_area",
+      "35_percent_employees_in_hubzone",
+      "federal_contracts"
+    ],
+    "funding_range": "$25,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/hubzone"
+  },
+  {
+    "id": 2409,
+    "name": "Minority Business Accelerator Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "high_growth_potential",
+      "job_creation"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/minority-accelerator"
+  },
+  {
+    "id": 2410,
+    "name": "Minority Entrepreneur University Partnership",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "university_collaboration",
+      "research_commercialization"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/minority-entrepreneur-university"
+  },
+  {
+    "id": 2411,
+    "name": "Black Business Investment Fund",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "african_american",
+      "business_growth"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/black-business-fund"
+  },
+  {
+    "id": 2412,
+    "name": "Black-Owned Tech Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "black_founder",
+      "technology_business",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/black-tech-startup"
+  },
+  {
+    "id": 2413,
+    "name": "Black Farmers & Ranchers Grant Program",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "black_farmer",
+      "african_american",
+      "agricultural_business"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/black-farmers"
+  },
+  {
+    "id": 2414,
+    "name": "Black-Owned Construction Business Development",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "construction",
+      "dbe_certified"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/black-construction"
+  },
+  {
+    "id": 2415,
+    "name": "Black-Owned Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/black-manufacturing"
+  },
+  {
+    "id": 2416,
+    "name": "Black-Owned Restaurant & Food Service Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "restaurant",
+      "food_service"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/black-restaurant"
+  },
+  {
+    "id": 2417,
+    "name": "Black-Owned Healthcare Business Development",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "healthcare_services",
+      "medical_practice"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/black-healthcare"
+  },
+  {
+    "id": 2418,
+    "name": "Black-Owned Real Estate Development Fund",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "black_developer",
+      "real_estate",
+      "community_development"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/black-real-estate"
+  },
+  {
+    "id": 2419,
+    "name": "Black-Owned Media & Entertainment Grant",
+    "source": "Corporation for Public Broadcasting",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "media_production",
+      "broadcasting"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://cpb.org/black-media"
+  },
+  {
+    "id": 2420,
+    "name": "Black-Owned Fashion & Apparel Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "fashion",
+      "apparel_manufacturing"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/black-fashion"
+  },
+  {
+    "id": 2421,
+    "name": "Black-Owned Beauty & Cosmetics Business",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "beauty_products",
+      "cosmetics_manufacturing"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/black-beauty"
+  },
+  {
+    "id": 2422,
+    "name": "Black-Owned Fintech & Financial Services",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "financial_technology",
+      "banking"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/black-fintech"
+  },
+  {
+    "id": 2423,
+    "name": "Black-Owned Clean Energy Business Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "renewable_energy",
+      "sustainability"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/black-clean-energy"
+  },
+  {
+    "id": 2424,
+    "name": "Black-Owned Logistics & Transportation",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "logistics",
+      "freight_transportation"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/black-logistics"
+  },
+  {
+    "id": 2425,
+    "name": "Black-Owned Barbershop & Salon Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "black_owned",
+      "barbershop",
+      "beauty_salon"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/black-barbershop"
+  },
+  {
+    "id": 2426,
+    "name": "Hispanic Business Development Grant",
+    "source": "U.S. Hispanic Chamber of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "latino_owned",
+      "business_growth"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://ushcc.org/business-development"
+  },
+  {
+    "id": 2427,
+    "name": "Latino-Owned Tech Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "latino_founder",
+      "hispanic_founder",
+      "technology"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/latino-tech"
+  },
+  {
+    "id": 2428,
+    "name": "Hispanic-Owned Agricultural Business Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_farmer",
+      "latino_rancher",
+      "agriculture"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/hispanic-agriculture"
+  },
+  {
+    "id": 2429,
+    "name": "Latino-Owned Construction Business Development",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "latino_owned",
+      "construction",
+      "contracting"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/latino-construction"
+  },
+  {
+    "id": 2430,
+    "name": "Hispanic-Owned Restaurant & Hospitality Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "restaurant",
+      "hospitality"
+    ],
+    "funding_range": "$25,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/hispanic-restaurant"
+  },
+  {
+    "id": 2431,
+    "name": "Latino-Owned Healthcare Practice Development",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "latino_physician",
+      "hispanic_healthcare",
+      "medical_practice"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/latino-healthcare"
+  },
+  {
+    "id": 2432,
+    "name": "Hispanic-Owned Manufacturing Business Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/hispanic-manufacturing"
+  },
+  {
+    "id": 2433,
+    "name": "Latino-Owned Retail Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "latino_owned",
+      "retail",
+      "storefront"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/latino-retail"
+  },
+  {
+    "id": 2434,
+    "name": "Hispanic-Owned Media Production Grant",
+    "source": "Corporation for Public Broadcasting",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "spanish_language_media",
+      "production"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://cpb.org/hispanic-media"
+  },
+  {
+    "id": 2435,
+    "name": "Latino-Owned Professional Services Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "latino_owned",
+      "consulting",
+      "professional_services"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/latino-professional"
+  },
+  {
+    "id": 2436,
+    "name": "Hispanic-Owned Automotive Business Grant",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "auto_repair",
+      "automotive_services"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/hispanic-automotive"
+  },
+  {
+    "id": 2437,
+    "name": "Latino-Owned Import/Export Business Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "latino_owned",
+      "international_trade",
+      "import_export"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/latino-trade"
+  },
+  {
+    "id": 2438,
+    "name": "Hispanic-Owned Childcare Business Grant",
+    "source": "Administration for Children and Families",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "childcare",
+      "early_education"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acf.hhs.gov/hispanic-childcare"
+  },
+  {
+    "id": 2439,
+    "name": "Latino-Owned Landscaping & Lawn Care Business",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "latino_owned",
+      "landscaping",
+      "grounds_maintenance"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/latino-landscaping"
+  },
+  {
+    "id": 2440,
+    "name": "Hispanic-Owned Grocery & Convenience Store",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "hispanic_owned",
+      "grocery",
+      "bodega",
+      "convenience_store"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/hispanic-grocery"
+  },
+  {
+    "id": 2441,
+    "name": "Asian American Business Development Center Grant",
+    "source": "National Asian/Pacific Islander American Chamber",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "pacific_islander",
+      "business_development"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalacecc.org/business-development"
+  },
+  {
+    "id": 2442,
+    "name": "AAPI-Owned Technology Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "asian_american_founder",
+      "pacific_islander",
+      "technology"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/aapi-tech"
+  },
+  {
+    "id": 2443,
+    "name": "Asian American-Owned Restaurant & Food Service",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "restaurant",
+      "food_service"
+    ],
+    "funding_range": "$25,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/asian-restaurant"
+  },
+  {
+    "id": 2444,
+    "name": "AAPI-Owned Healthcare Practice Development",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "asian_american_physician",
+      "pacific_islander",
+      "healthcare"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/aapi-healthcare"
+  },
+  {
+    "id": 2445,
+    "name": "Asian American-Owned Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/asian-manufacturing"
+  },
+  {
+    "id": 2446,
+    "name": "Pacific Islander-Owned Tourism Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "pacific_islander",
+      "tourism",
+      "hospitality"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/pi-tourism"
+  },
+  {
+    "id": 2447,
+    "name": "AAPI-Owned Import/Export Business Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "international_trade",
+      "import_export"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/aapi-trade"
+  },
+  {
+    "id": 2448,
+    "name": "Asian American-Owned Retail Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "retail",
+      "storefront"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/asian-retail"
+  },
+  {
+    "id": 2449,
+    "name": "AAPI-Owned Professional Services Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "professional_services",
+      "consulting"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/aapi-professional"
+  },
+  {
+    "id": 2450,
+    "name": "South Asian-Owned Business Development Fund",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "south_asian",
+      "indian_pakistani_bangladeshi",
+      "business"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/south-asian-business"
+  },
+  {
+    "id": 2451,
+    "name": "East Asian-Owned Technology Business Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "east_asian",
+      "chinese_japanese_korean",
+      "technology"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/east-asian-tech"
+  },
+  {
+    "id": 2452,
+    "name": "Southeast Asian-Owned Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "southeast_asian",
+      "vietnamese_thai_filipino",
+      "business"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/southeast-asian"
+  },
+  {
+    "id": 2453,
+    "name": "AAPI-Owned Beauty & Wellness Business",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "beauty",
+      "wellness_spa"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/aapi-beauty"
+  },
+  {
+    "id": 2454,
+    "name": "AAPI-Owned Construction Business Development",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "asian_american",
+      "construction",
+      "contracting"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/aapi-construction"
+  },
+  {
+    "id": 2455,
+    "name": "Pacific Islander-Owned Fishing & Aquaculture",
+    "source": "NOAA Fisheries",
+    "type": "grant",
+    "eligibility": [
+      "pacific_islander",
+      "commercial_fishing",
+      "aquaculture"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://noaa.gov/pi-fishing"
+  },
+  {
+    "id": 2456,
+    "name": "Native American Business Development Institute",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "american_indian",
+      "alaska_native"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://bia.gov/nabdi"
+  },
+  {
+    "id": 2457,
+    "name": "Tribal Business Grants Program",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "federally_recognized_tribe",
+      "tribal_enterprise",
+      "reservation"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://bia.gov/tribal-business"
+  },
+  {
+    "id": 2458,
+    "name": "Native American-Owned Tourism & Recreation",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "tourism",
+      "cultural_heritage"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://bia.gov/native-tourism"
+  },
+  {
+    "id": 2459,
+    "name": "Indian Gaming Business Development Grant",
+    "source": "National Indian Gaming Commission",
+    "type": "grant",
+    "eligibility": [
+      "tribal_gaming",
+      "casino",
+      "native_american"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://nigc.gov/gaming-business"
+  },
+  {
+    "id": 2460,
+    "name": "Native American Agricultural Business Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "native_american_farmer",
+      "tribal_lands",
+      "agriculture"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/native-agriculture"
+  },
+  {
+    "id": 2461,
+    "name": "Alaska Native Corporation Business Development",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "alaska_native",
+      "anc",
+      "regional_corporation"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://bia.gov/alaska-native-corp"
+  },
+  {
+    "id": 2462,
+    "name": "Native American Renewable Energy Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "renewable_energy",
+      "tribal_lands"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/native-renewable"
+  },
+  {
+    "id": 2463,
+    "name": "Native Hawaiian Business Development",
+    "source": "Office of Hawaiian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_hawaiian",
+      "kanaka_maoli",
+      "hawaii"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://oha.org/business-development"
+  },
+  {
+    "id": 2464,
+    "name": "Native American-Owned Construction Grant",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "construction",
+      "infrastructure"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://bia.gov/native-construction"
+  },
+  {
+    "id": 2465,
+    "name": "Native American Arts & Crafts Business",
+    "source": "Indian Arts and Crafts Board",
+    "type": "grant",
+    "eligibility": [
+      "native_american_artist",
+      "traditional_arts",
+      "crafts"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://iacb.doi.gov/business-grant"
+  },
+  {
+    "id": 2466,
+    "name": "Tribal Manufacturing Business Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "tribal_enterprise",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/tribal-manufacturing"
+  },
+  {
+    "id": 2467,
+    "name": "Native American Technology Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "native_american_founder",
+      "technology",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/native-tech"
+  },
+  {
+    "id": 2468,
+    "name": "Native American-Owned Healthcare Services",
+    "source": "Indian Health Service",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "healthcare",
+      "tribal_health"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://ihs.gov/native-healthcare-business"
+  },
+  {
+    "id": 2469,
+    "name": "Native American Forestry & Timber Business",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_american",
+      "forestry",
+      "timber_harvesting"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://bia.gov/native-forestry"
+  },
+  {
+    "id": 2470,
+    "name": "Tribal Telecommunications Business Grant",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "tribal_telecom",
+      "broadband",
+      "native_american"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/tribal-telecom"
+  },
+  {
+    "id": 2471,
+    "name": "MENA Business Development Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern",
+      "north_african",
+      "arab_american"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/mena-business"
+  },
+  {
+    "id": 2472,
+    "name": "Arab American-Owned Business Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "arab_american",
+      "middle_eastern",
+      "business_growth"
+    ],
+    "funding_range": "$25,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/arab-american-business"
+  },
+  {
+    "id": 2473,
+    "name": "MENA-Owned Restaurant & Food Service Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern",
+      "restaurant",
+      "food_service"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/mena-restaurant"
+  },
+  {
+    "id": 2474,
+    "name": "Middle Eastern-Owned Technology Startup",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern_founder",
+      "technology",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/mena-tech"
+  },
+  {
+    "id": 2475,
+    "name": "MENA-Owned Import/Export Business Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern",
+      "international_trade",
+      "import_export"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/mena-trade"
+  },
+  {
+    "id": 2476,
+    "name": "Arab American-Owned Healthcare Practice",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "arab_american_physician",
+      "healthcare",
+      "medical_practice"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://hrsa.gov/arab-healthcare"
+  },
+  {
+    "id": 2477,
+    "name": "MENA-Owned Retail Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern",
+      "retail",
+      "convenience_store"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/mena-retail"
+  },
+  {
+    "id": 2478,
+    "name": "North African-Owned Professional Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "north_african",
+      "professional_services",
+      "consulting"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/north-african-professional"
+  },
+  {
+    "id": 2479,
+    "name": "MENA-Owned Construction Business Grant",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "middle_eastern",
+      "construction",
+      "contracting"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://transportation.gov/mena-construction"
+  },
+  {
+    "id": 2480,
+    "name": "Arab American-Owned Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "arab_american",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/arab-manufacturing"
+  },
+  {
+    "id": 2481,
+    "name": "Multi-Racial Business Owner Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "multi_racial",
+      "biracial",
+      "mixed_heritage"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/multiracial-business"
+  },
+  {
+    "id": 2482,
+    "name": "Immigrant Entrepreneur Business Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "immigrant_owned",
+      "foreign_born",
+      "new_american"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/immigrant-entrepreneur"
+  },
+  {
+    "id": 2483,
+    "name": "Refugee-Owned Business Startup Grant",
+    "source": "Office of Refugee Resettlement",
+    "type": "grant",
+    "eligibility": [
+      "refugee_owned",
+      "asylee",
+      "humanitarian_visa"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://acf.hhs.gov/refugee-business"
+  },
+  {
+    "id": 2484,
+    "name": "DACA Entrepreneur Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "daca_recipient",
+      "dreamer",
+      "deferred_action"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/daca-entrepreneur"
+  },
+  {
+    "id": 2485,
+    "name": "Caribbean American Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "caribbean_american",
+      "west_indian",
+      "afro_caribbean"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/caribbean-business"
+  },
+  {
+    "id": 2486,
+    "name": "African Immigrant-Owned Business Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "african_immigrant",
+      "sub_saharan_african",
+      "diaspora"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/african-immigrant-business"
+  },
+  {
+    "id": 2487,
+    "name": "Minority Veteran-Owned Business Development",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": [
+      "minority_veteran",
+      "service_disabled_minority",
+      "vosb"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/minority-veteran-business"
+  },
+  {
+    "id": 2488,
+    "name": "LGBTQ+ Minority Business Grant",
+    "source": "National LGBT Chamber of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "lgbtq_minority",
+      "queer_people_of_color",
+      "intersectional"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://nglcc.org/minority-lgbtq-business"
+  },
+  {
+    "id": 2489,
+    "name": "First-Generation Immigrant Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "first_generation",
+      "immigrant_parents",
+      "heritage_business"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/first-gen-immigrant"
+  },
+  {
+    "id": 2490,
+    "name": "Minority-Owned Franchise Development Grant",
+    "source": "International Franchise Association",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "franchise",
+      "multi_unit"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://franchise.org/minority-franchise"
+  },
+  {
+    "id": 2491,
+    "name": "Minority-Owned Social Enterprise Grant",
+    "source": "Corporation for National and Community Service",
+    "type": "grant",
+    "eligibility": [
+      "minority_led",
+      "social_enterprise",
+      "community_impact"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalservice.gov/minority-social-enterprise"
+  },
+  {
+    "id": 2492,
+    "name": "Minority-Owned Clean Technology Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "clean_tech",
+      "sustainability"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/minority-cleantech"
+  },
+  {
+    "id": 2493,
+    "name": "Minority-Owned Cybersecurity Business",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "cybersecurity",
+      "information_security"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/minority-cybersecurity"
+  },
+  {
+    "id": 2494,
+    "name": "Minority-Owned Biotech Startup Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "minority_scientist",
+      "biotechnology",
+      "life_sciences"
+    ],
+    "funding_range": "$150,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/minority-biotech"
+  },
+  {
+    "id": 2495,
+    "name": "Minority-Owned Space Technology Business",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "minority_founder",
+      "aerospace",
+      "space_technology"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nasa.gov/minority-space-tech"
+  },
+  {
+    "id": 2496,
+    "name": "Minority-Owned Film Production Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "minority_filmmaker",
+      "media_production",
+      "entertainment"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/minority-film"
+  },
+  {
+    "id": 2497,
+    "name": "Minority Youth Entrepreneur Grant (Under 25)",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "minority_youth",
+      "under_25",
+      "young_entrepreneur"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/minority-youth-entrepreneur"
+  },
+  {
+    "id": 2498,
+    "name": "Minority-Owned Cooperative Business Development",
+    "source": "USDA Rural Development",
+    "type": "grant",
+    "eligibility": [
+      "minority_cooperative",
+      "worker_owned",
+      "collective"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/minority-cooperative"
+  },
+  {
+    "id": 2499,
+    "name": "Minority-Owned Export Business Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "minority_owned",
+      "export",
+      "international_markets"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/minority-export"
+  },
+  {
+    "id": 2500,
+    "name": "Underrepresented Minority Tech Founder Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "underrepresented_minority",
+      "technology_founder",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/underrepresented-minority-tech"
+  }
+]

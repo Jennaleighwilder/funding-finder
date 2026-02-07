@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2501,
+    "name": "Emergency Response Business Development Grant",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_services",
+      "first_response",
+      "crisis_management"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/emergency-response-business"
+  },
+  {
+    "id": 2502,
+    "name": "Disaster Response Contracting Program",
+    "source": "Federal Emergency Management Agency",
+    "type": "contract",
+    "eligibility": [
+      "disaster_response",
+      "emergency_cleanup",
+      "recovery_services"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/disaster-contracting"
+  },
+  {
+    "id": 2503,
+    "name": "Emergency Medical Services Business Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "ems",
+      "ambulance_service",
+      "emergency_medical"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://hhs.gov/ems-business"
+  },
+  {
+    "id": 2504,
+    "name": "Crisis Communication Services Grant",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "crisis_communication",
+      "emergency_notification",
+      "alert_systems"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/crisis-communication"
+  },
+  {
+    "id": 2505,
+    "name": "Emergency Shelter Services Business",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_shelter",
+      "temporary_housing",
+      "displacement_services"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/emergency-shelter"
+  },
+  {
+    "id": 2506,
+    "name": "Search & Rescue Services Development",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "search_rescue",
+      "emergency_extraction",
+      "specialized_response"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/search-rescue"
+  },
+  {
+    "id": 2507,
+    "name": "Emergency Food Distribution Business",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "emergency_food",
+      "disaster_feeding",
+      "mass_care"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/emergency-food"
+  },
+  {
+    "id": 2508,
+    "name": "Emergency Water Provision Services",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_water",
+      "potable_water",
+      "disaster_hydration"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/emergency-water"
+  },
+  {
+    "id": 2509,
+    "name": "Mass Casualty Response Business Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "mass_casualty",
+      "triage",
+      "emergency_medical"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://hhs.gov/mass-casualty"
+  },
+  {
+    "id": 2510,
+    "name": "Emergency Generator & Power Services",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "emergency_power",
+      "generator_services",
+      "electrical_restoration"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/emergency-power"
+  },
+  {
+    "id": 2511,
+    "name": "Hazardous Materials Emergency Response",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "hazmat_response",
+      "chemical_spill",
+      "toxic_cleanup"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/hazmat-response"
+  },
+  {
+    "id": 2512,
+    "name": "Emergency Transportation Services Grant",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "emergency_transport",
+      "evacuation_services",
+      "medical_transport"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/emergency-transport"
+  },
+  {
+    "id": 2513,
+    "name": "Drone Emergency Response Services",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": [
+      "uav_emergency",
+      "aerial_assessment",
+      "disaster_mapping"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/drone-emergency"
+  },
+  {
+    "id": 2514,
+    "name": "Emergency Telecommunications Services",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "emergency_telecom",
+      "disaster_communication",
+      "network_restoration"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/emergency-telecom"
+  },
+  {
+    "id": 2515,
+    "name": "Emergency Logistics & Supply Chain",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_logistics",
+      "disaster_supply_chain",
+      "distribution"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/emergency-logistics"
+  },
+  {
+    "id": 2516,
+    "name": "Debris Removal & Cleanup Services Grant",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "debris_removal",
+      "disaster_cleanup",
+      "waste_management"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/debris-removal"
+  },
+  {
+    "id": 2517,
+    "name": "Water Damage Restoration Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "water_damage",
+      "flood_restoration",
+      "drying_services"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/water-restoration"
+  },
+  {
+    "id": 2518,
+    "name": "Fire Damage Restoration Services",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "fire_restoration",
+      "smoke_damage",
+      "structural_repair"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/fire-restoration"
+  },
+  {
+    "id": 2519,
+    "name": "Mold Remediation & Abatement Business",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "mold_remediation",
+      "water_damage",
+      "indoor_air_quality"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/mold-remediation"
+  },
+  {
+    "id": 2520,
+    "name": "Asbestos Abatement Emergency Services",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "asbestos_removal",
+      "disaster_abatement",
+      "hazmat"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/asbestos-emergency"
+  },
+  {
+    "id": 2521,
+    "name": "Biohazard Cleanup & Decontamination",
+    "source": "Centers for Disease Control and Prevention",
+    "type": "grant",
+    "eligibility": [
+      "biohazard_cleanup",
+      "decontamination",
+      "infectious_disease"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://cdc.gov/biohazard-cleanup"
+  },
+  {
+    "id": 2522,
+    "name": "Oil Spill Response & Cleanup Business",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "oil_spill",
+      "environmental_cleanup",
+      "containment"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/oil-spill-response"
+  },
+  {
+    "id": 2523,
+    "name": "Chemical Spill Emergency Cleanup",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "chemical_spill",
+      "hazmat_cleanup",
+      "environmental_remediation"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/chemical-spill"
+  },
+  {
+    "id": 2524,
+    "name": "Sewage Backup & Sanitation Services",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "sewage_cleanup",
+      "sanitation",
+      "public_health"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/sewage-emergency"
+  },
+  {
+    "id": 2525,
+    "name": "Lead Abatement Disaster Services",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "lead_abatement",
+      "disaster_response",
+      "public_health"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/lead-disaster"
+  },
+  {
+    "id": 2526,
+    "name": "Structural Drying & Dehumidification",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "structural_drying",
+      "dehumidification",
+      "moisture_control"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/structural-drying"
+  },
+  {
+    "id": 2527,
+    "name": "Disaster Waste Management Services",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "disaster_waste",
+      "waste_disposal",
+      "recycling"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/disaster-waste"
+  },
+  {
+    "id": 2528,
+    "name": "Contaminated Soil Remediation",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "soil_remediation",
+      "environmental_cleanup",
+      "toxics"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/soil-remediation"
+  },
+  {
+    "id": 2529,
+    "name": "Air Quality Testing & Remediation",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "air_quality",
+      "indoor_air",
+      "testing_services"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/air-quality-emergency"
+  },
+  {
+    "id": 2530,
+    "name": "Disaster Document Recovery Services",
+    "source": "National Archives",
+    "type": "grant",
+    "eligibility": [
+      "document_recovery",
+      "preservation",
+      "restoration"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://archives.gov/disaster-document-recovery"
+  },
+  {
+    "id": 2531,
+    "name": "Disaster Housing Reconstruction Grant",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "housing_reconstruction",
+      "disaster_recovery",
+      "rebuilding"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/disaster-housing"
+  },
+  {
+    "id": 2532,
+    "name": "Infrastructure Reconstruction Business",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "infrastructure_repair",
+      "public_works",
+      "rebuilding"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/infrastructure-reconstruction"
+  },
+  {
+    "id": 2533,
+    "name": "Commercial Building Recovery Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "commercial_reconstruction",
+      "business_recovery",
+      "rebuilding"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/commercial-recovery"
+  },
+  {
+    "id": 2534,
+    "name": "School & Educational Facility Recovery",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "school_reconstruction",
+      "educational_facilities",
+      "disaster_recovery"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/school-recovery"
+  },
+  {
+    "id": 2535,
+    "name": "Healthcare Facility Disaster Recovery",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "hospital_reconstruction",
+      "healthcare_recovery",
+      "medical_facilities"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/healthcare-disaster-recovery"
+  },
+  {
+    "id": 2536,
+    "name": "Historic Building Disaster Restoration",
+    "source": "National Park Service",
+    "type": "grant",
+    "eligibility": [
+      "historic_preservation",
+      "disaster_restoration",
+      "cultural_heritage"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://nps.gov/historic-disaster"
+  },
+  {
+    "id": 2537,
+    "name": "Agricultural Infrastructure Recovery",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "farm_reconstruction",
+      "agricultural_disaster",
+      "rural_recovery"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/agricultural-recovery"
+  },
+  {
+    "id": 2538,
+    "name": "Coastal Reconstruction & Resilience",
+    "source": "NOAA",
+    "type": "grant",
+    "eligibility": [
+      "coastal_rebuilding",
+      "shoreline_protection",
+      "resilience"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://noaa.gov/coastal-reconstruction"
+  },
+  {
+    "id": 2539,
+    "name": "Bridge & Transportation Recovery",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "bridge_reconstruction",
+      "road_repair",
+      "transportation_recovery"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://transportation.gov/disaster-recovery"
+  },
+  {
+    "id": 2540,
+    "name": "Utility Infrastructure Restoration",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "utility_restoration",
+      "power_grid",
+      "water_systems"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/utility-restoration"
+  },
+  {
+    "id": 2541,
+    "name": "Community Facility Reconstruction",
+    "source": "USDA Rural Development",
+    "type": "grant",
+    "eligibility": [
+      "community_facilities",
+      "rural_recovery",
+      "public_buildings"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/community-facility-recovery"
+  },
+  {
+    "id": 2542,
+    "name": "Religious Facility Disaster Recovery",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "church_reconstruction",
+      "religious_facility",
+      "nonprofit_recovery"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/religious-facility-recovery"
+  },
+  {
+    "id": 2543,
+    "name": "Sports & Recreation Facility Recovery",
+    "source": "National Recreation and Park Association",
+    "type": "grant",
+    "eligibility": [
+      "recreation_facilities",
+      "sports_venues",
+      "disaster_recovery"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://nrpa.org/disaster-recovery"
+  },
+  {
+    "id": 2544,
+    "name": "Cultural Institution Disaster Recovery",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "museum_recovery",
+      "cultural_facilities",
+      "arts_organizations"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/disaster-recovery"
+  },
+  {
+    "id": 2545,
+    "name": "Manufactured Housing Recovery Services",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "mobile_home_recovery",
+      "manufactured_housing",
+      "disaster_repair"
+    ],
+    "funding_range": "$50,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/manufactured-recovery"
+  },
+  {
+    "id": 2546,
+    "name": "Business Continuity Planning Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "business_continuity",
+      "disaster_planning",
+      "risk_management"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/business-continuity"
+  },
+  {
+    "id": 2547,
+    "name": "Emergency Preparedness Consulting",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_preparedness",
+      "consulting_services",
+      "training"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/preparedness-consulting"
+  },
+  {
+    "id": 2548,
+    "name": "Disaster Recovery Technology Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "disaster_recovery_tech",
+      "data_backup",
+      "business_systems"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/disaster-recovery-tech"
+  },
+  {
+    "id": 2549,
+    "name": "Emergency Supply & Equipment Business",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_supplies",
+      "disaster_equipment",
+      "preparedness_products"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://fema.gov/emergency-supply-business"
+  },
+  {
+    "id": 2550,
+    "name": "Crisis Management Training Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "crisis_training",
+      "emergency_drills",
+      "corporate_preparedness"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/crisis-training"
+  },
+  {
+    "id": 2551,
+    "name": "Emergency Alert Systems Business",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "alert_systems",
+      "notification_technology",
+      "warning_services"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/emergency-alert-business"
+  },
+  {
+    "id": 2552,
+    "name": "Backup Power Systems Business Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "backup_power",
+      "generator_systems",
+      "uninterruptible_power"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/backup-power-business"
+  },
+  {
+    "id": 2553,
+    "name": "Data Backup & Recovery Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "data_backup",
+      "cloud_recovery",
+      "business_data"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/data-backup-business"
+  },
+  {
+    "id": 2554,
+    "name": "Emergency Communication Systems",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "emergency_communication",
+      "radio_systems",
+      "satellite_backup"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/emergency-communication-systems"
+  },
+  {
+    "id": 2555,
+    "name": "Disaster Insurance Consulting Business",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "disaster_insurance",
+      "risk_assessment",
+      "insurance_consulting"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/disaster-insurance-consulting"
+  },
+  {
+    "id": 2556,
+    "name": "Emergency Evacuation Planning Services",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "evacuation_planning",
+      "corporate_safety",
+      "emergency_procedures"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/evacuation-planning"
+  },
+  {
+    "id": 2557,
+    "name": "Resilience Engineering Consulting",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "resilience_engineering",
+      "infrastructure_hardening",
+      "disaster_mitigation"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/resilience-engineering"
+  },
+  {
+    "id": 2558,
+    "name": "Emergency Operations Center Design",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "eoc_design",
+      "command_center",
+      "emergency_management"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://fema.gov/eoc-design"
+  },
+  {
+    "id": 2559,
+    "name": "Business Impact Analysis Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "impact_analysis",
+      "risk_assessment",
+      "business_consulting"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/business-impact-analysis"
+  },
+  {
+    "id": 2560,
+    "name": "Redundant Systems Engineering Business",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "redundant_systems",
+      "failover_technology",
+      "critical_infrastructure"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/redundant-systems"
+  },
+  {
+    "id": 2561,
+    "name": "Pandemic Recovery Business Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "pandemic_affected",
+      "public_health_emergency",
+      "business_recovery"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 5,
+    "url": "https://hhs.gov/pandemic-recovery"
+  },
+  {
+    "id": 2562,
+    "name": "PPE Manufacturing Business Development",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "ppe_manufacturing",
+      "medical_supplies",
+      "pandemic_preparedness"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://hhs.gov/ppe-manufacturing"
+  },
+  {
+    "id": 2563,
+    "name": "Telehealth Services Business Grant",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "telehealth",
+      "virtual_care",
+      "pandemic_services"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 6,
+    "url": "https://hrsa.gov/telehealth-business"
+  },
+  {
+    "id": 2564,
+    "name": "Vaccine Distribution & Storage Business",
+    "source": "Centers for Disease Control and Prevention",
+    "type": "grant",
+    "eligibility": [
+      "vaccine_distribution",
+      "cold_chain",
+      "immunization_services"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://cdc.gov/vaccine-distribution-business"
+  },
+  {
+    "id": 2565,
+    "name": "COVID Testing Laboratory Development",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "diagnostic_testing",
+      "clinical_laboratory",
+      "pandemic_testing"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://hhs.gov/covid-testing-lab"
+  },
+  {
+    "id": 2566,
+    "name": "Contact Tracing Technology Business",
+    "source": "Centers for Disease Control and Prevention",
+    "type": "grant",
+    "eligibility": [
+      "contact_tracing",
+      "public_health_tech",
+      "disease_surveillance"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://cdc.gov/contact-tracing-tech"
+  },
+  {
+    "id": 2567,
+    "name": "Disinfection Services Business Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "disinfection_services",
+      "sanitization",
+      "infection_control"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://epa.gov/disinfection-services"
+  },
+  {
+    "id": 2568,
+    "name": "Restaurant Pandemic Adaptation Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "restaurant",
+      "pandemic_adaptation",
+      "outdoor_dining"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/restaurant-pandemic"
+  },
+  {
+    "id": 2569,
+    "name": "Remote Work Technology Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "remote_work_tech",
+      "virtual_collaboration",
+      "pandemic_technology"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/remote-work-tech"
+  },
+  {
+    "id": 2570,
+    "name": "Healthcare Surge Capacity Services",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "surge_capacity",
+      "temporary_hospitals",
+      "pandemic_response"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/surge-capacity"
+  },
+  {
+    "id": 2571,
+    "name": "Ventilator Manufacturing Business Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "ventilator_manufacturing",
+      "medical_devices",
+      "respiratory_equipment"
+    ],
+    "funding_range": "$500,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/ventilator-manufacturing"
+  },
+  {
+    "id": 2572,
+    "name": "Medical Oxygen Supply Business",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "medical_oxygen",
+      "respiratory_support",
+      "pandemic_supplies"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/medical-oxygen-business"
+  },
+  {
+    "id": 2573,
+    "name": "Quarantine Facility Management",
+    "source": "Centers for Disease Control and Prevention",
+    "type": "grant",
+    "eligibility": [
+      "quarantine_facilities",
+      "isolation_services",
+      "pandemic_management"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://cdc.gov/quarantine-facility"
+  },
+  {
+    "id": 2574,
+    "name": "Antimicrobial Surface Treatment Business",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "antimicrobial_surfaces",
+      "infection_prevention",
+      "coating_technology"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/antimicrobial-surfaces"
+  },
+  {
+    "id": 2575,
+    "name": "Pandemic Supply Chain Consulting",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "supply_chain",
+      "pandemic_logistics",
+      "crisis_management"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/pandemic-supply-chain"
+  },
+  {
+    "id": 2576,
+    "name": "Economic Downturn Business Assistance",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "economic_crisis",
+      "recession",
+      "job_loss"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/economic-downturn"
+  },
+  {
+    "id": 2577,
+    "name": "Workforce Transition Services Grant",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "layoffs",
+      "workforce_transition",
+      "retraining"
+    ],
+    "funding_range": "$50,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/workforce-transition"
+  },
+  {
+    "id": 2578,
+    "name": "Business Turnaround Consulting Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "business_turnaround",
+      "financial_distress",
+      "restructuring"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/turnaround-consulting"
+  },
+  {
+    "id": 2579,
+    "name": "Debt Restructuring Services Business",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "debt_restructuring",
+      "financial_consulting",
+      "crisis_management"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://treasury.gov/debt-restructuring"
+  },
+  {
+    "id": 2580,
+    "name": "Foreclosure Prevention Services Grant",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "foreclosure_prevention",
+      "homeowner_assistance",
+      "housing_counseling"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/foreclosure-prevention"
+  },
+  {
+    "id": 2581,
+    "name": "Business Valuation Crisis Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "business_valuation",
+      "distressed_assets",
+      "crisis_assessment"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/crisis-valuation"
+  },
+  {
+    "id": 2582,
+    "name": "Trade Adjustment Assistance Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "trade_affected",
+      "import_competition",
+      "economic_injury"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/trade-adjustment"
+  },
+  {
+    "id": 2583,
+    "name": "Economic Diversification Consulting",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "economic_diversification",
+      "industry_transition",
+      "community_development"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/economic-diversification"
+  },
+  {
+    "id": 2584,
+    "name": "Bankruptcy Consulting Services Business",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "bankruptcy_consulting",
+      "restructuring",
+      "legal_services"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://justice.gov/bankruptcy-consulting"
+  },
+  {
+    "id": 2585,
+    "name": "Crisis Financial Advisory Services",
+    "source": "Securities and Exchange Commission",
+    "type": "grant",
+    "eligibility": [
+      "financial_advisory",
+      "crisis_management",
+      "investment_recovery"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://sec.gov/crisis-financial-advisory"
+  },
+  {
+    "id": 2586,
+    "name": "Cyber Attack Recovery Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "cyber_attack",
+      "data_breach",
+      "security_incident"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/cyber-recovery"
+  },
+  {
+    "id": 2587,
+    "name": "Ransomware Response Business Grant",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "ransomware",
+      "cyber_extortion",
+      "incident_response"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/ransomware-response"
+  },
+  {
+    "id": 2588,
+    "name": "Data Breach Remediation Services",
+    "source": "Federal Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "data_breach",
+      "identity_protection",
+      "privacy_incident"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://ftc.gov/data-breach-remediation"
+  },
+  {
+    "id": 2589,
+    "name": "Critical Infrastructure Cyber Defense",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "critical_infrastructure",
+      "cyber_defense",
+      "industrial_control"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/infrastructure-cyber-defense"
+  },
+  {
+    "id": 2590,
+    "name": "Digital Forensics Investigation Business",
+    "source": "Federal Bureau of Investigation",
+    "type": "grant",
+    "eligibility": [
+      "digital_forensics",
+      "cybercrime_investigation",
+      "evidence_recovery"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://fbi.gov/digital-forensics-business"
+  },
+  {
+    "id": 2591,
+    "name": "Cyber Insurance Consulting Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "cyber_insurance",
+      "risk_assessment",
+      "security_consulting"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/cyber-insurance-consulting"
+  },
+  {
+    "id": 2592,
+    "name": "Network Security Crisis Response",
+    "source": "National Security Agency",
+    "type": "grant",
+    "eligibility": [
+      "network_security",
+      "incident_response",
+      "threat_mitigation"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsa.gov/network-security-crisis"
+  },
+  {
+    "id": 2593,
+    "name": "Cloud Disaster Recovery Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "cloud_recovery",
+      "data_restoration",
+      "business_continuity"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://dhs.gov/cloud-disaster-recovery"
+  },
+  {
+    "id": 2594,
+    "name": "Identity Theft Recovery Services",
+    "source": "Federal Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "identity_theft",
+      "fraud_recovery",
+      "consumer_protection"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://ftc.gov/identity-theft-recovery"
+  },
+  {
+    "id": 2595,
+    "name": "Supply Chain Cyber Attack Recovery",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "supply_chain_attack",
+      "third_party_breach",
+      "vendor_security"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://dhs.gov/supply-chain-cyber-recovery"
+  },
+  {
+    "id": 2596,
+    "name": "Nuclear Emergency Response Business",
+    "source": "Nuclear Regulatory Commission",
+    "type": "grant",
+    "eligibility": [
+      "nuclear_emergency",
+      "radiation_response",
+      "specialized_cleanup"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://nrc.gov/nuclear-emergency-response"
+  },
+  {
+    "id": 2597,
+    "name": "Dam Failure Emergency Response",
+    "source": "U.S. Army Corps of Engineers",
+    "type": "grant",
+    "eligibility": [
+      "dam_failure",
+      "flood_emergency",
+      "infrastructure_crisis"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://usace.army.mil/dam-failure-response"
+  },
+  {
+    "id": 2598,
+    "name": "Maritime Disaster Response Services",
+    "source": "U.S. Coast Guard",
+    "type": "grant",
+    "eligibility": [
+      "maritime_disaster",
+      "vessel_salvage",
+      "ocean_emergency"
+    ],
+    "funding_range": "$250,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://uscg.mil/maritime-disaster-response"
+  },
+  {
+    "id": 2599,
+    "name": "Aviation Disaster Response Business",
+    "source": "National Transportation Safety Board",
+    "type": "grant",
+    "eligibility": [
+      "aviation_disaster",
+      "crash_investigation",
+      "emergency_response"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://ntsb.gov/aviation-disaster-response"
+  },
+  {
+    "id": 2600,
+    "name": "Industrial Accident Emergency Services",
+    "source": "Occupational Safety and Health Administration",
+    "type": "grant",
+    "eligibility": [
+      "industrial_accident",
+      "workplace_emergency",
+      "hazmat_response"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://osha.gov/industrial-emergency-services"
+  }
+]

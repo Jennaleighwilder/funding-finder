@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2301,
+    "name": "Women-Owned Small Business (WOSB) Federal Contracting",
+    "source": "Small Business Administration",
+    "type": "contract",
+    "eligibility": [
+      "women_owned",
+      "51_percent_ownership",
+      "federal_contracts"
+    ],
+    "funding_range": "$25,000 - $50,000,000",
+    "obscurity_score": 5,
+    "url": "https://sba.gov/wosb-contracting"
+  },
+  {
+    "id": 2302,
+    "name": "Women's Business Center Grant Program",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "womens_business_center",
+      "training",
+      "counseling"
+    ],
+    "funding_range": "$150,000 - $300,000",
+    "obscurity_score": 5,
+    "url": "https://sba.gov/wbc-grants"
+  },
+  {
+    "id": 2303,
+    "name": "Amber Grant for Women Entrepreneurs",
+    "source": "WomensNet Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "for_profit",
+      "any_industry"
+    ],
+    "funding_range": "$10,000 - $25,000",
+    "obscurity_score": 6,
+    "url": "https://womensnet.org/amber-grant"
+  },
+  {
+    "id": 2304,
+    "name": "Cartier Women's Initiative",
+    "source": "Cartier Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "social_impact",
+      "international"
+    ],
+    "funding_range": "$100,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://cartierwomensinitiative.com"
+  },
+  {
+    "id": 2305,
+    "name": "Tory Burch Foundation Fellows Program",
+    "source": "Tory Burch Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "growth_stage",
+      "education_grant"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://toryburchfoundation.org/fellows"
+  },
+  {
+    "id": 2306,
+    "name": "Eileen Fisher Women-Owned Business Grant",
+    "source": "Eileen Fisher Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "social_justice",
+      "environmental"
+    ],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://eileenfisher.com/womens-business-grant"
+  },
+  {
+    "id": 2307,
+    "name": "IFundWomen Grant Program",
+    "source": "IFundWomen",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "crowdfunding",
+      "startup"
+    ],
+    "funding_range": "$1,000 - $25,000",
+    "obscurity_score": 6,
+    "url": "https://ifundwomen.com/grants"
+  },
+  {
+    "id": 2308,
+    "name": "Hello Alice Women-Owned Business Grant",
+    "source": "Hello Alice",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "small_business",
+      "diverse_industries"
+    ],
+    "funding_range": "$10,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://helloalice.com/women-grant"
+  },
+  {
+    "id": 2309,
+    "name": "SoGal Black Founder Startup Grant",
+    "source": "SoGal Foundation",
+    "type": "grant",
+    "eligibility": [
+      "black_women",
+      "women_of_color",
+      "startup"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://sogalventures.com/black-founder-grant"
+  },
+  {
+    "id": 2310,
+    "name": "Vinetta Project Women's Venture Capital",
+    "source": "Vinetta Project",
+    "type": "investment",
+    "eligibility": [
+      "women_founded",
+      "venture_scale",
+      "technology"
+    ],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://vinettaproject.com"
+  },
+  {
+    "id": 2311,
+    "name": "Women in Technology Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led_tech",
+      "stem_business",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://nsf.gov/women-tech-startup"
+  },
+  {
+    "id": 2312,
+    "name": "Women Techmakers Entrepreneurs Program",
+    "source": "Google for Startups",
+    "type": "grant",
+    "eligibility": [
+      "women_tech_founders",
+      "startup",
+      "technology"
+    ],
+    "funding_range": "$50,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://google.com/women-techmakers"
+  },
+  {
+    "id": 2313,
+    "name": "Women in Cybersecurity Business Grant",
+    "source": "U.S. Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "cybersecurity",
+      "information_security"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/women-cybersecurity"
+  },
+  {
+    "id": 2314,
+    "name": "Women in AI & Machine Learning Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "artificial_intelligence",
+      "machine_learning"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/women-ai"
+  },
+  {
+    "id": 2315,
+    "name": "Women in Biotechnology Business Development",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "biotech",
+      "life_sciences"
+    ],
+    "funding_range": "$150,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/women-biotech"
+  },
+  {
+    "id": 2316,
+    "name": "Women in Clean Energy Technology Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "clean_tech",
+      "renewable_energy"
+    ],
+    "funding_range": "$200,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/women-cleantech"
+  },
+  {
+    "id": 2317,
+    "name": "Women in Aerospace & Defense Contracting",
+    "source": "U.S. Department of Defense",
+    "type": "contract",
+    "eligibility": [
+      "women_owned",
+      "aerospace",
+      "defense_industry"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/women-aerospace"
+  },
+  {
+    "id": 2318,
+    "name": "Women in Software Development Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "software_company",
+      "saas"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://nsf.gov/women-software"
+  },
+  {
+    "id": 2319,
+    "name": "Women in Quantum Computing Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "quantum_computing",
+      "advanced_computing"
+    ],
+    "funding_range": "$250,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/women-quantum"
+  },
+  {
+    "id": 2320,
+    "name": "Women in Semiconductor Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "semiconductors",
+      "chip_manufacturing"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/women-semiconductors"
+  },
+  {
+    "id": 2321,
+    "name": "Women in Space Technology Grant",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "space_technology",
+      "aerospace"
+    ],
+    "funding_range": "$250,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://nasa.gov/women-space-tech"
+  },
+  {
+    "id": 2322,
+    "name": "Women in Robotics & Automation",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "robotics",
+      "automation"
+    ],
+    "funding_range": "$150,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/women-robotics"
+  },
+  {
+    "id": 2323,
+    "name": "Women in 3D Printing & Additive Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "3d_printing",
+      "advanced_manufacturing"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/women-3d-printing"
+  },
+  {
+    "id": 2324,
+    "name": "Women in Nanotechnology Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "nanotechnology",
+      "materials_science"
+    ],
+    "funding_range": "$200,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/women-nanotech"
+  },
+  {
+    "id": 2325,
+    "name": "Women in Data Science & Analytics",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "data_science",
+      "analytics"
+    ],
+    "funding_range": "$75,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/women-data-science"
+  },
+  {
+    "id": 2326,
+    "name": "Women in Construction Business Development",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "construction",
+      "general_contracting"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/women-construction"
+  },
+  {
+    "id": 2327,
+    "name": "Women-Owned Electrical Contracting Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "electrical_contracting",
+      "licensed"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/women-electrical"
+  },
+  {
+    "id": 2328,
+    "name": "Women in Plumbing Business Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "plumbing",
+      "water_systems"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/women-plumbing"
+  },
+  {
+    "id": 2329,
+    "name": "Women in HVAC Contracting",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "hvac",
+      "energy_efficiency"
+    ],
+    "funding_range": "$75,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/women-hvac"
+  },
+  {
+    "id": 2330,
+    "name": "Women in Welding & Metalwork Business",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "welding",
+      "metal_fabrication"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/women-welding"
+  },
+  {
+    "id": 2331,
+    "name": "Women in Carpentry & Woodworking",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "carpentry",
+      "custom_woodwork"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/women-carpentry"
+  },
+  {
+    "id": 2332,
+    "name": "Women in Heavy Equipment Operation",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "heavy_equipment",
+      "excavation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://transportation.gov/women-heavy-equipment"
+  },
+  {
+    "id": 2333,
+    "name": "Women in Roofing Contracting",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "roofing",
+      "exterior_contracting"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/women-roofing"
+  },
+  {
+    "id": 2334,
+    "name": "Women in Masonry & Concrete Work",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "masonry",
+      "concrete"
+    ],
+    "funding_range": "$75,000 - $7,500,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/women-masonry"
+  },
+  {
+    "id": 2335,
+    "name": "Women in Auto Repair & Mechanics",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "auto_repair",
+      "automotive_service"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/women-auto-repair"
+  },
+  {
+    "id": 2336,
+    "name": "Women in Agriculture Business Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_farmer",
+      "agricultural_business",
+      "farming"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/women-agriculture"
+  },
+  {
+    "id": 2337,
+    "name": "Women Farmers Cooperative Development",
+    "source": "USDA Rural Development",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "agricultural_cooperative",
+      "value_added"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/women-coop"
+  },
+  {
+    "id": 2338,
+    "name": "Women in Organic Farming Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_farmer",
+      "organic_certification",
+      "sustainable_agriculture"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/women-organic"
+  },
+  {
+    "id": 2339,
+    "name": "Women in Food Manufacturing Business",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "food_processing",
+      "value_added"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/women-food-manufacturing"
+  },
+  {
+    "id": 2340,
+    "name": "Women in Craft Beverage Production",
+    "source": "Alcohol and Tobacco Tax and Trade Bureau",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "brewery_winery_distillery",
+      "alcohol_production"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://ttb.gov/women-craft-beverage"
+  },
+  {
+    "id": 2341,
+    "name": "Women in Beekeeping & Honey Production",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_beekeeper",
+      "apiary",
+      "pollination_services"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/women-beekeeping"
+  },
+  {
+    "id": 2342,
+    "name": "Women in Specialty Crop Production",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_farmer",
+      "fruits_vegetables_nuts",
+      "specialty_crops"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/women-specialty-crops"
+  },
+  {
+    "id": 2343,
+    "name": "Women in Aquaculture & Fish Farming",
+    "source": "NOAA Fisheries",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "aquaculture",
+      "fish_farming"
+    ],
+    "funding_range": "$75,000 - $7,500,000",
+    "obscurity_score": 8,
+    "url": "https://noaa.gov/women-aquaculture"
+  },
+  {
+    "id": 2344,
+    "name": "Women in Urban Agriculture Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "urban_farming",
+      "community_gardens"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/women-urban-agriculture"
+  },
+  {
+    "id": 2345,
+    "name": "Women in Livestock Production Business",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "women_rancher",
+      "livestock",
+      "animal_agriculture"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/women-livestock"
+  },
+  {
+    "id": 2346,
+    "name": "Women Physician Practice Startup",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_physician",
+      "medical_practice",
+      "primary_care"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://hrsa.gov/women-physician"
+  },
+  {
+    "id": 2347,
+    "name": "Women-Owned Dental Practice Grant",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_dentist",
+      "dental_practice",
+      "oral_health"
+    ],
+    "funding_range": "$75,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://hrsa.gov/women-dental"
+  },
+  {
+    "id": 2348,
+    "name": "Women in Mental Health Practice Development",
+    "source": "Substance Abuse and Mental Health Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_therapist",
+      "counseling_practice",
+      "behavioral_health"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://samhsa.gov/women-mental-health"
+  },
+  {
+    "id": 2349,
+    "name": "Women in Physical Therapy Practice",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_physical_therapist",
+      "pt_clinic",
+      "rehabilitation"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://hrsa.gov/women-physical-therapy"
+  },
+  {
+    "id": 2350,
+    "name": "Women in Pharmacy Ownership Grant",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_pharmacist",
+      "independent_pharmacy",
+      "retail"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://hrsa.gov/women-pharmacy"
+  },
+  {
+    "id": 2351,
+    "name": "Women in Medical Device Innovation",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_inventor",
+      "medical_device",
+      "healthcare_innovation"
+    ],
+    "funding_range": "$150,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/women-medical-device"
+  },
+  {
+    "id": 2352,
+    "name": "Women in Home Healthcare Agency Development",
+    "source": "Centers for Medicare & Medicaid Services",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "home_health",
+      "medicare_certified"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://cms.gov/women-home-health"
+  },
+  {
+    "id": 2353,
+    "name": "Women in Clinical Laboratory Services",
+    "source": "Centers for Disease Control and Prevention",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "clinical_lab",
+      "diagnostic_testing"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://cdc.gov/women-clinical-lab"
+  },
+  {
+    "id": 2354,
+    "name": "Women in Telemedicine Platform Development",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_founder",
+      "telehealth",
+      "digital_health"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/women-telemedicine"
+  },
+  {
+    "id": 2355,
+    "name": "Women in Midwifery & Birthing Center",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_midwife",
+      "birthing_center",
+      "maternal_health"
+    ],
+    "funding_range": "$75,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/women-midwifery"
+  },
+  {
+    "id": 2356,
+    "name": "Women in Financial Services Business Grant",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "financial_services",
+      "advisory"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://treasury.gov/women-financial"
+  },
+  {
+    "id": 2357,
+    "name": "Women in Accounting Firm Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_cpa",
+      "accounting_firm",
+      "tax_services"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-accounting"
+  },
+  {
+    "id": 2358,
+    "name": "Women in Law Firm Startup Grant",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "women_attorney",
+      "law_practice",
+      "legal_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://justice.gov/women-law-firm"
+  },
+  {
+    "id": 2359,
+    "name": "Women in Real Estate Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "women_developer",
+      "real_estate",
+      "property_development"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/women-real-estate"
+  },
+  {
+    "id": 2360,
+    "name": "Women in Insurance Agency Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "insurance_agency",
+      "risk_management"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-insurance"
+  },
+  {
+    "id": 2361,
+    "name": "Women in Management Consulting",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "consulting",
+      "business_advisory"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-consulting"
+  },
+  {
+    "id": 2362,
+    "name": "Women in Investment Management Business",
+    "source": "Securities and Exchange Commission",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "investment_management",
+      "registered_advisor"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://sec.gov/women-investment"
+  },
+  {
+    "id": 2363,
+    "name": "Women in Human Resources Consulting",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "hr_services",
+      "talent_management"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/women-hr-consulting"
+  },
+  {
+    "id": 2364,
+    "name": "Women in Marketing & PR Agency",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "marketing_agency",
+      "public_relations"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-marketing"
+  },
+  {
+    "id": 2365,
+    "name": "Women in Event Planning Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "event_planning",
+      "hospitality"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-event-planning"
+  },
+  {
+    "id": 2366,
+    "name": "Women in Advanced Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "manufacturing",
+      "production"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/women-manufacturing"
+  },
+  {
+    "id": 2367,
+    "name": "Women in Textile & Apparel Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "textile",
+      "clothing_manufacturing"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/women-textile"
+  },
+  {
+    "id": 2368,
+    "name": "Women in Electronics Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "electronics",
+      "circuit_assembly"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/women-electronics"
+  },
+  {
+    "id": 2369,
+    "name": "Women in Plastics & Injection Molding",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "plastics_manufacturing",
+      "injection_molding"
+    ],
+    "funding_range": "$150,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/women-plastics"
+  },
+  {
+    "id": 2370,
+    "name": "Women in Metal Fabrication Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "metal_fabrication",
+      "precision_machining"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/women-metal-fabrication"
+  },
+  {
+    "id": 2371,
+    "name": "Women in Packaging Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "packaging",
+      "containers"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/women-packaging"
+  },
+  {
+    "id": 2372,
+    "name": "Women in Chemical Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "chemical_production",
+      "specialty_chemicals"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/women-chemical"
+  },
+  {
+    "id": 2373,
+    "name": "Women in Medical Device Manufacturing",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "medical_device",
+      "healthcare_manufacturing"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/women-medical-manufacturing"
+  },
+  {
+    "id": 2374,
+    "name": "Women in Cosmetics & Personal Care Manufacturing",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "cosmetics",
+      "personal_care_products"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/women-cosmetics"
+  },
+  {
+    "id": 2375,
+    "name": "Women in Furniture Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "furniture",
+      "woodworking_manufacturing"
+    ],
+    "funding_range": "$75,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/women-furniture"
+  },
+  {
+    "id": 2376,
+    "name": "Women in Film & Video Production",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "women_filmmaker",
+      "production_company",
+      "media"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/women-film"
+  },
+  {
+    "id": 2377,
+    "name": "Women in Fashion Design & Apparel",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_designer",
+      "fashion_brand",
+      "apparel_design"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/women-fashion"
+  },
+  {
+    "id": 2378,
+    "name": "Women in Graphic Design Studio",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_designer",
+      "graphic_design",
+      "branding"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-graphic-design"
+  },
+  {
+    "id": 2379,
+    "name": "Women in Interior Design Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_designer",
+      "interior_design",
+      "commercial_residential"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-interior-design"
+  },
+  {
+    "id": 2380,
+    "name": "Women in Jewelry Design & Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_jeweler",
+      "jewelry_business",
+      "artisan"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/women-jewelry"
+  },
+  {
+    "id": 2381,
+    "name": "Women in Photography & Studio Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_photographer",
+      "photography_studio",
+      "creative_services"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/women-photography"
+  },
+  {
+    "id": 2382,
+    "name": "Women in Music Production Studio",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "women_producer",
+      "recording_studio",
+      "music_business"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/women-music"
+  },
+  {
+    "id": 2383,
+    "name": "Women in Animation & Visual Effects",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "women_animator",
+      "vfx_studio",
+      "digital_media"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/women-animation"
+  },
+  {
+    "id": 2384,
+    "name": "Women in Publishing Business Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "women_publisher",
+      "independent_press",
+      "literary_arts"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/women-publishing"
+  },
+  {
+    "id": 2385,
+    "name": "Women in Game Development Studio",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "women_developer",
+      "video_games",
+      "interactive_entertainment"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/women-game-dev"
+  },
+  {
+    "id": 2386,
+    "name": "Black Women Business Accelerator Grant",
+    "source": "National Urban League",
+    "type": "grant",
+    "eligibility": [
+      "black_women",
+      "african_american",
+      "business_ownership"
+    ],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://nul.org/black-women-business"
+  },
+  {
+    "id": 2387,
+    "name": "Latina Entrepreneur Business Grant",
+    "source": "Latino Economic Development Center",
+    "type": "grant",
+    "eligibility": [
+      "latina_women",
+      "hispanic_women",
+      "business_development"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://ledc.org/latina-entrepreneur"
+  },
+  {
+    "id": 2388,
+    "name": "Asian Pacific American Women Business Grant",
+    "source": "National Asian/Pacific Islander American Chamber",
+    "type": "grant",
+    "eligibility": [
+      "asian_women",
+      "pacific_islander_women",
+      "business"
+    ],
+    "funding_range": "$10,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://nationalacecc.org/women-business"
+  },
+  {
+    "id": 2389,
+    "name": "Native American Women Entrepreneur Grant",
+    "source": "Bureau of Indian Affairs",
+    "type": "grant",
+    "eligibility": [
+      "native_american_women",
+      "indigenous",
+      "tribal_business"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://bia.gov/native-women-business"
+  },
+  {
+    "id": 2390,
+    "name": "LGBTQ+ Women Business Development Grant",
+    "source": "National LGBT Chamber of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "lgbtq_women",
+      "queer_women",
+      "diverse_business"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://nglcc.org/women-business"
+  },
+  {
+    "id": 2391,
+    "name": "Women Veteran Entrepreneur Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": [
+      "women_veteran",
+      "military_service",
+      "vosb"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://va.gov/women-veteran-business"
+  },
+  {
+    "id": 2392,
+    "name": "Rural Women Entrepreneur Development",
+    "source": "USDA Rural Development",
+    "type": "grant",
+    "eligibility": [
+      "rural_women",
+      "small_town",
+      "agricultural_communities"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/rural-women-business"
+  },
+  {
+    "id": 2393,
+    "name": "Young Women Entrepreneur Grant (Under 30)",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_under_30",
+      "young_entrepreneur",
+      "millennial_gen_z"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/young-women-entrepreneur"
+  },
+  {
+    "id": 2394,
+    "name": "Immigrant Women Business Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "immigrant_women",
+      "refugee_women",
+      "new_american"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/immigrant-women-business"
+  },
+  {
+    "id": 2395,
+    "name": "Single Mother Entrepreneur Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "single_mothers",
+      "sole_parent",
+      "family_business"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/single-mother-business"
+  },
+  {
+    "id": 2396,
+    "name": "Women with Disabilities Business Grant",
+    "source": "U.S. Business Leadership Network",
+    "type": "grant",
+    "eligibility": [
+      "women_with_disabilities",
+      "disability_owned",
+      "accessible_business"
+    ],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://usbln.org/women-disabilities"
+  },
+  {
+    "id": 2397,
+    "name": "Women in Trucking & Transportation",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "trucking",
+      "logistics"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://transportation.gov/women-trucking"
+  },
+  {
+    "id": 2398,
+    "name": "Women in Aviation & Aerospace Business",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_pilot",
+      "aviation_services",
+      "flight_school"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://faa.gov/women-aviation"
+  },
+  {
+    "id": 2399,
+    "name": "Women in Maritime & Shipping Business",
+    "source": "U.S. Maritime Administration",
+    "type": "grant",
+    "eligibility": [
+      "women_owned",
+      "maritime_services",
+      "marine_transportation"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://maritime.gov/women-maritime"
+  },
+  {
+    "id": 2400,
+    "name": "Women in Social Enterprise Development",
+    "source": "Corporation for National and Community Service",
+    "type": "grant",
+    "eligibility": [
+      "women_led",
+      "social_enterprise",
+      "mission_driven"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalservice.gov/women-social-enterprise"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2701,
+    "name": "AI Ethics & Responsible AI Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "ai_ethics",
+      "responsible_ai",
+      "algorithmic_fairness"
+    ],
+    "funding_range": "$150,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/ai-ethics"
+  },
+  {
+    "id": 2702,
+    "name": "Explainable AI (XAI) Development Grant",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": [
+      "explainable_ai",
+      "interpretable_ml",
+      "transparency"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://darpa.mil/explainable-ai"
+  },
+  {
+    "id": 2703,
+    "name": "AI for Climate Change Solutions",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "ai_climate",
+      "environmental_ml",
+      "sustainability_ai"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/ai-climate"
+  },
+  {
+    "id": 2704,
+    "name": "Federated Learning Technology Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "federated_learning",
+      "privacy_preserving_ml",
+      "distributed_ai"
+    ],
+    "funding_range": "$200,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/federated-learning"
+  },
+  {
+    "id": 2705,
+    "name": "AI-Powered Drug Discovery Platform",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "ai_drug_discovery",
+      "computational_biology",
+      "pharmaceutical_ai"
+    ],
+    "funding_range": "$500,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/ai-drug-discovery"
+  },
+  {
+    "id": 2706,
+    "name": "Computer Vision for Manufacturing Quality",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "computer_vision",
+      "manufacturing_ai",
+      "quality_control"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/computer-vision-manufacturing"
+  },
+  {
+    "id": 2707,
+    "name": "Natural Language Processing Enterprise Solutions",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "nlp",
+      "language_models",
+      "enterprise_ai"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/nlp-enterprise"
+  },
+  {
+    "id": 2708,
+    "name": "AI Chip Design & Hardware Acceleration",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "ai_chips",
+      "hardware_acceleration",
+      "edge_ai"
+    ],
+    "funding_range": "$500,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/ai-chip-design"
+  },
+  {
+    "id": 2709,
+    "name": "Reinforcement Learning Applications Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "reinforcement_learning",
+      "autonomous_systems",
+      "decision_optimization"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/reinforcement-learning"
+  },
+  {
+    "id": 2710,
+    "name": "AI Fairness & Bias Mitigation Services",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "ai_fairness",
+      "bias_mitigation",
+      "algorithmic_justice"
+    ],
+    "funding_range": "$150,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/ai-fairness"
+  },
+  {
+    "id": 2711,
+    "name": "AutoML Platform Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "automl",
+      "automated_machine_learning",
+      "no_code_ai"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/automl"
+  },
+  {
+    "id": 2712,
+    "name": "AI Model Monitoring & Observability",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "mlops",
+      "model_monitoring",
+      "ai_observability"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/ai-monitoring"
+  },
+  {
+    "id": 2713,
+    "name": "Synthetic Data Generation Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "synthetic_data",
+      "data_augmentation",
+      "privacy_preserving"
+    ],
+    "funding_range": "$150,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/synthetic-data"
+  },
+  {
+    "id": 2714,
+    "name": "AI for Precision Agriculture Platform",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "precision_agriculture",
+      "agricultural_ai",
+      "crop_optimization"
+    ],
+    "funding_range": "$200,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/ai-agriculture"
+  },
+  {
+    "id": 2715,
+    "name": "Neuromorphic Computing Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "neuromorphic_computing",
+      "brain_inspired_computing",
+      "spiking_neural_networks"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/neuromorphic-computing"
+  },
+  {
+    "id": 2716,
+    "name": "Enterprise Blockchain Solutions Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "enterprise_blockchain",
+      "distributed_ledger",
+      "supply_chain"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/enterprise-blockchain"
+  },
+  {
+    "id": 2717,
+    "name": "Decentralized Finance (DeFi) Platform Development",
+    "source": "Securities and Exchange Commission",
+    "type": "grant",
+    "eligibility": [
+      "defi",
+      "decentralized_finance",
+      "blockchain_finance"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://sec.gov/defi-platform"
+  },
+  {
+    "id": 2718,
+    "name": "NFT Marketplace & Digital Asset Platform",
+    "source": "U.S. Copyright Office",
+    "type": "grant",
+    "eligibility": [
+      "nft_marketplace",
+      "digital_assets",
+      "blockchain_art"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://copyright.gov/nft-marketplace"
+  },
+  {
+    "id": 2719,
+    "name": "Blockchain Identity & Verification Services",
+    "source": "Department of Homeland Security",
+    "type": "grant",
+    "eligibility": [
+      "blockchain_identity",
+      "decentralized_id",
+      "digital_identity"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/blockchain-identity"
+  },
+  {
+    "id": 2720,
+    "name": "Smart Contract Auditing & Security",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "smart_contract_auditing",
+      "blockchain_security",
+      "code_review"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/smart-contract-auditing"
+  },
+  {
+    "id": 2721,
+    "name": "Tokenization Platform for Real Assets",
+    "source": "Securities and Exchange Commission",
+    "type": "grant",
+    "eligibility": [
+      "asset_tokenization",
+      "security_tokens",
+      "real_estate_blockchain"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://sec.gov/asset-tokenization"
+  },
+  {
+    "id": 2722,
+    "name": "DAO (Decentralized Autonomous Organization) Tooling",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "dao_tools",
+      "decentralized_governance",
+      "blockchain_voting"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/dao-tooling"
+  },
+  {
+    "id": 2723,
+    "name": "Layer 2 Blockchain Scaling Solutions",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "layer_2",
+      "blockchain_scaling",
+      "rollups"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/layer-2-blockchain"
+  },
+  {
+    "id": 2724,
+    "name": "Cross-Chain Interoperability Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "blockchain_interoperability",
+      "cross_chain",
+      "bridge_protocol"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/cross-chain"
+  },
+  {
+    "id": 2725,
+    "name": "Zero-Knowledge Proof Technology Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "zero_knowledge_proofs",
+      "zkp",
+      "privacy_blockchain"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/zero-knowledge"
+  },
+  {
+    "id": 2726,
+    "name": "Quantum Computing Software Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "quantum_software",
+      "quantum_algorithms",
+      "qc_programming"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/quantum-software"
+  },
+  {
+    "id": 2727,
+    "name": "Quantum Cryptography & Security Business",
+    "source": "National Security Agency",
+    "type": "grant",
+    "eligibility": [
+      "quantum_cryptography",
+      "post_quantum_encryption",
+      "quantum_key_distribution"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsa.gov/quantum-cryptography"
+  },
+  {
+    "id": 2728,
+    "name": "Quantum Sensing & Metrology Applications",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "quantum_sensing",
+      "quantum_metrology",
+      "precision_measurement"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/quantum-sensing"
+  },
+  {
+    "id": 2729,
+    "name": "Quantum Communication Networks",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": [
+      "quantum_communication",
+      "quantum_internet",
+      "entanglement_distribution"
+    ],
+    "funding_range": "$500,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://darpa.mil/quantum-communication"
+  },
+  {
+    "id": 2730,
+    "name": "Quantum Hardware Component Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "quantum_hardware",
+      "qubit_fabrication",
+      "quantum_chips"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://commerce.gov/quantum-hardware"
+  },
+  {
+    "id": 2731,
+    "name": "Quantum Machine Learning Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "quantum_ml",
+      "variational_quantum_algorithms",
+      "quantum_ai"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/quantum-ml"
+  },
+  {
+    "id": 2732,
+    "name": "Quantum Simulation for Drug Discovery",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "quantum_simulation",
+      "molecular_modeling",
+      "computational_chemistry"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nih.gov/quantum-simulation"
+  },
+  {
+    "id": 2733,
+    "name": "Quantum Error Correction Technology",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "quantum_error_correction",
+      "fault_tolerant_quantum",
+      "qec_codes"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/quantum-error-correction"
+  },
+  {
+    "id": 2734,
+    "name": "Cryogenic Systems for Quantum Computers",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "cryogenic_systems",
+      "dilution_refrigerators",
+      "quantum_cooling"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/cryogenic-quantum"
+  },
+  {
+    "id": 2735,
+    "name": "Quantum-Resistant Cybersecurity Solutions",
+    "source": "National Security Agency",
+    "type": "grant",
+    "eligibility": [
+      "post_quantum_cryptography",
+      "quantum_resistant",
+      "pqc_migration"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsa.gov/quantum-resistant"
+  },
+  {
+    "id": 2736,
+    "name": "Soft Robotics & Flexible Automation",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "soft_robotics",
+      "flexible_actuators",
+      "compliant_mechanisms"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/soft-robotics"
+  },
+  {
+    "id": 2737,
+    "name": "Swarm Robotics Technology Business",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": [
+      "swarm_robotics",
+      "multi_agent_systems",
+      "collective_intelligence"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://darpa.mil/swarm-robotics"
+  },
+  {
+    "id": 2738,
+    "name": "Collaborative Robot (Cobot) Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "collaborative_robots",
+      "human_robot_collaboration",
+      "cobots"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/cobots"
+  },
+  {
+    "id": 2739,
+    "name": "Surgical Robotics Innovation Business",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "surgical_robotics",
+      "medical_robotics",
+      "minimally_invasive"
+    ],
+    "funding_range": "$500,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/surgical-robotics"
+  },
+  {
+    "id": 2740,
+    "name": "Agricultural Robotics & Automation",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_robotics",
+      "autonomous_farming",
+      "precision_agriculture"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/agricultural-robotics"
+  },
+  {
+    "id": 2741,
+    "name": "Warehouse Automation & Robotics",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "warehouse_robotics",
+      "logistics_automation",
+      "autonomous_mobile_robots"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/warehouse-robotics"
+  },
+  {
+    "id": 2742,
+    "name": "Exoskeleton Technology Development",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "exoskeletons",
+      "wearable_robotics",
+      "rehabilitation_devices"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/exoskeletons"
+  },
+  {
+    "id": 2743,
+    "name": "Micro-Robotics & Nanorobotics",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "micro_robotics",
+      "nanorobotics",
+      "miniature_systems"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/micro-robotics"
+  },
+  {
+    "id": 2744,
+    "name": "Underwater Robotics & Marine Automation",
+    "source": "National Oceanic and Atmospheric Administration",
+    "type": "grant",
+    "eligibility": [
+      "underwater_robotics",
+      "marine_automation",
+      "rov_auv"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 8,
+    "url": "https://noaa.gov/underwater-robotics"
+  },
+  {
+    "id": 2745,
+    "name": "Robotic Process Automation (RPA) Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "rpa",
+      "business_process_automation",
+      "workflow_automation"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/rpa"
+  },
+  {
+    "id": 2746,
+    "name": "Virtual Reality Training Platform Business",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": [
+      "vr_training",
+      "simulation",
+      "immersive_learning"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/vr-training"
+  },
+  {
+    "id": 2747,
+    "name": "Augmented Reality for Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "ar_manufacturing",
+      "industrial_ar",
+      "maintenance_training"
+    ],
+    "funding_range": "$150,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/ar-manufacturing"
+  },
+  {
+    "id": 2748,
+    "name": "Mixed Reality Healthcare Applications",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "mr_healthcare",
+      "surgical_visualization",
+      "medical_training"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/mixed-reality-healthcare"
+  },
+  {
+    "id": 2749,
+    "name": "Spatial Computing Platform Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "spatial_computing",
+      "3d_interfaces",
+      "immersive_computing"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/spatial-computing"
+  },
+  {
+    "id": 2750,
+    "name": "Haptic Feedback Technology Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "haptic_technology",
+      "tactile_feedback",
+      "touch_interfaces"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/haptic-technology"
+  },
+  {
+    "id": 2751,
+    "name": "Volumetric Display & Holographic Technology",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": [
+      "volumetric_display",
+      "holography",
+      "3d_visualization"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://darpa.mil/volumetric-display"
+  },
+  {
+    "id": 2752,
+    "name": "Virtual Production & Film Technology",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "virtual_production",
+      "led_volume",
+      "real_time_rendering"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/virtual-production"
+  },
+  {
+    "id": 2753,
+    "name": "AR Navigation & Wayfinding Solutions",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "ar_navigation",
+      "wayfinding",
+      "spatial_guidance"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://transportation.gov/ar-navigation"
+  },
+  {
+    "id": 2754,
+    "name": "VR Therapy & Mental Health Applications",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "vr_therapy",
+      "exposure_therapy",
+      "mental_health_vr"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/vr-therapy"
+  },
+  {
+    "id": 2755,
+    "name": "WebXR Platform Development Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "webxr",
+      "browser_based_xr",
+      "immersive_web"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/webxr"
+  },
+  {
+    "id": 2756,
+    "name": "Edge Computing Infrastructure Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "edge_computing",
+      "distributed_computing",
+      "edge_infrastructure"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/edge-computing"
+  },
+  {
+    "id": 2757,
+    "name": "5G Private Network Solutions",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "private_5g",
+      "enterprise_5g",
+      "cbrs"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/private-5g"
+  },
+  {
+    "id": 2758,
+    "name": "Multi-Access Edge Computing (MEC) Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "mec",
+      "mobile_edge_computing",
+      "low_latency"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/multi-access-edge"
+  },
+  {
+    "id": 2759,
+    "name": "6G Research & Development Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "6g_research",
+      "next_gen_wireless",
+      "terahertz_communication"
+    ],
+    "funding_range": "$500,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/6g-research"
+  },
+  {
+    "id": 2760,
+    "name": "Fog Computing Platform Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "fog_computing",
+      "edge_to_cloud",
+      "distributed_processing"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/fog-computing"
+  },
+  {
+    "id": 2761,
+    "name": "IoT Edge AI & Analytics Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "edge_ai",
+      "iot_analytics",
+      "on_device_ml"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/iot-edge-ai"
+  },
+  {
+    "id": 2762,
+    "name": "Network Slicing Technology Business",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "network_slicing",
+      "5g_virtualization",
+      "sdn_nfv"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://fcc.gov/network-slicing"
+  },
+  {
+    "id": 2763,
+    "name": "Massive MIMO Technology Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "massive_mimo",
+      "antenna_arrays",
+      "5g_infrastructure"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/massive-mimo"
+  },
+  {
+    "id": 2764,
+    "name": "Edge-to-Cloud Orchestration Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "edge_orchestration",
+      "hybrid_cloud",
+      "edge_management"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/edge-orchestration"
+  },
+  {
+    "id": 2765,
+    "name": "Millimeter Wave Technology Business",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "mmwave",
+      "high_frequency_5g",
+      "spectrum_technology"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://fcc.gov/millimeter-wave"
+  },
+  {
+    "id": 2766,
+    "name": "CRISPR Gene Editing Technology Business",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "crispr",
+      "gene_editing",
+      "genome_engineering"
+    ],
+    "funding_range": "$500,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/crispr"
+  },
+  {
+    "id": 2767,
+    "name": "Synthetic Biology Platform Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "synthetic_biology",
+      "bioengineering",
+      "genetic_circuits"
+    ],
+    "funding_range": "$400,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/synthetic-biology"
+  },
+  {
+    "id": 2768,
+    "name": "Cell & Gene Therapy Manufacturing",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "cell_therapy",
+      "gene_therapy",
+      "car_t"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/cell-gene-therapy"
+  },
+  {
+    "id": 2769,
+    "name": "mRNA Therapeutics Development Business",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "mrna_therapeutics",
+      "rna_medicine",
+      "nucleic_acid"
+    ],
+    "funding_range": "$500,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/mrna-therapeutics"
+  },
+  {
+    "id": 2770,
+    "name": "Organoid Technology & Tissue Engineering",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "organoids",
+      "tissue_engineering",
+      "3d_cell_culture"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nih.gov/organoid-technology"
+  },
+  {
+    "id": 2771,
+    "name": "Microbiome Therapeutics Business",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "microbiome",
+      "probiotics",
+      "fecal_microbiota"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/microbiome-therapeutics"
+  },
+  {
+    "id": 2772,
+    "name": "Protein Engineering & Design Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "protein_engineering",
+      "de_novo_design",
+      "computational_biology"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/protein-engineering"
+  },
+  {
+    "id": 2773,
+    "name": "Personalized Medicine & Diagnostics",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "personalized_medicine",
+      "precision_diagnostics",
+      "pharmacogenomics"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/personalized-medicine"
+  },
+  {
+    "id": 2774,
+    "name": "Bioprinting & 3D Tissue Fabrication",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "bioprinting",
+      "3d_bioprinting",
+      "tissue_fabrication"
+    ],
+    "funding_range": "$400,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://nih.gov/bioprinting"
+  },
+  {
+    "id": 2775,
+    "name": "Lab-Grown Meat & Cellular Agriculture",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "cultured_meat",
+      "cellular_agriculture",
+      "alternative_protein"
+    ],
+    "funding_range": "$500,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/cultured-meat"
+  },
+  {
+    "id": 2776,
+    "name": "Small Satellite (SmallSat) Manufacturing",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "smallsat",
+      "cubesat",
+      "satellite_manufacturing"
+    ],
+    "funding_range": "$300,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://nasa.gov/smallsat"
+  },
+  {
+    "id": 2777,
+    "name": "Space Launch Services & Reusable Rockets",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": [
+      "launch_services",
+      "reusable_rockets",
+      "commercial_spaceflight"
+    ],
+    "funding_range": "$1,000,000 - $1,000,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/commercial-space"
+  },
+  {
+    "id": 2778,
+    "name": "In-Orbit Servicing & Space Robotics",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "in_orbit_servicing",
+      "satellite_refueling",
+      "space_robotics"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 9,
+    "url": "https://nasa.gov/in-orbit-servicing"
+  },
+  {
+    "id": 2779,
+    "name": "Space Debris Removal Technology",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "space_debris",
+      "orbital_cleanup",
+      "debris_mitigation"
+    ],
+    "funding_range": "$300,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://nasa.gov/debris-removal"
+  },
+  {
+    "id": 2780,
+    "name": "Lunar Resource Extraction Business",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "lunar_resources",
+      "moon_mining",
+      "isru"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://nasa.gov/lunar-resources"
+  },
+  {
+    "id": 2781,
+    "name": "Satellite Data Analytics & Earth Observation",
+    "source": "National Oceanic and Atmospheric Administration",
+    "type": "grant",
+    "eligibility": [
+      "satellite_data",
+      "earth_observation",
+      "remote_sensing"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://noaa.gov/satellite-data"
+  },
+  {
+    "id": 2782,
+    "name": "Space Tourism & Suborbital Flight",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": [
+      "space_tourism",
+      "suborbital_flight",
+      "commercial_spaceflight"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/space-tourism"
+  },
+  {
+    "id": 2783,
+    "name": "Spacecraft Propulsion Technology",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "spacecraft_propulsion",
+      "electric_propulsion",
+      "advanced_propulsion"
+    ],
+    "funding_range": "$400,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://nasa.gov/spacecraft-propulsion"
+  },
+  {
+    "id": 2784,
+    "name": "Space-Based Solar Power Business",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "space_solar_power",
+      "orbital_energy",
+      "wireless_power"
+    ],
+    "funding_range": "$1,000,000 - $1,000,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/space-solar"
+  },
+  {
+    "id": 2785,
+    "name": "Asteroid Mining & Space Resources",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": [
+      "asteroid_mining",
+      "space_mining",
+      "near_earth_objects"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://nasa.gov/asteroid-mining"
+  },
+  {
+    "id": 2786,
+    "name": "Graphene & 2D Materials Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "graphene",
+      "2d_materials",
+      "nanomaterials"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/graphene"
+  },
+  {
+    "id": 2787,
+    "name": "Self-Healing Materials Technology",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "self_healing_materials",
+      "smart_materials",
+      "autonomous_repair"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/self-healing-materials"
+  },
+  {
+    "id": 2788,
+    "name": "Metamaterials & Photonic Crystals",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": [
+      "metamaterials",
+      "photonic_crystals",
+      "engineered_materials"
+    ],
+    "funding_range": "$300,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://darpa.mil/metamaterials"
+  },
+  {
+    "id": 2789,
+    "name": "Aerogel & Ultra-Light Materials Business",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "aerogel",
+      "ultralight_materials",
+      "insulation_materials"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/aerogel"
+  },
+  {
+    "id": 2790,
+    "name": "Carbon Nanotube Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "carbon_nanotubes",
+      "cnt_production",
+      "advanced_carbon"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/carbon-nanotubes"
+  },
+  {
+    "id": 2791,
+    "name": "Smart Coatings & Functional Surfaces",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "smart_coatings",
+      "functional_surfaces",
+      "nanocoatings"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/smart-coatings"
+  },
+  {
+    "id": 2792,
+    "name": "Shape Memory Alloys & Smart Metals",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "shape_memory_alloys",
+      "smart_metals",
+      "responsive_materials"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/shape-memory-alloys"
+  },
+  {
+    "id": 2793,
+    "name": "Perovskite Materials & Applications",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "perovskite",
+      "solar_cells",
+      "optoelectronics"
+    ],
+    "funding_range": "$300,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/perovskite"
+  },
+  {
+    "id": 2794,
+    "name": "Bio-Inspired Materials Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "biomimetic_materials",
+      "bio_inspired",
+      "nature_based_design"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/biomimetic-materials"
+  },
+  {
+    "id": 2795,
+    "name": "Nanoelectronics & Molecular Electronics",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "nanoelectronics",
+      "molecular_electronics",
+      "beyond_cmos"
+    ],
+    "funding_range": "$400,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/nanoelectronics"
+  },
+  {
+    "id": 2796,
+    "name": "Digital Twin Technology Platform",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "digital_twins",
+      "virtual_replicas",
+      "predictive_modeling"
+    ],
+    "funding_range": "$250,000 - $60,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/digital-twins"
+  },
+  {
+    "id": 2797,
+    "name": "Brain-Computer Interface Development",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "brain_computer_interface",
+      "bci",
+      "neural_interface"
+    ],
+    "funding_range": "$400,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://nih.gov/brain-computer-interface"
+  },
+  {
+    "id": 2798,
+    "name": "Carbon Capture & Utilization Technology",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": [
+      "carbon_capture",
+      "ccus",
+      "direct_air_capture"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/carbon-capture"
+  },
+  {
+    "id": 2799,
+    "name": "Alternative Protein & Food Technology",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "alternative_protein",
+      "plant_based",
+      "precision_fermentation"
+    ],
+    "funding_range": "$300,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/alternative-protein"
+  },
+  {
+    "id": 2800,
+    "name": "Vertical Farming & Controlled Environment Agriculture",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "vertical_farming",
+      "indoor_agriculture",
+      "controlled_environment"
+    ],
+    "funding_range": "$250,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/vertical-farming"
+  }
+]

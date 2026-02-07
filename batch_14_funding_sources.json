@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1301,
+    "name": "Mississippi Development Authority Loan",
+    "source": "Mississippi Development Authority",
+    "type": "loan",
+    "eligibility": ["small_business", "mississippi_based", "expansion"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 5,
+    "url": "https://mda.ms.gov/loans"
+  },
+  {
+    "id": 1302,
+    "name": "Mississippi Film Rebate Program",
+    "source": "Mississippi Film Office",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "mississippi_filming"],
+    "funding_range": "25-30% rebate",
+    "obscurity_score": 5,
+    "url": "https://filmmississippi.org/rebate"
+  },
+  {
+    "id": 1303,
+    "name": "Mississippi Advantage Jobs Incentive",
+    "source": "Mississippi Development Authority",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "business_expansion", "mississippi_based"],
+    "funding_range": "$1,000 - $5,000 per job",
+    "obscurity_score": 4,
+    "url": "https://mda.ms.gov/advantage-jobs"
+  },
+  {
+    "id": 1304,
+    "name": "Mississippi Angel Investment Tax Credit",
+    "source": "Mississippi Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "mississippi_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 7,
+    "url": "https://dor.ms.gov/business/tax-credits/angel-investor"
+  },
+  {
+    "id": 1305,
+    "name": "Mississippi Agricultural & Forestry Grant",
+    "source": "Mississippi Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "forestry", "mississippi_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://mdac.ms.gov/grants"
+  },
+  {
+    "id": 1306,
+    "name": "Mississippi Small Enterprise Development Finance",
+    "source": "Mississippi Development Authority",
+    "type": "loan",
+    "eligibility": ["small_business", "startup", "mississippi_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://mda.ms.gov/small-enterprise"
+  },
+  {
+    "id": 1307,
+    "name": "Mississippi Tourism Rebate Program",
+    "source": "Visit Mississippi",
+    "type": "rebate",
+    "eligibility": ["tourism", "hospitality", "capital_investment"],
+    "funding_range": "25% rebate",
+    "obscurity_score": 6,
+    "url": "https://visitmississippi.org/rebate"
+  },
+  {
+    "id": 1308,
+    "name": "Mississippi Aerospace Initiative Grant",
+    "source": "Mississippi Development Authority",
+    "type": "grant",
+    "eligibility": ["aerospace", "manufacturing", "mississippi_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://mda.ms.gov/aerospace"
+  },
+  {
+    "id": 1309,
+    "name": "Mississippi Growth & Prosperity Tax Credit",
+    "source": "Mississippi Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["capital_investment", "job_creation", "mississippi_based"],
+    "funding_range": "10 year tax credit",
+    "obscurity_score": 5,
+    "url": "https://dor.ms.gov/business/tax-credits/growth-prosperity"
+  },
+  {
+    "id": 1310,
+    "name": "Mississippi Brownfield Voluntary Cleanup Credit",
+    "source": "Mississippi Department of Environmental Quality",
+    "type": "tax_credit",
+    "eligibility": ["brownfield", "environmental_cleanup", "mississippi_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 7,
+    "url": "https://mdeq.ms.gov/brownfields"
+  },
+  {
+    "id": 1311,
+    "name": "Mississippi Workforce Investment & Training Grant",
+    "source": "Mississippi Department of Employment Security",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "mississippi_based"],
+    "funding_range": "$5,000 - $200,000",
+    "obscurity_score": 5,
+    "url": "https://mdes.ms.gov/workforce-training"
+  },
+  {
+    "id": 1312,
+    "name": "Mississippi Research & Development Tax Credit",
+    "source": "Mississippi Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "mississippi_based"],
+    "funding_range": "15% of expenses",
+    "obscurity_score": 6,
+    "url": "https://dor.ms.gov/business/tax-credits/rd"
+  },
+  {
+    "id": 1313,
+    "name": "Mississippi Catfish Marketing & Promotion Grant",
+    "source": "The Catfish Institute",
+    "type": "grant",
+    "eligibility": ["catfish_farming", "aquaculture", "mississippi_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 9,
+    "url": "https://uscatfish.com/grants"
+  },
+  {
+    "id": 1314,
+    "name": "Mississippi Renewable Energy Tax Credit",
+    "source": "Mississippi Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "solar", "mississippi_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 6,
+    "url": "https://dor.ms.gov/business/tax-credits/renewable-energy"
+  },
+  {
+    "id": 1315,
+    "name": "Mississippi Historic Preservation Tax Credit",
+    "source": "Mississippi Department of Archives and History",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "mississippi_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://mdah.ms.gov/preservation/tax-credits"
+  },
+  {
+    "id": 1316,
+    "name": "Mississippi Minority Business Enterprise Loan",
+    "source": "Mississippi Development Authority",
+    "type": "loan",
+    "eligibility": ["minority_owned", "small_business", "mississippi_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://mda.ms.gov/minority-business"
+  },
+  {
+    "id": 1317,
+    "name": "Mississippi Port Revitalization Grant",
+    "source": "Mississippi State Port Authority",
+    "type": "grant",
+    "eligibility": ["port", "maritime", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://mspa.com/grants"
+  },
+  {
+    "id": 1318,
+    "name": "Mississippi Veteran Business Development",
+    "source": "Mississippi Veterans Affairs Board",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "mississippi_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://vab.ms.gov/business"
+  },
+  {
+    "id": 1319,
+    "name": "Mississippi Delta Health Alliance Grant",
+    "source": "Mississippi Delta Health Collaborative",
+    "type": "grant",
+    "eligibility": ["healthcare", "delta_region", "mississippi_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://msdeltahealth.com/grants"
+  },
+  {
+    "id": 1320,
+    "name": "Mississippi Cotton Production Grant",
+    "source": "Mississippi Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["cotton_farming", "agriculture", "mississippi_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://mdac.ms.gov/cotton-grants"
+  },
+  {
+    "id": 1321,
+    "name": "Montana Big Sky Economic Development Trust Fund",
+    "source": "Montana Department of Commerce",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "montana_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.mt.gov/BSTF"
+  },
+  {
+    "id": 1322,
+    "name": "Montana Film Production Tax Credit",
+    "source": "Montana Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "montana_filming"],
+    "funding_range": "20-35% of expenses",
+    "obscurity_score": 5,
+    "url": "https://montanafilm.com/tax-credit"
+  },
+  {
+    "id": 1323,
+    "name": "Montana INTERCAP Loan Program",
+    "source": "Montana Board of Investments",
+    "type": "loan",
+    "eligibility": ["small_business", "montana_based", "expansion"],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://investmentmt.com/intercap"
+  },
+  {
+    "id": 1324,
+    "name": "Montana Primary Sector Business Tax Credit",
+    "source": "Montana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["manufacturing", "primary_sector", "montana_based"],
+    "funding_range": "$500 per employee",
+    "obscurity_score": 7,
+    "url": "https://mtrevenue.gov/primary-sector-credit"
+  },
+  {
+    "id": 1325,
+    "name": "Montana Value-Added Agricultural Grant",
+    "source": "Montana Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "value_added", "montana_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://agr.mt.gov/value-added-grants"
+  },
+  {
+    "id": 1326,
+    "name": "Montana Coal Severance Tax Rebate",
+    "source": "Montana Department of Revenue",
+    "type": "rebate",
+    "eligibility": ["coal_industry", "energy", "montana_based"],
+    "funding_range": "Varies",
+    "obscurity_score": 9,
+    "url": "https://mtrevenue.gov/coal-severance"
+  },
+  {
+    "id": 1327,
+    "name": "Montana Tourism Infrastructure Investment",
+    "source": "Montana Office of Tourism",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "infrastructure"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://visitmt.com/grants"
+  },
+  {
+    "id": 1328,
+    "name": "Montana Registered Apprenticeship Tax Credit",
+    "source": "Montana Department of Labor",
+    "type": "tax_credit",
+    "eligibility": ["apprenticeship", "workforce_development", "montana_based"],
+    "funding_range": "$5,000 per apprentice",
+    "obscurity_score": 7,
+    "url": "https://dli.mt.gov/apprenticeship-tax-credit"
+  },
+  {
+    "id": 1329,
+    "name": "Montana Alternative Energy Production Tax Credit",
+    "source": "Montana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "alternative_energy", "montana_based"],
+    "funding_range": "35% of investment",
+    "obscurity_score": 6,
+    "url": "https://mtrevenue.gov/alternative-energy"
+  },
+  {
+    "id": 1330,
+    "name": "Montana Broadband Infrastructure Grant",
+    "source": "Montana Department of Commerce",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.mt.gov/broadband"
+  },
+  {
+    "id": 1331,
+    "name": "Montana Historic Preservation Tax Credit",
+    "source": "Montana State Historic Preservation Office",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "montana_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://mhs.mt.gov/shpo/tax-credits"
+  },
+  {
+    "id": 1332,
+    "name": "Montana Research & Development Tax Credit",
+    "source": "Montana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "montana_based"],
+    "funding_range": "5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://mtrevenue.gov/rd-credit"
+  },
+  {
+    "id": 1333,
+    "name": "Montana Microbusiness Finance Program",
+    "source": "Montana Department of Commerce",
+    "type": "loan",
+    "eligibility": ["microbusiness", "startup", "montana_based"],
+    "funding_range": "$500 - $35,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.mt.gov/microbusiness"
+  },
+  {
+    "id": 1334,
+    "name": "Montana Craft Brewery Tax Relief",
+    "source": "Montana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "craft_beverage", "montana_based"],
+    "funding_range": "Tax reduction",
+    "obscurity_score": 7,
+    "url": "https://mtrevenue.gov/craft-brewery"
+  },
+  {
+    "id": 1335,
+    "name": "Montana Forest Products Industry Grant",
+    "source": "Montana Department of Natural Resources",
+    "type": "grant",
+    "eligibility": ["forestry", "wood_products", "montana_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://dnrc.mt.gov/forestry/grants"
+  },
+  {
+    "id": 1336,
+    "name": "Montana Seed Capital Tax Credit",
+    "source": "Montana Department of Commerce",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "montana_based"],
+    "funding_range": "50% of investment",
+    "obscurity_score": 7,
+    "url": "https://commerce.mt.gov/seed-capital"
+  },
+  {
+    "id": 1337,
+    "name": "Montana Veteran Business Development",
+    "source": "Montana Department of Military Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "montana_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://montanadma.org/veteran-business"
+  },
+  {
+    "id": 1338,
+    "name": "Montana Tribal Business Development Grant",
+    "source": "Montana Department of Commerce",
+    "type": "grant",
+    "eligibility": ["native_american", "tribal_enterprise", "montana_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.mt.gov/tribal-business"
+  },
+  {
+    "id": 1339,
+    "name": "Montana Outdoor Recreation Infrastructure",
+    "source": "Montana Department of Commerce",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "montana_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.mt.gov/outdoor-rec-grants"
+  },
+  {
+    "id": 1340,
+    "name": "Montana Livestock Loss Board Grant",
+    "source": "Montana Livestock Loss Board",
+    "type": "grant",
+    "eligibility": ["ranching", "livestock", "montana_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://liv.mt.gov/livestockloss"
+  },
+  {
+    "id": 1341,
+    "name": "Nevada Knowledge Fund",
+    "source": "Nevada Governor's Office of Economic Development",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "nevada_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://goed.nv.gov/knowledge-fund"
+  },
+  {
+    "id": 1342,
+    "name": "Nevada Film Tax Credit",
+    "source": "Nevada Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "nevada_filming"],
+    "funding_range": "15-19% of expenses",
+    "obscurity_score": 5,
+    "url": "https://nevadafilm.com/tax-credit"
+  },
+  {
+    "id": 1343,
+    "name": "Nevada Catalyst Fund",
+    "source": "Nevada Governor's Office of Economic Development",
+    "type": "equity",
+    "eligibility": ["tech_startup", "high_growth", "nevada_based"],
+    "funding_range": "$250,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://goed.nv.gov/catalyst-fund"
+  },
+  {
+    "id": 1344,
+    "name": "Nevada Microenterprise Initiative Grant",
+    "source": "Nevada Microenterprise Initiative",
+    "type": "grant",
+    "eligibility": ["microbusiness", "startup", "nevada_based"],
+    "funding_range": "$2,500 - $25,000",
+    "obscurity_score": 6,
+    "url": "https://4microbusiness.org/grants"
+  },
+  {
+    "id": 1345,
+    "name": "Nevada Tourism Infrastructure Grant",
+    "source": "Travel Nevada",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "infrastructure"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://travelnevada.com/grants"
+  },
+  {
+    "id": 1346,
+    "name": "Nevada New Markets Job Tax Credit",
+    "source": "Nevada Department of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "underserved_area", "nevada_based"],
+    "funding_range": "$5,000 per job",
+    "obscurity_score": 7,
+    "url": "https://tax.nv.gov/new-markets-jobs"
+  },
+  {
+    "id": 1347,
+    "name": "Nevada Renewable Energy Production Tax Abatement",
+    "source": "Nevada Governor's Office of Energy",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "production", "nevada_based"],
+    "funding_range": "55% abatement",
+    "obscurity_score": 6,
+    "url": "https://energy.nv.gov/renewable-abatement"
+  },
+  {
+    "id": 1348,
+    "name": "Nevada Mining Industry Tax Abatement",
+    "source": "Nevada Commission on Economic Development",
+    "type": "tax_credit",
+    "eligibility": ["mining", "extraction", "nevada_based"],
+    "funding_range": "50% abatement",
+    "obscurity_score": 7,
+    "url": "https://goed.nv.gov/mining-abatement"
+  },
+  {
+    "id": 1349,
+    "name": "Nevada Broadband Infrastructure Grant",
+    "source": "Nevada Governor's Office of Science, Innovation and Technology",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://osit.nv.gov/broadband-grants"
+  },
+  {
+    "id": 1350,
+    "name": "Nevada Workforce Connections Grant",
+    "source": "Workforce Connections",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "nevada_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://nvworkforceconnections.org/grants"
+  },
+  {
+    "id": 1351,
+    "name": "Nevada Gaming Industry Capital Investment",
+    "source": "Nevada Gaming Commission",
+    "type": "tax_credit",
+    "eligibility": ["gaming", "casino", "nevada_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 8,
+    "url": "https://gaming.nv.gov/capital-investment"
+  },
+  {
+    "id": 1352,
+    "name": "Nevada Historic Preservation Tax Credit",
+    "source": "Nevada State Historic Preservation Office",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "nevada_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://shpo.nv.gov/tax-credits"
+  },
+  {
+    "id": 1353,
+    "name": "Nevada Electric Vehicle Infrastructure Grant",
+    "source": "Nevada Governor's Office of Energy",
+    "type": "grant",
+    "eligibility": ["ev_infrastructure", "transportation", "nevada_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.nv.gov/ev-infrastructure"
+  },
+  {
+    "id": 1354,
+    "name": "Nevada Agriculture Industry Tax Abatement",
+    "source": "Nevada Department of Agriculture",
+    "type": "tax_credit",
+    "eligibility": ["agriculture", "farming", "nevada_based"],
+    "funding_range": "50% abatement",
+    "obscurity_score": 7,
+    "url": "https://agri.nv.gov/tax-abatement"
+  },
+  {
+    "id": 1355,
+    "name": "Nevada Aerospace & Defense Development",
+    "source": "Nevada Governor's Office of Economic Development",
+    "type": "grant",
+    "eligibility": ["aerospace", "defense", "nevada_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://goed.nv.gov/aerospace"
+  },
+  {
+    "id": 1356,
+    "name": "Nevada Veteran Business Development",
+    "source": "Nevada Department of Veterans Services",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "nevada_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.nv.gov/business"
+  },
+  {
+    "id": 1357,
+    "name": "Nevada Data Center Tax Abatement",
+    "source": "Nevada Governor's Office of Economic Development",
+    "type": "tax_credit",
+    "eligibility": ["data_center", "tech_infrastructure", "nevada_based"],
+    "funding_range": "75% abatement",
+    "obscurity_score": 7,
+    "url": "https://goed.nv.gov/data-center-abatement"
+  },
+  {
+    "id": 1358,
+    "name": "Nevada Geothermal Energy Development",
+    "source": "Nevada Governor's Office of Energy",
+    "type": "grant",
+    "eligibility": ["geothermal", "renewable_energy", "nevada_based"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.nv.gov/geothermal"
+  },
+  {
+    "id": 1359,
+    "name": "Nevada Lithium Battery Manufacturing Incentive",
+    "source": "Nevada Governor's Office of Economic Development",
+    "type": "tax_credit",
+    "eligibility": ["battery_manufacturing", "cleantech", "nevada_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 8,
+    "url": "https://goed.nv.gov/lithium-battery"
+  },
+  {
+    "id": 1360,
+    "name": "Nevada Entertainment District Tax Credit",
+    "source": "Nevada Department of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["entertainment", "hospitality", "nevada_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 9,
+    "url": "https://tax.nv.gov/entertainment-district"
+  },
+  {
+    "id": 1361,
+    "name": "New Hampshire Job Training Fund",
+    "source": "New Hampshire Department of Business and Economic Affairs",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "new_hampshire_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://nheconomy.com/job-training-fund"
+  },
+  {
+    "id": 1362,
+    "name": "New Hampshire Film & Television Production Tax Credit",
+    "source": "New Hampshire Film & Television Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "new_hampshire_filming"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 5,
+    "url": "https://nhfilm.com/tax-credit"
+  },
+  {
+    "id": 1363,
+    "name": "New Hampshire Community Development Finance Authority Loan",
+    "source": "New Hampshire CDFA",
+    "type": "loan",
+    "eligibility": ["small_business", "new_hampshire_based", "expansion"],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://nhcdfa.org/business-loans"
+  },
+  {
+    "id": 1364,
+    "name": "New Hampshire Research & Development Tax Credit",
+    "source": "New Hampshire Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "new_hampshire_based"],
+    "funding_range": "10% of expenses",
+    "obscurity_score": 6,
+    "url": "https://revenue.nh.gov/rd-credit"
+  },
+  {
+    "id": 1365,
+    "name": "New Hampshire Agriculture Innovation Grant",
+    "source": "New Hampshire Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "new_hampshire_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://agriculture.nh.gov/innovation-grants"
+  },
+  {
+    "id": 1366,
+    "name": "New Hampshire Export Grant",
+    "source": "New Hampshire Department of Business and Economic Affairs",
+    "type": "grant",
+    "eligibility": ["export", "international_trade", "new_hampshire_based"],
+    "funding_range": "$2,500 - $25,000",
+    "obscurity_score": 7,
+    "url": "https://nheconomy.com/export-grant"
+  },
+  {
+    "id": 1367,
+    "name": "New Hampshire Tourism Marketing Grant",
+    "source": "Visit New Hampshire",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://visitnh.gov/grants"
+  },
+  {
+    "id": 1368,
+    "name": "New Hampshire Broadband Matching Grant",
+    "source": "New Hampshire Department of Business and Economic Affairs",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://nheconomy.com/broadband-grants"
+  },
+  {
+    "id": 1369,
+    "name": "New Hampshire Historic Preservation Tax Credit",
+    "source": "New Hampshire Division of Historical Resources",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "new_hampshire_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://historicresources.nh.gov/tax-credits"
+  },
+  {
+    "id": 1370,
+    "name": "New Hampshire Renewable Energy Fund Grant",
+    "source": "New Hampshire Public Utilities Commission",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "new_hampshire_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://puc.nh.gov/sustainable-energy/renewable-energy-fund"
+  },
+  {
+    "id": 1371,
+    "name": "New Hampshire Aquaculture Grant Program",
+    "source": "New Hampshire Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["aquaculture", "seafood", "new_hampshire_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://agriculture.nh.gov/aquaculture"
+  },
+  {
+    "id": 1372,
+    "name": "New Hampshire Moose Plate Grant",
+    "source": "New Hampshire Conservation License Plate Program",
+    "type": "grant",
+    "eligibility": ["conservation", "environmental", "new_hampshire_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://mooseplate.com/grants"
+  },
+  {
+    "id": 1373,
+    "name": "New Hampshire Manufacturing Extension Partnership Grant",
+    "source": "New Hampshire MEP",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "new_hampshire_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://nhmep.org/grants"
+  },
+  {
+    "id": 1374,
+    "name": "New Hampshire Craft Beverage Tax Relief",
+    "source": "New Hampshire Liquor Commission",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "Tax reduction",
+    "obscurity_score": 6,
+    "url": "https://liquor.nh.gov/craft-beverage"
+  },
+  {
+    "id": 1375,
+    "name": "New Hampshire Outdoor Recreation Fund",
+    "source": "New Hampshire Department of Business and Economic Affairs",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "tourism", "new_hampshire_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://nheconomy.com/outdoor-rec"
+  },
+  {
+    "id": 1376,
+    "name": "New Hampshire Veteran Business Development",
+    "source": "New Hampshire Office of Veterans Services",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "new_hampshire_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://nh.gov/veterans/business"
+  },
+  {
+    "id": 1377,
+    "name": "New Hampshire Wood Energy Grant",
+    "source": "New Hampshire Department of Energy",
+    "type": "grant",
+    "eligibility": ["biomass", "renewable_energy", "new_hampshire_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://energy.nh.gov/wood-energy"
+  },
+  {
+    "id": 1378,
+    "name": "New Hampshire Maple Production Support",
+    "source": "New Hampshire Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["maple_syrup", "agriculture", "new_hampshire_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://agriculture.nh.gov/maple-grants"
+  },
+  {
+    "id": 1379,
+    "name": "New Hampshire Tech Commercialization Grant",
+    "source": "New Hampshire High Tech Council",
+    "type": "grant",
+    "eligibility": ["tech_startup", "commercialization", "new_hampshire_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://nhhightech.com/grants"
+  },
+  {
+    "id": 1380,
+    "name": "New Hampshire Ski Area Capital Investment",
+    "source": "New Hampshire Department of Business and Economic Affairs",
+    "type": "grant",
+    "eligibility": ["ski_industry", "tourism", "new_hampshire_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://nheconomy.com/ski-grants"
+  },
+  {
+    "id": 1381,
+    "name": "New Jersey Economic Development Authority Loan",
+    "source": "New Jersey EDA",
+    "type": "loan",
+    "eligibility": ["small_business", "new_jersey_based", "expansion"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 4,
+    "url": "https://njeda.gov/financing"
+  },
+  {
+    "id": 1382,
+    "name": "New Jersey Film Tax Credit",
+    "source": "New Jersey Motion Picture & Television Commission",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "new_jersey_filming"],
+    "funding_range": "30-35% of expenses",
+    "obscurity_score": 4,
+    "url": "https://film.nj.gov/tax-credit"
+  },
+  {
+    "id": 1383,
+    "name": "New Jersey Angel Investor Tax Credit",
+    "source": "New Jersey EDA",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "new_jersey_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 6,
+    "url": "https://njeda.gov/angel-investor"
+  },
+  {
+    "id": 1384,
+    "name": "New Jersey Technology Business Tax Certificate Transfer",
+    "source": "New Jersey EDA",
+    "type": "tax_credit",
+    "eligibility": ["tech_startup", "unprofitable", "new_jersey_based"],
+    "funding_range": "80% of tax losses",
+    "obscurity_score": 7,
+    "url": "https://njeda.gov/tech-tax-transfer"
+  },
+  {
+    "id": 1385,
+    "name": "New Jersey Emerge Program",
+    "source": "New Jersey EDA",
+    "type": "grant",
+    "eligibility": ["tech_startup", "early_stage", "new_jersey_based"],
+    "funding_range": "$50,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://njeda.gov/emerge"
+  },
+  {
+    "id": 1386,
+    "name": "New Jersey Aspire Program",
+    "source": "New Jersey EDA",
+    "type": "grant",
+    "eligibility": ["tech_startup", "growth_stage", "new_jersey_based"],
+    "funding_range": "$250,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://njeda.gov/aspire"
+  },
+  {
+    "id": 1387,
+    "name": "New Jersey Clean Energy Program Grant",
+    "source": "New Jersey Board of Public Utilities",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "energy_efficiency", "new_jersey_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://njcleanenergy.com/commercial-industrial"
+  },
+  {
+    "id": 1388,
+    "name": "New Jersey Brownfield Redevelopment Incentive",
+    "source": "New Jersey EDA",
+    "type": "tax_credit",
+    "eligibility": ["brownfield", "environmental_cleanup", "new_jersey_based"],
+    "funding_range": "50-75% of expenses",
+    "obscurity_score": 6,
+    "url": "https://njeda.gov/brownfields"
+  },
+  {
+    "id": 1389,
+    "name": "New Jersey Manufacturing Voucher",
+    "source": "New Jersey Manufacturing Extension Program",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "new_jersey_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://njmep.org/voucher"
+  },
+  {
+    "id": 1390,
+    "name": "New Jersey Food & Beverage Accelerator",
+    "source": "Rutgers Food Innovation Center",
+    "type": "grant",
+    "eligibility": ["food_processing", "beverage", "new_jersey_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://foodinnovation.rutgers.edu/accelerator"
+  },
+  {
+    "id": 1391,
+    "name": "New Jersey Historic Preservation Tax Credit",
+    "source": "New Jersey Historic Trust",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "new_jersey_based"],
+    "funding_range": "40% of expenses",
+    "obscurity_score": 5,
+    "url": "https://njht.org/tax-credits"
+  },
+  {
+    "id": 1392,
+    "name": "New Jersey Workforce Development Partnership Grant",
+    "source": "New Jersey Department of Labor",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "new_jersey_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 5,
+    "url": "https://nj.gov/labor/wdp"
+  },
+  {
+    "id": 1393,
+    "name": "New Jersey Economic Redevelopment & Growth Tax Credit",
+    "source": "New Jersey EDA",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "capital_investment", "new_jersey_based"],
+    "funding_range": "$500 - $15,000 per job",
+    "obscurity_score": 5,
+    "url": "https://njeda.gov/erg"
+  },
+  {
+    "id": 1394,
+    "name": "New Jersey Research & Development Tax Credit",
+    "source": "New Jersey Division of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "new_jersey_based"],
+    "funding_range": "10% of expenses",
+    "obscurity_score": 5,
+    "url": "https://nj.gov/treasury/taxation/rd-credit"
+  },
+  {
+    "id": 1395,
+    "name": "New Jersey Offshore Wind Tax Credit",
+    "source": "New Jersey Board of Public Utilities",
+    "type": "tax_credit",
+    "eligibility": ["offshore_wind", "renewable_energy", "new_jersey_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 6,
+    "url": "https://nj.gov/bpu/offshore-wind-credit"
+  },
+  {
+    "id": 1396,
+    "name": "New Jersey Port Authority Grant",
+    "source": "South Jersey Port Corporation",
+    "type": "grant",
+    "eligibility": ["port", "maritime", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://southjerseyport.com/grants"
+  },
+  {
+    "id": 1397,
+    "name": "New Jersey Veteran Business Development",
+    "source": "New Jersey Department of Military and Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "new_jersey_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://nj.gov/military/veterans/business"
+  },
+  {
+    "id": 1398,
+    "name": "New Jersey Cannabis Business Development",
+    "source": "New Jersey Cannabis Regulatory Commission",
+    "type": "grant",
+    "eligibility": ["cannabis", "social_equity", "new_jersey_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://nj.gov/cannabis/business/grants"
+  },
+  {
+    "id": 1399,
+    "name": "New Jersey Life Sciences Tax Credit",
+    "source": "New Jersey EDA",
+    "type": "tax_credit",
+    "eligibility": ["biotech", "life_sciences", "new_jersey_based"],
+    "funding_range": "10% of investment",
+    "obscurity_score": 6,
+    "url": "https://njeda.gov/life-sciences"
+  },
+  {
+    "id": 1400,
+    "name": "New Jersey Main Street Recovery Finance",
+    "source": "New Jersey EDA",
+    "type": "loan",
+    "eligibility": ["small_business", "main_street", "new_jersey_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 5,
+    "url": "https://njeda.gov/main-street-recovery"
+  }
+]

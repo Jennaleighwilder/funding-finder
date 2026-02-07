@@ -1,0 +1,1404 @@
+[
+  {
+    "id": 2201,
+    "name": "Disability-Owned Business Enterprise (DOBE) Certification",
+    "source": "U.S. Business Leadership Network",
+    "type": "grant",
+    "eligibility": [
+      "disability_owned",
+      "51_percent_ownership",
+      "small_business"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://usbln.org/dobe-certification"
+  },
+  {
+    "id": 2202,
+    "name": "Vocational Rehabilitation Self-Employment",
+    "source": "U.S. Department of Education - Rehabilitation Services",
+    "type": "grant",
+    "eligibility": [
+      "persons_with_disabilities",
+      "self_employment",
+      "vocational_rehab"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://rsa.ed.gov/self-employment"
+  },
+  {
+    "id": 2203,
+    "name": "AbilityOne Program Contracts",
+    "source": "U.S. AbilityOne Commission",
+    "type": "contract",
+    "eligibility": [
+      "nonprofit",
+      "75_percent_disabled_workforce",
+      "manufacturing_services"
+    ],
+    "funding_range": "$50,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://abilityone.gov/contracts"
+  },
+  {
+    "id": 2204,
+    "name": "Disability Entrepreneur Accelerator",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "persons_with_disabilities",
+      "startup",
+      "business_growth"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/disability-accelerator"
+  },
+  {
+    "id": 2205,
+    "name": "Assistive Technology Business Innovation",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "assistive_tech",
+      "innovation",
+      "commercialization"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/nidilrr-at-innovation"
+  },
+  {
+    "id": 2206,
+    "name": "Disabled Veterans Business Development",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": [
+      "disabled_veteran",
+      "service_connected_disability",
+      "business_ownership"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://va.gov/disabled-vet-business"
+  },
+  {
+    "id": 2207,
+    "name": "Ticket to Work Self-Employment Program",
+    "source": "Social Security Administration",
+    "type": "grant",
+    "eligibility": [
+      "ssdi_ssi_recipient",
+      "self_employment",
+      "work_incentives"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://ssa.gov/ticket-to-work-business"
+  },
+  {
+    "id": 2208,
+    "name": "Disability Innovation Fund",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "disability_focused_business",
+      "innovation",
+      "scalable_model"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/disability-innovation"
+  },
+  {
+    "id": 2209,
+    "name": "Social Enterprise for Persons with Disabilities",
+    "source": "U.S. Department of Labor - Office of Disability Employment Policy",
+    "type": "grant",
+    "eligibility": [
+      "social_enterprise",
+      "employment_integration",
+      "disability_workforce"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/odep-social-enterprise"
+  },
+  {
+    "id": 2210,
+    "name": "Neurodivergent Entrepreneur Grant",
+    "source": "National Institute of Mental Health",
+    "type": "grant",
+    "eligibility": [
+      "autism",
+      "adhd",
+      "neurodivergent",
+      "entrepreneur"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://nimh.nih.gov/neurodivergent-entrepreneur"
+  },
+  {
+    "id": 2211,
+    "name": "Wheelchair Manufacturing Business Grant",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "wheelchair_manufacturing",
+      "power_mobility",
+      "custom_seating"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/wheelchair-manufacturing"
+  },
+  {
+    "id": 2212,
+    "name": "Prosthetics & Orthotics Business Development",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "prosthetics",
+      "orthotics",
+      "clinical_practice"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/prosthetics-orthotics"
+  },
+  {
+    "id": 2213,
+    "name": "Adaptive Clothing Design & Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_clothing",
+      "universal_design",
+      "fashion"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/adaptive-clothing"
+  },
+  {
+    "id": 2214,
+    "name": "Communication Device Manufacturing Grant",
+    "source": "National Institute on Deafness and Other Communication Disorders",
+    "type": "grant",
+    "eligibility": [
+      "aac_devices",
+      "speech_generating",
+      "communication_technology"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nidcd.nih.gov/communication-devices"
+  },
+  {
+    "id": 2215,
+    "name": "Vision Assistive Technology Business",
+    "source": "National Eye Institute",
+    "type": "grant",
+    "eligibility": [
+      "low_vision_aids",
+      "screen_readers",
+      "braille_technology"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nei.nih.gov/vision-assistive-tech"
+  },
+  {
+    "id": 2216,
+    "name": "Hearing Assistive Technology Grant",
+    "source": "National Institute on Deafness and Other Communication Disorders",
+    "type": "grant",
+    "eligibility": [
+      "hearing_aids",
+      "cochlear_implants",
+      "assistive_listening"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nidcd.nih.gov/hearing-assistive-tech"
+  },
+  {
+    "id": 2217,
+    "name": "Adaptive Computer Technology Business",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_software",
+      "accessibility_hardware",
+      "human_computer_interaction"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/adaptive-computer-tech"
+  },
+  {
+    "id": 2218,
+    "name": "Mobility Aid Innovation Grant",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "walkers",
+      "canes",
+      "crutches",
+      "innovative_design"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/mobility-aid-innovation"
+  },
+  {
+    "id": 2219,
+    "name": "Smart Home Accessibility Technology",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "smart_home",
+      "voice_control",
+      "environmental_control"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/smart-home-accessibility"
+  },
+  {
+    "id": 2220,
+    "name": "Adaptive Gaming Technology Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_gaming",
+      "accessible_controllers",
+      "inclusive_design"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/adaptive-gaming"
+  },
+  {
+    "id": 2221,
+    "name": "Braille Display & Embosser Manufacturing",
+    "source": "Library of Congress - National Library Service",
+    "type": "grant",
+    "eligibility": [
+      "braille_technology",
+      "tactile_graphics",
+      "blind_low_vision"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://loc.gov/nls-braille-tech"
+  },
+  {
+    "id": 2222,
+    "name": "Sensory Processing Equipment Business",
+    "source": "National Institute of Mental Health",
+    "type": "grant",
+    "eligibility": [
+      "sensory_equipment",
+      "autism",
+      "sensory_processing_disorder"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://nimh.nih.gov/sensory-equipment"
+  },
+  {
+    "id": 2223,
+    "name": "Adaptive Kitchen & Dining Equipment",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_utensils",
+      "kitchen_aids",
+      "independent_living"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/adaptive-kitchen"
+  },
+  {
+    "id": 2224,
+    "name": "Bathroom Safety Equipment Manufacturing",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "grab_bars",
+      "shower_chairs",
+      "raised_toilets"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/bathroom-safety"
+  },
+  {
+    "id": 2225,
+    "name": "Cognitive Assistive Technology Grant",
+    "source": "National Institute of Neurological Disorders and Stroke",
+    "type": "grant",
+    "eligibility": [
+      "memory_aids",
+      "task_management",
+      "cognitive_support"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://ninds.nih.gov/cognitive-assistive-tech"
+  },
+  {
+    "id": 2226,
+    "name": "ADA Compliance Consulting Business",
+    "source": "U.S. Department of Justice - Civil Rights Division",
+    "type": "grant",
+    "eligibility": [
+      "ada_consulting",
+      "accessibility_audits",
+      "compliance"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://justice.gov/ada-consulting"
+  },
+  {
+    "id": 2227,
+    "name": "Website Accessibility Services Grant",
+    "source": "U.S. Access Board",
+    "type": "grant",
+    "eligibility": [
+      "wcag_compliance",
+      "digital_accessibility",
+      "web_development"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://access-board.gov/web-accessibility"
+  },
+  {
+    "id": 2228,
+    "name": "Universal Design Architecture Firm",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "architecture",
+      "universal_design",
+      "accessibility"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/universal-design-architecture"
+  },
+  {
+    "id": 2229,
+    "name": "Accessibility Testing & Certification",
+    "source": "U.S. Access Board",
+    "type": "grant",
+    "eligibility": [
+      "accessibility_testing",
+      "certification",
+      "product_evaluation"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://access-board.gov/testing-certification"
+  },
+  {
+    "id": 2230,
+    "name": "Captioning & Audio Description Services",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "closed_captioning",
+      "audio_description",
+      "media_accessibility"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/captioning-services"
+  },
+  {
+    "id": 2231,
+    "name": "Sign Language Interpretation Agency",
+    "source": "National Institute on Deafness and Other Communication Disorders",
+    "type": "grant",
+    "eligibility": [
+      "sign_language",
+      "asl_interpretation",
+      "deaf_services"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://nidcd.nih.gov/sign-language-agency"
+  },
+  {
+    "id": 2232,
+    "name": "Accessible Transportation Consulting",
+    "source": "Federal Transit Administration",
+    "type": "grant",
+    "eligibility": [
+      "paratransit",
+      "ada_compliance",
+      "accessible_transit"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://transit.dot.gov/accessible-consulting"
+  },
+  {
+    "id": 2233,
+    "name": "Inclusive Playground Design Business",
+    "source": "National Recreation and Park Association",
+    "type": "grant",
+    "eligibility": [
+      "accessible_playgrounds",
+      "inclusive_design",
+      "recreation"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nrpa.org/inclusive-playground"
+  },
+  {
+    "id": 2234,
+    "name": "Sensory-Friendly Event Planning",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "sensory_friendly",
+      "autism_accessible",
+      "event_planning"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/sensory-friendly-events"
+  },
+  {
+    "id": 2235,
+    "name": "Accessible Document Remediation Service",
+    "source": "U.S. Access Board",
+    "type": "grant",
+    "eligibility": [
+      "pdf_remediation",
+      "document_accessibility",
+      "508_compliance"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://access-board.gov/document-remediation"
+  },
+  {
+    "id": 2236,
+    "name": "Adaptive Sports Equipment Manufacturing",
+    "source": "U.S. Department of Education - Office of Special Education",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_sports",
+      "equipment_manufacturing",
+      "inclusive_recreation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/adaptive-sports-equipment"
+  },
+  {
+    "id": 2237,
+    "name": "Wheelchair Sports Program Development",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": [
+      "wheelchair_sports",
+      "adaptive_athletics",
+      "competition"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/wheelchair-sports"
+  },
+  {
+    "id": 2238,
+    "name": "Adaptive Skiing & Snowboarding Business",
+    "source": "National Sports Center for the Disabled",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_skiing",
+      "winter_sports",
+      "instruction"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://nscd.org/adaptive-skiing-business"
+  },
+  {
+    "id": 2239,
+    "name": "Adaptive Aquatics Program Grant",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_swimming",
+      "water_therapy",
+      "aquatic_instruction"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/adaptive-aquatics"
+  },
+  {
+    "id": 2240,
+    "name": "Adaptive Cycling Business Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_bikes",
+      "handcycles",
+      "recumbent_cycles"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/adaptive-cycling"
+  },
+  {
+    "id": 2241,
+    "name": "Adaptive Rock Climbing Facility",
+    "source": "National Recreation and Park Association",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_climbing",
+      "accessible_walls",
+      "inclusive_recreation"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://nrpa.org/adaptive-climbing"
+  },
+  {
+    "id": 2242,
+    "name": "Adapted Martial Arts Program Grant",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_martial_arts",
+      "self_defense",
+      "disability_inclusion"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://ed.gov/adaptive-martial-arts"
+  },
+  {
+    "id": 2243,
+    "name": "Adaptive Golf Program Development",
+    "source": "PGA Foundation",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_golf",
+      "accessible_courses",
+      "golf_instruction"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://pgafoundation.org/adaptive-golf"
+  },
+  {
+    "id": 2244,
+    "name": "Adaptive Horseback Riding (Hippotherapy)",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "therapeutic_riding",
+      "hippotherapy",
+      "equine_therapy"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://hhs.gov/hippotherapy"
+  },
+  {
+    "id": 2245,
+    "name": "Adaptive Sailing Program Grant",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_sailing",
+      "water_sports",
+      "accessible_boats"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://ed.gov/adaptive-sailing"
+  },
+  {
+    "id": 2246,
+    "name": "Adaptive Fitness Center Development",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_equipment",
+      "inclusive_fitness",
+      "accessible_gym"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/adaptive-fitness"
+  },
+  {
+    "id": 2247,
+    "name": "Adaptive Yoga Studio Grant",
+    "source": "National Center for Complementary and Integrative Health",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_yoga",
+      "accessible_instruction",
+      "disability_wellness"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://nccih.nih.gov/adaptive-yoga"
+  },
+  {
+    "id": 2248,
+    "name": "Wheelchair Dance Program Development",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "wheelchair_dance",
+      "adaptive_movement",
+      "performing_arts"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/wheelchair-dance"
+  },
+  {
+    "id": 2249,
+    "name": "Adaptive Outdoor Adventure Business",
+    "source": "National Park Service",
+    "type": "grant",
+    "eligibility": [
+      "adaptive_outdoor",
+      "accessible_trails",
+      "adventure_recreation"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://nps.gov/adaptive-outdoor"
+  },
+  {
+    "id": 2250,
+    "name": "Inclusive Gaming Center Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "accessible_gaming",
+      "esports",
+      "adaptive_controllers"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/inclusive-gaming"
+  },
+  {
+    "id": 2251,
+    "name": "Supported Employment Services Business",
+    "source": "U.S. Department of Labor - Office of Disability Employment Policy",
+    "type": "grant",
+    "eligibility": [
+      "supported_employment",
+      "job_coaching",
+      "disability_workforce"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/odep-supported-employment"
+  },
+  {
+    "id": 2252,
+    "name": "Customized Employment Agency Grant",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "customized_employment",
+      "job_carving",
+      "discovery_process"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/customized-employment"
+  },
+  {
+    "id": 2253,
+    "name": "Assistive Technology Loan Fund",
+    "source": "Administration for Community Living",
+    "type": "loan",
+    "eligibility": [
+      "assistive_tech_lending",
+      "equipment_loans",
+      "low_interest"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/at-loan-fund"
+  },
+  {
+    "id": 2254,
+    "name": "Disability Employment Placement Agency",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "job_placement",
+      "disability_recruitment",
+      "employer_partnerships"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/disability-placement"
+  },
+  {
+    "id": 2255,
+    "name": "Vocational Assessment Services Grant",
+    "source": "U.S. Department of Education - Rehabilitation Services",
+    "type": "grant",
+    "eligibility": [
+      "vocational_assessment",
+      "career_counseling",
+      "disability_services"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://rsa.ed.gov/vocational-assessment"
+  },
+  {
+    "id": 2256,
+    "name": "Workplace Accommodation Consulting",
+    "source": "Job Accommodation Network",
+    "type": "grant",
+    "eligibility": [
+      "workplace_accommodations",
+      "ada_compliance",
+      "employer_training"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://askjan.org/accommodation-consulting"
+  },
+  {
+    "id": 2257,
+    "name": "Disability Diversity Training Business",
+    "source": "U.S. Department of Labor - Office of Disability Employment Policy",
+    "type": "grant",
+    "eligibility": [
+      "diversity_training",
+      "disability_awareness",
+      "inclusion_consulting"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/odep-diversity-training"
+  },
+  {
+    "id": 2258,
+    "name": "Neurodiversity Employment Program",
+    "source": "National Institute of Mental Health",
+    "type": "grant",
+    "eligibility": [
+      "neurodiversity",
+      "autism_employment",
+      "inclusive_hiring"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://nimh.nih.gov/neurodiversity-employment"
+  },
+  {
+    "id": 2259,
+    "name": "Remote Work Technology for Disabilities",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "remote_work_tech",
+      "accessibility_software",
+      "work_from_home"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/remote-work-disability"
+  },
+  {
+    "id": 2260,
+    "name": "Sheltered Workshop Transition Services",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "workshop_closure",
+      "competitive_employment",
+      "transition_support"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/workshop-transition"
+  },
+  {
+    "id": 2261,
+    "name": "Applied Behavior Analysis (ABA) Therapy Practice",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "aba_therapy",
+      "autism_services",
+      "behavioral_health"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/aba-therapy"
+  },
+  {
+    "id": 2262,
+    "name": "Occupational Therapy for Disabilities",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "occupational_therapy",
+      "sensory_integration",
+      "disability_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/ot-disability"
+  },
+  {
+    "id": 2263,
+    "name": "Physical Therapy for Neurological Conditions",
+    "source": "National Institute of Neurological Disorders and Stroke",
+    "type": "grant",
+    "eligibility": [
+      "neurological_pt",
+      "stroke_rehab",
+      "movement_disorders"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://ninds.nih.gov/neuro-pt"
+  },
+  {
+    "id": 2264,
+    "name": "Speech-Language Pathology for Disabilities",
+    "source": "National Institute on Deafness and Other Communication Disorders",
+    "type": "grant",
+    "eligibility": [
+      "speech_therapy",
+      "communication_disorders",
+      "aac_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nidcd.nih.gov/slp-disability"
+  },
+  {
+    "id": 2265,
+    "name": "Disability Day Program Services",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "day_program",
+      "community_integration",
+      "skill_development"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/disability-day-program"
+  },
+  {
+    "id": 2266,
+    "name": "Group Home for Persons with Disabilities",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "group_home",
+      "residential_services",
+      "community_living"
+    ],
+    "funding_range": "$250,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/disability-group-home"
+  },
+  {
+    "id": 2267,
+    "name": "Independent Living Skills Training Center",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "independent_living",
+      "life_skills",
+      "transition_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/il-skills-training"
+  },
+  {
+    "id": 2268,
+    "name": "Personal Care Attendant Service Agency",
+    "source": "Centers for Medicare & Medicaid Services",
+    "type": "grant",
+    "eligibility": [
+      "personal_care",
+      "attendant_services",
+      "medicaid_waiver"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://cms.gov/pca-agency"
+  },
+  {
+    "id": 2269,
+    "name": "Respite Care for Families with Disabilities",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "respite_care",
+      "caregiver_relief",
+      "disability_support"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/disability-respite"
+  },
+  {
+    "id": 2270,
+    "name": "Music Therapy for Disabilities Business",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "music_therapy",
+      "autism",
+      "developmental_disabilities"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/music-therapy-disability"
+  },
+  {
+    "id": 2271,
+    "name": "Equine-Assisted Therapy Center",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "equine_therapy",
+      "therapeutic_riding",
+      "disability_services"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://hhs.gov/equine-therapy"
+  },
+  {
+    "id": 2272,
+    "name": "Canine Assistance Dog Training Program",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": [
+      "service_dogs",
+      "assistance_animals",
+      "disability_support"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/service-dog-training"
+  },
+  {
+    "id": 2273,
+    "name": "Autism Diagnostic & Evaluation Center",
+    "source": "National Institute of Mental Health",
+    "type": "grant",
+    "eligibility": [
+      "autism_diagnosis",
+      "developmental_assessment",
+      "clinical_services"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nimh.nih.gov/autism-diagnostic"
+  },
+  {
+    "id": 2274,
+    "name": "Disability Care Coordination Services",
+    "source": "Centers for Medicare & Medicaid Services",
+    "type": "grant",
+    "eligibility": [
+      "care_coordination",
+      "case_management",
+      "disability_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://cms.gov/disability-care-coordination"
+  },
+  {
+    "id": 2275,
+    "name": "Transition Services for Young Adults with Disabilities",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "transition_services",
+      "age_18_to_26",
+      "post_secondary"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/transition-services"
+  },
+  {
+    "id": 2276,
+    "name": "Accessible Housing Construction Business",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "accessible_housing",
+      "visitability",
+      "fair_housing"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/accessible-housing"
+  },
+  {
+    "id": 2277,
+    "name": "Home Modification for Disabilities Grant",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "home_modification",
+      "accessibility_retrofits",
+      "ada_compliance"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/disability-home-mod"
+  },
+  {
+    "id": 2278,
+    "name": "Wheelchair Accessible Vehicle Conversion",
+    "source": "National Highway Traffic Safety Administration",
+    "type": "grant",
+    "eligibility": [
+      "vehicle_modification",
+      "wheelchair_lifts",
+      "adaptive_driving"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nhtsa.gov/accessible-vehicle"
+  },
+  {
+    "id": 2279,
+    "name": "Vertical Platform Lift Installation Business",
+    "source": "U.S. Access Board",
+    "type": "grant",
+    "eligibility": [
+      "platform_lifts",
+      "accessibility_lifts",
+      "ada_compliance"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://access-board.gov/platform-lifts"
+  },
+  {
+    "id": 2280,
+    "name": "Accessible Bathroom Design & Installation",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "accessible_bathrooms",
+      "roll_in_showers",
+      "ada_design"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/accessible-bathroom"
+  },
+  {
+    "id": 2281,
+    "name": "Residential Elevator Installation for Accessibility",
+    "source": "U.S. Access Board",
+    "type": "grant",
+    "eligibility": [
+      "home_elevators",
+      "wheelchair_lifts",
+      "multi_story_access"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://access-board.gov/home-elevators"
+  },
+  {
+    "id": 2282,
+    "name": "Accessible Tiny Home Manufacturing",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "tiny_homes",
+      "accessible_design",
+      "affordable_housing"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 9,
+    "url": "https://hud.gov/accessible-tiny-homes"
+  },
+  {
+    "id": 2283,
+    "name": "Smart Home Automation for Disabilities",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "home_automation",
+      "environmental_control",
+      "voice_activated"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/smart-home-disability"
+  },
+  {
+    "id": 2284,
+    "name": "Accessible Playground Installation Business",
+    "source": "National Recreation and Park Association",
+    "type": "grant",
+    "eligibility": [
+      "accessible_playgrounds",
+      "inclusive_equipment",
+      "surface_materials"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nrpa.org/accessible-playground-install"
+  },
+  {
+    "id": 2285,
+    "name": "Sensory Room Design & Installation",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "sensory_rooms",
+      "autism_spaces",
+      "calming_environments"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://ed.gov/sensory-room-design"
+  },
+  {
+    "id": 2286,
+    "name": "Disability Rights Law Practice",
+    "source": "U.S. Department of Justice - Civil Rights Division",
+    "type": "grant",
+    "eligibility": [
+      "disability_law",
+      "civil_rights",
+      "advocacy"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://justice.gov/disability-rights-law"
+  },
+  {
+    "id": 2287,
+    "name": "Independent Living Center Development",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "independent_living_center",
+      "peer_support",
+      "disability_services"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/ilc-development"
+  },
+  {
+    "id": 2288,
+    "name": "Disability Advocacy Organization Grant",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "disability_advocacy",
+      "policy_work",
+      "systems_change"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/advocacy-org"
+  },
+  {
+    "id": 2289,
+    "name": "Assistive Technology Demonstration Center",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "at_demonstration",
+      "product_trials",
+      "consumer_education"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/at-demo-center"
+  },
+  {
+    "id": 2290,
+    "name": "Disability Cultural Center Development",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "disability_culture",
+      "arts_access",
+      "community_space"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/disability-cultural-center"
+  },
+  {
+    "id": 2291,
+    "name": "Disability History Museum & Archive",
+    "source": "National Endowment for the Humanities",
+    "type": "grant",
+    "eligibility": [
+      "disability_history",
+      "museum",
+      "preservation"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://neh.gov/disability-museum"
+  },
+  {
+    "id": 2292,
+    "name": "Disability-Led Research Institute",
+    "source": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+    "type": "grant",
+    "eligibility": [
+      "disability_research",
+      "participatory_research",
+      "academic"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/disability-research-institute"
+  },
+  {
+    "id": 2293,
+    "name": "Disability Peer Support Mentoring Program",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "peer_mentoring",
+      "peer_support",
+      "disability_community"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/peer-mentoring"
+  },
+  {
+    "id": 2294,
+    "name": "Disability Emergency Preparedness Consulting",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "emergency_preparedness",
+      "disability_inclusion",
+      "disaster_planning"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://fema.gov/disability-emergency"
+  },
+  {
+    "id": 2295,
+    "name": "Disability-Inclusive Media Production",
+    "source": "Corporation for Public Broadcasting",
+    "type": "grant",
+    "eligibility": [
+      "accessible_media",
+      "disability_representation",
+      "inclusive_content"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://cpb.org/disability-inclusive-media"
+  },
+  {
+    "id": 2296,
+    "name": "Disability Studies Academic Program",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "disability_studies",
+      "higher_education",
+      "academic_program"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/disability-studies"
+  },
+  {
+    "id": 2297,
+    "name": "Augmentative & Alternative Communication Center",
+    "source": "National Institute on Deafness and Other Communication Disorders",
+    "type": "grant",
+    "eligibility": [
+      "aac_center",
+      "communication_services",
+      "device_trials"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nidcd.nih.gov/aac-center"
+  },
+  {
+    "id": 2298,
+    "name": "Disability Benefits Counseling Service",
+    "source": "Social Security Administration",
+    "type": "grant",
+    "eligibility": [
+      "benefits_counseling",
+      "work_incentives",
+      "ssdi_ssi"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://ssa.gov/benefits-counseling"
+  },
+  {
+    "id": 2299,
+    "name": "Disability Travel & Tourism Services",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "accessible_travel",
+      "disability_tourism",
+      "inclusive_recreation"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/disability-travel"
+  },
+  {
+    "id": 2300,
+    "name": "Disability-Friendly Dating & Social Platform",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "social_platform",
+      "disability_community",
+      "technology"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/disability-dating-platform"
+  }
+]

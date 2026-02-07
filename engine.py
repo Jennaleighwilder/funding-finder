@@ -145,7 +145,7 @@ class FundingMatchEngine:
         matches = []
         for source in sources:
             match = self._score_match(profile, source)
-            if match.overall_score >= 30:  # Minimum threshold
+            if match.overall_score >= 15:  # Minimum threshold – show more opportunities
                 matches.append(match)
         
         # Sort by overall score
@@ -227,19 +227,21 @@ class FundingMatchEngine:
             if profile.project_type not in source.eligible_project_types:
                 score -= 50  # Major penalty but not disqualifying
         
-        # Field eligibility
-        if source.eligible_fields and 'ALL' not in source.eligible_fields:
+        # Field eligibility: batch data uses tags (small_business, tech_startup) – match tag or tag with spaces
+        ef = [str(f).lower() for f in (source.eligible_fields or [])]
+        if ef and 'all' not in ef:
+            proj = (profile.project_field or '').lower() + ' ' + (profile.project_description or '').lower()
             field_match = any(
-                field.lower() in profile.project_field.lower() 
-                for field in source.eligible_fields
+                tag in proj or tag.replace('_', ' ') in proj
+                for tag in ef
             )
             if not field_match:
-                score -= 30
+                score -= 10  # Light penalty so more matches show
         
-        # Funding amount fit
+        # Funding amount fit (show stretch opportunities too – don't disqualify)
         user_min, user_max = profile.funding_needed
         if source.max_amount < user_min or source.min_amount > user_max:
-            score -= 40  # Amount mismatch
+            score -= 20  # Amount mismatch – lighter so more matches show
         
         # HIDDEN ELIGIBILITY BOOST (Jennifer's secret sauce)
         # This is where we find unconventional matches
@@ -342,7 +344,8 @@ class FundingMatchEngine:
             score += 15
         
         # Education level (some grants prefer certain levels)
-        if 'education' in source.eligible_fields or 'research' in source.eligible_fields:
+        ef = [str(f).lower() for f in (source.eligible_fields or [])]
+        if 'education' in ef or 'research' in ef:
             if 'bachelor' in profile.education_level.lower() or 'master' in profile.education_level.lower():
                 score += 10
         

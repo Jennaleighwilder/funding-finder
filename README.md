@@ -15,10 +15,10 @@ After you push, the app is deployed automatically to **GitHub Pages** and works 
 
 ## What’s included
 
-- **Backend**: `engine.py` (matching logic), `app.py` (Flask API + static serve)
+- **Backend**: `engine.py` (matching logic), `app.py` (Flask API + static serve), `load_batches.py` (seeds DB from batch JSONs)
 - **Frontend**: `FUNDING_FINDER_FUN.html` (multi-step form, calls `/api/match`)
-- **Data**: `schema.sql` (DB schema + sample funding sources), JSON source batches
-- **Deploy**: Dockerfile, Railway config, Procfile
+- **Data**: `schema.sql` (DB schema). **Complete database: 3,500 sources** – Batches 1–10 (state programs), 11–20 (mega industries), 21–27 (demographics/crisis/heritage), 28–29 (emerging tech/social), 30 (export/trade), 31–35 (foundations, faith-based, corporate, university, regional). See `DATABASE_BREAKDOWN.md`. Report generation and search use the full set.
+- **Deploy**: Dockerfile (copies all batch/BATCH/FIRST_100 JSONs), Railway config, Procfile
 
 ## Run locally
 
@@ -85,6 +85,9 @@ Your app will be at `https://your-app.up.railway.app`. The first request creates
 
 - **GET /api/health**  
   Returns: `{ "status": "ok", "database": true/false }`.
+
+- **GET /api/stats**  
+  Returns: `{ "status": "ok", "funding_sources": N }` — total active sources (3,500+ when all batches loaded). Use to verify the complete database for search.
 
 ## Files
 

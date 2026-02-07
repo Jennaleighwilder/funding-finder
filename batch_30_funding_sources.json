@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2901,
+    "name": "State Trade Expansion Program (STEP)",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "export_development",
+      "small_business",
+      "international_trade"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/step"
+  },
+  {
+    "id": 2902,
+    "name": "Export Express Loan Program",
+    "source": "Small Business Administration",
+    "type": "loan",
+    "eligibility": [
+      "export_financing",
+      "international_expansion",
+      "working_capital"
+    ],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/export-express"
+  },
+  {
+    "id": 2903,
+    "name": "Export Working Capital Program",
+    "source": "Small Business Administration",
+    "type": "loan",
+    "eligibility": [
+      "export_financing",
+      "contract_financing",
+      "purchase_orders"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/export-working-capital"
+  },
+  {
+    "id": 2904,
+    "name": "International Trade Loan Program",
+    "source": "Small Business Administration",
+    "type": "loan",
+    "eligibility": [
+      "international_trade",
+      "facility_expansion",
+      "equipment_purchase"
+    ],
+    "funding_range": "$500,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/international-trade-loan"
+  },
+  {
+    "id": 2905,
+    "name": "Market Development Cooperator Program",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "export_promotion",
+      "market_development",
+      "industry_association"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/mdcp"
+  },
+  {
+    "id": 2906,
+    "name": "Foreign Market Entry Consulting",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "market_entry",
+      "international_expansion",
+      "export_consulting"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/market-entry"
+  },
+  {
+    "id": 2907,
+    "name": "Export Credit Insurance Services",
+    "source": "Export-Import Bank",
+    "type": "grant",
+    "eligibility": [
+      "export_insurance",
+      "political_risk",
+      "payment_protection"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://exim.gov/credit-insurance"
+  },
+  {
+    "id": 2908,
+    "name": "Trade Mission Participation Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "trade_mission",
+      "foreign_buyer_meeting",
+      "export_promotion"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/trade-mission"
+  },
+  {
+    "id": 2909,
+    "name": "Foreign Direct Investment Attraction",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "fdi_attraction",
+      "inward_investment",
+      "job_creation"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/fdi-attraction"
+  },
+  {
+    "id": 2910,
+    "name": "International Franchising Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "international_franchising",
+      "brand_expansion",
+      "master_franchise"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/international-franchising"
+  },
+  {
+    "id": 2911,
+    "name": "Export Technology Solutions Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "export_technology",
+      "trade_tech",
+      "export_automation"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/export-technology"
+  },
+  {
+    "id": 2912,
+    "name": "Overseas Warehouse & Distribution",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "overseas_warehouse",
+      "foreign_distribution",
+      "international_logistics"
+    ],
+    "funding_range": "$250,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/overseas-warehouse"
+  },
+  {
+    "id": 2913,
+    "name": "Joint Venture & Partnership Facilitation",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "joint_venture",
+      "international_partnership",
+      "strategic_alliance"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/joint-venture"
+  },
+  {
+    "id": 2914,
+    "name": "Export Manufacturing Certification",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "export_certification",
+      "quality_standards",
+      "international_compliance"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/export-certification"
+  },
+  {
+    "id": 2915,
+    "name": "International Licensing & IP Services",
+    "source": "U.S. Patent and Trademark Office",
+    "type": "grant",
+    "eligibility": [
+      "international_licensing",
+      "ip_export",
+      "technology_transfer"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://uspto.gov/international-licensing"
+  },
+  {
+    "id": 2916,
+    "name": "Agricultural Trade Promotion Program",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_exports",
+      "food_trade",
+      "commodity_promotion"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/atp"
+  },
+  {
+    "id": 2917,
+    "name": "Market Access Program (MAP)",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_marketing",
+      "export_promotion",
+      "brand_building"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/map"
+  },
+  {
+    "id": 2918,
+    "name": "Foreign Agricultural Service Programs",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_exports",
+      "market_intelligence",
+      "trade_assistance"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/fas-programs"
+  },
+  {
+    "id": 2919,
+    "name": "Organic Product Export Certification",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "organic_export",
+      "usda_organic",
+      "international_certification"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/organic-export"
+  },
+  {
+    "id": 2920,
+    "name": "Food Safety Modernization Export Support",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "food_safety",
+      "fsma_compliance",
+      "export_certification"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/fsma-export"
+  },
+  {
+    "id": 2921,
+    "name": "Seafood Export Development",
+    "source": "National Oceanic and Atmospheric Administration",
+    "type": "grant",
+    "eligibility": [
+      "seafood_export",
+      "fishery_products",
+      "aquaculture_trade"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://noaa.gov/seafood-export"
+  },
+  {
+    "id": 2922,
+    "name": "Wine & Spirits Export Promotion",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "wine_export",
+      "spirits_trade",
+      "beverage_alcohol"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/wine-export"
+  },
+  {
+    "id": 2923,
+    "name": "Specialty Crop Export Development",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "specialty_crops",
+      "fruit_vegetable_export",
+      "horticultural_trade"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/specialty-crop-export"
+  },
+  {
+    "id": 2924,
+    "name": "Halal & Kosher Certification Export",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "halal_certification",
+      "kosher_export",
+      "religious_compliance"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/halal-kosher-export"
+  },
+  {
+    "id": 2925,
+    "name": "Food Processing Export Technology",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "food_processing",
+      "value_added_export",
+      "processing_technology"
+    ],
+    "funding_range": "$200,000 - $60,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/food-processing-export"
+  },
+  {
+    "id": 2926,
+    "name": "Cross-Border E-Commerce Platform",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "cross_border_ecommerce",
+      "online_export",
+      "digital_trade"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/cross-border-ecommerce"
+  },
+  {
+    "id": 2927,
+    "name": "International Payment Processing Services",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "international_payments",
+      "currency_exchange",
+      "payment_gateway"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://treasury.gov/international-payments"
+  },
+  {
+    "id": 2928,
+    "name": "Global Marketplace Integration",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "marketplace_integration",
+      "amazon_global",
+      "international_platforms"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/global-marketplace"
+  },
+  {
+    "id": 2929,
+    "name": "International Shipping & Fulfillment",
+    "source": "U.S. Postal Service",
+    "type": "grant",
+    "eligibility": [
+      "international_shipping",
+      "cross_border_fulfillment",
+      "postal_services"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://usps.com/international-shipping"
+  },
+  {
+    "id": 2930,
+    "name": "Digital Customs & Trade Compliance",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "digital_customs",
+      "automated_clearance",
+      "compliance_software"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://cbp.gov/digital-customs"
+  },
+  {
+    "id": 2931,
+    "name": "International Tax & VAT Services",
+    "source": "Internal Revenue Service",
+    "type": "grant",
+    "eligibility": [
+      "international_tax",
+      "vat_compliance",
+      "cross_border_taxation"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://irs.gov/international-tax-services"
+  },
+  {
+    "id": 2932,
+    "name": "Cross-Border Returns Management",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "international_returns",
+      "reverse_logistics",
+      "customer_service"
+    ],
+    "funding_range": "$75,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/cross-border-returns"
+  },
+  {
+    "id": 2933,
+    "name": "International Marketing & Localization",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "market_localization",
+      "translation_services",
+      "cultural_adaptation"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/international-marketing"
+  },
+  {
+    "id": 2934,
+    "name": "Global Customer Support Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "international_customer_service",
+      "multilingual_support",
+      "24_7_support"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/global-customer-support"
+  },
+  {
+    "id": 2935,
+    "name": "International Fraud Prevention",
+    "source": "Federal Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "fraud_prevention",
+      "international_security",
+      "payment_protection"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://ftc.gov/international-fraud-prevention"
+  },
+  {
+    "id": 2936,
+    "name": "Licensed Customs Broker Business",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "customs_brokerage",
+      "import_clearance",
+      "trade_compliance"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://cbp.gov/customs-broker"
+  },
+  {
+    "id": 2937,
+    "name": "Freight Forwarding Services",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "freight_forwarding",
+      "international_shipping",
+      "logistics_services"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://transportation.gov/freight-forwarding"
+  },
+  {
+    "id": 2938,
+    "name": "Foreign Trade Zone Operations",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "ftz_operations",
+      "duty_deferral",
+      "special_customs_procedures"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://cbp.gov/ftz-operations"
+  },
+  {
+    "id": 2939,
+    "name": "Bonded Warehouse Operations",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "bonded_warehouse",
+      "customs_storage",
+      "duty_suspension"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://cbp.gov/bonded-warehouse"
+  },
+  {
+    "id": 2940,
+    "name": "Harmonized Tariff Classification",
+    "source": "U.S. International Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "tariff_classification",
+      "hts_codes",
+      "duty_determination"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://usitc.gov/tariff-classification"
+  },
+  {
+    "id": 2941,
+    "name": "Duty Drawback Recovery Services",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "duty_drawback",
+      "refund_recovery",
+      "customs_refund"
+    ],
+    "funding_range": "$75,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://cbp.gov/duty-drawback"
+  },
+  {
+    "id": 2942,
+    "name": "Import/Export Documentation Services",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "trade_documentation",
+      "customs_paperwork",
+      "compliance_filing"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://cbp.gov/documentation-services"
+  },
+  {
+    "id": 2943,
+    "name": "Automated Commercial Environment (ACE)",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "ace_filing",
+      "electronic_customs",
+      "automated_clearance"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://cbp.gov/ace-services"
+  },
+  {
+    "id": 2944,
+    "name": "Customs-Trade Partnership (C-TPAT)",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "c_tpat",
+      "supply_chain_security",
+      "trusted_trader"
+    ],
+    "funding_range": "$75,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://cbp.gov/c-tpat"
+  },
+  {
+    "id": 2945,
+    "name": "Importer Security Filing (ISF) Services",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "isf_filing",
+      "10_2_rule",
+      "advance_manifest"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://cbp.gov/isf-services"
+  },
+  {
+    "id": 2946,
+    "name": "Export Controls & Sanctions Compliance",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "export_controls",
+      "sanctions_compliance",
+      "restricted_party_screening"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/export-controls"
+  },
+  {
+    "id": 2947,
+    "name": "Antidumping & Countervailing Duty",
+    "source": "U.S. International Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "ad_cvd",
+      "trade_remedy",
+      "unfair_trade_practices"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://usitc.gov/ad-cvd-services"
+  },
+  {
+    "id": 2948,
+    "name": "Rules of Origin Determination",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "origin_determination",
+      "country_of_origin",
+      "preferential_trade"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://cbp.gov/rules-of-origin"
+  },
+  {
+    "id": 2949,
+    "name": "Trade Agreement Utilization Services",
+    "source": "U.S. Trade Representative",
+    "type": "grant",
+    "eligibility": [
+      "fta_utilization",
+      "preferential_tariffs",
+      "certificate_of_origin"
+    ],
+    "funding_range": "$75,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://ustr.gov/trade-agreement-services"
+  },
+  {
+    "id": 2950,
+    "name": "Customs Valuation & Transfer Pricing",
+    "source": "U.S. Customs and Border Protection",
+    "type": "grant",
+    "eligibility": [
+      "customs_valuation",
+      "transfer_pricing",
+      "related_party_transactions"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://cbp.gov/customs-valuation"
+  },
+  {
+    "id": 2951,
+    "name": "Asia-Pacific Trade Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "asia_pacific_trade",
+      "apac_markets",
+      "asian_expansion"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/asia-pacific-trade"
+  },
+  {
+    "id": 2952,
+    "name": "European Union Market Access",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "eu_trade",
+      "european_markets",
+      "ce_marking"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/eu-market-access"
+  },
+  {
+    "id": 2953,
+    "name": "Latin America & Caribbean Trade",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "latin_america_trade",
+      "caribbean_markets",
+      "lac_region"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/latin-america-trade"
+  },
+  {
+    "id": 2954,
+    "name": "Middle East & North Africa Trade",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "mena_trade",
+      "middle_east_markets",
+      "gcc_countries"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/mena-trade"
+  },
+  {
+    "id": 2955,
+    "name": "Sub-Saharan Africa Trade (AGOA)",
+    "source": "U.S. Trade Representative",
+    "type": "grant",
+    "eligibility": [
+      "agoa",
+      "sub_saharan_africa",
+      "african_markets"
+    ],
+    "funding_range": "$100,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://ustr.gov/agoa-trade"
+  },
+  {
+    "id": 2956,
+    "name": "China Market Entry Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "china_market",
+      "greater_china",
+      "prc_trade"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/china-market-entry"
+  },
+  {
+    "id": 2957,
+    "name": "India Trade Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "india_trade",
+      "indian_market",
+      "south_asia"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/india-trade"
+  },
+  {
+    "id": 2958,
+    "name": "ASEAN Market Integration",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "asean_trade",
+      "southeast_asia",
+      "regional_integration"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/asean-market"
+  },
+  {
+    "id": 2959,
+    "name": "USMCA Trade Facilitation",
+    "source": "U.S. Trade Representative",
+    "type": "grant",
+    "eligibility": [
+      "usmca",
+      "north_america_trade",
+      "nafta_successor"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 6,
+    "url": "https://ustr.gov/usmca-facilitation"
+  },
+  {
+    "id": 2960,
+    "name": "Brazil Market Development",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "brazil_trade",
+      "mercosur",
+      "south_american_markets"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/brazil-market"
+  },
+  {
+    "id": 2961,
+    "name": "Japan Trade & Investment",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "japan_trade",
+      "japanese_market",
+      "bilateral_commerce"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/japan-trade"
+  },
+  {
+    "id": 2962,
+    "name": "South Korea Market Access",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "korea_trade",
+      "rok_market",
+      "korus_fta"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/korea-market"
+  },
+  {
+    "id": 2963,
+    "name": "Australia & New Zealand Trade",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "australia_trade",
+      "new_zealand_market",
+      "oceania"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/australia-trade"
+  },
+  {
+    "id": 2964,
+    "name": "United Kingdom Trade Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "uk_trade",
+      "british_market",
+      "post_brexit"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/uk-trade"
+  },
+  {
+    "id": 2965,
+    "name": "Emerging Markets Trade Initiative",
+    "source": "U.S. Trade and Development Agency",
+    "type": "grant",
+    "eligibility": [
+      "emerging_markets",
+      "frontier_markets",
+      "developing_economies"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://ustda.gov/emerging-markets"
+  },
+  {
+    "id": 2966,
+    "name": "Export Working Capital Guarantee",
+    "source": "Export-Import Bank",
+    "type": "loan",
+    "eligibility": [
+      "export_financing",
+      "working_capital",
+      "exporter_guarantee"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://exim.gov/working-capital-guarantee"
+  },
+  {
+    "id": 2967,
+    "name": "Letter of Credit Confirmation Services",
+    "source": "Export-Import Bank",
+    "type": "grant",
+    "eligibility": [
+      "lc_confirmation",
+      "payment_guarantee",
+      "trade_finance"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://exim.gov/lc-confirmation"
+  },
+  {
+    "id": 2968,
+    "name": "Supply Chain Finance Platform",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "supply_chain_finance",
+      "receivables_financing",
+      "payables_extension"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/supply-chain-finance"
+  },
+  {
+    "id": 2969,
+    "name": "Export Factoring Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "export_factoring",
+      "invoice_financing",
+      "receivables_purchase"
+    ],
+    "funding_range": "$100,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/export-factoring"
+  },
+  {
+    "id": 2970,
+    "name": "Forfaiting Services Business",
+    "source": "Export-Import Bank",
+    "type": "grant",
+    "eligibility": [
+      "forfaiting",
+      "medium_term_receivables",
+      "non_recourse_financing"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://exim.gov/forfaiting-services"
+  },
+  {
+    "id": 2971,
+    "name": "Trade Credit Insurance Business",
+    "source": "Export-Import Bank",
+    "type": "grant",
+    "eligibility": [
+      "trade_credit_insurance",
+      "buyer_risk",
+      "political_risk"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://exim.gov/trade-credit-insurance"
+  },
+  {
+    "id": 2972,
+    "name": "Documentary Collections Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "documentary_collection",
+      "d_p_d_a",
+      "trade_payment"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/documentary-collections"
+  },
+  {
+    "id": 2973,
+    "name": "Countertrade & Barter Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "countertrade",
+      "barter_trade",
+      "offset_agreements"
+    ],
+    "funding_range": "$150,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://commerce.gov/countertrade"
+  },
+  {
+    "id": 2974,
+    "name": "International Escrow Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "trade_escrow",
+      "payment_intermediary",
+      "transaction_security"
+    ],
+    "funding_range": "$75,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/international-escrow"
+  },
+  {
+    "id": 2975,
+    "name": "Foreign Exchange Risk Management",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "fx_hedging",
+      "currency_risk",
+      "trade_finance"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/fx-risk-management"
+  },
+  {
+    "id": 2976,
+    "name": "Third-Party Logistics (3PL) Services",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "3pl_services",
+      "logistics_provider",
+      "supply_chain_management"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://transportation.gov/3pl-services"
+  },
+  {
+    "id": 2977,
+    "name": "International Air Freight Services",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": [
+      "air_freight",
+      "cargo_airline",
+      "express_delivery"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://faa.gov/air-freight-services"
+  },
+  {
+    "id": 2978,
+    "name": "Ocean Freight & Container Shipping",
+    "source": "Federal Maritime Commission",
+    "type": "grant",
+    "eligibility": [
+      "ocean_freight",
+      "container_shipping",
+      "nvocc"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://fmc.gov/ocean-freight"
+  },
+  {
+    "id": 2979,
+    "name": "Cold Chain Logistics Services",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "cold_chain",
+      "refrigerated_transport",
+      "temperature_controlled"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/cold-chain"
+  },
+  {
+    "id": 2980,
+    "name": "Hazardous Materials Transport",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "hazmat_transport",
+      "dangerous_goods",
+      "imdg_code"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/hazmat-transport"
+  },
+  {
+    "id": 2981,
+    "name": "Global Trade Management Software",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "gtm_software",
+      "trade_automation",
+      "supply_chain_visibility"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/gtm-software"
+  },
+  {
+    "id": 2982,
+    "name": "Cross-Border Trucking Services",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "cross_border_trucking",
+      "international_drayage",
+      "border_crossing"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/cross-border-trucking"
+  },
+  {
+    "id": 2983,
+    "name": "Intermodal Transportation Services",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": [
+      "intermodal_transport",
+      "multimodal_logistics",
+      "container_transfer"
+    ],
+    "funding_range": "$200,000 - $60,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/intermodal-services"
+  },
+  {
+    "id": 2984,
+    "name": "Port & Terminal Operations",
+    "source": "Maritime Administration",
+    "type": "grant",
+    "eligibility": [
+      "port_operations",
+      "terminal_services",
+      "cargo_handling"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 6,
+    "url": "https://marad.dot.gov/port-operations"
+  },
+  {
+    "id": 2985,
+    "name": "International Warehousing & Distribution",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "international_warehousing",
+      "distribution_center",
+      "fulfillment_services"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/international-warehousing"
+  },
+  {
+    "id": 2986,
+    "name": "International Market Research Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "market_research",
+      "competitive_intelligence",
+      "market_analysis"
+    ],
+    "funding_range": "$75,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/market-research"
+  },
+  {
+    "id": 2987,
+    "name": "Export Compliance Training Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "compliance_training",
+      "export_education",
+      "trade_certification"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/export-compliance-training"
+  },
+  {
+    "id": 2988,
+    "name": "International Business Matchmaking",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "business_matchmaking",
+      "partner_search",
+      "distributor_finder"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/business-matchmaking"
+  },
+  {
+    "id": 2989,
+    "name": "Trade Show & Exhibition Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "trade_shows",
+      "exhibition_services",
+      "international_events"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/trade-show-services"
+  },
+  {
+    "id": 2990,
+    "name": "International Product Testing & Certification",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "product_testing",
+      "international_certification",
+      "standards_compliance"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/international-testing"
+  },
+  {
+    "id": 2991,
+    "name": "Foreign Corrupt Practices Act (FCPA) Compliance",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "fcpa_compliance",
+      "anti_bribery",
+      "corruption_prevention"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://justice.gov/fcpa-compliance"
+  },
+  {
+    "id": 2992,
+    "name": "International Arbitration Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "international_arbitration",
+      "dispute_resolution",
+      "trade_disputes"
+    ],
+    "funding_range": "$75,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/international-arbitration"
+  },
+  {
+    "id": 2993,
+    "name": "Export Packaging & Labeling Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "export_packaging",
+      "international_labeling",
+      "compliance_packaging"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/export-packaging"
+  },
+  {
+    "id": 2994,
+    "name": "International Franchise Consulting",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "franchise_consulting",
+      "master_franchise",
+      "international_licensing"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/franchise-consulting"
+  },
+  {
+    "id": 2995,
+    "name": "Dual-Use Export Licensing Services",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "dual_use_exports",
+      "ear_compliance",
+      "export_licensing"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/dual-use-licensing"
+  },
+  {
+    "id": 2996,
+    "name": "International Standards Harmonization",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": [
+      "standards_harmonization",
+      "technical_barriers",
+      "regulatory_alignment"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/standards-harmonization"
+  },
+  {
+    "id": 2997,
+    "name": "Global Supply Chain Sustainability",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "sustainable_trade",
+      "green_supply_chain",
+      "ethical_sourcing"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/sustainable-supply-chain"
+  },
+  {
+    "id": 2998,
+    "name": "International Intellectual Property Protection",
+    "source": "U.S. Patent and Trademark Office",
+    "type": "grant",
+    "eligibility": [
+      "international_ip",
+      "patent_protection",
+      "trademark_registration"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://uspto.gov/international-ip"
+  },
+  {
+    "id": 2999,
+    "name": "Emerging Markets Export Development",
+    "source": "U.S. Trade and Development Agency",
+    "type": "grant",
+    "eligibility": [
+      "emerging_markets",
+      "frontier_economies",
+      "high_growth_markets"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://ustda.gov/emerging-markets-export"
+  },
+  {
+    "id": 3000,
+    "name": "Global Trade & Investment Promotion",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "trade_promotion",
+      "investment_attraction",
+      "economic_diplomacy"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/trade-investment-promotion"
+  }
+]

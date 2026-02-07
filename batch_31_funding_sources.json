@@ -1,0 +1,1404 @@
+[
+  {
+    "id": 3001,
+    "name": "Fulbright Program (US Citizens Abroad)",
+    "source": "U.S. Department of State",
+    "type": "grant",
+    "eligibility": [
+      "us_citizens",
+      "international_research",
+      "teaching_abroad"
+    ],
+    "funding_range": "$25,000 - $75,000",
+    "obscurity_score": 5,
+    "url": "https://fulbright.state.gov"
+  },
+  {
+    "id": 3002,
+    "name": "European Union Marie Curie Fellowships",
+    "source": "European Commission",
+    "type": "grant",
+    "eligibility": [
+      "researchers",
+      "international_mobility",
+      "any_nationality"
+    ],
+    "funding_range": "$50,000 - $200,000",
+    "obscurity_score": 6,
+    "url": "https://ec.europa.eu/marie-curie"
+  },
+  {
+    "id": 3003,
+    "name": "Swiss Excellence Scholarships",
+    "source": "Swiss Confederation",
+    "type": "grant",
+    "eligibility": [
+      "postgraduate_research",
+      "foreign_nationals",
+      "academic_excellence"
+    ],
+    "funding_range": "$30,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://sbfi.admin.ch/scholarships"
+  },
+  {
+    "id": 3004,
+    "name": "German DAAD Research Grants",
+    "source": "German Academic Exchange Service",
+    "type": "grant",
+    "eligibility": [
+      "researchers",
+      "international_students",
+      "germany_research"
+    ],
+    "funding_range": "$20,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://daad.de/research-grants"
+  },
+  {
+    "id": 3005,
+    "name": "Japanese Government MEXT Scholarships",
+    "source": "Ministry of Education, Culture, Sports, Science and Technology",
+    "type": "grant",
+    "eligibility": [
+      "graduate_students",
+      "researchers",
+      "japan_study"
+    ],
+    "funding_range": "$15,000 - $60,000",
+    "obscurity_score": 7,
+    "url": "https://mext.go.jp/scholarships"
+  },
+  {
+    "id": 3006,
+    "name": "Australian Endeavour Fellowships",
+    "source": "Australian Government",
+    "type": "grant",
+    "eligibility": [
+      "international_professionals",
+      "research_study",
+      "australia_based"
+    ],
+    "funding_range": "$25,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://internationaleducation.gov.au/endeavour"
+  },
+  {
+    "id": 3007,
+    "name": "Canadian Mitacs Globalink Research",
+    "source": "Mitacs Canada",
+    "type": "grant",
+    "eligibility": [
+      "research_internships",
+      "international_students",
+      "canada_research"
+    ],
+    "funding_range": "$10,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://mitacs.ca/globalink"
+  },
+  {
+    "id": 3008,
+    "name": "Netherlands Fellowship Programmes",
+    "source": "Dutch Ministry of Foreign Affairs",
+    "type": "grant",
+    "eligibility": [
+      "developing_country_professionals",
+      "short_courses",
+      "masters_phd"
+    ],
+    "funding_range": "$15,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://nuffic.nl/nfp"
+  },
+  {
+    "id": 3009,
+    "name": "Singapore International Graduate Award",
+    "source": "Agency for Science, Technology and Research",
+    "type": "grant",
+    "eligibility": [
+      "phd_students",
+      "stem_research",
+      "singapore_universities"
+    ],
+    "funding_range": "$30,000 - $120,000",
+    "obscurity_score": 8,
+    "url": "https://singa.a-star.edu.sg"
+  },
+  {
+    "id": 3010,
+    "name": "Swedish Institute Scholarships",
+    "source": "Swedish Institute",
+    "type": "grant",
+    "eligibility": [
+      "global_professionals",
+      "masters_programs",
+      "sweden_study"
+    ],
+    "funding_range": "$20,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://si.se/scholarships"
+  },
+  {
+    "id": 3011,
+    "name": "World Bank Group IFC Financing",
+    "source": "International Finance Corporation",
+    "type": "loan",
+    "eligibility": [
+      "private_sector",
+      "emerging_markets",
+      "development_projects"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://ifc.org/financing"
+  },
+  {
+    "id": 3012,
+    "name": "European Bank for Reconstruction",
+    "source": "EBRD",
+    "type": "loan",
+    "eligibility": [
+      "transition_economies",
+      "private_enterprise",
+      "infrastructure"
+    ],
+    "funding_range": "$5,000,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://ebrd.com/financing"
+  },
+  {
+    "id": 3013,
+    "name": "Asian Development Bank Private Sector",
+    "source": "ADB",
+    "type": "loan",
+    "eligibility": [
+      "asia_pacific",
+      "private_projects",
+      "development_impact"
+    ],
+    "funding_range": "$10,000,000 - $300,000,000",
+    "obscurity_score": 7,
+    "url": "https://adb.org/private-sector"
+  },
+  {
+    "id": 3014,
+    "name": "Inter-American Development Bank",
+    "source": "IDB",
+    "type": "loan",
+    "eligibility": [
+      "latin_america_caribbean",
+      "private_sector",
+      "development"
+    ],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://iadb.org/financing"
+  },
+  {
+    "id": 3015,
+    "name": "African Development Bank Private Sector",
+    "source": "AfDB",
+    "type": "loan",
+    "eligibility": [
+      "africa",
+      "private_investment",
+      "development_finance"
+    ],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 7,
+    "url": "https://afdb.org/private-sector"
+  },
+  {
+    "id": 3016,
+    "name": "Islamic Development Bank Financing",
+    "source": "IsDB",
+    "type": "loan",
+    "eligibility": [
+      "oic_countries",
+      "sharia_compliant",
+      "development_projects"
+    ],
+    "funding_range": "$10,000,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://isdb.org/financing"
+  },
+  {
+    "id": 3017,
+    "name": "European Investment Bank Loans",
+    "source": "EIB",
+    "type": "loan",
+    "eligibility": [
+      "eu_projects",
+      "climate_innovation",
+      "sme_support"
+    ],
+    "funding_range": "$25,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://eib.org/loans"
+  },
+  {
+    "id": 3018,
+    "name": "Nordic Development Fund",
+    "source": "NDF",
+    "type": "grant",
+    "eligibility": [
+      "climate_change",
+      "low_income_countries",
+      "nordic_partnerships"
+    ],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://ndf.fi/funding"
+  },
+  {
+    "id": 3019,
+    "name": "Caribbean Development Bank",
+    "source": "CDB",
+    "type": "loan",
+    "eligibility": [
+      "caribbean_region",
+      "development_projects",
+      "private_sector"
+    ],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://caribank.org/financing"
+  },
+  {
+    "id": 3020,
+    "name": "Black Sea Trade and Development Bank",
+    "source": "BSTDB",
+    "type": "loan",
+    "eligibility": [
+      "black_sea_region",
+      "trade_finance",
+      "private_sector"
+    ],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://bstdb.org/financing"
+  },
+  {
+    "id": 3021,
+    "name": "Bill & Melinda Gates Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "global_health",
+      "poverty_alleviation",
+      "education"
+    ],
+    "funding_range": "$100,000 - $100,000,000",
+    "obscurity_score": 4,
+    "url": "https://gatesfoundation.org/grants"
+  },
+  {
+    "id": 3022,
+    "name": "Ford Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "social_justice",
+      "inequality",
+      "democratic_values"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 5,
+    "url": "https://fordfoundation.org/grants"
+  },
+  {
+    "id": 3023,
+    "name": "Rockefeller Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "innovation",
+      "resilience",
+      "inclusive_economies"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 5,
+    "url": "https://rockefellerfoundation.org/grants"
+  },
+  {
+    "id": 3024,
+    "name": "MacArthur Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "creative_solutions",
+      "big_bets",
+      "social_change"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 5,
+    "url": "https://macfound.org/grants"
+  },
+  {
+    "id": 3025,
+    "name": "Open Society Foundations",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "human_rights",
+      "democracy",
+      "justice"
+    ],
+    "funding_range": "$50,000 - $20,000,000",
+    "obscurity_score": 5,
+    "url": "https://opensocietyfoundations.org/grants"
+  },
+  {
+    "id": 3026,
+    "name": "Bloomberg Philanthropies",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "public_health",
+      "environment",
+      "education",
+      "arts"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 5,
+    "url": "https://bloomberg.org/grants"
+  },
+  {
+    "id": 3027,
+    "name": "Walton Family Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "education",
+      "environment",
+      "community"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://waltonfamilyfoundation.org/grants"
+  },
+  {
+    "id": 3028,
+    "name": "Kresge Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "low_income_communities",
+      "opportunity",
+      "equity"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://kresge.org/grants"
+  },
+  {
+    "id": 3029,
+    "name": "Knight Foundation Innovation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "journalism",
+      "arts",
+      "community"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://knightfoundation.org/grants"
+  },
+  {
+    "id": 3030,
+    "name": "Hewlett Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "education",
+      "environment",
+      "global_development"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 6,
+    "url": "https://hewlett.org/grants"
+  },
+  {
+    "id": 3031,
+    "name": "Robert Wood Johnson Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "health",
+      "health_equity",
+      "well_being"
+    ],
+    "funding_range": "$50,000 - $25,000,000",
+    "obscurity_score": 5,
+    "url": "https://rwjf.org/grants"
+  },
+  {
+    "id": 3032,
+    "name": "Simons Foundation Science Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "mathematics",
+      "physics",
+      "life_sciences"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://simonsfoundation.org/grants"
+  },
+  {
+    "id": 3033,
+    "name": "Andrew W. Mellon Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "arts_culture",
+      "higher_education",
+      "humanities"
+    ],
+    "funding_range": "$100,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://mellon.org/grants"
+  },
+  {
+    "id": 3034,
+    "name": "Gordon and Betty Moore Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "science",
+      "environment",
+      "patient_care"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://moore.org/grants"
+  },
+  {
+    "id": 3035,
+    "name": "Packard Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "conservation",
+      "science",
+      "children_families"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 6,
+    "url": "https://packard.org/grants"
+  },
+  {
+    "id": 3036,
+    "name": "Awesome Foundation Micro-Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "awesome_projects",
+      "no_strings_attached",
+      "creative_ideas"
+    ],
+    "funding_range": "$1,000 - $1,000",
+    "obscurity_score": 7,
+    "url": "https://awesomefoundation.org"
+  },
+  {
+    "id": 3037,
+    "name": "Pollination Project Daily Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "social_change",
+      "compassionate_action",
+      "daily_awards"
+    ],
+    "funding_range": "$1,000 - $5,000",
+    "obscurity_score": 8,
+    "url": "https://thepollinationproject.org"
+  },
+  {
+    "id": 3038,
+    "name": "Burning Man Project Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "radical_self_expression",
+      "community",
+      "art"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://burningman.org/grants"
+  },
+  {
+    "id": 3039,
+    "name": "FJC Foundation Donor-Advised Funds",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "jewish_philanthropy",
+      "wide_causes",
+      "donor_recommended"
+    ],
+    "funding_range": "$500 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://fjc.org"
+  },
+  {
+    "id": 3040,
+    "name": "Puffin Foundation Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "arts",
+      "social_justice",
+      "unconventional_voices"
+    ],
+    "funding_range": "$1,000 - $2,500",
+    "obscurity_score": 8,
+    "url": "https://puffinfoundation.org"
+  },
+  {
+    "id": 3041,
+    "name": "Sapelo Foundation Sea Islands",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "coastal_georgia",
+      "gullah_geechee",
+      "heritage"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://sapelofoundation.org"
+  },
+  {
+    "id": 3042,
+    "name": "Kindle Project Disability Arts",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "disability_arts",
+      "accessibility",
+      "creative_expression"
+    ],
+    "funding_range": "$1,000 - $10,000",
+    "obscurity_score": 9,
+    "url": "https://kindlearts.org"
+  },
+  {
+    "id": 3043,
+    "name": "Clif Bar Family Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "grassroots",
+      "environmental",
+      "social_justice"
+    ],
+    "funding_range": "$5,000 - $15,000",
+    "obscurity_score": 7,
+    "url": "https://clifbarfamilyfoundation.org"
+  },
+  {
+    "id": 3044,
+    "name": "Herb Block Foundation Editorial Cartooning",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "editorial_cartoonists",
+      "journalism",
+      "free_expression"
+    ],
+    "funding_range": "$5,000 - $25,000",
+    "obscurity_score": 9,
+    "url": "https://herbblockfoundation.org"
+  },
+  {
+    "id": 3045,
+    "name": "Panta Rhea Foundation Arts & Ecology",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "arts_ecology_intersection",
+      "environmental_art",
+      "creative_projects"
+    ],
+    "funding_range": "$2,000 - $20,000",
+    "obscurity_score": 9,
+    "url": "https://pantarhea.org"
+  },
+  {
+    "id": 3046,
+    "name": "Change Happens Foundation Seed Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "social_entrepreneurs",
+      "early_stage",
+      "impact"
+    ],
+    "funding_range": "$2,500 - $10,000",
+    "obscurity_score": 8,
+    "url": "https://changehappens.org"
+  },
+  {
+    "id": 3047,
+    "name": "Surdna Foundation Just Transition",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "economic_justice",
+      "thriving_cultures",
+      "sustainable_environments"
+    ],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://surdna.org"
+  },
+  {
+    "id": 3048,
+    "name": "Whitman Institute Unrestricted Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "social_change_leaders",
+      "unrestricted_support",
+      "long_term"
+    ],
+    "funding_range": "$100,000 - $400,000",
+    "obscurity_score": 9,
+    "url": "https://whitmaninstitute.org"
+  },
+  {
+    "id": 3049,
+    "name": "Nion Foundation Micro-Philanthropy",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "san_francisco_bay_area",
+      "community_projects",
+      "quick_grants"
+    ],
+    "funding_range": "$500 - $5,000",
+    "obscurity_score": 9,
+    "url": "https://nionfoundation.org"
+  },
+  {
+    "id": 3050,
+    "name": "Caldera Arts-Based Youth Programs",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "underserved_youth",
+      "arts_environmental_programs",
+      "transformative"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://caldera.org/grants"
+  },
+  {
+    "id": 3051,
+    "name": "Chan Zuckerberg Initiative Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "science",
+      "education",
+      "justice_opportunity"
+    ],
+    "funding_range": "$100,000 - $100,000,000",
+    "obscurity_score": 5,
+    "url": "https://chanzuckerberg.com/grants"
+  },
+  {
+    "id": 3052,
+    "name": "Bezos Earth Fund Climate Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "climate_change",
+      "nature_conservation",
+      "equity"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 5,
+    "url": "https://bezosearthfund.org"
+  },
+  {
+    "id": 3053,
+    "name": "Laurene Powell Jobs Emerson Collective",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "education",
+      "immigration_reform",
+      "social_justice"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://emersoncollective.com"
+  },
+  {
+    "id": 3054,
+    "name": "Schmidt Family Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "environment",
+      "science",
+      "human_rights"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://tsffoundation.org"
+  },
+  {
+    "id": 3055,
+    "name": "Omidyar Network Social Impact",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "reimagining_capitalism",
+      "digital_identity",
+      "responsible_technology"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://omidyar.com/grants"
+  },
+  {
+    "id": 3056,
+    "name": "Ballmer Group Opportunity Grants",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "economic_mobility",
+      "children_families",
+      "us_focus"
+    ],
+    "funding_range": "$500,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://ballmergroup.org"
+  },
+  {
+    "id": 3057,
+    "name": "Arnold Ventures Evidence-Based Policy",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "criminal_justice",
+      "education",
+      "health",
+      "evidence_based"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://arnoldventures.org/grants"
+  },
+  {
+    "id": 3058,
+    "name": "Sergey Brin Family Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "parkinsons_research",
+      "refugee_aid",
+      "stem_education"
+    ],
+    "funding_range": "$50,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://brinfoundation.org"
+  },
+  {
+    "id": 3059,
+    "name": "Paul G. Allen Frontiers Group",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "bioscience",
+      "artificial_intelligence",
+      "exploration"
+    ],
+    "funding_range": "$100,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://alleninstitute.org/frontiers"
+  },
+  {
+    "id": 3060,
+    "name": "Pritzker Traubert Foundation Chicago",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "chicago_based",
+      "economic_mobility",
+      "early_childhood"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://ptfoundation.org"
+  },
+  {
+    "id": 3061,
+    "name": "XPRIZE Competition Awards",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "breakthrough_innovation",
+      "global_challenges",
+      "competition"
+    ],
+    "funding_range": "$1,000,000 - $100,000,000",
+    "obscurity_score": 5,
+    "url": "https://xprize.org"
+  },
+  {
+    "id": 3062,
+    "name": "Hult Prize Student Startups",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "student_entrepreneurs",
+      "social_impact",
+      "global_competition"
+    ],
+    "funding_range": "$1,000,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://hultprize.org"
+  },
+  {
+    "id": 3063,
+    "name": "MIT Solve Global Challenges",
+    "source": "Educational Institution",
+    "type": "prize",
+    "eligibility": [
+      "tech_innovation",
+      "social_entrepreneurs",
+      "global_impact"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://solve.mit.edu"
+  },
+  {
+    "id": 3064,
+    "name": "Earthshot Prize Environmental Innovation",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "environmental_solutions",
+      "protect_restore_planet",
+      "scalable"
+    ],
+    "funding_range": "$1,200,000 - $1,200,000",
+    "obscurity_score": 6,
+    "url": "https://earthshotprize.org"
+  },
+  {
+    "id": 3065,
+    "name": "Global Innovation Award",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "game_changing_innovation",
+      "any_field",
+      "global_impact"
+    ],
+    "funding_range": "$500,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://globalinnovationaward.org"
+  },
+  {
+    "id": 3066,
+    "name": "43North Startup Competition Buffalo",
+    "source": "Regional Development",
+    "type": "prize",
+    "eligibility": [
+      "startups",
+      "relocate_buffalo",
+      "pitch_competition"
+    ],
+    "funding_range": "$1,000,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://43north.org"
+  },
+  {
+    "id": 3067,
+    "name": "Rice Business Plan Competition",
+    "source": "Educational Institution",
+    "type": "prize",
+    "eligibility": [
+      "student_startups",
+      "business_plans",
+      "university_affiliated"
+    ],
+    "funding_range": "$50,000 - $350,000",
+    "obscurity_score": 7,
+    "url": "https://rbpc.rice.edu"
+  },
+  {
+    "id": 3068,
+    "name": "Global Social Venture Competition",
+    "source": "Educational Institution",
+    "type": "prize",
+    "eligibility": [
+      "social_ventures",
+      "graduate_students",
+      "global_competition"
+    ],
+    "funding_range": "$25,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://gsvc.org"
+  },
+  {
+    "id": 3069,
+    "name": "Ashden Awards Sustainable Energy",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "sustainable_energy",
+      "climate_solutions",
+      "uk_international"
+    ],
+    "funding_range": "$20,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://ashden.org/awards"
+  },
+  {
+    "id": 3070,
+    "name": "James Dyson Award Design Engineering",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "design_engineering_students",
+      "problem_solving",
+      "international"
+    ],
+    "funding_range": "$5,000 - $40,000",
+    "obscurity_score": 7,
+    "url": "https://jamesdysonaward.org"
+  },
+  {
+    "id": 3071,
+    "name": "Ocean Exchange Innovation Summit",
+    "source": "Nonprofit Organization",
+    "type": "prize",
+    "eligibility": [
+      "ocean_health",
+      "water_solutions",
+      "sustainability"
+    ],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://oceanexchange.org"
+  },
+  {
+    "id": 3072,
+    "name": "Buckminster Fuller Challenge",
+    "source": "Private Foundation",
+    "type": "prize",
+    "eligibility": [
+      "whole_systems_solutions",
+      "humanity_challenges",
+      "visionary"
+    ],
+    "funding_range": "$100,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://bfi.org/challenge"
+  },
+  {
+    "id": 3073,
+    "name": "World Technology Awards",
+    "source": "Nonprofit Organization",
+    "type": "prize",
+    "eligibility": [
+      "technology_innovation",
+      "individual_achievement",
+      "global"
+    ],
+    "funding_range": "$5,000 - $25,000",
+    "obscurity_score": 8,
+    "url": "https://worldtechnologyawards.org"
+  },
+  {
+    "id": 3074,
+    "name": "Classy Awards Nonprofit Excellence",
+    "source": "Private Company",
+    "type": "prize",
+    "eligibility": [
+      "nonprofit_organizations",
+      "fundraising_excellence",
+      "social_impact"
+    ],
+    "funding_range": "$10,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://classy.org/awards"
+  },
+  {
+    "id": 3075,
+    "name": "Fast Company World Changing Ideas",
+    "source": "Media Organization",
+    "type": "prize",
+    "eligibility": [
+      "innovative_ideas",
+      "social_good",
+      "business_nonprofit"
+    ],
+    "funding_range": "$5,000 - $25,000",
+    "obscurity_score": 7,
+    "url": "https://fastcompany.com/world-changing-ideas"
+  },
+  {
+    "id": 3076,
+    "name": "Artist Residencies International Network",
+    "source": "Various International",
+    "type": "grant",
+    "eligibility": [
+      "artists",
+      "residency_programs",
+      "global_network"
+    ],
+    "funding_range": "$1,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://resartis.org"
+  },
+  {
+    "id": 3077,
+    "name": "MacDowell Artist Colony Fellowships",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "artists_writers",
+      "uninterrupted_time",
+      "creative_work"
+    ],
+    "funding_range": "$5,000 - $15,000",
+    "obscurity_score": 6,
+    "url": "https://macdowell.org"
+  },
+  {
+    "id": 3078,
+    "name": "Yaddo Artist Residency",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "writers_artists_composers",
+      "residency",
+      "creative_practice"
+    ],
+    "funding_range": "$3,000 - $10,000",
+    "obscurity_score": 7,
+    "url": "https://yaddo.org"
+  },
+  {
+    "id": 3079,
+    "name": "Bellagio Center Rockefeller Residency",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "scholars_artists_thought_leaders",
+      "italy_residency",
+      "impactful_work"
+    ],
+    "funding_range": "$10,000 - $30,000",
+    "obscurity_score": 7,
+    "url": "https://rockefellerfoundation.org/bellagio"
+  },
+  {
+    "id": 3080,
+    "name": "Japan Foundation Fellowships",
+    "source": "Japanese Government",
+    "type": "fellowship",
+    "eligibility": [
+      "japan_studies",
+      "arts_culture",
+      "international_exchange"
+    ],
+    "funding_range": "$20,000 - $60,000",
+    "obscurity_score": 7,
+    "url": "https://jpf.go.jp/fellowships"
+  },
+  {
+    "id": 3081,
+    "name": "American Academy in Rome Prize",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "artists_scholars",
+      "rome_residency",
+      "us_citizens"
+    ],
+    "funding_range": "$30,000 - $40,000",
+    "obscurity_score": 7,
+    "url": "https://aarome.org/rome-prize"
+  },
+  {
+    "id": 3082,
+    "name": "Civitella Ranieri Foundation Italy",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "artists_writers_composers",
+      "umbria_italy",
+      "creative_residency"
+    ],
+    "funding_range": "$5,000 - $15,000",
+    "obscurity_score": 8,
+    "url": "https://civitella.org"
+  },
+  {
+    "id": 3083,
+    "name": "Banff Centre Arts Residency Canada",
+    "source": "Arts Organization",
+    "type": "fellowship",
+    "eligibility": [
+      "artists_all_disciplines",
+      "canadian_rockies",
+      "creation_space"
+    ],
+    "funding_range": "$2,000 - $20,000",
+    "obscurity_score": 7,
+    "url": "https://banffcentre.ca/residencies"
+  },
+  {
+    "id": 3084,
+    "name": "Villa Serbelloni Bellagio Residency",
+    "source": "Private Foundation",
+    "type": "fellowship",
+    "eligibility": [
+      "academics_artists_writers",
+      "lake_como_italy",
+      "intellectual_work"
+    ],
+    "funding_range": "$10,000 - $25,000",
+    "obscurity_score": 8,
+    "url": "https://rockefellerfoundation.org/bellagio/serbelloni"
+  },
+  {
+    "id": 3085,
+    "name": "Cit\u00e9 Internationale des Arts Paris",
+    "source": "Arts Organization",
+    "type": "fellowship",
+    "eligibility": [
+      "international_artists",
+      "paris_residency",
+      "studio_space"
+    ],
+    "funding_range": "$5,000 - $30,000",
+    "obscurity_score": 8,
+    "url": "https://citedesartsparis.net"
+  },
+  {
+    "id": 3086,
+    "name": "Kickstarter Creative Projects",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "creative_projects",
+      "all_or_nothing",
+      "community_backed"
+    ],
+    "funding_range": "$1,000 - $10,000,000",
+    "obscurity_score": 4,
+    "url": "https://kickstarter.com"
+  },
+  {
+    "id": 3087,
+    "name": "Indiegogo Flexible Funding",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "any_project",
+      "flexible_or_fixed",
+      "global"
+    ],
+    "funding_range": "$500 - $5,000,000",
+    "obscurity_score": 4,
+    "url": "https://indiegogo.com"
+  },
+  {
+    "id": 3088,
+    "name": "GoFundMe Personal Fundraising",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "personal_causes",
+      "emergencies",
+      "community_support"
+    ],
+    "funding_range": "$100 - $1,000,000",
+    "obscurity_score": 3,
+    "url": "https://gofundme.com"
+  },
+  {
+    "id": 3089,
+    "name": "Patreon Creator Membership",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "creators",
+      "subscription_model",
+      "ongoing_support"
+    ],
+    "funding_range": "$100 - $500,000",
+    "obscurity_score": 4,
+    "url": "https://patreon.com"
+  },
+  {
+    "id": 3090,
+    "name": "Republic Equity Crowdfunding",
+    "source": "Private Company",
+    "type": "equity_crowdfunding",
+    "eligibility": [
+      "startups",
+      "accredited_non_accredited",
+      "equity_offering"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://republic.com"
+  },
+  {
+    "id": 3091,
+    "name": "StartEngine Reg CF Offerings",
+    "source": "Private Company",
+    "type": "equity_crowdfunding",
+    "eligibility": [
+      "startups",
+      "regulation_cf",
+      "retail_investors"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://startengine.com"
+  },
+  {
+    "id": 3092,
+    "name": "Wefunder Community Investment",
+    "source": "Private Company",
+    "type": "equity_crowdfunding",
+    "eligibility": [
+      "startups",
+      "community_investors",
+      "regulation_cf"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://wefunder.com"
+  },
+  {
+    "id": 3093,
+    "name": "iFundWomen Women Entrepreneurs",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "women_owned_businesses",
+      "coaching_included",
+      "grants_available"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://ifundwomen.com"
+  },
+  {
+    "id": 3094,
+    "name": "Experiment Scientific Research Crowdfunding",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "scientific_research",
+      "researchers",
+      "discovery"
+    ],
+    "funding_range": "$5,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://experiment.com"
+  },
+  {
+    "id": 3095,
+    "name": "Kiva Microloans Zero Interest",
+    "source": "Nonprofit Organization",
+    "type": "loan",
+    "eligibility": [
+      "entrepreneurs",
+      "zero_interest",
+      "global"
+    ],
+    "funding_range": "$1,000 - $15,000",
+    "obscurity_score": 5,
+    "url": "https://kiva.org"
+  },
+  {
+    "id": 3096,
+    "name": "Accion Opportunity Fund Microloans",
+    "source": "Nonprofit CDFI",
+    "type": "loan",
+    "eligibility": [
+      "small_businesses",
+      "underserved",
+      "flexible_terms"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://aofund.org"
+  },
+  {
+    "id": 3097,
+    "name": "Fundable Startup Crowdfunding",
+    "source": "Private Company",
+    "type": "crowdfunding",
+    "eligibility": [
+      "startups",
+      "rewards_or_equity",
+      "business_promotion"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://fundable.com"
+  },
+  {
+    "id": 3098,
+    "name": "SeedInvest Tech Startups",
+    "source": "Private Company",
+    "type": "equity_crowdfunding",
+    "eligibility": [
+      "vetted_startups",
+      "accredited_investors",
+      "tech_focus"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://seedinvest.com"
+  },
+  {
+    "id": 3099,
+    "name": "Honeycomb Credit Small Business",
+    "source": "Private Company",
+    "type": "debt_crowdfunding",
+    "eligibility": [
+      "local_businesses",
+      "community_investors",
+      "revenue_based"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://honeycombcredit.com"
+  },
+  {
+    "id": 3100,
+    "name": "Mainvest Community Investment",
+    "source": "Private Company",
+    "type": "revenue_share",
+    "eligibility": [
+      "small_businesses",
+      "revenue_sharing",
+      "community_backed"
+    ],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://mainvest.com"
+  }
+]

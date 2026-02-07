@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 3401,
+    "name": "New York Community Trust",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$1M",
+    "obscurity_score": 5,
+    "url": "https://newyorkcommunitytrust.org"
+  },
+  {
+    "id": 3402,
+    "name": "Silicon Valley Community Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$25K-$5M",
+    "obscurity_score": 5,
+    "url": "https://siliconvalleycommunityfoundation.org"
+  },
+  {
+    "id": 3403,
+    "name": "Chicago Community Trust",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 5,
+    "url": "https://chicagocommunitytrust.org"
+  },
+  {
+    "id": 3404,
+    "name": "Boston Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 5,
+    "url": "https://bostonfoundation.org"
+  },
+  {
+    "id": 3405,
+    "name": "Cleveland Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://clevelandfoundation.org"
+  },
+  {
+    "id": 3406,
+    "name": "San Francisco Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$15K-$1M",
+    "obscurity_score": 5,
+    "url": "https://sanfranciscofoundation.org"
+  },
+  {
+    "id": 3407,
+    "name": "Philadelphia Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://philadelphiafoundation.org"
+  },
+  {
+    "id": 3408,
+    "name": "Seattle Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://seattlefoundation.org"
+  },
+  {
+    "id": 3409,
+    "name": "Los Angeles Foundation (California Community)",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$15K-$1M",
+    "obscurity_score": 5,
+    "url": "https://losangelesfoundationcaliforniacommunity.org"
+  },
+  {
+    "id": 3410,
+    "name": "Pittsburgh Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 6,
+    "url": "https://pittsburghfoundation.org"
+  },
+  {
+    "id": 3411,
+    "name": "Minneapolis Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://minneapolisfoundation.org"
+  },
+  {
+    "id": 3412,
+    "name": "San Diego Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://sandiegofoundation.org"
+  },
+  {
+    "id": 3413,
+    "name": "Greater Kansas City Community Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 6,
+    "url": "https://greaterkansascitycommunityfoundation.org"
+  },
+  {
+    "id": 3414,
+    "name": "Dallas Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://dallasfoundation.org"
+  },
+  {
+    "id": 3415,
+    "name": "Houston Endowment",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$25K-$2M",
+    "obscurity_score": 6,
+    "url": "https://houstonendowment.org"
+  },
+  {
+    "id": 3416,
+    "name": "Greater Milwaukee Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://greatermilwaukeefoundation.org"
+  },
+  {
+    "id": 3417,
+    "name": "Columbus Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://columbusfoundation.org"
+  },
+  {
+    "id": 3418,
+    "name": "Denver Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://denverfoundation.org"
+  },
+  {
+    "id": 3419,
+    "name": "Atlanta Community Foundation (Community Foundation for Greater Atlanta)",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://atlantacommunityfoundationcommunityfoundationforgreateratlanta.org"
+  },
+  {
+    "id": 3420,
+    "name": "Greater Cincinnati Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://greatercincinnatifoundation.org"
+  },
+  {
+    "id": 3421,
+    "name": "Community Foundation Silicon Valley",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://communityfoundationsiliconvalley.org"
+  },
+  {
+    "id": 3422,
+    "name": "Oregon Community Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 6,
+    "url": "https://oregoncommunityfoundation.org"
+  },
+  {
+    "id": 3423,
+    "name": "Hawaii Community Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://hawaiicommunityfoundation.org"
+  },
+  {
+    "id": 3424,
+    "name": "Rhode Island Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://rhodeislandfoundation.org"
+  },
+  {
+    "id": 3425,
+    "name": "Vermont Community Foundation",
+    "source": "Community Foundation",
+    "type": "grant",
+    "eligibility": [
+      "local_nonprofits",
+      "community_impact",
+      "geographic_focus"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 7,
+    "url": "https://vermontcommunityfoundation.org"
+  },
+  {
+    "id": 3426,
+    "name": "North Carolina Community Foundation",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://northcarolinacommunityfoundation.org"
+  },
+  {
+    "id": 3427,
+    "name": "Florida Philanthropic Network",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://floridaphilanthropicnetwork.org"
+  },
+  {
+    "id": 3428,
+    "name": "Michigan Community Foundations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://michigancommunityfoundations.org"
+  },
+  {
+    "id": 3429,
+    "name": "Texas Community Foundation Network",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://texascommunityfoundationnetwork.org"
+  },
+  {
+    "id": 3430,
+    "name": "California Association of Nonprofits",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://californiaassociationofnonprofits.org"
+  },
+  {
+    "id": 3431,
+    "name": "Pennsylvania Community Foundations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://pennsylvaniacommunityfoundations.org"
+  },
+  {
+    "id": 3432,
+    "name": "Ohio Grantmakers Forum",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://ohiograntmakersforum.org"
+  },
+  {
+    "id": 3433,
+    "name": "Virginia Community Foundations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://virginiacommunityfoundations.org"
+  },
+  {
+    "id": 3434,
+    "name": "Maryland Philanthropy Network",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://marylandphilanthropynetwork.org"
+  },
+  {
+    "id": 3435,
+    "name": "Massachusetts Community Foundations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://massachusettscommunityfoundations.org"
+  },
+  {
+    "id": 3436,
+    "name": "Arizona Community Foundation",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://arizonacommunityfoundation.org"
+  },
+  {
+    "id": 3437,
+    "name": "Colorado Nonprofit Association",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://coloradononprofitassociation.org"
+  },
+  {
+    "id": 3438,
+    "name": "Connecticut Council for Philanthropy",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://connecticutcouncilforphilanthropy.org"
+  },
+  {
+    "id": 3439,
+    "name": "Georgia Center for Nonprofits",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://georgiacenterfornonprofits.org"
+  },
+  {
+    "id": 3440,
+    "name": "Indiana Philanthropy Alliance",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://indianaphilanthropyalliance.org"
+  },
+  {
+    "id": 3441,
+    "name": "Iowa Council of Foundations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://iowacounciloffoundations.org"
+  },
+  {
+    "id": 3442,
+    "name": "Kentucky Nonprofit Network",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://kentuckynonprofitnetwork.org"
+  },
+  {
+    "id": 3443,
+    "name": "Louisiana Association of Nonprofit Organizations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://louisianaassociationofnonprofitorganizations.org"
+  },
+  {
+    "id": 3444,
+    "name": "Minnesota Council of Nonprofits",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://minnesotacouncilofnonprofits.org"
+  },
+  {
+    "id": 3445,
+    "name": "Missouri Association of Funders",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://missouriassociationoffunders.org"
+  },
+  {
+    "id": 3446,
+    "name": "Nevada Community Foundation",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://nevadacommunityfoundation.org"
+  },
+  {
+    "id": 3447,
+    "name": "New Mexico Association of Grantmakers",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://newmexicoassociationofgrantmakers.org"
+  },
+  {
+    "id": 3448,
+    "name": "Oklahoma Center for Nonprofits",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://oklahomacenterfornonprofits.org"
+  },
+  {
+    "id": 3449,
+    "name": "South Carolina Association of Nonprofit Organizations",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://southcarolinaassociationofnonprofitorganizations.org"
+  },
+  {
+    "id": 3450,
+    "name": "Tennessee Center for Nonprofits",
+    "source": "Community Foundation Network",
+    "type": "grant",
+    "eligibility": [
+      "state_nonprofits",
+      "capacity_building",
+      "local_impact"
+    ],
+    "funding_range": "$5,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://tennesseecenterfornonprofits.org"
+  },
+  {
+    "id": 3451,
+    "name": "Appalachian Regional Commission Grants",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$50K-$5M",
+    "obscurity_score": 6,
+    "url": "https://appalachianregionalcommissiongrants.org"
+  },
+  {
+    "id": 3452,
+    "name": "Delta Regional Authority",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$25K-$2M",
+    "obscurity_score": 7,
+    "url": "https://deltaregionalauthority.org"
+  },
+  {
+    "id": 3453,
+    "name": "Northern Border Regional Commission",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$25K-$1M",
+    "obscurity_score": 8,
+    "url": "https://northernborderregionalcommission.org"
+  },
+  {
+    "id": 3454,
+    "name": "Denali Commission Alaska",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$50K-$5M",
+    "obscurity_score": 8,
+    "url": "https://denalicommissionalaska.org"
+  },
+  {
+    "id": 3455,
+    "name": "Four Corners Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 8,
+    "url": "https://fourcornerscommunityfoundation.org"
+  },
+  {
+    "id": 3456,
+    "name": "Greater New Orleans Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 7,
+    "url": "https://greaterneworleansfoundation.org"
+  },
+  {
+    "id": 3457,
+    "name": "Silicon Valley Gives",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://siliconvalleygives.org"
+  },
+  {
+    "id": 3458,
+    "name": "Triangle Community Foundation (NC)",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://trianglecommunityfoundationnc.org"
+  },
+  {
+    "id": 3459,
+    "name": "Austin Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 7,
+    "url": "https://austincommunityfoundation.org"
+  },
+  {
+    "id": 3460,
+    "name": "Nashville Area Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://nashvilleareacommunityfoundation.org"
+  },
+  {
+    "id": 3461,
+    "name": "Greater Sacramento Region CF",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://greatersacramentoregioncf.org"
+  },
+  {
+    "id": 3462,
+    "name": "Tucson Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 8,
+    "url": "https://tucsoncommunityfoundation.org"
+  },
+  {
+    "id": 3463,
+    "name": "Albuquerque Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 8,
+    "url": "https://albuquerquecommunityfoundation.org"
+  },
+  {
+    "id": 3464,
+    "name": "Boise Community Foundation (Idaho CF)",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 8,
+    "url": "https://boisecommunityfoundationidahocf.org"
+  },
+  {
+    "id": 3465,
+    "name": "Community Foundation of Louisville",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 7,
+    "url": "https://communityfoundationoflouisville.org"
+  },
+  {
+    "id": 3466,
+    "name": "Community Foundation Sonoma County",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 8,
+    "url": "https://communityfoundationsonomacounty.org"
+  },
+  {
+    "id": 3467,
+    "name": "East Bay Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 7,
+    "url": "https://eastbaycommunityfoundation.org"
+  },
+  {
+    "id": 3468,
+    "name": "Marin Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 7,
+    "url": "https://marincommunityfoundation.org"
+  },
+  {
+    "id": 3469,
+    "name": "Peninsula Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$500K",
+    "obscurity_score": 7,
+    "url": "https://peninsulacommunityfoundation.org"
+  },
+  {
+    "id": 3470,
+    "name": "Santa Barbara Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 8,
+    "url": "https://santabarbarafoundation.org"
+  },
+  {
+    "id": 3471,
+    "name": "Community Foundation Santa Cruz County",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 8,
+    "url": "https://communityfoundationsantacruzcounty.org"
+  },
+  {
+    "id": 3472,
+    "name": "Ventura County Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 8,
+    "url": "https://venturacountycommunityfoundation.org"
+  },
+  {
+    "id": 3473,
+    "name": "Inland Empire Community Foundation",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$10K-$250K",
+    "obscurity_score": 8,
+    "url": "https://inlandempirecommunityfoundation.org"
+  },
+  {
+    "id": 3474,
+    "name": "San Luis Obispo County CF",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 9,
+    "url": "https://sanluisobispocountycf.org"
+  },
+  {
+    "id": 3475,
+    "name": "Community Foundation Monterey County",
+    "source": "Regional Foundation",
+    "type": "grant",
+    "eligibility": [
+      "regional_focus",
+      "community_nonprofits",
+      "local_projects"
+    ],
+    "funding_range": "$5K-$100K",
+    "obscurity_score": 9,
+    "url": "https://communityfoundationmontereycounty.org"
+  },
+  {
+    "id": 3476,
+    "name": "Rural Community Assistance Corporation",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://ruralcommunityassistancecorporation.org"
+  },
+  {
+    "id": 3477,
+    "name": "Neighborhood Funders Group",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://neighborhoodfundersgroup.org"
+  },
+  {
+    "id": 3478,
+    "name": "Local Initiatives Support Corporation (LISC)",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://localinitiativessupportcorporationlisc.org"
+  },
+  {
+    "id": 3479,
+    "name": "NeighborWorks America",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://neighborworksamerica.org"
+  },
+  {
+    "id": 3480,
+    "name": "Enterprise Community Partners",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://enterprisecommunitypartners.org"
+  },
+  {
+    "id": 3481,
+    "name": "Main Street America",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://mainstreetamerica.org"
+  },
+  {
+    "id": 3482,
+    "name": "National Main Street Center",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalmainstreetcenter.org"
+  },
+  {
+    "id": 3483,
+    "name": "Partners for Livable Communities",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://partnersforlivablecommunities.org"
+  },
+  {
+    "id": 3484,
+    "name": "Smart Growth America",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://smartgrowthamerica.org"
+  },
+  {
+    "id": 3485,
+    "name": "National Housing Trust",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalhousingtrust.org"
+  },
+  {
+    "id": 3486,
+    "name": "Community Development Venture Capital Alliance",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://communitydevelopmentventurecapitalalliance.org"
+  },
+  {
+    "id": 3487,
+    "name": "National Community Development Association",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalcommunitydevelopmentassociation.org"
+  },
+  {
+    "id": 3488,
+    "name": "Opportunity Finance Network",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://opportunityfinancenetwork.org"
+  },
+  {
+    "id": 3489,
+    "name": "National Federation of Community Development Credit Unions",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalfederationofcommunitydevelopmentcreditunions.org"
+  },
+  {
+    "id": 3490,
+    "name": "Association for Enterprise Opportunity",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://associationforenterpriseopportunity.org"
+  },
+  {
+    "id": 3491,
+    "name": "National Community Reinvestment Coalition",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalcommunityreinvestmentcoalition.org"
+  },
+  {
+    "id": 3492,
+    "name": "PolicyLink Equity Network",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://policylinkequitynetwork.org"
+  },
+  {
+    "id": 3493,
+    "name": "Living Cities Collaborative",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://livingcitiescollaborative.org"
+  },
+  {
+    "id": 3494,
+    "name": "Purpose Built Communities",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://purposebuiltcommunities.org"
+  },
+  {
+    "id": 3495,
+    "name": "National League of Cities Institute",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalleagueofcitiesinstitute.org"
+  },
+  {
+    "id": 3496,
+    "name": "National Association of Counties",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalassociationofcounties.org"
+  },
+  {
+    "id": 3497,
+    "name": "U.S. Conference of Mayors Community Development",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://u.s.conferenceofmayorscommunitydevelopment.org"
+  },
+  {
+    "id": 3498,
+    "name": "International City/County Management Association",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://internationalcity/countymanagementassociation.org"
+  },
+  {
+    "id": 3499,
+    "name": "National Civic League",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalcivicleague.org"
+  },
+  {
+    "id": 3500,
+    "name": "Chorus America Community Engagement",
+    "source": "Local/Regional Funder",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "local_initiatives",
+      "place_based"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://chorusamericacommunityengagement.org"
+  }
+]

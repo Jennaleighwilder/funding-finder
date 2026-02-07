@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1101,
+    "name": "Delaware Strategic Fund",
+    "source": "Delaware Division of Small Business",
+    "type": "grant",
+    "eligibility": ["small_business", "delaware_based", "job_creation"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://business.delaware.gov/strategic-fund"
+  },
+  {
+    "id": 1102,
+    "name": "Delaware Brownfield Site Grant",
+    "source": "Delaware Department of Natural Resources",
+    "type": "grant",
+    "eligibility": ["brownfield", "environmental_cleanup", "delaware_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://dnrec.delaware.gov/waste-hazardous/brownfields"
+  },
+  {
+    "id": 1103,
+    "name": "Delaware Access to Capital Loan",
+    "source": "Delaware Economic Development Office",
+    "type": "loan",
+    "eligibility": ["small_business", "startup", "delaware_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://business.delaware.gov/access-to-capital"
+  },
+  {
+    "id": 1104,
+    "name": "Delaware Film Production Tax Credit",
+    "source": "Delaware Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "delaware_filming"],
+    "funding_range": "10-25% of expenses",
+    "obscurity_score": 5,
+    "url": "https://film.delaware.gov/incentives"
+  },
+  {
+    "id": 1105,
+    "name": "Delaware Agriculture Innovation Fund",
+    "source": "Delaware Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "delaware_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://agriculture.delaware.gov/innovation-fund"
+  },
+  {
+    "id": 1106,
+    "name": "Delaware New Economy Jobs Tax Credit",
+    "source": "Delaware Division of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["tech_startup", "job_creation", "delaware_based"],
+    "funding_range": "$500 - $1,000 per job",
+    "obscurity_score": 6,
+    "url": "https://revenue.delaware.gov/business-tax-credits/new-economy"
+  },
+  {
+    "id": 1107,
+    "name": "Delaware Clean Energy Jobs Grant",
+    "source": "Delaware Sustainable Energy Utility",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "delaware_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://deseu.org/grants"
+  },
+  {
+    "id": 1108,
+    "name": "Delaware Tourism Development Grant",
+    "source": "Visit Delaware",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 6,
+    "url": "https://visitdelaware.com/grants"
+  },
+  {
+    "id": 1109,
+    "name": "Delaware Minority Business Development",
+    "source": "Delaware Division of Small Business",
+    "type": "grant",
+    "eligibility": ["minority_owned", "small_business", "delaware_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 5,
+    "url": "https://business.delaware.gov/minority-business"
+  },
+  {
+    "id": 1110,
+    "name": "Delaware Historic Preservation Tax Credit",
+    "source": "Delaware State Historic Preservation Office",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "delaware_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://history.delaware.gov/tax-credits"
+  },
+  {
+    "id": 1111,
+    "name": "Delaware Workforce Training Grant",
+    "source": "Delaware Department of Labor",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "delaware_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 5,
+    "url": "https://dol.delaware.gov/workforce-training"
+  },
+  {
+    "id": 1112,
+    "name": "Delaware Angel Investor Tax Credit",
+    "source": "Delaware Division of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "delaware_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 7,
+    "url": "https://revenue.delaware.gov/angel-investor"
+  },
+  {
+    "id": 1113,
+    "name": "Delaware Port Access Improvement Grant",
+    "source": "Diamond State Port Corporation",
+    "type": "grant",
+    "eligibility": ["logistics", "maritime", "delaware_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://dspc.delaware.gov/grants"
+  },
+  {
+    "id": 1114,
+    "name": "Delaware Clean Vehicle Rebate",
+    "source": "Delaware Department of Natural Resources",
+    "type": "rebate",
+    "eligibility": ["ev_vehicle", "clean_transportation", "delaware_based"],
+    "funding_range": "$1,000 - $22,000",
+    "obscurity_score": 5,
+    "url": "https://dnrec.delaware.gov/clean-vehicle-rebate"
+  },
+  {
+    "id": 1115,
+    "name": "Delaware Venture Capital Partnership",
+    "source": "Delaware Prosperity Partnership",
+    "type": "equity",
+    "eligibility": ["tech_startup", "high_growth", "delaware_based"],
+    "funding_range": "$250,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://choosedelaware.com/venture-capital"
+  },
+  {
+    "id": 1116,
+    "name": "Delaware Biotech Lab Equipment Grant",
+    "source": "Delaware Bioscience Center",
+    "type": "grant",
+    "eligibility": ["biotech", "life_sciences", "delaware_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://debioscience.org/equipment-grants"
+  },
+  {
+    "id": 1117,
+    "name": "Delaware Main Street Revitalization Grant",
+    "source": "Delaware Division of Small Business",
+    "type": "grant",
+    "eligibility": ["downtown", "commercial_real_estate", "delaware_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://business.delaware.gov/main-street"
+  },
+  {
+    "id": 1118,
+    "name": "Delaware Research & Development Tax Credit",
+    "source": "Delaware Division of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "delaware_based"],
+    "funding_range": "10% of expenses",
+    "obscurity_score": 5,
+    "url": "https://revenue.delaware.gov/rd-tax-credit"
+  },
+  {
+    "id": 1119,
+    "name": "Delaware Veteran Business Support",
+    "source": "Delaware Commission of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "delaware_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.delaware.gov/business"
+  },
+  {
+    "id": 1120,
+    "name": "Delaware Craft Beverage Production Credit",
+    "source": "Delaware Division of Alcohol and Tobacco Enforcement",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "Tax reduction",
+    "obscurity_score": 7,
+    "url": "https://date.delaware.gov/craft-beverage-credit"
+  },
+  {
+    "id": 1121,
+    "name": "Hawaii Technology Development Corporation Grant",
+    "source": "Hawaii Technology Development Corporation",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "hawaii_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://htdc.org/grants"
+  },
+  {
+    "id": 1122,
+    "name": "Hawaii Film Production Tax Credit",
+    "source": "Hawaii Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "hawaii_filming"],
+    "funding_range": "20-25% of expenses",
+    "obscurity_score": 4,
+    "url": "https://filmoffice.hawaii.gov/tax-credit"
+  },
+  {
+    "id": 1123,
+    "name": "Hawaii Small Business Innovation Research Matching",
+    "source": "HTDC Hawaii",
+    "type": "grant",
+    "eligibility": ["tech_startup", "federal_sbir", "hawaii_based"],
+    "funding_range": "$50,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://htdc.org/sbir-sttr"
+  },
+  {
+    "id": 1124,
+    "name": "Hawaii Clean Energy Initiative Grant",
+    "source": "Hawaii State Energy Office",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "hawaii_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.hawaii.gov/clean-energy-grants"
+  },
+  {
+    "id": 1125,
+    "name": "Hawaii Agriculture Loan Program",
+    "source": "Hawaii Department of Agriculture",
+    "type": "loan",
+    "eligibility": ["agriculture", "farming", "hawaii_based"],
+    "funding_range": "$10,000 - $1,500,000",
+    "obscurity_score": 5,
+    "url": "https://hdoa.hawaii.gov/al"
+  },
+  {
+    "id": 1126,
+    "name": "Hawaii Manufacturing Assistance Program",
+    "source": "Hawaii Manufacturing Extension Partnership",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "hawaii_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://himep.org/grants"
+  },
+  {
+    "id": 1127,
+    "name": "Hawaii Tourism Marketing Grant",
+    "source": "Hawaii Tourism Authority",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://hawaiitourismauthority.org/grants"
+  },
+  {
+    "id": 1128,
+    "name": "Hawaii Aquaculture Development Program",
+    "source": "Hawaii Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["aquaculture", "seafood", "hawaii_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://hdoa.hawaii.gov/aquaculture"
+  },
+  {
+    "id": 1129,
+    "name": "Hawaii Native Hawaiian Business Development",
+    "source": "Office of Hawaiian Affairs",
+    "type": "grant",
+    "eligibility": ["native_hawaiian", "small_business", "hawaii_based"],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://oha.org/business-grants"
+  },
+  {
+    "id": 1130,
+    "name": "Hawaii Renewable Energy Technologies Income Tax Credit",
+    "source": "Hawaii Department of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "solar", "hawaii_based"],
+    "funding_range": "35% of investment",
+    "obscurity_score": 5,
+    "url": "https://tax.hawaii.gov/renewable-energy-credit"
+  },
+  {
+    "id": 1131,
+    "name": "Hawaii Ocean Resources Innovation Center Grant",
+    "source": "Hawaii Ocean Science & Technology Park",
+    "type": "grant",
+    "eligibility": ["ocean_tech", "marine_research", "hawaii_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://host-park.org/grants"
+  },
+  {
+    "id": 1132,
+    "name": "Hawaii Coffee Quality Research Grant",
+    "source": "Hawaii Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["coffee_production", "agriculture", "hawaii_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://hdoa.hawaii.gov/coffee-program"
+  },
+  {
+    "id": 1133,
+    "name": "Hawaii Angel Investor Tax Credit",
+    "source": "Hawaii Department of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "hawaii_based"],
+    "funding_range": "100% of investment",
+    "obscurity_score": 6,
+    "url": "https://tax.hawaii.gov/angel-investor"
+  },
+  {
+    "id": 1134,
+    "name": "Hawaii Workforce Development Grant",
+    "source": "Hawaii Workforce Development Council",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "hawaii_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://labor.hawaii.gov/wdc/grants"
+  },
+  {
+    "id": 1135,
+    "name": "Hawaii Digital Media Production Tax Credit",
+    "source": "Hawaii Film Office",
+    "type": "tax_credit",
+    "eligibility": ["digital_media", "animation", "hawaii_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 7,
+    "url": "https://filmoffice.hawaii.gov/digital-media"
+  },
+  {
+    "id": 1136,
+    "name": "Hawaii Commercial Fishing Vessel Upgrade",
+    "source": "Hawaii Department of Land and Natural Resources",
+    "type": "grant",
+    "eligibility": ["fishing", "maritime", "hawaii_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://dlnr.hawaii.gov/dar/fishing-grants"
+  },
+  {
+    "id": 1137,
+    "name": "Hawaii Geothermal Energy Credit",
+    "source": "Hawaii Department of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["geothermal", "renewable_energy", "hawaii_based"],
+    "funding_range": "20% of investment",
+    "obscurity_score": 9,
+    "url": "https://tax.hawaii.gov/geothermal-credit"
+  },
+  {
+    "id": 1138,
+    "name": "Hawaii Space Exploration Tech Grant",
+    "source": "Hawaii Space Flight Laboratory",
+    "type": "grant",
+    "eligibility": ["aerospace", "tech_startup", "hawaii_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://hsfl.hawaii.edu/grants"
+  },
+  {
+    "id": 1139,
+    "name": "Hawaii Veteran Business Loan",
+    "source": "Hawaii Department of Defense",
+    "type": "loan",
+    "eligibility": ["veteran_owned", "small_business", "hawaii_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://dod.hawaii.gov/veteran-business"
+  },
+  {
+    "id": 1140,
+    "name": "Hawaii Cultural Heritage Tourism Grant",
+    "source": "Hawaii Tourism Authority",
+    "type": "grant",
+    "eligibility": ["cultural_heritage", "tourism", "hawaii_based"],
+    "funding_range": "$15,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://hawaiitourismauthority.org/cultural-grants"
+  },
+  {
+    "id": 1141,
+    "name": "Idaho Gem Grant",
+    "source": "Idaho Department of Commerce",
+    "type": "grant",
+    "eligibility": ["small_business", "rural", "idaho_based"],
+    "funding_range": "$1,000 - $20,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.idaho.gov/gem-grant"
+  },
+  {
+    "id": 1142,
+    "name": "Idaho Global Entrepreneurial Mission",
+    "source": "Idaho IGEM",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "idaho_based"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://igem.idaho.gov/grants"
+  },
+  {
+    "id": 1143,
+    "name": "Idaho Film & Media Rebate",
+    "source": "Idaho Film Office",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "idaho_filming"],
+    "funding_range": "20% rebate",
+    "obscurity_score": 5,
+    "url": "https://filmidaho.gov/rebate"
+  },
+  {
+    "id": 1144,
+    "name": "Idaho Opportunity Fund",
+    "source": "Idaho Department of Commerce",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "idaho_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 5,
+    "url": "https://commerce.idaho.gov/opportunity-fund"
+  },
+  {
+    "id": 1145,
+    "name": "Idaho Agriculture Innovation Grant",
+    "source": "Idaho State Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "idaho_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://agri.idaho.gov/innovation"
+  },
+  {
+    "id": 1146,
+    "name": "Idaho Small Business Development Center Grant",
+    "source": "Idaho SBDC",
+    "type": "grant",
+    "eligibility": ["small_business", "consulting", "idaho_based"],
+    "funding_range": "$2,500 - $25,000",
+    "obscurity_score": 6,
+    "url": "https://idahosbdc.org/grants"
+  },
+  {
+    "id": 1147,
+    "name": "Idaho Renewable Energy Equipment Tax Deduction",
+    "source": "Idaho State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "equipment", "idaho_based"],
+    "funding_range": "40% deduction",
+    "obscurity_score": 7,
+    "url": "https://tax.idaho.gov/renewable-energy"
+  },
+  {
+    "id": 1148,
+    "name": "Idaho Tourism Capital Investment Grant",
+    "source": "Idaho Division of Tourism Development",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "capital_investment"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://visitidaho.org/capital-grants"
+  },
+  {
+    "id": 1149,
+    "name": "Idaho Forest Products Industry Support",
+    "source": "Idaho Department of Lands",
+    "type": "grant",
+    "eligibility": ["forestry", "wood_products", "idaho_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://idl.idaho.gov/forestry-grants"
+  },
+  {
+    "id": 1150,
+    "name": "Idaho Workforce Development Training Fund",
+    "source": "Idaho Department of Labor",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "idaho_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://labor.idaho.gov/wdtf"
+  },
+  {
+    "id": 1151,
+    "name": "Idaho Broadband Infrastructure Grant",
+    "source": "Idaho Department of Commerce",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.idaho.gov/broadband-grants"
+  },
+  {
+    "id": 1152,
+    "name": "Idaho Research & Development Tax Credit",
+    "source": "Idaho State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "idaho_based"],
+    "funding_range": "5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.idaho.gov/rd-credit"
+  },
+  {
+    "id": 1153,
+    "name": "Idaho Microenterprise Loan Program",
+    "source": "Idaho Department of Commerce",
+    "type": "loan",
+    "eligibility": ["microbusiness", "startup", "idaho_based"],
+    "funding_range": "$500 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.idaho.gov/microenterprise"
+  },
+  {
+    "id": 1154,
+    "name": "Idaho Outdoor Recreation Economic Development",
+    "source": "Idaho Department of Commerce",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "tourism", "idaho_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.idaho.gov/outdoor-recreation"
+  },
+  {
+    "id": 1155,
+    "name": "Idaho Dairy Innovation Grant",
+    "source": "Idaho State Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["dairy", "agriculture", "idaho_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://agri.idaho.gov/dairy-innovation"
+  },
+  {
+    "id": 1156,
+    "name": "Idaho Historic Preservation Tax Credit",
+    "source": "Idaho State Historical Society",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "idaho_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 7,
+    "url": "https://history.idaho.gov/tax-credits"
+  },
+  {
+    "id": 1157,
+    "name": "Idaho Angel Investment Tax Credit",
+    "source": "Idaho State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "idaho_based"],
+    "funding_range": "30% of investment",
+    "obscurity_score": 7,
+    "url": "https://tax.idaho.gov/angel-investor"
+  },
+  {
+    "id": 1158,
+    "name": "Idaho Water Quality Grant",
+    "source": "Idaho Department of Environmental Quality",
+    "type": "grant",
+    "eligibility": ["water_infrastructure", "environmental", "idaho_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://deq.idaho.gov/water-quality-grants"
+  },
+  {
+    "id": 1159,
+    "name": "Idaho Veteran Business Development",
+    "source": "Idaho Division of Veterans Services",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "idaho_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.idaho.gov/business"
+  },
+  {
+    "id": 1160,
+    "name": "Idaho Geothermal Resource Development",
+    "source": "Idaho Department of Water Resources",
+    "type": "grant",
+    "eligibility": ["geothermal", "renewable_energy", "idaho_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://idwr.idaho.gov/geothermal"
+  },
+  {
+    "id": 1161,
+    "name": "Illinois Small Business Development Loan",
+    "source": "Illinois Department of Commerce and Economic Opportunity",
+    "type": "loan",
+    "eligibility": ["small_business", "illinois_based", "expansion"],
+    "funding_range": "$50,000 - $750,000",
+    "obscurity_score": 5,
+    "url": "https://dceo.illinois.gov/smallbizfinancing/small-business-development-loan"
+  },
+  {
+    "id": 1162,
+    "name": "Illinois Film Production Tax Credit",
+    "source": "Illinois Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "illinois_filming"],
+    "funding_range": "30% of expenses",
+    "obscurity_score": 4,
+    "url": "https://film.illinois.gov/tax-credit"
+  },
+  {
+    "id": 1163,
+    "name": "Illinois Angel Investment Tax Credit",
+    "source": "Illinois Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "illinois_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 6,
+    "url": "https://revenue.state.il.us/angel-investment"
+  },
+  {
+    "id": 1164,
+    "name": "Illinois Clean Energy Jobs Act Grants",
+    "source": "Illinois Department of Commerce",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "illinois_based"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://dceo.illinois.gov/expandrelocate/incentives/cleanenergy"
+  },
+  {
+    "id": 1165,
+    "name": "Illinois Venture Capital Investment Program",
+    "source": "Illinois Finance Authority",
+    "type": "equity",
+    "eligibility": ["tech_startup", "high_growth", "illinois_based"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://il-fa.com/venture-capital"
+  },
+  {
+    "id": 1166,
+    "name": "Illinois Agricultural Loan",
+    "source": "Illinois Department of Agriculture",
+    "type": "loan",
+    "eligibility": ["agriculture", "farming", "illinois_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 5,
+    "url": "https://agr.illinois.gov/loans"
+  },
+  {
+    "id": 1167,
+    "name": "Illinois Manufacturing Modernization Grant",
+    "source": "Illinois Manufacturing Excellence Center",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "illinois_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://imec.org/grants"
+  },
+  {
+    "id": 1168,
+    "name": "Illinois Brownfield Redevelopment Program",
+    "source": "Illinois EPA",
+    "type": "grant",
+    "eligibility": ["brownfield", "environmental_cleanup", "illinois_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://epa.illinois.gov/brownfields"
+  },
+  {
+    "id": 1169,
+    "name": "Illinois EDGE Tax Credit",
+    "source": "Illinois Department of Commerce",
+    "type": "tax_credit",
+    "eligibility": ["business_expansion", "job_creation", "illinois_based"],
+    "funding_range": "10 year tax credit",
+    "obscurity_score": 5,
+    "url": "https://dceo.illinois.gov/expandrelocate/incentives/edge"
+  },
+  {
+    "id": 1170,
+    "name": "Illinois Tourism Development Grant",
+    "source": "Illinois Office of Tourism",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://enjoyillinois.com/grants"
+  },
+  {
+    "id": 1171,
+    "name": "Illinois Small Business Emergency Loan Fund",
+    "source": "Illinois Department of Commerce",
+    "type": "loan",
+    "eligibility": ["small_business", "disaster_recovery", "illinois_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://dceo.illinois.gov/smallbizassistance/emergencyloan"
+  },
+  {
+    "id": 1172,
+    "name": "Illinois Minority Business Development Grant",
+    "source": "Illinois Department of Commerce",
+    "type": "grant",
+    "eligibility": ["minority_owned", "small_business", "illinois_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 5,
+    "url": "https://dceo.illinois.gov/minoritybusiness"
+  },
+  {
+    "id": 1173,
+    "name": "Illinois Historic Preservation Tax Credit",
+    "source": "Illinois Historic Preservation Agency",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "illinois_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://illinoishistory.gov/tax-credits"
+  },
+  {
+    "id": 1174,
+    "name": "Illinois Workforce Training Grant",
+    "source": "Illinois Department of Commerce",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "illinois_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 5,
+    "url": "https://dceo.illinois.gov/workforcedevelopment/programs/worknetgrants"
+  },
+  {
+    "id": 1175,
+    "name": "Illinois Tech Innovation Fund",
+    "source": "Illinois Innovation Network",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "illinois_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://innovateillinois.illinois.edu/grants"
+  },
+  {
+    "id": 1176,
+    "name": "Illinois Coal to Solar & Energy Storage Initiative",
+    "source": "Illinois Department of Commerce",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "energy_storage", "illinois_based"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://dceo.illinois.gov/expandrelocate/incentives/coal-to-solar"
+  },
+  {
+    "id": 1177,
+    "name": "Illinois Broadband Deployment Grant",
+    "source": "Illinois Commerce Commission",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://icc.illinois.gov/broadband-grants"
+  },
+  {
+    "id": 1178,
+    "name": "Illinois Research & Development Tax Credit",
+    "source": "Illinois Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "illinois_based"],
+    "funding_range": "6.5% of expenses",
+    "obscurity_score": 5,
+    "url": "https://revenue.state.il.us/rd-credit"
+  },
+  {
+    "id": 1179,
+    "name": "Illinois Veterans' Business Assistance Grant",
+    "source": "Illinois Department of Veterans' Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "illinois_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.illinois.gov/business"
+  },
+  {
+    "id": 1180,
+    "name": "Illinois Craft Beer & Wine Production Tax Credit",
+    "source": "Illinois Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "winery", "illinois_based"],
+    "funding_range": "Tax reduction",
+    "obscurity_score": 6,
+    "url": "https://revenue.state.il.us/craft-beverage"
+  },
+  {
+    "id": 1181,
+    "name": "Indiana Economic Development Corporation Grant",
+    "source": "Indiana Economic Development Corporation",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "indiana_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://iedc.in.gov/grants"
+  },
+  {
+    "id": 1182,
+    "name": "Indiana Film Production Tax Credit",
+    "source": "Indiana Film Commission",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "indiana_filming"],
+    "funding_range": "30-35% of expenses",
+    "obscurity_score": 5,
+    "url": "https://film.in.gov/tax-credit"
+  },
+  {
+    "id": 1183,
+    "name": "Indiana Angel Investor Tax Credit",
+    "source": "Indiana Economic Development Corporation",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "indiana_based"],
+    "funding_range": "20% of investment",
+    "obscurity_score": 6,
+    "url": "https://iedc.in.gov/angel-investor"
+  },
+  {
+    "id": 1184,
+    "name": "Indiana Small Business Loan Program",
+    "source": "Indiana Finance Authority",
+    "type": "loan",
+    "eligibility": ["small_business", "indiana_based", "expansion"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 5,
+    "url": "https://ifa.in.gov/small-business-loans"
+  },
+  {
+    "id": 1185,
+    "name": "Indiana Agricultural Development Grant",
+    "source": "Indiana State Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "value_added", "indiana_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://isda.in.gov/grants"
+  },
+  {
+    "id": 1186,
+    "name": "Indiana Manufacturing Readiness Grant",
+    "source": "Indiana Economic Development Corporation",
+    "type": "grant",
+    "eligibility": ["manufacturing", "facility_upgrade", "indiana_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://iedc.in.gov/manufacturing-readiness"
+  },
+  {
+    "id": 1187,
+    "name": "Indiana Venture Capital Investment Tax Credit",
+    "source": "Indiana Economic Development Corporation",
+    "type": "tax_credit",
+    "eligibility": ["venture_capital", "investment", "indiana_based"],
+    "funding_range": "20% of investment",
+    "obscurity_score": 7,
+    "url": "https://iedc.in.gov/vci-tax-credit"
+  },
+  {
+    "id": 1188,
+    "name": "Indiana Broadband Grant Program",
+    "source": "Indiana Office of Community and Rural Affairs",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://ocra.indiana.gov/broadband"
+  },
+  {
+    "id": 1189,
+    "name": "Indiana Tourism Development Grant",
+    "source": "Indiana Destination Development Corporation",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "indiana_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://visitindiana.com/grants"
+  },
+  {
+    "id": 1190,
+    "name": "Indiana Brownfield Remediation Grant",
+    "source": "Indiana Finance Authority",
+    "type": "grant",
+    "eligibility": ["brownfield", "environmental_cleanup", "indiana_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://ifa.in.gov/brownfields"
+  },
+  {
+    "id": 1191,
+    "name": "Indiana Historic Preservation Tax Credit",
+    "source": "Indiana Division of Historic Preservation",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "indiana_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://indianahistory.org/tax-credits"
+  },
+  {
+    "id": 1192,
+    "name": "Indiana Workforce Development Grant",
+    "source": "Indiana Department of Workforce Development",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "indiana_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://dwd.in.gov/grants"
+  },
+  {
+    "id": 1193,
+    "name": "Indiana Research & Development Tax Credit",
+    "source": "Indiana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "indiana_based"],
+    "funding_range": "10-15% of expenses",
+    "obscurity_score": 5,
+    "url": "https://in.gov/dor/tax-credits/research-development"
+  },
+  {
+    "id": 1194,
+    "name": "Indiana Motorsports Technology Grant",
+    "source": "Indiana Economic Development Corporation",
+    "type": "grant",
+    "eligibility": ["motorsports", "automotive", "indiana_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://iedc.in.gov/motorsports-grants"
+  },
+  {
+    "id": 1195,
+    "name": "Indiana Veterans Business Support",
+    "source": "Indiana Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "indiana_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://idva.in.gov/business-support"
+  },
+  {
+    "id": 1196,
+    "name": "Indiana Hoosier Business Investment Tax Credit",
+    "source": "Indiana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["capital_investment", "job_creation", "indiana_based"],
+    "funding_range": "5-30% of investment",
+    "obscurity_score": 6,
+    "url": "https://in.gov/dor/tax-credits/hoosier-business"
+  },
+  {
+    "id": 1197,
+    "name": "Indiana Life Sciences Fund",
+    "source": "Indiana Economic Development Corporation",
+    "type": "grant",
+    "eligibility": ["biotech", "life_sciences", "indiana_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://iedc.in.gov/life-sciences-fund"
+  },
+  {
+    "id": 1198,
+    "name": "Indiana Minority Business Development Grant",
+    "source": "Indiana Economic Development Corporation",
+    "type": "grant",
+    "eligibility": ["minority_owned", "small_business", "indiana_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 5,
+    "url": "https://iedc.in.gov/minority-business"
+  },
+  {
+    "id": 1199,
+    "name": "Indiana Industrial Recovery Tax Credit",
+    "source": "Indiana Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["industrial", "facility_renovation", "indiana_based"],
+    "funding_range": "15% of investment",
+    "obscurity_score": 7,
+    "url": "https://in.gov/dor/tax-credits/industrial-recovery"
+  },
+  {
+    "id": 1200,
+    "name": "Indiana Next Level Trails Grant",
+    "source": "Indiana Department of Natural Resources",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "indiana_based"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://dnr.in.gov/next-level-trails"
+  }
+]

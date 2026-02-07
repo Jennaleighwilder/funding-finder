@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2101,
+    "name": "Senior Entrepreneur Grant Program",
+    "source": "AARP Foundation",
+    "type": "grant",
+    "eligibility": [
+      "age_50_plus",
+      "entrepreneur",
+      "small_business"
+    ],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://aarp.org/senior-entrepreneur"
+  },
+  {
+    "id": 2102,
+    "name": "Encore Careers Business Development Fund",
+    "source": "Encore.org",
+    "type": "grant",
+    "eligibility": [
+      "age_50_plus",
+      "second_career",
+      "social_impact"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://encore.org/business-fund"
+  },
+  {
+    "id": 2103,
+    "name": "Senior Business Accelerator Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "age_55_plus",
+      "startup",
+      "business_growth"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/senior-accelerator"
+  },
+  {
+    "id": 2104,
+    "name": "Age-Friendly Business Innovation Grant",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "senior_focused_business",
+      "innovation",
+      "aging_services"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nia.nih.gov/age-friendly-innovation"
+  },
+  {
+    "id": 2105,
+    "name": "Retirement Transition Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "age_60_plus",
+      "retirement_entrepreneur",
+      "consulting"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/retirement-transition"
+  },
+  {
+    "id": 2106,
+    "name": "Grandparent Business Ownership Program",
+    "source": "Generations United",
+    "type": "grant",
+    "eligibility": [
+      "grandparent",
+      "family_business",
+      "intergenerational"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://gu.org/grandparent-business"
+  },
+  {
+    "id": 2107,
+    "name": "Senior Franchise Ownership Grant",
+    "source": "International Franchise Association",
+    "type": "grant",
+    "eligibility": [
+      "age_50_plus",
+      "franchise",
+      "business_ownership"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://franchise.org/senior-ownership"
+  },
+  {
+    "id": 2108,
+    "name": "Legacy Business Transition Fund",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "age_55_plus",
+      "business_succession",
+      "legacy_planning"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/legacy-transition"
+  },
+  {
+    "id": 2109,
+    "name": "Senior Technology Entrepreneur Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "age_50_plus",
+      "technology_startup",
+      "innovation"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/senior-tech-entrepreneur"
+  },
+  {
+    "id": 2110,
+    "name": "Senior Consulting Practice Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "age_55_plus",
+      "professional_services",
+      "expertise"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/senior-consulting"
+  },
+  {
+    "id": 2111,
+    "name": "Home Health Care Agency Startup",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "home_health",
+      "medicare_certified",
+      "elder_care"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://hhs.gov/home-health-startup"
+  },
+  {
+    "id": 2112,
+    "name": "Adult Day Care Center Development",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "adult_day_care",
+      "senior_services",
+      "community_based"
+    ],
+    "funding_range": "$75,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/adult-day-care"
+  },
+  {
+    "id": 2113,
+    "name": "Assisted Living Facility Startup",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "assisted_living",
+      "senior_housing",
+      "care_facility"
+    ],
+    "funding_range": "$500,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/assisted-living"
+  },
+  {
+    "id": 2114,
+    "name": "Memory Care Facility Development",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "memory_care",
+      "dementia",
+      "alzheimers"
+    ],
+    "funding_range": "$250,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nia.nih.gov/memory-care-facility"
+  },
+  {
+    "id": 2115,
+    "name": "Respite Care Service Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "respite_care",
+      "caregiver_support",
+      "temporary_relief"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/respite-care"
+  },
+  {
+    "id": 2116,
+    "name": "Hospice Care Business Development",
+    "source": "Centers for Medicare & Medicaid Services",
+    "type": "grant",
+    "eligibility": [
+      "hospice",
+      "end_of_life",
+      "palliative_care"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://cms.gov/hospice-business"
+  },
+  {
+    "id": 2117,
+    "name": "Palliative Care Services Startup",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "palliative_care",
+      "chronic_illness",
+      "comfort_care"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/palliative-startup"
+  },
+  {
+    "id": 2118,
+    "name": "Geriatric Care Management Practice",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "care_management",
+      "geriatric_care",
+      "coordination"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/geriatric-care-mgmt"
+  },
+  {
+    "id": 2119,
+    "name": "Senior Companion Services Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "companion_care",
+      "non_medical",
+      "social_support"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/companion-services"
+  },
+  {
+    "id": 2120,
+    "name": "Caregiver Training Institute",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "caregiver_training",
+      "education",
+      "certification"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/caregiver-training"
+  },
+  {
+    "id": 2121,
+    "name": "Senior Transportation Service Grant",
+    "source": "Federal Transit Administration",
+    "type": "grant",
+    "eligibility": [
+      "senior_transportation",
+      "non_emergency",
+      "mobility"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://transit.dot.gov/senior-transport"
+  },
+  {
+    "id": 2122,
+    "name": "Mobile Geriatric Healthcare Services",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "mobile_clinic",
+      "house_calls",
+      "geriatric_care"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/mobile-geriatric"
+  },
+  {
+    "id": 2123,
+    "name": "Senior Meal Delivery Service",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "meal_delivery",
+      "nutrition",
+      "homebound_seniors"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/meal-delivery"
+  },
+  {
+    "id": 2124,
+    "name": "Congregate Dining Program Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "congregate_meals",
+      "senior_center",
+      "nutrition"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/congregate-dining"
+  },
+  {
+    "id": 2125,
+    "name": "Intergenerational Day Care Center",
+    "source": "Generations United",
+    "type": "grant",
+    "eligibility": [
+      "intergenerational",
+      "childcare_eldercare",
+      "innovative_model"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://gu.org/intergenerational-daycare"
+  },
+  {
+    "id": 2126,
+    "name": "Continuing Care Retirement Community",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "loan",
+    "eligibility": [
+      "ccrc",
+      "life_care",
+      "continuum_of_care"
+    ],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/ccrc-development"
+  },
+  {
+    "id": 2127,
+    "name": "Senior Co-Housing Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "cohousing",
+      "intentional_community",
+      "collaborative_living"
+    ],
+    "funding_range": "$250,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/senior-cohousing"
+  },
+  {
+    "id": 2128,
+    "name": "Naturally Occurring Retirement Community Support",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "norc",
+      "aging_in_place",
+      "supportive_services"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://acl.gov/norc"
+  },
+  {
+    "id": 2129,
+    "name": "Village Movement Support Services",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "village_model",
+      "member_services",
+      "aging_community"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://acl.gov/village-movement"
+  },
+  {
+    "id": 2130,
+    "name": "Active Adult Community Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "age_55_plus_housing",
+      "active_adult",
+      "retirement_community"
+    ],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/active-adult"
+  },
+  {
+    "id": 2131,
+    "name": "Senior RV & Mobile Home Park",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "senior_rv_park",
+      "age_55_plus",
+      "mobile_home"
+    ],
+    "funding_range": "$500,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/senior-rv-park"
+  },
+  {
+    "id": 2132,
+    "name": "Home Modification for Aging Business",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "home_modification",
+      "accessibility",
+      "aging_in_place"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/home-modification"
+  },
+  {
+    "id": 2133,
+    "name": "Universal Design Construction",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "universal_design",
+      "accessible_construction",
+      "aging_friendly"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/universal-design"
+  },
+  {
+    "id": 2134,
+    "name": "Walk-In Bathtub Installation Business",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "walk_in_tub",
+      "bathroom_safety",
+      "accessibility"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/walk-in-tub"
+  },
+  {
+    "id": 2135,
+    "name": "Stair Lift & Mobility Equipment",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "stair_lift",
+      "mobility_equipment",
+      "home_access"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/stair-lift"
+  },
+  {
+    "id": 2136,
+    "name": "Aging-in-Place Technology Business",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "aging_tech",
+      "smart_home",
+      "assistive_technology"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nia.nih.gov/aging-in-place-tech"
+  },
+  {
+    "id": 2137,
+    "name": "Fall Prevention Technology Grant",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "fall_prevention",
+      "monitoring",
+      "safety_tech"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/fall-prevention-tech"
+  },
+  {
+    "id": 2138,
+    "name": "Medical Alert System Manufacturing",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "medical_alert",
+      "emergency_response",
+      "monitoring"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nia.nih.gov/medical-alert"
+  },
+  {
+    "id": 2139,
+    "name": "Medication Management System Business",
+    "source": "FDA Center for Drug Evaluation",
+    "type": "grant",
+    "eligibility": [
+      "medication_adherence",
+      "smart_dispenser",
+      "compliance"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/medication-management"
+  },
+  {
+    "id": 2140,
+    "name": "Remote Health Monitoring for Seniors",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "telehealth",
+      "remote_monitoring",
+      "chronic_disease"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/senior-remote-monitoring"
+  },
+  {
+    "id": 2141,
+    "name": "Voice-Activated Senior Assistant Tech",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "voice_assistant",
+      "smart_home",
+      "accessibility"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/voice-assistant"
+  },
+  {
+    "id": 2142,
+    "name": "GPS Tracking for Dementia Patients",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "gps_tracking",
+      "wandering_prevention",
+      "safety"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/gps-tracking"
+  },
+  {
+    "id": 2143,
+    "name": "Cognitive Training Technology Grant",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "brain_training",
+      "cognitive_health",
+      "dementia_prevention"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/cognitive-training"
+  },
+  {
+    "id": 2144,
+    "name": "Virtual Reality Senior Wellness",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "vr_therapy",
+      "cognitive_training",
+      "senior_tech"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://nia.nih.gov/vr-wellness"
+  },
+  {
+    "id": 2145,
+    "name": "Senior Social Connection Platform",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "social_technology",
+      "isolation_prevention",
+      "connectivity"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/social-connection"
+  },
+  {
+    "id": 2146,
+    "name": "Senior Technology Training Center",
+    "source": "Institute of Museum and Library Services",
+    "type": "grant",
+    "eligibility": [
+      "digital_literacy",
+      "technology_training",
+      "education"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://imls.gov/tech-training"
+  },
+  {
+    "id": 2147,
+    "name": "Mobility Scooter Sales & Service",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "mobility_scooter",
+      "power_wheelchair",
+      "durable_medical"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/mobility-scooter"
+  },
+  {
+    "id": 2148,
+    "name": "Assistive Device Retail Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "assistive_devices",
+      "daily_living_aids",
+      "independence"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/assistive-device"
+  },
+  {
+    "id": 2149,
+    "name": "Hearing Aid Dispensary",
+    "source": "National Institute on Deafness",
+    "type": "grant",
+    "eligibility": [
+      "hearing_aids",
+      "audiology_services",
+      "dispensary"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://nidcd.nih.gov/hearing-aid"
+  },
+  {
+    "id": 2150,
+    "name": "Vision Aid Product Business",
+    "source": "National Eye Institute",
+    "type": "grant",
+    "eligibility": [
+      "vision_aids",
+      "magnification",
+      "low_vision_products"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://nei.nih.gov/vision-aids"
+  },
+  {
+    "id": 2151,
+    "name": "Geriatric Dentistry Practice",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "geriatric_dentistry",
+      "senior_oral_health",
+      "dental"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://hrsa.gov/geriatric-dentistry"
+  },
+  {
+    "id": 2152,
+    "name": "Senior Podiatry Practice",
+    "source": "Centers for Medicare & Medicaid Services",
+    "type": "grant",
+    "eligibility": [
+      "podiatry",
+      "foot_care",
+      "senior_health"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://cms.gov/senior-podiatry"
+  },
+  {
+    "id": 2153,
+    "name": "Senior Audiology Practice",
+    "source": "National Institute on Deafness",
+    "type": "grant",
+    "eligibility": [
+      "audiology",
+      "hearing_aids",
+      "hearing_loss"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nidcd.nih.gov/audiology"
+  },
+  {
+    "id": 2154,
+    "name": "Low Vision Services for Seniors",
+    "source": "National Eye Institute",
+    "type": "grant",
+    "eligibility": [
+      "low_vision",
+      "vision_rehabilitation",
+      "macular_degeneration"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://nei.nih.gov/low-vision"
+  },
+  {
+    "id": 2155,
+    "name": "Senior Physical Therapy Practice",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "physical_therapy",
+      "mobility",
+      "rehabilitation"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/physical-therapy"
+  },
+  {
+    "id": 2156,
+    "name": "Occupational Therapy for Seniors",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "occupational_therapy",
+      "functional_independence",
+      "adl"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://acl.gov/occupational-therapy"
+  },
+  {
+    "id": 2157,
+    "name": "Speech Therapy for Seniors",
+    "source": "National Institute on Deafness",
+    "type": "grant",
+    "eligibility": [
+      "speech_therapy",
+      "swallowing",
+      "communication"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://nidcd.nih.gov/speech-therapy"
+  },
+  {
+    "id": 2158,
+    "name": "Senior Memory Care Day Program",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "memory_care",
+      "dementia_day_program",
+      "cognitive"
+    ],
+    "funding_range": "$75,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://nia.nih.gov/memory-day-program"
+  },
+  {
+    "id": 2159,
+    "name": "Alzheimer's Care Consulting",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "alzheimers_consulting",
+      "dementia_care",
+      "family_support"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/alzheimers-consulting"
+  },
+  {
+    "id": 2160,
+    "name": "Brain Health Training Center",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "brain_training",
+      "cognitive_fitness",
+      "memory"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://nia.nih.gov/brain-health"
+  },
+  {
+    "id": 2161,
+    "name": "Geriatric Mental Health Practice",
+    "source": "Substance Abuse and Mental Health Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "geriatric_psychiatry",
+      "elderly_mental_health",
+      "therapy"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://samhsa.gov/geriatric-mental-health"
+  },
+  {
+    "id": 2162,
+    "name": "Senior Pain Management Clinic",
+    "source": "National Institute of Neurological Disorders",
+    "type": "grant",
+    "eligibility": [
+      "pain_management",
+      "chronic_pain",
+      "geriatric"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://ninds.nih.gov/senior-pain"
+  },
+  {
+    "id": 2163,
+    "name": "Senior Sleep Clinic Development",
+    "source": "National Heart, Lung, and Blood Institute",
+    "type": "grant",
+    "eligibility": [
+      "sleep_medicine",
+      "sleep_disorders",
+      "elderly"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nhlbi.nih.gov/senior-sleep"
+  },
+  {
+    "id": 2164,
+    "name": "Senior Diabetes Management Program",
+    "source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "type": "grant",
+    "eligibility": [
+      "diabetes_management",
+      "geriatric_diabetes",
+      "education"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://niddk.nih.gov/senior-diabetes"
+  },
+  {
+    "id": 2165,
+    "name": "Senior Cardiac Rehabilitation Center",
+    "source": "National Heart, Lung, and Blood Institute",
+    "type": "grant",
+    "eligibility": [
+      "cardiac_rehab",
+      "heart_disease",
+      "prevention"
+    ],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://nhlbi.nih.gov/cardiac-rehab"
+  },
+  {
+    "id": 2166,
+    "name": "Senior Fitness Center Development",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "senior_fitness",
+      "wellness",
+      "active_aging"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://acl.gov/fitness-center"
+  },
+  {
+    "id": 2167,
+    "name": "SilverSneakers Program Franchise",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "senior_fitness",
+      "medicare_program",
+      "wellness"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/silversneakers"
+  },
+  {
+    "id": 2168,
+    "name": "Senior Yoga & Tai Chi Studio",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "yoga",
+      "tai_chi",
+      "balance_training"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/senior-yoga"
+  },
+  {
+    "id": 2169,
+    "name": "Aquatic Therapy for Seniors",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "aquatic_therapy",
+      "water_exercise",
+      "arthritis"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/aquatic-therapy"
+  },
+  {
+    "id": 2170,
+    "name": "Senior Music Therapy Practice",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "music_therapy",
+      "dementia_care",
+      "therapeutic_arts"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/music-therapy"
+  },
+  {
+    "id": 2171,
+    "name": "Art Therapy for Seniors",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "art_therapy",
+      "creative_aging",
+      "wellness"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/art-therapy"
+  },
+  {
+    "id": 2172,
+    "name": "Senior Massage Therapy Practice",
+    "source": "National Center for Complementary Health",
+    "type": "grant",
+    "eligibility": [
+      "massage_therapy",
+      "pain_management",
+      "senior_wellness"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://nccih.nih.gov/senior-massage"
+  },
+  {
+    "id": 2173,
+    "name": "Senior Acupuncture Practice",
+    "source": "National Center for Complementary Health",
+    "type": "grant",
+    "eligibility": [
+      "acupuncture",
+      "pain_relief",
+      "senior_health"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://nccih.nih.gov/senior-acupuncture"
+  },
+  {
+    "id": 2174,
+    "name": "Senior Pet Therapy Program",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "pet_therapy",
+      "animal_assisted",
+      "wellness"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/pet-therapy"
+  },
+  {
+    "id": 2175,
+    "name": "Senior Pet Care Services",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "senior_pet_care",
+      "veterinary_home_visits",
+      "pet_support"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/senior-pet-care"
+  },
+  {
+    "id": 2176,
+    "name": "Senior Recreational Therapy Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "recreational_therapy",
+      "activities",
+      "quality_of_life"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/recreational-therapy"
+  },
+  {
+    "id": 2177,
+    "name": "Senior Grief Counseling Practice",
+    "source": "Substance Abuse and Mental Health Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "grief_counseling",
+      "bereavement",
+      "loss"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://samhsa.gov/grief-counseling"
+  },
+  {
+    "id": 2178,
+    "name": "Life Review Therapy Practice",
+    "source": "National Institute on Aging",
+    "type": "grant",
+    "eligibility": [
+      "life_review",
+      "reminiscence_therapy",
+      "counseling"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://nia.nih.gov/life-review"
+  },
+  {
+    "id": 2179,
+    "name": "Senior Spirituality & Chaplaincy",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": [
+      "chaplaincy",
+      "spiritual_care",
+      "pastoral"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/chaplaincy"
+  },
+  {
+    "id": 2180,
+    "name": "Senior Horticultural Therapy Center",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": [
+      "horticultural_therapy",
+      "gardening",
+      "wellness"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://usda.gov/hort-therapy"
+  },
+  {
+    "id": 2181,
+    "name": "Senior Travel Services Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "senior_travel",
+      "accessible_tourism",
+      "group_travel"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/senior-travel"
+  },
+  {
+    "id": 2182,
+    "name": "Senior Lifelong Learning Institute",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "lifelong_learning",
+      "senior_education",
+      "enrichment"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/senior-learning"
+  },
+  {
+    "id": 2183,
+    "name": "Elderhostel Program Development",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "travel_learning",
+      "educational_tourism",
+      "senior_programs"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/elderhostel"
+  },
+  {
+    "id": 2184,
+    "name": "Senior Theater Company",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "senior_theater",
+      "performing_arts",
+      "creative_aging"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/senior-theater"
+  },
+  {
+    "id": 2185,
+    "name": "Senior Choir & Music Ensemble",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "senior_choir",
+      "music_ensemble",
+      "performing_arts"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/senior-choir"
+  },
+  {
+    "id": 2186,
+    "name": "Senior Writing Workshop Business",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "creative_writing",
+      "memoir",
+      "storytelling"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/senior-writing"
+  },
+  {
+    "id": 2187,
+    "name": "Legacy & Life Story Services",
+    "source": "National Endowment for the Humanities",
+    "type": "grant",
+    "eligibility": [
+      "legacy_preservation",
+      "oral_history",
+      "biography"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://neh.gov/legacy-services"
+  },
+  {
+    "id": 2188,
+    "name": "Senior Genealogy Research Service",
+    "source": "National Archives",
+    "type": "grant",
+    "eligibility": [
+      "genealogy",
+      "family_history",
+      "research"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://archives.gov/genealogy"
+  },
+  {
+    "id": 2189,
+    "name": "Video Biography Service",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "video_biography",
+      "oral_history",
+      "legacy"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/video-biography"
+  },
+  {
+    "id": 2190,
+    "name": "Grandparent Childcare Business",
+    "source": "Administration for Children and Families",
+    "type": "grant",
+    "eligibility": [
+      "grandparent_care",
+      "kinship_care",
+      "family_childcare"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://acf.hhs.gov/grandparent-childcare"
+  },
+  {
+    "id": 2191,
+    "name": "Elder Law Practice Startup",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "elder_law",
+      "estate_planning",
+      "guardianship"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://justice.gov/elder-law"
+  },
+  {
+    "id": 2192,
+    "name": "Senior Financial Planning Practice",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "retirement_planning",
+      "financial_advisor",
+      "senior_focused"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://treasury.gov/senior-financial"
+  },
+  {
+    "id": 2193,
+    "name": "Reverse Mortgage Counseling Business",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "reverse_mortgage",
+      "hecm",
+      "housing_counseling"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/reverse-mortgage"
+  },
+  {
+    "id": 2194,
+    "name": "Senior Relocation Services Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "senior_moving",
+      "downsizing",
+      "relocation"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/senior-relocation"
+  },
+  {
+    "id": 2195,
+    "name": "Estate Sale & Downsizing Service",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "estate_sale",
+      "downsizing",
+      "liquidation"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/estate-sale"
+  },
+  {
+    "id": 2196,
+    "name": "Senior Advocacy Services Business",
+    "source": "Administration for Community Living",
+    "type": "grant",
+    "eligibility": [
+      "patient_advocacy",
+      "elder_rights",
+      "ombudsman"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://acl.gov/advocacy-services"
+  },
+  {
+    "id": 2197,
+    "name": "Elder Abuse Prevention Program",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "elder_abuse",
+      "protective_services",
+      "prevention"
+    ],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://justice.gov/elder-abuse"
+  },
+  {
+    "id": 2198,
+    "name": "Senior Concierge Service Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "concierge",
+      "personal_assistant",
+      "lifestyle_management"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/senior-concierge"
+  },
+  {
+    "id": 2199,
+    "name": "Senior Dating & Social Club",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "dating_service",
+      "social_club",
+      "senior_activities"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/senior-dating"
+  },
+  {
+    "id": 2200,
+    "name": "Senior Volunteer Program Coordination",
+    "source": "Corporation for National and Community Service",
+    "type": "grant",
+    "eligibility": [
+      "volunteer_coordination",
+      "senior_corps",
+      "rsvp"
+    ],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://nationalservice.gov/volunteer"
+  }
+]

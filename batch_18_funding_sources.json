@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1701,
+    "name": "Sustainable Fashion Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["sustainable_fashion", "textile_recycling", "circular_fashion"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/sustainable-fashion"
+  },
+  {
+    "id": 1702,
+    "name": "Textile Onshoring Manufacturing Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["textile_manufacturing", "reshoring", "domestic_production"],
+    "funding_range": "15% of investment",
+    "obscurity_score": 7,
+    "url": "https://irs.gov/textile-onshoring"
+  },
+  {
+    "id": 1703,
+    "name": "Bio-Based Textile Manufacturing Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["bio_based_textile", "sustainable_materials", "innovation"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/bio-textile"
+  },
+  {
+    "id": 1704,
+    "name": "Footwear Manufacturing Reshoring Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["footwear", "reshoring", "manufacturing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/footwear-reshoring"
+  },
+  {
+    "id": 1705,
+    "name": "Luxury Goods Manufacturing Tax Incentive",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["luxury_goods", "artisan", "domestic_manufacturing"],
+    "funding_range": "10% of investment",
+    "obscurity_score": 9,
+    "url": "https://irs.gov/luxury-manufacturing"
+  },
+  {
+    "id": 1706,
+    "name": "Activewear Technical Textile Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["activewear", "performance_fabrics", "technical_textile"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/activewear"
+  },
+  {
+    "id": 1707,
+    "name": "Leather Goods Manufacturing Modernization",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["leather_goods", "handbags", "manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/leather-goods"
+  },
+  {
+    "id": 1708,
+    "name": "Denim Manufacturing Technology Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["denim", "jeans", "textile_innovation"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/denim-manufacturing"
+  },
+  {
+    "id": 1709,
+    "name": "Cosmetics Manufacturing Modernization Grant",
+    "source": "FDA Center for Food Safety and Applied Nutrition",
+    "type": "grant",
+    "eligibility": ["cosmetics", "clean_beauty", "manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/cosmetics-manufacturing"
+  },
+  {
+    "id": 1710,
+    "name": "Natural & Organic Personal Care Manufacturing",
+    "source": "USDA BioPreferred Program",
+    "type": "grant",
+    "eligibility": ["natural_beauty", "organic_skincare", "bio_based"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/biopreferred-beauty"
+  },
+  {
+    "id": 1711,
+    "name": "Fragrance & Perfume Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["fragrance", "perfume", "essential_oils"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/fragrance-manufacturing"
+  },
+  {
+    "id": 1712,
+    "name": "Hair Care Product Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["hair_care", "beauty_products", "manufacturing"],
+    "funding_range": "$250,000 - $7,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/hair-care"
+  },
+  {
+    "id": 1713,
+    "name": "Vegan Beauty Product Manufacturing",
+    "source": "USDA BioPreferred Program",
+    "type": "grant",
+    "eligibility": ["vegan_beauty", "cruelty_free", "plant_based"],
+    "funding_range": "$100,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/vegan-beauty"
+  },
+  {
+    "id": 1714,
+    "name": "Nail Care Product Manufacturing Facility",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["nail_care", "nail_polish", "manufacturing"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/nail-care"
+  },
+  {
+    "id": 1715,
+    "name": "Men's Grooming Product Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["mens_grooming", "beard_care", "personal_care"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/mens-grooming"
+  },
+  {
+    "id": 1716,
+    "name": "5G Infrastructure Manufacturing Grant",
+    "source": "National Telecommunications and Information Administration",
+    "type": "grant",
+    "eligibility": ["5g_equipment", "telecom_manufacturing", "infrastructure"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://ntia.gov/5g-manufacturing"
+  },
+  {
+    "id": 1717,
+    "name": "Trusted Telecom Equipment Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["telecom_equipment", "secure_supply_chain", "domestic"],
+    "funding_range": "$10,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/trusted-telecom"
+  },
+  {
+    "id": 1718,
+    "name": "Open RAN Equipment Manufacturing Grant",
+    "source": "National Telecommunications and Information Administration",
+    "type": "grant",
+    "eligibility": ["open_ran", "5g", "telecom_innovation"],
+    "funding_range": "$5,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://ntia.gov/open-ran"
+  },
+  {
+    "id": 1719,
+    "name": "Fiber Optic Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": ["fiber_optic", "broadband_equipment", "manufacturing"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/fiber-optic"
+  },
+  {
+    "id": 1720,
+    "name": "Small Cell Equipment Manufacturing",
+    "source": "National Telecommunications and Information Administration",
+    "type": "grant",
+    "eligibility": ["small_cell", "5g_infrastructure", "manufacturing"],
+    "funding_range": "$2,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://ntia.gov/small-cell"
+  },
+  {
+    "id": 1721,
+    "name": "Network Equipment Security Manufacturing",
+    "source": "Cybersecurity and Infrastructure Security Agency",
+    "type": "grant",
+    "eligibility": ["network_security", "secure_telecom", "manufacturing"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://cisa.gov/network-equipment"
+  },
+  {
+    "id": 1722,
+    "name": "Satellite Communications Equipment Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["satcom", "ground_station_equipment", "manufacturing"],
+    "funding_range": "$3,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/satcom-manufacturing"
+  },
+  {
+    "id": 1723,
+    "name": "Wireless Infrastructure Component Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["wireless_infrastructure", "antenna", "base_station"],
+    "funding_range": "$2,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/wireless-infrastructure"
+  },
+  {
+    "id": 1724,
+    "name": "Cybersecurity Hardware Manufacturing Grant",
+    "source": "Cybersecurity and Infrastructure Security Agency",
+    "type": "grant",
+    "eligibility": ["cybersecurity_hardware", "encryption", "secure_chip"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://cisa.gov/hardware-security"
+  },
+  {
+    "id": 1725,
+    "name": "Secure Chip Manufacturing Grant",
+    "source": "National Security Agency",
+    "type": "grant",
+    "eligibility": ["secure_chip", "trusted_foundry", "cryptographic_hardware"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsa.gov/secure-chip"
+  },
+  {
+    "id": 1726,
+    "name": "Hardware Security Module Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["hsm", "cryptographic_hardware", "key_management"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/hsm-manufacturing"
+  },
+  {
+    "id": 1727,
+    "name": "Firewall & Network Security Appliance Manufacturing",
+    "source": "Cybersecurity and Infrastructure Security Agency",
+    "type": "grant",
+    "eligibility": ["firewall", "network_security", "appliance"],
+    "funding_range": "$3,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://cisa.gov/security-appliance"
+  },
+  {
+    "id": 1728,
+    "name": "Biometric Security Device Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["biometric", "authentication", "security_device"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/biometric-manufacturing"
+  },
+  {
+    "id": 1729,
+    "name": "Physical Access Control Manufacturing",
+    "source": "U.S. Department of Homeland Security",
+    "type": "grant",
+    "eligibility": ["access_control", "physical_security", "manufacturing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/access-control"
+  },
+  {
+    "id": 1730,
+    "name": "Secure Communication Device Manufacturing",
+    "source": "National Security Agency",
+    "type": "grant",
+    "eligibility": ["secure_phone", "encrypted_communication", "manufacturing"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsa.gov/secure-communications"
+  },
+  {
+    "id": 1731,
+    "name": "Quantum Key Distribution Equipment Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["qkd", "quantum_cryptography", "manufacturing"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/qkd-manufacturing"
+  },
+  {
+    "id": 1732,
+    "name": "Quantum Computing Hardware Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["quantum_computer", "qubit", "quantum_hardware"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/quantum-manufacturing"
+  },
+  {
+    "id": 1733,
+    "name": "Superconducting Qubit Manufacturing Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["superconducting_qubit", "quantum_computing", "fabrication"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/superconducting-qubit"
+  },
+  {
+    "id": 1734,
+    "name": "Quantum Sensor Manufacturing Grant",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": ["quantum_sensor", "precision_measurement", "manufacturing"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://darpa.mil/quantum-sensor"
+  },
+  {
+    "id": 1735,
+    "name": "Trapped Ion Quantum Computer Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["trapped_ion", "quantum_computing", "manufacturing"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/trapped-ion"
+  },
+  {
+    "id": 1736,
+    "name": "Quantum Networking Equipment Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["quantum_network", "quantum_repeater", "manufacturing"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 9,
+    "url": "https://nist.gov/quantum-network"
+  },
+  {
+    "id": 1737,
+    "name": "Cryogenic Equipment for Quantum Computing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["dilution_refrigerator", "cryogenic", "quantum_computing"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/cryogenic-quantum"
+  },
+  {
+    "id": 1738,
+    "name": "Photonic Quantum Computer Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["photonic_quantum", "optical_computing", "manufacturing"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/photonic-quantum"
+  },
+  {
+    "id": 1739,
+    "name": "Semiconductor Fabrication Facility Grant (CHIPS Act)",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": ["semiconductor_fab", "chip_manufacturing", "leading_edge"],
+    "funding_range": "$100,000,000 - $3,000,000,000",
+    "obscurity_score": 4,
+    "url": "https://commerce.gov/chips-fabrication"
+  },
+  {
+    "id": 1740,
+    "name": "Legacy Chip Manufacturing Grant (CHIPS Act)",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": ["mature_node", "legacy_chip", "automotive_chip"],
+    "funding_range": "$50,000,000 - $500,000,000",
+    "obscurity_score": 5,
+    "url": "https://commerce.gov/chips-legacy"
+  },
+  {
+    "id": 1741,
+    "name": "Compound Semiconductor Manufacturing Grant",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["compound_semiconductor", "gan", "sic"],
+    "funding_range": "$10,000,000 - $300,000,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/compound-semiconductor"
+  },
+  {
+    "id": 1742,
+    "name": "Semiconductor Packaging & Assembly Grant",
+    "source": "U.S. Department of Commerce (CHIPS Act)",
+    "type": "grant",
+    "eligibility": ["advanced_packaging", "heterogeneous_integration", "assembly"],
+    "funding_range": "$20,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/chips-packaging"
+  },
+  {
+    "id": 1743,
+    "name": "Semiconductor Manufacturing Equipment Tax Credit",
+    "source": "Internal Revenue Service (CHIPS Act)",
+    "type": "tax_credit",
+    "eligibility": ["semiconductor_equipment", "fab_equipment", "manufacturing"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 5,
+    "url": "https://irs.gov/chips-tax-credit"
+  },
+  {
+    "id": 1744,
+    "name": "Semiconductor Materials Manufacturing Grant",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": ["semiconductor_materials", "silicon_wafer", "photoresist"],
+    "funding_range": "$10,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/semiconductor-materials"
+  },
+  {
+    "id": 1745,
+    "name": "Extreme Ultraviolet Lithography Equipment",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["euv", "lithography_equipment", "advanced_node"],
+    "funding_range": "$50,000,000 - $500,000,000",
+    "obscurity_score": 9,
+    "url": "https://defense.gov/euv-equipment"
+  },
+  {
+    "id": 1746,
+    "name": "Semiconductor Testing Equipment Manufacturing",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": ["test_equipment", "metrology", "semiconductor"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/test-equipment"
+  },
+  {
+    "id": 1747,
+    "name": "Cleanroom Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["cleanroom_equipment", "fab_infrastructure", "hvac"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/cleanroom-equipment"
+  },
+  {
+    "id": 1748,
+    "name": "Medical Device Manufacturing Tax Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["medical_device", "fda_approved", "manufacturing"],
+    "funding_range": "15% of investment",
+    "obscurity_score": 6,
+    "url": "https://irs.gov/medical-device-credit"
+  },
+  {
+    "id": 1749,
+    "name": "Diagnostic Device Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["diagnostic_device", "in_vitro_diagnostic", "manufacturing"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/diagnostic-manufacturing"
+  },
+  {
+    "id": 1750,
+    "name": "Surgical Instrument Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["surgical_instrument", "medical_device", "precision_manufacturing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/surgical-instruments"
+  },
+  {
+    "id": 1751,
+    "name": "Implantable Device Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["implantable", "pacemaker", "orthopedic_implant"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/implantable-manufacturing"
+  },
+  {
+    "id": 1752,
+    "name": "Wearable Medical Device Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["wearable", "continuous_monitoring", "medical_device"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 6,
+    "url": "https://nih.gov/wearable-medical"
+  },
+  {
+    "id": 1753,
+    "name": "Robotic Surgery System Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["robotic_surgery", "surgical_robot", "manufacturing"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/surgical-robotics"
+  },
+  {
+    "id": 1754,
+    "name": "Medical Imaging Equipment Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["medical_imaging", "mri", "ct_scanner"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://fda.gov/imaging-manufacturing"
+  },
+  {
+    "id": 1755,
+    "name": "Ventilator & Respiratory Device Manufacturing",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["ventilator", "respiratory_device", "critical_care"],
+    "funding_range": "$2,000,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://hhs.gov/ventilator-manufacturing"
+  },
+  {
+    "id": 1756,
+    "name": "Prosthetic & Orthotic Device Manufacturing",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["prosthetic", "orthotic", "assistive_device"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/prosthetic-manufacturing"
+  },
+  {
+    "id": 1757,
+    "name": "Point-of-Care Testing Device Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["point_of_care", "rapid_diagnostic", "portable"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/poc-testing"
+  },
+  {
+    "id": 1758,
+    "name": "Wheelchair & Mobility Device Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["wheelchair", "mobility_device", "dme"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/mobility-device"
+  },
+  {
+    "id": 1759,
+    "name": "Hearing Aid Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["hearing_aid", "assistive_listening", "otc_hearing_aid"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/hearing-aid"
+  },
+  {
+    "id": 1760,
+    "name": "Insulin Pump & Diabetes Device Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["insulin_pump", "cgm", "diabetes_device"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://nih.gov/diabetes-device"
+  },
+  {
+    "id": 1761,
+    "name": "Wound Care Device Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["wound_care", "negative_pressure", "advanced_dressing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/wound-care"
+  },
+  {
+    "id": 1762,
+    "name": "Neurostimulation Device Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["neurostimulation", "brain_stimulation", "spinal_cord_stimulator"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/neurostimulation"
+  },
+  {
+    "id": 1763,
+    "name": "Cardiac Monitoring Device Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["ecg_monitor", "holter_monitor", "cardiac_device"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/cardiac-monitoring"
+  },
+  {
+    "id": 1764,
+    "name": "Ophthalmic Device Manufacturing Grant",
+    "source": "National Eye Institute",
+    "type": "grant",
+    "eligibility": ["ophthalmic_device", "vision_correction", "eye_care"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nei.nih.gov/ophthalmic-manufacturing"
+  },
+  {
+    "id": 1765,
+    "name": "Dental Device Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["dental_device", "dental_implant", "orthodontic"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/dental-manufacturing"
+  },
+  {
+    "id": 1766,
+    "name": "Hospital Bed & Patient Handling Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["hospital_bed", "patient_lift", "medical_furniture"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/hospital-equipment"
+  },
+  {
+    "id": 1767,
+    "name": "Sterilization Equipment Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["sterilization", "autoclave", "eto_sterilizer"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/sterilization-equipment"
+  },
+  {
+    "id": 1768,
+    "name": "Infusion Pump Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["infusion_pump", "syringe_pump", "drug_delivery"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/infusion-pump"
+  },
+  {
+    "id": 1769,
+    "name": "Blood Glucose Meter Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["glucose_meter", "diabetes_monitoring", "point_of_care"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/glucose-meter"
+  },
+  {
+    "id": 1770,
+    "name": "Ultrasound Equipment Manufacturing Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["ultrasound", "portable_imaging", "diagnostic"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/ultrasound-manufacturing"
+  },
+  {
+    "id": 1771,
+    "name": "Lab-on-a-Chip Device Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["lab_on_chip", "microfluidics", "diagnostic"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/lab-on-chip"
+  },
+  {
+    "id": 1772,
+    "name": "Electrocardiograph Equipment Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["ecg_machine", "ekg", "cardiac_diagnostic"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/ecg-manufacturing"
+  },
+  {
+    "id": 1773,
+    "name": "Anesthesia Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["anesthesia_machine", "gas_delivery", "critical_care"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/anesthesia-equipment"
+  },
+  {
+    "id": 1774,
+    "name": "Electrosurgical Device Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["electrosurgical", "cautery", "surgical_device"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/electrosurgical"
+  },
+  {
+    "id": 1775,
+    "name": "Defibrillator Manufacturing Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["defibrillator", "aed", "cardiac_emergency"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/defibrillator"
+  },
+  {
+    "id": 1776,
+    "name": "Patient Monitor Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["patient_monitor", "vital_signs", "bedside_monitor"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/patient-monitor"
+  },
+  {
+    "id": 1777,
+    "name": "Endoscopy Equipment Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["endoscope", "minimally_invasive", "surgical_visualization"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/endoscopy-manufacturing"
+  },
+  {
+    "id": 1778,
+    "name": "Dialysis Equipment Manufacturing Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["dialysis", "hemodialysis", "peritoneal_dialysis"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 6,
+    "url": "https://nih.gov/dialysis-equipment"
+  },
+  {
+    "id": 1779,
+    "name": "Incubator & Neonatal Care Equipment",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["neonatal_incubator", "infant_warmer", "nicu_equipment"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://hhs.gov/neonatal-equipment"
+  },
+  {
+    "id": 1780,
+    "name": "Nebulizer & Inhalation Device Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["nebulizer", "inhaler", "respiratory_therapy"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/nebulizer"
+  },
+  {
+    "id": 1781,
+    "name": "Blood Pressure Monitor Manufacturing",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["blood_pressure_monitor", "sphygmomanometer", "home_use"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/bp-monitor"
+  },
+  {
+    "id": 1782,
+    "name": "Oxygen Concentrator Manufacturing Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["oxygen_concentrator", "oxygen_therapy", "respiratory"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/oxygen-concentrator"
+  },
+  {
+    "id": 1783,
+    "name": "CPAP & Sleep Apnea Device Manufacturing",
+    "source": "National Heart, Lung, and Blood Institute",
+    "type": "grant",
+    "eligibility": ["cpap", "sleep_apnea", "respiratory_device"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://nhlbi.nih.gov/cpap-manufacturing"
+  },
+  {
+    "id": 1784,
+    "name": "Thermometer & Temperature Monitoring",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["thermometer", "temperature_monitoring", "fever_detection"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/thermometer"
+  },
+  {
+    "id": 1785,
+    "name": "Surgical Laser System Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["surgical_laser", "medical_laser", "laser_therapy"],
+    "funding_range": "$3,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/surgical-laser"
+  },
+  {
+    "id": 1786,
+    "name": "X-Ray Equipment Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["xray", "radiography", "medical_imaging"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/xray-manufacturing"
+  },
+  {
+    "id": 1787,
+    "name": "Biopsy Device Manufacturing Grant",
+    "source": "National Cancer Institute",
+    "type": "grant",
+    "eligibility": ["biopsy_device", "tissue_sampling", "diagnostic"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://cancer.gov/biopsy-device"
+  },
+  {
+    "id": 1788,
+    "name": "Radiation Therapy Equipment Manufacturing",
+    "source": "National Cancer Institute",
+    "type": "grant",
+    "eligibility": ["radiation_therapy", "linear_accelerator", "oncology"],
+    "funding_range": "$10,000,000 - $300,000,000",
+    "obscurity_score": 7,
+    "url": "https://cancer.gov/radiation-equipment"
+  },
+  {
+    "id": 1789,
+    "name": "Medical Waste Disposal Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["medical_waste", "incinerator", "biohazard_disposal"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/medical-waste-equipment"
+  },
+  {
+    "id": 1790,
+    "name": "Pharmacy Automation Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["pharmacy_automation", "pill_dispenser", "medication_management"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/pharmacy-automation"
+  },
+  {
+    "id": 1791,
+    "name": "Laboratory Analyzer Manufacturing Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["lab_analyzer", "clinical_chemistry", "diagnostic_equipment"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/lab-analyzer"
+  },
+  {
+    "id": 1792,
+    "name": "Centrifuge & Lab Equipment Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["centrifuge", "lab_equipment", "sample_processing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/centrifuge-manufacturing"
+  },
+  {
+    "id": 1793,
+    "name": "Microscope Manufacturing Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["microscope", "imaging_system", "laboratory"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/microscope-manufacturing"
+  },
+  {
+    "id": 1794,
+    "name": "PCR & Molecular Diagnostics Equipment",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["pcr_machine", "molecular_diagnostics", "lab_equipment"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/pcr-manufacturing"
+  },
+  {
+    "id": 1795,
+    "name": "Electrophoresis Equipment Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["electrophoresis", "gel_documentation", "lab_equipment"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/electrophoresis"
+  },
+  {
+    "id": 1796,
+    "name": "Pipette & Liquid Handling Equipment",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["pipette", "liquid_handling", "lab_automation"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/pipette-manufacturing"
+  },
+  {
+    "id": 1797,
+    "name": "Spectrophotometer Manufacturing Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["spectrophotometer", "analytical_instrument", "lab_equipment"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/spectrophotometer"
+  },
+  {
+    "id": 1798,
+    "name": "Chromatography Equipment Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["hplc", "gc_ms", "chromatography"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/chromatography-equipment"
+  },
+  {
+    "id": 1799,
+    "name": "Mass Spectrometer Manufacturing Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["mass_spectrometer", "analytical_instrument", "proteomics"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/mass-spec"
+  },
+  {
+    "id": 1800,
+    "name": "DNA Sequencer Manufacturing Grant",
+    "source": "National Human Genome Research Institute",
+    "type": "grant",
+    "eligibility": ["dna_sequencer", "next_gen_sequencing", "genomics"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://genome.gov/sequencer-manufacturing"
+  }
+]

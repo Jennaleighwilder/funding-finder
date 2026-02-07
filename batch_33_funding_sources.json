@@ -1,0 +1,1430 @@
+[
+  {
+    "id": 3201,
+    "name": "Google.org",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/google.org"
+  },
+  {
+    "id": 3202,
+    "name": "Microsoft Philanthropies",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/microsoft-philanthropies"
+  },
+  {
+    "id": 3203,
+    "name": "Apple Community Education",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/apple-community-education"
+  },
+  {
+    "id": 3204,
+    "name": "Meta Community Action",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/meta-community-action"
+  },
+  {
+    "id": 3205,
+    "name": "AWS Imagine Grant",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/aws-imagine-grant"
+  },
+  {
+    "id": 3206,
+    "name": "Salesforce Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/salesforce-foundation"
+  },
+  {
+    "id": 3207,
+    "name": "Intel Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/intel-foundation"
+  },
+  {
+    "id": 3208,
+    "name": "IBM Corporate Service",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/ibm-corporate-service"
+  },
+  {
+    "id": 3209,
+    "name": "Dell Technologies Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/dell-technologies-foundation"
+  },
+  {
+    "id": 3210,
+    "name": "Cisco Networking Academy",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/cisco-networking-academy"
+  },
+  {
+    "id": 3211,
+    "name": "Oracle Corporate Citizenship",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/oracle-corporate-citizenship"
+  },
+  {
+    "id": 3212,
+    "name": "Adobe Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/adobe-foundation"
+  },
+  {
+    "id": 3213,
+    "name": "Qualcomm Wireless Reach",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/qualcomm-wireless-reach"
+  },
+  {
+    "id": 3214,
+    "name": "VMware Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/vmware-foundation"
+  },
+  {
+    "id": 3215,
+    "name": "SAP Social Sabbatical",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/sap-social-sabbatical"
+  },
+  {
+    "id": 3216,
+    "name": "Bank of America Charitable",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/bank-of-america-charitable"
+  },
+  {
+    "id": 3217,
+    "name": "JPMorgan Chase Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/jpmorgan-chase-foundation"
+  },
+  {
+    "id": 3218,
+    "name": "Wells Fargo Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/wells-fargo-foundation"
+  },
+  {
+    "id": 3219,
+    "name": "Citi Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/citi-foundation"
+  },
+  {
+    "id": 3220,
+    "name": "Capital One Future Edge",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/capital-one-future-edge"
+  },
+  {
+    "id": 3221,
+    "name": "American Express Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/american-express-foundation"
+  },
+  {
+    "id": 3222,
+    "name": "PNC Grow Up Great",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/pnc-grow-up-great"
+  },
+  {
+    "id": 3223,
+    "name": "U.S. Bank Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/u.s.-bank-foundation"
+  },
+  {
+    "id": 3224,
+    "name": "State Farm Good Neighbor",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/state-farm-good-neighbor"
+  },
+  {
+    "id": 3225,
+    "name": "Prudential Economic Mobility",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/prudential-economic-mobility"
+  },
+  {
+    "id": 3226,
+    "name": "Walmart Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/walmart-foundation"
+  },
+  {
+    "id": 3227,
+    "name": "Target Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/target-foundation"
+  },
+  {
+    "id": 3228,
+    "name": "Home Depot Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/home-depot-foundation"
+  },
+  {
+    "id": 3229,
+    "name": "Lowe's Charitable Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/lowe's-charitable-foundation"
+  },
+  {
+    "id": 3230,
+    "name": "CVS Health Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/cvs-health-foundation"
+  },
+  {
+    "id": 3231,
+    "name": "Walgreens Boots Alliance",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/walgreens-boots-alliance"
+  },
+  {
+    "id": 3232,
+    "name": "Best Buy Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/best-buy-foundation"
+  },
+  {
+    "id": 3233,
+    "name": "Costco Charitable Contributions",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/costco-charitable-contributions"
+  },
+  {
+    "id": 3234,
+    "name": "Kroger Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/kroger-foundation"
+  },
+  {
+    "id": 3235,
+    "name": "Starbucks Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/starbucks-foundation"
+  },
+  {
+    "id": 3236,
+    "name": "ExxonMobil Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/exxonmobil-foundation"
+  },
+  {
+    "id": 3237,
+    "name": "Chevron Corporate Giving",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/chevron-corporate-giving"
+  },
+  {
+    "id": 3238,
+    "name": "Shell Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/shell-foundation"
+  },
+  {
+    "id": 3239,
+    "name": "BP Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/bp-foundation"
+  },
+  {
+    "id": 3240,
+    "name": "ConocoPhillips SPIRIT",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/conocophillips-spirit"
+  },
+  {
+    "id": 3241,
+    "name": "General Electric Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/general-electric-foundation"
+  },
+  {
+    "id": 3242,
+    "name": "3M Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/3m-foundation"
+  },
+  {
+    "id": 3243,
+    "name": "Dow Chemical Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/dow-chemical-foundation"
+  },
+  {
+    "id": 3244,
+    "name": "DuPont Corporate Giving",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/dupont-corporate-giving"
+  },
+  {
+    "id": 3245,
+    "name": "Johnson & Johnson Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/johnson-&-johnson-foundation"
+  },
+  {
+    "id": 3246,
+    "name": "Pfizer Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/pfizer-foundation"
+  },
+  {
+    "id": 3247,
+    "name": "Merck Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/merck-foundation"
+  },
+  {
+    "id": 3248,
+    "name": "Bristol Myers Squibb Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/bristol-myers-squibb-foundation"
+  },
+  {
+    "id": 3249,
+    "name": "AbbVie Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/abbvie-foundation"
+  },
+  {
+    "id": 3250,
+    "name": "Eli Lilly Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/eli-lilly-foundation"
+  },
+  {
+    "id": 3251,
+    "name": "Novartis Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/novartis-foundation"
+  },
+  {
+    "id": 3252,
+    "name": "Amgen Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/amgen-foundation"
+  },
+  {
+    "id": 3253,
+    "name": "Gilead Sciences Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/gilead-sciences-foundation"
+  },
+  {
+    "id": 3254,
+    "name": "Biogen Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/biogen-foundation"
+  },
+  {
+    "id": 3255,
+    "name": "Medtronic Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$25K-$10M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/medtronic-foundation"
+  },
+  {
+    "id": 3256,
+    "name": "AT&T Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/at&t-foundation"
+  },
+  {
+    "id": 3257,
+    "name": "Verizon Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/verizon-foundation"
+  },
+  {
+    "id": 3258,
+    "name": "T-Mobile Hometown Grants",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/t-mobile-hometown-grants"
+  },
+  {
+    "id": 3259,
+    "name": "Comcast NBCUniversal Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/comcast-nbcuniversal-foundation"
+  },
+  {
+    "id": 3260,
+    "name": "Charter Communications Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/charter-communications-foundation"
+  },
+  {
+    "id": 3261,
+    "name": "Sprint Foundation (Legacy)",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/sprint-foundation-(legacy)"
+  },
+  {
+    "id": 3262,
+    "name": "CenturyLink Clarke M. Williams Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/centurylink-clarke-m.-williams-foundation"
+  },
+  {
+    "id": 3263,
+    "name": "Cox Communications Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/cox-communications-foundation"
+  },
+  {
+    "id": 3264,
+    "name": "Coca-Cola Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/coca-cola-foundation"
+  },
+  {
+    "id": 3265,
+    "name": "PepsiCo Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/pepsico-foundation"
+  },
+  {
+    "id": 3266,
+    "name": "McDonald's Ronald McDonald House",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/mcdonald's-ronald-mcdonald-house"
+  },
+  {
+    "id": 3267,
+    "name": "Yum! Brands Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/yum!-brands-foundation"
+  },
+  {
+    "id": 3268,
+    "name": "General Mills Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/general-mills-foundation"
+  },
+  {
+    "id": 3269,
+    "name": "Kellogg Company Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/kellogg-company-foundation"
+  },
+  {
+    "id": 3270,
+    "name": "Mondelez International Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/mondelez-international-foundation"
+  },
+  {
+    "id": 3271,
+    "name": "Mars Wrigley Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/mars-wrigley-foundation"
+  },
+  {
+    "id": 3272,
+    "name": "Nestle USA Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/nestle-usa-foundation"
+  },
+  {
+    "id": 3273,
+    "name": "Kraft Heinz Company Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/kraft-heinz-company-foundation"
+  },
+  {
+    "id": 3274,
+    "name": "FedEx Cares",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/fedex-cares"
+  },
+  {
+    "id": 3275,
+    "name": "UPS Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/ups-foundation"
+  },
+  {
+    "id": 3276,
+    "name": "Delta Air Lines Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/delta-air-lines-foundation"
+  },
+  {
+    "id": 3277,
+    "name": "American Airlines Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/american-airlines-foundation"
+  },
+  {
+    "id": 3278,
+    "name": "Southwest Airlines Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/southwest-airlines-foundation"
+  },
+  {
+    "id": 3279,
+    "name": "Union Pacific Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/union-pacific-foundation"
+  },
+  {
+    "id": 3280,
+    "name": "Norfolk Southern Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/norfolk-southern-foundation"
+  },
+  {
+    "id": 3281,
+    "name": "CSX Transportation Grants",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/csx-transportation-grants"
+  },
+  {
+    "id": 3282,
+    "name": "Disney Conservation Fund",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/disney-conservation-fund"
+  },
+  {
+    "id": 3283,
+    "name": "Warner Bros Discovery Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/warner-bros-discovery-foundation"
+  },
+  {
+    "id": 3284,
+    "name": "ViacomCBS Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/viacomcbs-foundation"
+  },
+  {
+    "id": 3285,
+    "name": "Sony Corporation Fund",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/sony-corporation-fund"
+  },
+  {
+    "id": 3286,
+    "name": "Comcast NBCUniversal Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/comcast-nbcuniversal-foundation"
+  },
+  {
+    "id": 3287,
+    "name": "Fox Corporation Gives",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/fox-corporation-gives"
+  },
+  {
+    "id": 3288,
+    "name": "Discovery Education Grants",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/discovery-education-grants"
+  },
+  {
+    "id": 3289,
+    "name": "Ford Motor Company Fund",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/ford-motor-company-fund"
+  },
+  {
+    "id": 3290,
+    "name": "General Motors Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/general-motors-foundation"
+  },
+  {
+    "id": 3291,
+    "name": "Toyota USA Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/toyota-usa-foundation"
+  },
+  {
+    "id": 3292,
+    "name": "Honda Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/honda-foundation"
+  },
+  {
+    "id": 3293,
+    "name": "Nissan Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/nissan-foundation"
+  },
+  {
+    "id": 3294,
+    "name": "BMW North America Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/bmw-north-america-foundation"
+  },
+  {
+    "id": 3295,
+    "name": "Tesla Community Grants",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$2M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/tesla-community-grants"
+  },
+  {
+    "id": 3296,
+    "name": "Lockheed Martin Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/lockheed-martin-foundation"
+  },
+  {
+    "id": 3297,
+    "name": "Boeing Global Engagement",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/boeing-global-engagement"
+  },
+  {
+    "id": 3298,
+    "name": "Raytheon Technologies Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/raytheon-technologies-foundation"
+  },
+  {
+    "id": 3299,
+    "name": "Northrop Grumman Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/northrop-grumman-foundation"
+  },
+  {
+    "id": 3300,
+    "name": "Caterpillar Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/caterpillar-foundation"
+  },
+  {
+    "id": 3301,
+    "name": "Deere & Company Foundation",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/deere-&-company-foundation"
+  },
+  {
+    "id": 3302,
+    "name": "Nike Community Impact Fund",
+    "source": "Corporate Foundation",
+    "type": "grant",
+    "eligibility": [
+      "varies_by_program",
+      "community_development",
+      "education"
+    ],
+    "funding_range": "$10K-$5M",
+    "obscurity_score": 5,
+    "url": "https://corporate-foundation.com/nike-community-impact-fund"
+  }
+]

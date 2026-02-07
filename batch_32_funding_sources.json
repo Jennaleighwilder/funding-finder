@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 3101,
+    "name": "United Methodist Church Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "methodist_affiliated",
+      "ministry_projects",
+      "social_outreach"
+    ],
+    "funding_range": "$5,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://umfoundation.org/grants"
+  },
+  {
+    "id": 3102,
+    "name": "Presbyterian Foundation Ministry Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "presbyterian_churches",
+      "mission_work",
+      "congregational_development"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://presbyterianfoundation.org/grants"
+  },
+  {
+    "id": 3103,
+    "name": "Episcopal Church Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "episcopal_congregations",
+      "innovation",
+      "sustainability"
+    ],
+    "funding_range": "$5,000 - $200,000",
+    "obscurity_score": 6,
+    "url": "https://episcopalfoundation.org/grants"
+  },
+  {
+    "id": 3104,
+    "name": "Lutheran Foundation Ministries",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "lutheran_affiliated",
+      "faith_communities",
+      "social_ministry"
+    ],
+    "funding_range": "$10,000 - $300,000",
+    "obscurity_score": 6,
+    "url": "https://lutheranfoundation.org"
+  },
+  {
+    "id": 3105,
+    "name": "American Baptist Home Mission Societies",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "american_baptist",
+      "church_planting",
+      "community_development"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://abhms.org/grants"
+  },
+  {
+    "id": 3106,
+    "name": "Assemblies of God Missions Funding",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "ag_churches",
+      "world_missions",
+      "church_multiplication"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://ag.org/missions-funding"
+  },
+  {
+    "id": 3107,
+    "name": "Catholic Campaign for Human Development",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "poverty_alleviation",
+      "community_organizing",
+      "economic_development"
+    ],
+    "funding_range": "$25,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://usccb.org/cchd"
+  },
+  {
+    "id": 3108,
+    "name": "Seventh-day Adventist Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "adventist_institutions",
+      "education",
+      "healthcare_ministry"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://adventistfoundation.org"
+  },
+  {
+    "id": 3109,
+    "name": "Christian Reformed Church World Missions",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "crc_affiliated",
+      "global_missions",
+      "church_development"
+    ],
+    "funding_range": "$15,000 - $200,000",
+    "obscurity_score": 7,
+    "url": "https://crcna.org/world-missions"
+  },
+  {
+    "id": 3110,
+    "name": "Evangelical Covenant Church Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "covenant_churches",
+      "ministry_innovation",
+      "church_health"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://covchurch.org/foundation"
+  },
+  {
+    "id": 3111,
+    "name": "Nazarene Foundation Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "nazarene_affiliated",
+      "compassionate_ministries",
+      "global_mission"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 7,
+    "url": "https://nazarenefoundation.org"
+  },
+  {
+    "id": 3112,
+    "name": "Mennonite Central Committee Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "anabaptist_values",
+      "peace_justice",
+      "relief_development"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://mcc.org/grants"
+  },
+  {
+    "id": 3113,
+    "name": "Friends (Quaker) United Meeting Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "quaker_affiliated",
+      "peace_testimony",
+      "social_witness"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://fum.org/grants"
+  },
+  {
+    "id": 3114,
+    "name": "African Methodist Episcopal Church",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "ame_churches",
+      "african_american_ministry",
+      "community_uplift"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://ame-church.com/grants"
+  },
+  {
+    "id": 3115,
+    "name": "Orthodox Church in America Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "orthodox_parishes",
+      "theological_education",
+      "mission_work"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://oca.org/foundation"
+  },
+  {
+    "id": 3116,
+    "name": "Jewish Federations of North America",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_community",
+      "social_services",
+      "israel_support"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://jewishfederations.org/grants"
+  },
+  {
+    "id": 3117,
+    "name": "American Jewish Joint Distribution Committee",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_communities_worldwide",
+      "humanitarian_relief",
+      "development"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://jdc.org/grants"
+  },
+  {
+    "id": 3118,
+    "name": "Jewish Community Foundation Network",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_causes",
+      "community_enhancement",
+      "continuity"
+    ],
+    "funding_range": "$10,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://jewishfederations.org/jcf"
+  },
+  {
+    "id": 3119,
+    "name": "Covenant Foundation Jewish Education",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_education",
+      "innovative_programs",
+      "educator_support"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://covenantfn.org"
+  },
+  {
+    "id": 3120,
+    "name": "Righteous Persons Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "jewish_values",
+      "social_change",
+      "progressive_causes"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://righteouspersons.org"
+  },
+  {
+    "id": 3121,
+    "name": "Mayberg Foundation Jewish Life",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "jewish_community_SF",
+      "education",
+      "israel"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://maybergfoundation.org"
+  },
+  {
+    "id": 3122,
+    "name": "Schusterman Family Foundation",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "jewish_community",
+      "israel",
+      "education"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://schusterman.org/grants"
+  },
+  {
+    "id": 3123,
+    "name": "Jewish Women's Foundation Network",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_women_girls",
+      "empowerment",
+      "community"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://jwfnetwork.org"
+  },
+  {
+    "id": 3124,
+    "name": "Wexner Foundation Jewish Leadership",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "jewish_professionals",
+      "leadership_development",
+      "graduate_studies"
+    ],
+    "funding_range": "$20,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://wexnerfoundation.org"
+  },
+  {
+    "id": 3125,
+    "name": "Hadassah Foundation Women's Health",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "women_health",
+      "jewish_values",
+      "israel_connections"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://hadassah.org/foundation"
+  },
+  {
+    "id": 3126,
+    "name": "Islamic Relief USA Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "humanitarian_relief",
+      "development",
+      "islamic_values"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://irusa.org/grants"
+  },
+  {
+    "id": 3127,
+    "name": "CAIR Foundation Civil Rights",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "muslim_civil_rights",
+      "advocacy",
+      "education"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://cair.com/grants"
+  },
+  {
+    "id": 3128,
+    "name": "Islamic Society of North America",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "muslim_community",
+      "interfaith",
+      "education"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://isna.net/grants"
+  },
+  {
+    "id": 3129,
+    "name": "Muslim American Society Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "community_development",
+      "youth_programs",
+      "islamic_education"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://muslimamericansociety.org"
+  },
+  {
+    "id": 3130,
+    "name": "Zakat Foundation of America",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "poverty_relief",
+      "orphan_support",
+      "zakat_distribution"
+    ],
+    "funding_range": "$1,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://zakatfoundation.org"
+  },
+  {
+    "id": 3131,
+    "name": "Inner-City Muslim Action Network",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "urban_communities",
+      "social_services",
+      "community_health"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://iman.org/grants"
+  },
+  {
+    "id": 3132,
+    "name": "American Muslim Community Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "muslim_nonprofits",
+      "community_service",
+      "civic_engagement"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://amcfund.org"
+  },
+  {
+    "id": 3133,
+    "name": "Pillars Fund Muslim Narrative",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "muslim_storytelling",
+      "arts_culture",
+      "civic_engagement"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://pillarsfund.org"
+  },
+  {
+    "id": 3134,
+    "name": "Helping Hand for Relief & Development",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "humanitarian_aid",
+      "disaster_relief",
+      "sustainable_development"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://hhrd.org/grants"
+  },
+  {
+    "id": 3135,
+    "name": "Muslim Advocates Legal Defense",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "legal_advocacy",
+      "civil_rights",
+      "policy_change"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://muslimadvocates.org"
+  },
+  {
+    "id": 3136,
+    "name": "Interfaith Youth Core Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "interfaith_cooperation",
+      "youth_leadership",
+      "pluralism"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 7,
+    "url": "https://ifyc.org/grants"
+  },
+  {
+    "id": 3137,
+    "name": "Parliament of the World's Religions",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "interfaith_dialogue",
+      "global_ethics",
+      "religious_harmony"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://parliamentofreligions.org/grants"
+  },
+  {
+    "id": 3138,
+    "name": "Shoulder to Shoulder Campaign",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "counter_islamophobia",
+      "interfaith_solidarity",
+      "education"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://shouldertoshouldercampaign.org"
+  },
+  {
+    "id": 3139,
+    "name": "Fetzer Institute Love & Forgiveness",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "love_based_approaches",
+      "spirituality",
+      "transformation"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://fetzer.org/grants"
+  },
+  {
+    "id": 3140,
+    "name": "Henry Luce Foundation Theology",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "theological_education",
+      "religion_scholarship",
+      "asian_studies"
+    ],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://hluce.org/theology"
+  },
+  {
+    "id": 3141,
+    "name": "Templeton Religion Trust",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "religion_science_dialogue",
+      "character_development",
+      "exceptional_cognitive_talent"
+    ],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://templetonworldcharity.org"
+  },
+  {
+    "id": 3142,
+    "name": "Louisville Institute Religion & Culture",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "christianity_north_america",
+      "pastoral_leaders",
+      "religious_institutions"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://louisville-institute.org"
+  },
+  {
+    "id": 3143,
+    "name": "Lilly Endowment Religion Programs",
+    "source": "Private Foundation",
+    "type": "grant",
+    "eligibility": [
+      "congregational_life",
+      "pastoral_leadership",
+      "youth_ministry"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://lillyendowment.org/religion"
+  },
+  {
+    "id": 3144,
+    "name": "Center for Interreligious Understanding",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "interfaith_education",
+      "religious_literacy",
+      "bridge_building"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://theciu.org/grants"
+  },
+  {
+    "id": 3145,
+    "name": "Tanenbaum Center Religious Diversity",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "workplace_diversity",
+      "education",
+      "conflict_resolution"
+    ],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://tanenbaum.org"
+  },
+  {
+    "id": 3146,
+    "name": "Rigpa Foundation Buddhist Studies",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "tibetan_buddhism",
+      "meditation",
+      "contemplative_studies"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://rigpa.org/foundation"
+  },
+  {
+    "id": 3147,
+    "name": "Buddhist Global Relief",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "hunger_poverty",
+      "food_security",
+      "sustainable_agriculture"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://buddhistglobalrelief.org"
+  },
+  {
+    "id": 3148,
+    "name": "Shambhala Foundation Contemplative",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "contemplative_arts",
+      "meditation_programs",
+      "societal_transformation"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 9,
+    "url": "https://shambhala.org/foundation"
+  },
+  {
+    "id": 3149,
+    "name": "Mind & Life Institute Buddhist Science",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "contemplative_science",
+      "neuroscience_meditation",
+      "compassion_research"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://mindandlife.org/grants"
+  },
+  {
+    "id": 3150,
+    "name": "Dharma Realm Buddhist Association",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "buddhist_education",
+      "translation",
+      "temple_support"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 9,
+    "url": "https://drba.org/grants"
+  },
+  {
+    "id": 3151,
+    "name": "Hindu American Foundation Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "hindu_rights",
+      "education",
+      "community_service"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://hinduamerican.org/grants"
+  },
+  {
+    "id": 3152,
+    "name": "Chinmaya Mission West Service",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "vedanta_education",
+      "hindu_culture",
+      "youth_programs"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 9,
+    "url": "https://chinmayamission.org"
+  },
+  {
+    "id": 3153,
+    "name": "BAPS Charities Humanitarian",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "community_service",
+      "disaster_relief",
+      "health_education"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://bapscharities.org"
+  },
+  {
+    "id": 3154,
+    "name": "Soka Gakkai International Peace",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "peace_education",
+      "interfaith_dialogue",
+      "human_rights"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 8,
+    "url": "https://sgi-usa.org/grants"
+  },
+  {
+    "id": 3155,
+    "name": "Vedanta Society Education",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "vedanta_philosophy",
+      "spiritual_education",
+      "interfaith"
+    ],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://vedanta.org/grants"
+  },
+  {
+    "id": 3156,
+    "name": "Salvation Army Community Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "poverty_relief",
+      "addiction_recovery",
+      "homeless_services"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 5,
+    "url": "https://salvationarmyusa.org/grants"
+  },
+  {
+    "id": 3157,
+    "name": "Catholic Charities USA Grants",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "social_services",
+      "poverty",
+      "family_support"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 5,
+    "url": "https://catholiccharitiesusa.org/grants"
+  },
+  {
+    "id": 3158,
+    "name": "Lutheran Social Services Funding",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "refugee_resettlement",
+      "senior_services",
+      "family_support"
+    ],
+    "funding_range": "$20,000 - $750,000",
+    "obscurity_score": 6,
+    "url": "https://lssnd.org/grants"
+  },
+  {
+    "id": 3159,
+    "name": "Jewish Family Service Network",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "family_counseling",
+      "senior_care",
+      "refugee_services"
+    ],
+    "funding_range": "$15,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://jfsnetwork.org/grants"
+  },
+  {
+    "id": 3160,
+    "name": "Volunteers of America Foundation",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "affordable_housing",
+      "veterans",
+      "healthcare"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://voa.org/grants"
+  },
+  {
+    "id": 3161,
+    "name": "Habitat for Humanity Funding",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "affordable_housing",
+      "community_development",
+      "homeownership"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://habitat.org/funding"
+  },
+  {
+    "id": 3162,
+    "name": "World Relief Church Partnerships",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "refugee_resettlement",
+      "immigration",
+      "global_church"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://worldrelief.org/partnerships"
+  },
+  {
+    "id": 3163,
+    "name": "Samaritan's Purse Disaster Relief",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "disaster_response",
+      "international_aid",
+      "medical_missions"
+    ],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://samaritanspurse.org/grants"
+  },
+  {
+    "id": 3164,
+    "name": "Compassion International Child Support",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "child_sponsorship",
+      "poverty_alleviation",
+      "church_based"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://compassion.com/partnerships"
+  },
+  {
+    "id": 3165,
+    "name": "Prison Fellowship Reentry Programs",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "criminal_justice",
+      "prisoner_support",
+      "family_restoration"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://prisonfellowship.org/grants"
+  },
+  {
+    "id": 3166,
+    "name": "Food for the Poor Relief",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "caribbean_latin_america",
+      "poverty_relief",
+      "disaster_response"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://foodforthepoor.org/grants"
+  },
+  {
+    "id": 3167,
+    "name": "Convoy of Hope Disaster Services",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "disaster_relief",
+      "community_events",
+      "children_feeding"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://convoyofhope.org/grants"
+  },
+  {
+    "id": 3168,
+    "name": "Bethany Christian Services Adoption",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "adoption",
+      "foster_care",
+      "refugee_children"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://bethany.org/grants"
+  },
+  {
+    "id": 3169,
+    "name": "Young Life Youth Ministry",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "youth_outreach",
+      "adolescent_development",
+      "mentoring"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://younglife.org/grants"
+  },
+  {
+    "id": 3170,
+    "name": "Fellowship of Christian Athletes",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "sports_ministry",
+      "youth_athletes",
+      "character_development"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 6,
+    "url": "https://fca.org/grants"
+  },
+  {
+    "id": 3171,
+    "name": "Fund for Theological Education",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "theological_students",
+      "ministry_leadership",
+      "doctoral_programs"
+    ],
+    "funding_range": "$10,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://fteleaders.org/grants"
+  },
+  {
+    "id": 3172,
+    "name": "Association of Theological Schools",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "theological_schools",
+      "accreditation",
+      "faculty_development"
+    ],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://ats.edu/grants"
+  },
+  {
+    "id": 3173,
+    "name": "Christian Community Development Association",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "urban_ministry",
+      "community_development",
+      "leadership_training"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 7,
+    "url": "https://ccda.org/grants"
+  },
+  {
+    "id": 3174,
+    "name": "National Catholic Educational Association",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "catholic_schools",
+      "religious_education",
+      "teacher_development"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://ncea.org/grants"
+  },
+  {
+    "id": 3175,
+    "name": "Association of Christian Schools International",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "christian_schools",
+      "curriculum",
+      "teacher_training"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://acsi.org/grants"
+  },
+  {
+    "id": 3176,
+    "name": "Yeshiva University Community Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "jewish_education",
+      "torah_study",
+      "community_programs"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://yu.edu/grants"
+  },
+  {
+    "id": 3177,
+    "name": "Islamic Schools League of America",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "islamic_schools",
+      "education_excellence",
+      "teacher_support"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://theisla.org/grants"
+  },
+  {
+    "id": 3178,
+    "name": "Council for Christian Colleges & Universities",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "christian_higher_ed",
+      "faith_integration",
+      "academic_excellence"
+    ],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://cccu.org/grants"
+  },
+  {
+    "id": 3179,
+    "name": "Reconstructionist Rabbinical College",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "progressive_judaism",
+      "rabbinical_training",
+      "jewish_innovation"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 9,
+    "url": "https://rrc.edu/grants"
+  },
+  {
+    "id": 3180,
+    "name": "Hartford Seminary Interfaith",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "interfaith_education",
+      "islamic_studies",
+      "peace_building"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://hartsem.edu/grants"
+  },
+  {
+    "id": 3181,
+    "name": "Naropa University Buddhist Studies",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "contemplative_education",
+      "buddhist_studies",
+      "mindfulness"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 8,
+    "url": "https://naropa.edu/grants"
+  },
+  {
+    "id": 3182,
+    "name": "Union for Reform Judaism Camps",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_camping",
+      "youth_engagement",
+      "israel_programs"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://urj.org/grants"
+  },
+  {
+    "id": 3183,
+    "name": "Campus Crusade (Cru) University Ministry",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "campus_ministry",
+      "student_leadership",
+      "global_missions"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://cru.org/grants"
+  },
+  {
+    "id": 3184,
+    "name": "InterVarsity Christian Fellowship",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "campus_ministry",
+      "multiethnic_ministry",
+      "student_development"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://intervarsity.org/grants"
+  },
+  {
+    "id": 3185,
+    "name": "Hillel International Campus Life",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_college_students",
+      "campus_engagement",
+      "israel_advocacy"
+    ],
+    "funding_range": "$15,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://hillel.org/grants"
+  },
+  {
+    "id": 3186,
+    "name": "Wycliffe Bible Translators Funding",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "bible_translation",
+      "literacy",
+      "indigenous_languages"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://wycliffe.org/funding"
+  },
+  {
+    "id": 3187,
+    "name": "Billy Graham Evangelistic Association",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "evangelism",
+      "crusades",
+      "media_ministry"
+    ],
+    "funding_range": "$25,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://billygraham.org/grants"
+  },
+  {
+    "id": 3188,
+    "name": "Focus on the Family Ministry",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "family_strengthening",
+      "marriage",
+      "parenting_resources"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://focusonthefamily.com/grants"
+  },
+  {
+    "id": 3189,
+    "name": "Jews for Jesus Outreach",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_evangelism",
+      "messianic_judaism",
+      "outreach"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://jewsforjesus.org/grants"
+  },
+  {
+    "id": 3190,
+    "name": "Muslim Students Association National",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "muslim_students",
+      "campus_programs",
+      "leadership"
+    ],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 8,
+    "url": "https://msanational.org/grants"
+  },
+  {
+    "id": 3191,
+    "name": "Chabad Lubavitch Outreach",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "jewish_outreach",
+      "campus_centers",
+      "community_programs"
+    ],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://chabad.org/grants"
+  },
+  {
+    "id": 3192,
+    "name": "Navigators Discipleship Ministry",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "discipleship",
+      "leadership_development",
+      "missions"
+    ],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 7,
+    "url": "https://navigators.org/grants"
+  },
+  {
+    "id": 3193,
+    "name": "Gideons International Bible Distribution",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "bible_distribution",
+      "hotels_hospitals",
+      "military"
+    ],
+    "funding_range": "$5,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://gideons.org/grants"
+  },
+  {
+    "id": 3194,
+    "name": "Operation Mobilization Global Missions",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "global_missions",
+      "church_planting",
+      "unreached_peoples"
+    ],
+    "funding_range": "$15,000 - $750,000",
+    "obscurity_score": 7,
+    "url": "https://om.org/grants"
+  },
+  {
+    "id": 3195,
+    "name": "Youth With A Mission (YWAM)",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "youth_missions",
+      "discipleship_training",
+      "short_term_missions"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://ywam.org/grants"
+  },
+  {
+    "id": 3196,
+    "name": "SIM International Mission Support",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "international_missions",
+      "church_planting",
+      "community_development"
+    ],
+    "funding_range": "$20,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://sim.org/grants"
+  },
+  {
+    "id": 3197,
+    "name": "Gospel for Asia Bridge of Hope",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "child_sponsorship_asia",
+      "education",
+      "poverty_relief"
+    ],
+    "funding_range": "$25,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://gfa.org/grants"
+  },
+  {
+    "id": 3198,
+    "name": "Islamic Circle of North America Relief",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "humanitarian_relief",
+      "disaster_response",
+      "orphan_support"
+    ],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://icna.org/relief"
+  },
+  {
+    "id": 3199,
+    "name": "Sikh American Legal Defense Fund",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "sikh_civil_rights",
+      "religious_freedom",
+      "hate_crime_prevention"
+    ],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 9,
+    "url": "https://saldef.org/grants"
+  },
+  {
+    "id": 3200,
+    "name": "Baha'i Community Development",
+    "source": "Religious Organization",
+    "type": "grant",
+    "eligibility": [
+      "community_building",
+      "social_action",
+      "interfaith"
+    ],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 9,
+    "url": "https://bahai.us/grants"
+  }
+]

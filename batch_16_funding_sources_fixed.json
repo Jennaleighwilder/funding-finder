@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1501,
+    "name": "Rhode Island Innovation Voucher",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["tech_startup", "innovation", "rhode_island_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://commerceri.com/innovation-voucher"
+  },
+  {
+    "id": 1502,
+    "name": "Rhode Island Film & Television Tax Credit",
+    "source": "Rhode Island Film & Television Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "rhode_island_filming"],
+    "funding_range": "25-30% of expenses",
+    "obscurity_score": 5,
+    "url": "https://film.ri.gov/tax-credit"
+  },
+  {
+    "id": 1503,
+    "name": "Rhode Island Small Business Loan Fund",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "loan",
+    "eligibility": ["small_business", "rhode_island_based", "expansion"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 5,
+    "url": "https://commerceri.com/small-business-loans"
+  },
+  {
+    "id": 1504,
+    "name": "Rhode Island Rebuild RI Tax Credit",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "tax_credit",
+    "eligibility": ["real_estate_development", "job_creation", "rhode_island_based"],
+    "funding_range": "20-30% of expenses",
+    "obscurity_score": 5,
+    "url": "https://commerceri.com/rebuild-ri"
+  },
+  {
+    "id": 1505,
+    "name": "Rhode Island Wavemaker Fellowship",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["recent_graduate", "stem", "rhode_island_based"],
+    "funding_range": "$6,000 - $48,000",
+    "obscurity_score": 7,
+    "url": "https://commerceri.com/wavemaker"
+  },
+  {
+    "id": 1506,
+    "name": "Rhode Island Renewable Energy Fund",
+    "source": "Rhode Island Office of Energy Resources",
+    "type": "grant",
+    "eligibility": ["renewable_energy", "cleantech", "rhode_island_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://energy.ri.gov/renewable-energy-fund"
+  },
+  {
+    "id": 1507,
+    "name": "Rhode Island Historic Preservation Tax Credit",
+    "source": "Rhode Island Historical Preservation & Heritage Commission",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "rhode_island_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://preservation.ri.gov/tax-credits"
+  },
+  {
+    "id": 1508,
+    "name": "Rhode Island Workforce Development Grant",
+    "source": "Rhode Island Department of Labor and Training",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "rhode_island_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://dlt.ri.gov/workforce-grants"
+  },
+  {
+    "id": 1509,
+    "name": "Rhode Island Research & Development Tax Credit",
+    "source": "Rhode Island Division of Taxation",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "rhode_island_based"],
+    "funding_range": "22.5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.ri.gov/rd-credit"
+  },
+  {
+    "id": 1510,
+    "name": "Rhode Island Manufacturing Innovation Fund",
+    "source": "Polaris MEP",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "rhode_island_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://polaris-ri.com/grants"
+  },
+  {
+    "id": 1511,
+    "name": "Rhode Island Angel Investor Tax Credit",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "rhode_island_based"],
+    "funding_range": "50% of investment",
+    "obscurity_score": 7,
+    "url": "https://commerceri.com/angel-investor"
+  },
+  {
+    "id": 1512,
+    "name": "Rhode Island Seafood Marketing Grant",
+    "source": "Rhode Island Seafood Marketing Collaborative",
+    "type": "grant",
+    "eligibility": ["seafood", "fishing", "rhode_island_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://riseafood.com/grants"
+  },
+  {
+    "id": 1513,
+    "name": "Rhode Island Broadband Infrastructure Grant",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://commerceri.com/broadband"
+  },
+  {
+    "id": 1514,
+    "name": "Rhode Island Blue Economy Innovation",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["ocean_tech", "marine_industry", "rhode_island_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://commerceri.com/blue-economy"
+  },
+  {
+    "id": 1515,
+    "name": "Rhode Island Offshore Wind Industry Development",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["offshore_wind", "renewable_energy", "rhode_island_based"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerceri.com/offshore-wind"
+  },
+  {
+    "id": 1516,
+    "name": "Rhode Island Tourism Marketing Grant",
+    "source": "Rhode Island Commerce Corporation",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://visitrhodeisland.com/grants"
+  },
+  {
+    "id": 1517,
+    "name": "Rhode Island Veteran Business Development",
+    "source": "Rhode Island Office of Veterans Services",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "rhode_island_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://vets.ri.gov/business"
+  },
+  {
+    "id": 1518,
+    "name": "South Carolina Closing Fund",
+    "source": "South Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "south_carolina_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://sccommerce.com/closing-fund"
+  },
+  {
+    "id": 1519,
+    "name": "South Carolina Film Production Rebate",
+    "source": "South Carolina Film Commission",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "south_carolina_filming"],
+    "funding_range": "20-30% rebate",
+    "obscurity_score": 4,
+    "url": "https://filmsc.com/rebate"
+  },
+  {
+    "id": 1520,
+    "name": "South Carolina Jobs Tax Credit",
+    "source": "South Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "capital_investment", "south_carolina_based"],
+    "funding_range": "$1,500 - $13,000 per job",
+    "obscurity_score": 4,
+    "url": "https://dor.sc.gov/tax-credits/jobs"
+  },
+  {
+    "id": 1521,
+    "name": "South Carolina Rural Infrastructure Fund",
+    "source": "South Carolina Department of Commerce",
+    "type": "grant",
+    "eligibility": ["rural", "infrastructure", "south_carolina_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://sccommerce.com/rural-infrastructure"
+  },
+  {
+    "id": 1522,
+    "name": "South Carolina Angel Investor Tax Credit",
+    "source": "South Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "south_carolina_based"],
+    "funding_range": "35% of investment",
+    "obscurity_score": 6,
+    "url": "https://dor.sc.gov/tax-credits/angel-investor"
+  },
+  {
+    "id": 1523,
+    "name": "South Carolina Agriculture Innovation Grant",
+    "source": "South Carolina Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "innovation", "south_carolina_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://agriculture.sc.gov/grants"
+  },
+  {
+    "id": 1524,
+    "name": "South Carolina Manufacturing Extension Partnership Grant",
+    "source": "SC MEP",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "south_carolina_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://scmep.org/grants"
+  },
+  {
+    "id": 1525,
+    "name": "South Carolina Renewable Energy Tax Credit",
+    "source": "South Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "solar", "south_carolina_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 5,
+    "url": "https://dor.sc.gov/tax-credits/renewable-energy"
+  },
+  {
+    "id": 1526,
+    "name": "South Carolina Historic Preservation Tax Credit",
+    "source": "South Carolina Department of Archives and History",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "south_carolina_based"],
+    "funding_range": "25% of expenses",
+    "obscurity_score": 5,
+    "url": "https://scdah.sc.gov/tax-credits"
+  },
+  {
+    "id": 1527,
+    "name": "South Carolina Tourism Marketing Grant",
+    "source": "South Carolina Department of Parks, Recreation & Tourism",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://discoversouthcarolina.com/grants"
+  },
+  {
+    "id": 1528,
+    "name": "South Carolina Workforce Development Grant",
+    "source": "ReadySC",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "south_carolina_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 4,
+    "url": "https://readysc.org/grants"
+  },
+  {
+    "id": 1529,
+    "name": "South Carolina Research & Development Tax Credit",
+    "source": "South Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "south_carolina_based"],
+    "funding_range": "5% of expenses",
+    "obscurity_score": 5,
+    "url": "https://dor.sc.gov/tax-credits/rd"
+  },
+  {
+    "id": 1530,
+    "name": "South Carolina Port Volume Increase Credit",
+    "source": "South Carolina Ports Authority",
+    "type": "tax_credit",
+    "eligibility": ["port", "maritime", "south_carolina_based"],
+    "funding_range": "$400 - $1,400 per container",
+    "obscurity_score": 8,
+    "url": "https://scspa.com/volume-credit"
+  },
+  {
+    "id": 1531,
+    "name": "South Carolina Brownfield Voluntary Cleanup Tax Credit",
+    "source": "South Carolina DHEC",
+    "type": "tax_credit",
+    "eligibility": ["brownfield", "environmental_cleanup", "south_carolina_based"],
+    "funding_range": "25-50% of expenses",
+    "obscurity_score": 7,
+    "url": "https://scdhec.gov/brownfields"
+  },
+  {
+    "id": 1532,
+    "name": "South Carolina Peach Marketing Grant",
+    "source": "South Carolina Peach Board",
+    "type": "grant",
+    "eligibility": ["peach_farming", "agriculture", "south_carolina_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://scpeach.org/grants"
+  },
+  {
+    "id": 1533,
+    "name": "South Carolina Broadband Infrastructure Grant",
+    "source": "South Carolina Office of Regulatory Staff",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://ors.sc.gov/broadband"
+  },
+  {
+    "id": 1534,
+    "name": "South Carolina Veteran Business Development",
+    "source": "South Carolina Department of Veterans' Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "south_carolina_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://va.sc.gov/business"
+  },
+  {
+    "id": 1535,
+    "name": "South Carolina Aerospace Industry Tax Credit",
+    "source": "South Carolina Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["aerospace", "manufacturing", "south_carolina_based"],
+    "funding_range": "5-year property tax exemption",
+    "obscurity_score": 7,
+    "url": "https://dor.sc.gov/tax-credits/aerospace"
+  },
+  {
+    "id": 1536,
+    "name": "Utah Governor's Office of Economic Development Grant",
+    "source": "Utah GOED",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "utah_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://business.utah.gov/programs/incentives"
+  },
+  {
+    "id": 1537,
+    "name": "Utah Film Production Tax Credit",
+    "source": "Utah Film Commission",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "utah_filming"],
+    "funding_range": "20-25% of expenses",
+    "obscurity_score": 5,
+    "url": "https://film.utah.gov/tax-credit"
+  },
+  {
+    "id": 1538,
+    "name": "Utah Loan Fund Program",
+    "source": "Utah GOED",
+    "type": "loan",
+    "eligibility": ["small_business", "utah_based", "expansion"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://business.utah.gov/programs/loan-fund"
+  },
+  {
+    "id": 1539,
+    "name": "Utah Economic Development Tax Credit",
+    "source": "Utah State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "capital_investment", "utah_based"],
+    "funding_range": "$500 - $2,500 per job",
+    "obscurity_score": 5,
+    "url": "https://tax.utah.gov/economic-development-credit"
+  },
+  {
+    "id": 1540,
+    "name": "Utah Renewable Energy Systems Tax Credit",
+    "source": "Utah State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "solar", "utah_based"],
+    "funding_range": "25% of investment",
+    "obscurity_score": 5,
+    "url": "https://tax.utah.gov/renewable-energy"
+  },
+  {
+    "id": 1541,
+    "name": "Utah Technology Commercialization Grant",
+    "source": "Utah USTAR",
+    "type": "grant",
+    "eligibility": ["tech_startup", "commercialization", "utah_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://ustar.utah.edu/commercialization"
+  },
+  {
+    "id": 1542,
+    "name": "Utah Agricultural Resource Development Loan",
+    "source": "Utah Department of Agriculture and Food",
+    "type": "loan",
+    "eligibility": ["agriculture", "value_added", "utah_based"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://ag.utah.gov/loans"
+  },
+  {
+    "id": 1543,
+    "name": "Utah Historic Preservation Tax Credit",
+    "source": "Utah State Historical Society",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "utah_based"],
+    "funding_range": "20% of expenses",
+    "obscurity_score": 6,
+    "url": "https://history.utah.gov/tax-credits"
+  },
+  {
+    "id": 1544,
+    "name": "Utah Tourism Marketing Grant",
+    "source": "Visit Utah",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://visitutah.com/grants"
+  },
+  {
+    "id": 1545,
+    "name": "Utah Workforce Development Training Fund",
+    "source": "Utah Department of Workforce Services",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "utah_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://jobs.utah.gov/employer/training"
+  },
+  {
+    "id": 1546,
+    "name": "Utah Research & Development Tax Credit",
+    "source": "Utah State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "utah_based"],
+    "funding_range": "5% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.utah.gov/rd-credit"
+  },
+  {
+    "id": 1547,
+    "name": "Utah Broadband Infrastructure Grant",
+    "source": "Utah Broadband Center",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://broadband.utah.gov/grants"
+  },
+  {
+    "id": 1548,
+    "name": "Utah Outdoor Recreation Grant",
+    "source": "Utah Office of Outdoor Recreation",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "utah_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://outdoor.utah.gov/grants"
+  },
+  {
+    "id": 1549,
+    "name": "Utah Manufacturing Extension Partnership Grant",
+    "source": "Utah MEP",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "utah_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://utahmep.org/grants"
+  },
+  {
+    "id": 1550,
+    "name": "Utah Angel Tax Credit",
+    "source": "Utah GOED",
+    "type": "tax_credit",
+    "eligibility": ["investor", "tech_startup", "utah_based"],
+    "funding_range": "6% of investment",
+    "obscurity_score": 7,
+    "url": "https://business.utah.gov/programs/angel-tax-credit"
+  },
+  {
+    "id": 1551,
+    "name": "Utah Ski Resort Development Credit",
+    "source": "Utah State Tax Commission",
+    "type": "tax_credit",
+    "eligibility": ["ski_resort", "tourism", "utah_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 8,
+    "url": "https://tax.utah.gov/ski-resort"
+  },
+  {
+    "id": 1552,
+    "name": "Utah Veteran Business Development",
+    "source": "Utah Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "utah_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.utah.gov/business"
+  },
+  {
+    "id": 1553,
+    "name": "Utah Life Sciences Industry Development",
+    "source": "BioUtah",
+    "type": "grant",
+    "eligibility": ["biotech", "life_sciences", "utah_based"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://bioutah.org/grants"
+  },
+  {
+    "id": 1554,
+    "name": "Vermont Economic Development Authority Loan",
+    "source": "Vermont VEDA",
+    "type": "loan",
+    "eligibility": ["small_business", "vermont_based", "expansion"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://veda.org/financing"
+  },
+  {
+    "id": 1555,
+    "name": "Vermont Film Production Tax Credit",
+    "source": "Vermont Film Commission",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "vermont_filming"],
+    "funding_range": "10% of expenses",
+    "obscurity_score": 6,
+    "url": "https://vermontfilm.com/tax-credit"
+  },
+  {
+    "id": 1556,
+    "name": "Vermont Employment Growth Incentive",
+    "source": "Vermont Department of Economic Development",
+    "type": "tax_credit",
+    "eligibility": ["job_creation", "business_expansion", "vermont_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 5,
+    "url": "https://accd.vermont.gov/economic-development/vegi"
+  },
+  {
+    "id": 1557,
+    "name": "Vermont Technology Commercialization Grant",
+    "source": "Vermont Center for Emerging Technologies",
+    "type": "grant",
+    "eligibility": ["tech_startup", "commercialization", "vermont_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://vcet.org/grants"
+  },
+  {
+    "id": 1558,
+    "name": "Vermont Farm & Forest Viability Grant",
+    "source": "Vermont Agency of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "forestry", "vermont_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://agriculture.vermont.gov/grants/farm-viability"
+  },
+  {
+    "id": 1559,
+    "name": "Vermont Renewable Energy Production Tax Credit",
+    "source": "Vermont Department of Taxes",
+    "type": "tax_credit",
+    "eligibility": ["renewable_energy", "production", "vermont_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 6,
+    "url": "https://tax.vermont.gov/renewable-energy"
+  },
+  {
+    "id": 1560,
+    "name": "Vermont Downtown & Village Center Tax Credit",
+    "source": "Vermont DHCD",
+    "type": "tax_credit",
+    "eligibility": ["downtown", "commercial_real_estate", "vermont_based"],
+    "funding_range": "10-50% of expenses",
+    "obscurity_score": 6,
+    "url": "https://accd.vermont.gov/community-development/downtown-program"
+  },
+  {
+    "id": 1561,
+    "name": "Vermont Tourism Marketing Grant",
+    "source": "Vermont Department of Tourism",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 6,
+    "url": "https://vermontvacation.com/grants"
+  },
+  {
+    "id": 1562,
+    "name": "Vermont Workforce Development Grant",
+    "source": "Vermont Department of Labor",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "vermont_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 5,
+    "url": "https://labor.vermont.gov/workforce-grants"
+  },
+  {
+    "id": 1563,
+    "name": "Vermont Research & Development Tax Credit",
+    "source": "Vermont Department of Taxes",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "vermont_based"],
+    "funding_range": "27% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.vermont.gov/rd-credit"
+  },
+  {
+    "id": 1564,
+    "name": "Vermont Broadband Innovation Grant",
+    "source": "Vermont Community Broadband Board",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://publicservice.vermont.gov/broadband"
+  },
+  {
+    "id": 1565,
+    "name": "Vermont Maple Promotion Board Grant",
+    "source": "Vermont Maple Sugar Makers' Association",
+    "type": "grant",
+    "eligibility": ["maple_syrup", "agriculture", "vermont_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 8,
+    "url": "https://vermontmaple.org/grants"
+  },
+  {
+    "id": 1566,
+    "name": "Vermont Craft Beverage Marketing Grant",
+    "source": "Vermont Brewers Association",
+    "type": "grant",
+    "eligibility": ["brewery", "craft_beverage", "vermont_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://vermontbrewers.com/grants"
+  },
+  {
+    "id": 1567,
+    "name": "Vermont Historic Preservation Grant",
+    "source": "Vermont Division for Historic Preservation",
+    "type": "grant",
+    "eligibility": ["historic_preservation", "rehabilitation", "vermont_based"],
+    "funding_range": "$10,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://accd.vermont.gov/historic-preservation/grants"
+  },
+  {
+    "id": 1568,
+    "name": "Vermont Manufacturing Extension Center Grant",
+    "source": "Vermont MEP",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "vermont_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://vmec.org/grants"
+  },
+  {
+    "id": 1569,
+    "name": "Vermont Veteran Business Development",
+    "source": "Vermont Office of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "vermont_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.vermont.gov/business"
+  },
+  {
+    "id": 1570,
+    "name": "Vermont Working Lands Enterprise Fund",
+    "source": "Vermont Agency of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "value_added", "vermont_based"],
+    "funding_range": "$5,000 - $150,000",
+    "obscurity_score": 7,
+    "url": "https://workinglands.vermont.gov/grants"
+  },
+  {
+    "id": 1571,
+    "name": "Vermont Cheese Marketing Grant",
+    "source": "Vermont Cheese Council",
+    "type": "grant",
+    "eligibility": ["cheese_production", "agriculture", "vermont_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://vtcheese.com/grants"
+  },
+  {
+    "id": 1572,
+    "name": "West Virginia Economic Development Grant",
+    "source": "West Virginia Development Office",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "west_virginia_based"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://wvcommerce.org/grants"
+  },
+  {
+    "id": 1573,
+    "name": "West Virginia Film Industry Investment Act",
+    "source": "West Virginia Film Office",
+    "type": "tax_credit",
+    "eligibility": ["film_production", "media", "west_virginia_filming"],
+    "funding_range": "27-31% of expenses",
+    "obscurity_score": 6,
+    "url": "https://wvfilm.com/tax-credit"
+  },
+  {
+    "id": 1574,
+    "name": "West Virginia Small Business Credit Initiative",
+    "source": "West Virginia Economic Development Authority",
+    "type": "loan",
+    "eligibility": ["small_business", "west_virginia_based", "expansion"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://wveda.org/small-business"
+  },
+  {
+    "id": 1575,
+    "name": "West Virginia Manufacturing Tax Credit",
+    "source": "West Virginia State Tax Department",
+    "type": "tax_credit",
+    "eligibility": ["manufacturing", "capital_investment", "west_virginia_based"],
+    "funding_range": "1-5% of investment",
+    "obscurity_score": 6,
+    "url": "https://tax.wv.gov/manufacturing"
+  },
+  {
+    "id": 1576,
+    "name": "West Virginia Coal-to-Value-Added Manufacturing Tax Credit",
+    "source": "West Virginia State Tax Department",
+    "type": "tax_credit",
+    "eligibility": ["coal_industry", "manufacturing", "west_virginia_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 9,
+    "url": "https://tax.wv.gov/coal-manufacturing"
+  },
+  {
+    "id": 1577,
+    "name": "West Virginia Agricultural Land Protection Grant",
+    "source": "West Virginia Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["agriculture", "conservation", "west_virginia_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://agriculture.wv.gov/land-protection"
+  },
+  {
+    "id": 1578,
+    "name": "West Virginia Tourism Marketing Grant",
+    "source": "West Virginia Tourism Office",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 6,
+    "url": "https://wvtourism.com/grants"
+  },
+  {
+    "id": 1579,
+    "name": "West Virginia Historic Preservation Tax Credit",
+    "source": "West Virginia Division of Culture and History",
+    "type": "tax_credit",
+    "eligibility": ["historic_preservation", "rehabilitation", "west_virginia_based"],
+    "funding_range": "20-25% of expenses",
+    "obscurity_score": 6,
+    "url": "https://wvculture.org/shpo/tax-credits"
+  },
+  {
+    "id": 1580,
+    "name": "West Virginia Workforce Investment Grant",
+    "source": "West Virginia Department of Commerce",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "west_virginia_based"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://wvcommerce.org/workforce"
+  },
+  {
+    "id": 1581,
+    "name": "West Virginia Research & Development Tax Credit",
+    "source": "West Virginia State Tax Department",
+    "type": "tax_credit",
+    "eligibility": ["r_and_d", "innovation", "west_virginia_based"],
+    "funding_range": "3-10% of expenses",
+    "obscurity_score": 6,
+    "url": "https://tax.wv.gov/rd-credit"
+  },
+  {
+    "id": 1582,
+    "name": "West Virginia Broadband Development Grant",
+    "source": "West Virginia Broadband Enhancement Council",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://broadband.wv.gov/grants"
+  },
+  {
+    "id": 1583,
+    "name": "West Virginia Hardwood Development Council Grant",
+    "source": "West Virginia Hardwood Development Council",
+    "type": "grant",
+    "eligibility": ["forestry", "wood_products", "west_virginia_based"],
+    "funding_range": "$10,000 - $150,000",
+    "obscurity_score": 9,
+    "url": "https://wvhardwood.org/grants"
+  },
+  {
+    "id": 1584,
+    "name": "West Virginia Ginseng Production Grant",
+    "source": "West Virginia Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["ginseng_farming", "specialty_crop", "west_virginia_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://agriculture.wv.gov/ginseng"
+  },
+  {
+    "id": 1585,
+    "name": "West Virginia Outdoor Recreation Grant",
+    "source": "West Virginia Tourism Office",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "west_virginia_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://wvtourism.com/outdoor-rec"
+  },
+  {
+    "id": 1586,
+    "name": "West Virginia Veteran Business Development",
+    "source": "West Virginia Department of Veterans Assistance",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "west_virginia_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://veterans.wv.gov/business"
+  },
+  {
+    "id": 1587,
+    "name": "Wyoming Business Council Grant",
+    "source": "Wyoming Business Council",
+    "type": "grant",
+    "eligibility": ["business_expansion", "job_creation", "wyoming_based"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 5,
+    "url": "https://wyomingbusiness.org/grants"
+  },
+  {
+    "id": 1588,
+    "name": "Wyoming Film Production Incentive",
+    "source": "Wyoming Film Office",
+    "type": "rebate",
+    "eligibility": ["film_production", "media", "wyoming_filming"],
+    "funding_range": "15% rebate",
+    "obscurity_score": 6,
+    "url": "https://wyofilm.org/rebate"
+  },
+  {
+    "id": 1589,
+    "name": "Wyoming Small Business Loan",
+    "source": "Wyoming Business Council",
+    "type": "loan",
+    "eligibility": ["small_business", "wyoming_based", "expansion"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://wyomingbusiness.org/loans"
+  },
+  {
+    "id": 1590,
+    "name": "Wyoming Livestock Board Marketing Grant",
+    "source": "Wyoming Livestock Board",
+    "type": "grant",
+    "eligibility": ["ranching", "livestock", "wyoming_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 8,
+    "url": "https://wlsb.state.wy.us/grants"
+  },
+  {
+    "id": 1591,
+    "name": "Wyoming Tourism Marketing Grant",
+    "source": "Wyoming Office of Tourism",
+    "type": "grant",
+    "eligibility": ["tourism", "hospitality", "marketing"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 6,
+    "url": "https://travelwyoming.com/grants"
+  },
+  {
+    "id": 1592,
+    "name": "Wyoming Workforce Development Training Fund",
+    "source": "Wyoming Department of Workforce Services",
+    "type": "grant",
+    "eligibility": ["employer", "workforce_development", "wyoming_based"],
+    "funding_range": "$10,000 - $200,000",
+    "obscurity_score": 5,
+    "url": "https://dws.wyo.gov/training"
+  },
+  {
+    "id": 1593,
+    "name": "Wyoming Broadband Infrastructure Grant",
+    "source": "Wyoming Business Council",
+    "type": "grant",
+    "eligibility": ["broadband", "rural", "infrastructure"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://wyomingbusiness.org/broadband"
+  },
+  {
+    "id": 1594,
+    "name": "Wyoming Energy Mineral Exploration Tax Credit",
+    "source": "Wyoming Department of Revenue",
+    "type": "tax_credit",
+    "eligibility": ["mining", "energy", "wyoming_based"],
+    "funding_range": "Variable",
+    "obscurity_score": 8,
+    "url": "https://revenue.wyo.gov/energy-mineral"
+  },
+  {
+    "id": 1595,
+    "name": "Wyoming Manufacturing Works Grant",
+    "source": "Wyoming Manufacturing Works",
+    "type": "grant",
+    "eligibility": ["manufacturing", "productivity", "wyoming_based"],
+    "funding_range": "$5,000 - $75,000",
+    "obscurity_score": 7,
+    "url": "https://wyomingmfg.org/grants"
+  },
+  {
+    "id": 1596,
+    "name": "Wyoming Outdoor Recreation Grant",
+    "source": "Wyoming Office of Tourism",
+    "type": "grant",
+    "eligibility": ["outdoor_recreation", "infrastructure", "wyoming_based"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://travelwyoming.com/outdoor-rec"
+  },
+  {
+    "id": 1597,
+    "name": "Wyoming Veteran Business Development",
+    "source": "Wyoming Veterans Commission",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "small_business", "wyoming_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 6,
+    "url": "https://wvc.wyo.gov/business"
+  },
+  {
+    "id": 1598,
+    "name": "Wyoming Wild Game Check Station Grant",
+    "source": "Wyoming Game and Fish Department",
+    "type": "grant",
+    "eligibility": ["hunting", "outdoor_recreation", "wyoming_based"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 9,
+    "url": "https://wgfd.wyo.gov/check-station"
+  },
+  {
+    "id": 1599,
+    "name": "Wyoming Craft Beverage Production Support",
+    "source": "Wyoming Business Council",
+    "type": "grant",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "$5,000 - $50,000",
+    "obscurity_score": 7,
+    "url": "https://wyomingbusiness.org/craft-beverage"
+  },
+  {
+    "id": 1600,
+    "name": "Wyoming Cultural Trust Fund Grant",
+    "source": "Wyoming Cultural Trust Fund",
+    "type": "grant",
+    "eligibility": ["arts", "cultural_heritage", "wyoming_based"],
+    "funding_range": "$5,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://wyarts.state.wy.us/cultural-trust"
+  }
+]

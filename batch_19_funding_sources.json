@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1801,
+    "name": "Film Production Equipment Manufacturing Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": ["film_equipment", "camera", "production_gear"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://arts.gov/film-equipment"
+  },
+  {
+    "id": 1802,
+    "name": "Cinema Camera Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["cinema_camera", "digital_cinematography", "manufacturing"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/cinema-camera"
+  },
+  {
+    "id": 1803,
+    "name": "LED Film Lighting Equipment Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["led_lighting", "film_lighting", "production_equipment"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/film-lighting"
+  },
+  {
+    "id": 1804,
+    "name": "Motion Control Robotics for Film",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["motion_control", "camera_robotics", "production_automation"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/motion-control-film"
+  },
+  {
+    "id": 1805,
+    "name": "Professional Audio Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["professional_audio", "recording_equipment", "manufacturing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/pro-audio"
+  },
+  {
+    "id": 1806,
+    "name": "Film Grip & Rigging Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["grip_equipment", "rigging", "production_support"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/grip-equipment"
+  },
+  {
+    "id": 1807,
+    "name": "Steadicam & Camera Stabilization Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["camera_stabilization", "gimbal", "production_equipment"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/stabilization"
+  },
+  {
+    "id": 1808,
+    "name": "Film Dolly & Track System Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["camera_dolly", "track_system", "production_equipment"],
+    "funding_range": "$250,000 - $7,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/dolly-track"
+  },
+  {
+    "id": 1809,
+    "name": "Cinema Lens Manufacturing Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["cinema_lens", "optical_manufacturing", "cinematography"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/cinema-lens"
+  },
+  {
+    "id": 1810,
+    "name": "Film Color Grading Hardware Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["color_grading", "post_production", "display_technology"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/color-grading"
+  },
+  {
+    "id": 1811,
+    "name": "Gaming Console Component Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_hardware", "console", "electronics"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/gaming-console"
+  },
+  {
+    "id": 1812,
+    "name": "Gaming PC Component Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_pc", "high_performance_computing", "peripherals"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/gaming-pc"
+  },
+  {
+    "id": 1813,
+    "name": "Gaming Peripheral Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_mouse", "keyboard", "controller"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/gaming-peripherals"
+  },
+  {
+    "id": 1814,
+    "name": "Esports Arena Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["esports_equipment", "arena_infrastructure", "gaming"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/esports-arena"
+  },
+  {
+    "id": 1815,
+    "name": "Gaming Chair & Furniture Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_chair", "esports_furniture", "ergonomic"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/gaming-furniture"
+  },
+  {
+    "id": 1816,
+    "name": "Racing Simulator Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["racing_simulator", "sim_racing", "gaming_hardware"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/racing-sim"
+  },
+  {
+    "id": 1817,
+    "name": "Gaming Headset Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_headset", "audio", "peripherals"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/gaming-headset"
+  },
+  {
+    "id": 1818,
+    "name": "Arcade Cabinet Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["arcade_cabinet", "retro_gaming", "entertainment"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/arcade-cabinet"
+  },
+  {
+    "id": 1819,
+    "name": "Gaming Monitor Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gaming_monitor", "high_refresh_rate", "display"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/gaming-monitor"
+  },
+  {
+    "id": 1820,
+    "name": "Haptic Feedback Device Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["haptic_feedback", "force_feedback", "gaming"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/haptic-gaming"
+  },
+  {
+    "id": 1821,
+    "name": "Professional Microphone Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["microphone", "audio_equipment", "recording"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/microphone"
+  },
+  {
+    "id": 1822,
+    "name": "Audio Mixing Console Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["mixing_console", "audio_production", "recording"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/mixing-console"
+  },
+  {
+    "id": 1823,
+    "name": "Studio Monitor Speaker Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["studio_monitor", "speaker", "audio_equipment"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/studio-monitor"
+  },
+  {
+    "id": 1824,
+    "name": "Audio Interface Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["audio_interface", "recording_equipment", "digital_audio"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/audio-interface"
+  },
+  {
+    "id": 1825,
+    "name": "Synthesizer Manufacturing Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": ["synthesizer", "musical_instrument", "electronic_music"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/synthesizer"
+  },
+  {
+    "id": 1826,
+    "name": "DJ Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["dj_controller", "turntable", "music_production"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/dj-equipment"
+  },
+  {
+    "id": 1827,
+    "name": "Digital Audio Workstation Controller",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["daw_controller", "midi_controller", "music_production"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/daw-controller"
+  },
+  {
+    "id": 1828,
+    "name": "Guitar Amplifier Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["guitar_amp", "musical_equipment", "manufacturing"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/guitar-amp"
+  },
+  {
+    "id": 1829,
+    "name": "Musical Instrument Pickup Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["pickup", "guitar", "musical_instrument"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/instrument-pickup"
+  },
+  {
+    "id": 1830,
+    "name": "Effects Pedal Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["effects_pedal", "guitar_pedal", "audio_processing"],
+    "funding_range": "$250,000 - $7,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/effects-pedal"
+  },
+  {
+    "id": 1831,
+    "name": "Broadcast Camera Manufacturing Grant",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["broadcast_camera", "television", "video_equipment"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/broadcast-camera"
+  },
+  {
+    "id": 1832,
+    "name": "Television Transmitter Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["tv_transmitter", "broadcast_equipment", "atsc_3.0"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/tv-transmitter"
+  },
+  {
+    "id": 1833,
+    "name": "Radio Broadcasting Equipment Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["radio_transmitter", "broadcast_equipment", "fm_am"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/radio-equipment"
+  },
+  {
+    "id": 1834,
+    "name": "Video Switcher Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["video_switcher", "broadcast", "production_equipment"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/video-switcher"
+  },
+  {
+    "id": 1835,
+    "name": "Broadcast Master Control Equipment",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["master_control", "broadcast_automation", "playout"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://fcc.gov/master-control"
+  },
+  {
+    "id": 1836,
+    "name": "Live Streaming Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["streaming_equipment", "encoder", "video_production"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/streaming-equipment"
+  },
+  {
+    "id": 1837,
+    "name": "Teleprompter Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["teleprompter", "broadcast", "production_equipment"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/teleprompter"
+  },
+  {
+    "id": 1838,
+    "name": "Broadcast Audio Console Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["broadcast_console", "audio_mixing", "radio_tv"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/broadcast-console"
+  },
+  {
+    "id": 1839,
+    "name": "Character Generator Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["character_generator", "graphics", "broadcast"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/character-generator"
+  },
+  {
+    "id": 1840,
+    "name": "Satellite Uplink Equipment Manufacturing",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": ["satellite_uplink", "broadcast", "transmission"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://fcc.gov/uplink-equipment"
+  },
+  {
+    "id": 1841,
+    "name": "Virtual Reality Headset Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["vr_headset", "virtual_reality", "display_technology"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://nsf.gov/vr-headset"
+  },
+  {
+    "id": 1842,
+    "name": "Augmented Reality Glasses Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["ar_glasses", "augmented_reality", "wearable_display"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/ar-glasses"
+  },
+  {
+    "id": 1843,
+    "name": "VR Motion Tracking System Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["motion_tracking", "vr", "sensor_technology"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/vr-tracking"
+  },
+  {
+    "id": 1844,
+    "name": "VR Haptic Glove Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["haptic_glove", "vr_controller", "tactile_feedback"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/haptic-glove"
+  },
+  {
+    "id": 1845,
+    "name": "Omnidirectional Treadmill Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["vr_treadmill", "locomotion", "virtual_reality"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/vr-treadmill"
+  },
+  {
+    "id": 1846,
+    "name": "360-Degree Camera Manufacturing Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["360_camera", "vr_content", "immersive_video"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/360-camera"
+  },
+  {
+    "id": 1847,
+    "name": "Volumetric Capture System Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["volumetric_capture", "3d_video", "holographic"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/volumetric-capture"
+  },
+  {
+    "id": 1848,
+    "name": "AR/VR Development Kit Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["dev_kit", "ar_vr", "developer_hardware"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/arvr-devkit"
+  },
+  {
+    "id": 1849,
+    "name": "Eye Tracking Technology Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["eye_tracking", "gaze_detection", "vr_ar"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/eye-tracking"
+  },
+  {
+    "id": 1850,
+    "name": "Spatial Audio Equipment for VR/AR",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["spatial_audio", "3d_audio", "immersive_sound"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/spatial-audio"
+  },
+  {
+    "id": 1851,
+    "name": "Golf Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["golf_clubs", "golf_balls", "sports_equipment"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/golf-equipment"
+  },
+  {
+    "id": 1852,
+    "name": "Tennis Racquet Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["tennis_racquet", "sports_equipment", "carbon_fiber"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/tennis-racquet"
+  },
+  {
+    "id": 1853,
+    "name": "Athletic Footwear Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["athletic_shoes", "running_shoes", "sports_footwear"],
+    "funding_range": "$2,000,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/athletic-footwear"
+  },
+  {
+    "id": 1854,
+    "name": "Performance Sportswear Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["activewear", "performance_fabric", "sports_apparel"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/sportswear"
+  },
+  {
+    "id": 1855,
+    "name": "Bicycle Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bicycle", "cycling", "sports_equipment"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/bicycle"
+  },
+  {
+    "id": 1856,
+    "name": "Ski & Snowboard Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["ski", "snowboard", "winter_sports"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/winter-sports"
+  },
+  {
+    "id": 1857,
+    "name": "Hockey Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["hockey_stick", "hockey_equipment", "sports"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/hockey-equipment"
+  },
+  {
+    "id": 1858,
+    "name": "Surfboard & Water Sports Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["surfboard", "water_sports", "marine_sports"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/surfboard"
+  },
+  {
+    "id": 1859,
+    "name": "Climbing Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["climbing_gear", "rope", "carabiner"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/climbing-equipment"
+  },
+  {
+    "id": 1860,
+    "name": "Camping & Outdoor Gear Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["camping_equipment", "tent", "outdoor_gear"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/camping-gear"
+  },
+  {
+    "id": 1861,
+    "name": "Fishing Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["fishing_rod", "fishing_reel", "tackle"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/fishing-equipment"
+  },
+  {
+    "id": 1862,
+    "name": "Kayak & Canoe Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["kayak", "canoe", "paddle_sports"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/kayak-canoe"
+  },
+  {
+    "id": 1863,
+    "name": "Archery Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bow", "arrow", "archery"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/archery"
+  },
+  {
+    "id": 1864,
+    "name": "Gym Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gym_equipment", "fitness", "weight_training"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/gym-equipment"
+  },
+  {
+    "id": 1865,
+    "name": "Yoga & Pilates Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["yoga_mat", "pilates_equipment", "fitness"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/yoga-equipment"
+  },
+  {
+    "id": 1866,
+    "name": "Interactive Whiteboard Manufacturing",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["interactive_whiteboard", "smart_board", "education_tech"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://ed.gov/interactive-whiteboard"
+  },
+  {
+    "id": 1867,
+    "name": "Educational Tablet Manufacturing Grant",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["educational_tablet", "student_device", "edtech"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://ed.gov/educational-tablet"
+  },
+  {
+    "id": 1868,
+    "name": "STEM Education Kit Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["stem_kit", "educational_kit", "science_education"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/stem-kit"
+  },
+  {
+    "id": 1869,
+    "name": "Coding Robot for Education Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["educational_robot", "coding", "robotics_education"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/coding-robot"
+  },
+  {
+    "id": 1870,
+    "name": "Science Lab Equipment for Schools",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["lab_equipment", "science_education", "k12"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://ed.gov/school-lab-equipment"
+  },
+  {
+    "id": 1871,
+    "name": "Educational 3D Printer Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["educational_3d_printer", "maker_education", "edtech"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/educational-3d-printer"
+  },
+  {
+    "id": 1872,
+    "name": "Classroom Audio System Manufacturing",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["classroom_audio", "sound_system", "accessibility"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/classroom-audio"
+  },
+  {
+    "id": 1873,
+    "name": "Document Camera Manufacturing Grant",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["document_camera", "visualizer", "classroom_tech"],
+    "funding_range": "$250,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/document-camera"
+  },
+  {
+    "id": 1874,
+    "name": "Educational VR Headset Manufacturing",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["educational_vr", "immersive_learning", "edtech"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/educational-vr"
+  },
+  {
+    "id": 1875,
+    "name": "Assistive Technology Device Manufacturing",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": ["assistive_tech", "accessibility", "special_education"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://ed.gov/assistive-tech"
+  },
+  {
+    "id": 1876,
+    "name": "Industrial IoT Sensor Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["iiot_sensor", "industrial_iot", "smart_factory"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/iiot-sensor"
+  },
+  {
+    "id": 1877,
+    "name": "Industrial Gateway Device Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["industrial_gateway", "edge_computing", "iiot"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/industrial-gateway"
+  },
+  {
+    "id": 1878,
+    "name": "Machine Vision System Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["machine_vision", "quality_inspection", "automation"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/machine-vision"
+  },
+  {
+    "id": 1879,
+    "name": "Industrial Wireless Module Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["industrial_wireless", "5g_industrial", "connectivity"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/industrial-wireless"
+  },
+  {
+    "id": 1880,
+    "name": "SCADA System Hardware Manufacturing",
+    "source": "Cybersecurity and Infrastructure Security Agency",
+    "type": "grant",
+    "eligibility": ["scada", "industrial_control", "critical_infrastructure"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 8,
+    "url": "https://cisa.gov/scada-hardware"
+  },
+  {
+    "id": 1881,
+    "name": "Programmable Logic Controller Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["plc", "industrial_automation", "control_system"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/plc"
+  },
+  {
+    "id": 1882,
+    "name": "Industrial Robot Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["industrial_robot", "factory_automation", "robotics"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/industrial-robot"
+  },
+  {
+    "id": 1883,
+    "name": "Collaborative Robot (Cobot) Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["cobot", "collaborative_robot", "human_robot"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/cobot"
+  },
+  {
+    "id": 1884,
+    "name": "Automated Guided Vehicle Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["agv", "warehouse_automation", "logistics"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/agv"
+  },
+  {
+    "id": 1885,
+    "name": "Industrial 3D Printer Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["industrial_3d_printer", "additive_manufacturing", "production"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://nist.gov/industrial-3d-printer"
+  },
+  {
+    "id": 1886,
+    "name": "CNC Machine Tool Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["cnc", "machine_tool", "precision_manufacturing"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/cnc-machine"
+  },
+  {
+    "id": 1887,
+    "name": "Industrial Laser Cutting Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["laser_cutter", "industrial_laser", "manufacturing"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/laser-cutting"
+  },
+  {
+    "id": 1888,
+    "name": "Smart Factory Edge Computing Hardware",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["edge_computing", "smart_factory", "iiot"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/edge-computing"
+  },
+  {
+    "id": 1889,
+    "name": "Industrial Condition Monitoring Equipment",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["condition_monitoring", "predictive_maintenance", "sensor"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/condition-monitoring"
+  },
+  {
+    "id": 1890,
+    "name": "Digital Twin Infrastructure Hardware",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["digital_twin", "simulation", "industrial_iot"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/digital-twin"
+  },
+  {
+    "id": 1891,
+    "name": "Industrial Drone Manufacturing Grant",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["industrial_drone", "inspection", "commercial_uas"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://faa.gov/industrial-drone"
+  },
+  {
+    "id": 1892,
+    "name": "Warehouse Robotics System Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["warehouse_robot", "logistics_automation", "fulfillment"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/warehouse-robotics"
+  },
+  {
+    "id": 1893,
+    "name": "Industrial Barcode Scanner Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["barcode_scanner", "rfid", "supply_chain"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/barcode-scanner"
+  },
+  {
+    "id": 1894,
+    "name": "Industrial HMI Panel Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["hmi", "human_machine_interface", "industrial_display"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/hmi-panel"
+  },
+  {
+    "id": 1895,
+    "name": "Industrial Power Supply Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["industrial_power", "power_supply", "manufacturing"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/industrial-power"
+  },
+  {
+    "id": 1896,
+    "name": "Servo Motor & Drive Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["servo_motor", "motor_drive", "motion_control"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/servo-motor"
+  },
+  {
+    "id": 1897,
+    "name": "Industrial Encoder Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["encoder", "position_sensor", "motion_feedback"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/encoder"
+  },
+  {
+    "id": 1898,
+    "name": "Industrial Pressure Sensor Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["pressure_sensor", "process_control", "instrumentation"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/pressure-sensor"
+  },
+  {
+    "id": 1899,
+    "name": "Industrial Temperature Sensor Manufacturing",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["temperature_sensor", "thermocouple", "rtd"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/temperature-sensor"
+  },
+  {
+    "id": 1900,
+    "name": "Industrial Flow Meter Manufacturing Grant",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["flow_meter", "process_instrumentation", "measurement"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://nist.gov/flow-meter"
+  }
+]

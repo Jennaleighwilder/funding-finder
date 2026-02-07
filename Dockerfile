@@ -8,10 +8,14 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # App and static assets
-COPY app.py engine.py questionnaire.py schema.sql ./
+COPY app.py engine.py load_batches.py questionnaire.py schema.sql ./
 COPY FUNDING_FINDER_FUN.html ./
 COPY SAMPLE_FUNDING_REPORT.html ./
 COPY start.sh ./
+# All batch data for search (batch_11..35+, BATCH_2..10, FIRST_100 → 3,500 sources)
+COPY batch_*.json ./
+COPY BATCH_*_SOURCES.json ./
+COPY FIRST_100_SOURCES.json ./
 
 # Create data dir for SQLite (writable at runtime)
 RUN mkdir -p /app/data && chmod +x start.sh

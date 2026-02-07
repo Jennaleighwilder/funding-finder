@@ -26,6 +26,21 @@ def _ensure_db():
             conn.executescript(schema_path.read_text())
             conn.commit()
             conn.close()
+        # Seed from batch JSONs (batches 11–20 + BATCH_*/FIRST_100) when DB is empty
+        try:
+            from load_batches import load_all_batches
+            n = load_all_batches(DB_PATH)
+            if n:
+                pass  # optional: log n loaded
+        except Exception:
+            pass
+    else:
+        # DB exists but may be empty (e.g. schema has no INSERTs); seed if empty
+        try:
+            from load_batches import load_all_batches
+            load_all_batches(DB_PATH)
+        except Exception:
+            pass
 
 from engine import FundingMatchEngine, UserProfile, Match
 
@@ -66,6 +81,8 @@ def form_to_profile(data: dict) -> UserProfile:
     story = (data.get("story") or data.get("vision") or "")[:500]
     vision = (data.get("vision") or data.get("project_vision") or "")[:500]
     project_desc = vision or story or "General business or project"
+    # Use description for project_field so tag matching (small_business, tech_startup, etc.) finds overlap
+    project_field = (vision or story or "general business startup").lower()[:200]
 
     stage_map = {
         "concept": "Just an idea I can't stop thinking about",
@@ -81,7 +98,7 @@ def form_to_profile(data: dict) -> UserProfile:
         location={"city": city, "state": state, "zip": zip_code or "00000"},
         age=35,
         project_type="business",
-        project_field="general",
+        project_field=project_field,
         project_description=project_desc,
         project_stage=project_stage,
         funding_needed=(float(funding_min), float(funding_max)),
@@ -104,6 +121,7 @@ def form_to_profile(data: dict) -> UserProfile:
 
 
 def match_to_json(m: Match) -> dict:
+    """Full report payload so user knows what to apply for, how, and where."""
     s = m.source
     return {
         "source": {
@@ -116,7 +134,7 @@ def match_to_json(m: Match) -> dict:
             "deadline": s.deadline.isoformat() if s.deadline else None,
             "deadline_type": s.deadline_type,
             "application_url": getattr(s, "application_url", None),
-            "requirements_text": (s.requirements_text or "")[:500],
+            "requirements_text": (s.requirements_text or "").strip(),
         },
         "overall_score": round(m.overall_score, 1),
         "eligibility_score": round(m.eligibility_score, 1),
@@ -145,7 +163,7 @@ def api_match():
 
         profile = form_to_profile(data)
         engine = _get_engine()
-        matches = engine.match(profile, max_results=15)
+        matches = engine.match(profile, max_results=50)
         return jsonify({
             "ok": True,
             "matches": [match_to_json(m) for m in matches],
@@ -159,6 +177,21 @@ def api_match():
 def health():
     # Fast response so Railway healthcheck passes; DB init happens on first /api/match
     return jsonify({"status": "ok", "database": Path(DB_PATH).exists()})
+
+
+@app.route("/api/stats")
+def stats():
+    """Return funding source count for search/report verification (3000+ when all batches loaded)."""
+    _ensure_db()
+    try:
+        import sqlite3
+        conn = sqlite3.connect(DB_PATH)
+        cur = conn.execute("SELECT COUNT(*) FROM funding_sources WHERE active = 1")
+        total = cur.fetchone()[0]
+        conn.close()
+        return jsonify({"status": "ok", "funding_sources": total})
+    except Exception as e:
+        return jsonify({"status": "error", "error": str(e)}), 500
 
 
 if __name__ == "__main__":

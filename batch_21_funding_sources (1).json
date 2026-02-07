@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 2001,
+    "name": "Service-Disabled Veteran-Owned Small Business Grant",
+    "source": "U.S. Small Business Administration",
+    "type": "grant",
+    "eligibility": ["service_disabled_veteran", "small_business", "sdvosb"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 4,
+    "url": "https://sba.gov/sdvosb-grant"
+  },
+  {
+    "id": 2002,
+    "name": "Veteran Business Outreach Center Grant",
+    "source": "U.S. Small Business Administration",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "business_development", "training"],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 5,
+    "url": "https://sba.gov/vboc"
+  },
+  {
+    "id": 2003,
+    "name": "Boots to Business Entrepreneur Training",
+    "source": "U.S. Small Business Administration",
+    "type": "grant",
+    "eligibility": ["transitioning_service_member", "veteran", "military_spouse"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 5,
+    "url": "https://sba.gov/boots-to-business"
+  },
+  {
+    "id": 2004,
+    "name": "VA Vocational Rehabilitation Self-Employment",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["service_disabled_veteran", "self_employment", "vr_and_e"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://va.gov/careers-employment/vocational-rehab"
+  },
+  {
+    "id": 2005,
+    "name": "Military Reservist Economic Injury Disaster Loan",
+    "source": "U.S. Small Business Administration",
+    "type": "loan",
+    "eligibility": ["military_reservist", "economic_injury", "small_business"],
+    "funding_range": "$10,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/mreidl"
+  },
+  {
+    "id": 2006,
+    "name": "Veterans Business Fund",
+    "source": "U.S. Small Business Administration",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "startup", "growth_capital"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://sba.gov/veterans-business-fund"
+  },
+  {
+    "id": 2007,
+    "name": "Veteran Entrepreneur Portal Matching Grant",
+    "source": "U.S. Small Business Administration",
+    "type": "grant",
+    "eligibility": ["veteran_entrepreneur", "technology", "innovation"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/vep-matching-grant"
+  },
+  {
+    "id": 2008,
+    "name": "Military Spouse Business Acceleration Grant",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["military_spouse", "portable_business", "entrepreneur"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/milspouse-business"
+  },
+  {
+    "id": 2009,
+    "name": "Veterans in Franchising Initiative Grant",
+    "source": "International Franchise Association Veterans Program",
+    "type": "grant",
+    "eligibility": ["veteran", "franchise", "business_ownership"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://vetfran.org/grants"
+  },
+  {
+    "id": 2010,
+    "name": "Veteran Technology Transfer Program Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["veteran_entrepreneur", "technology_commercialization", "innovation"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/veteran-tech-transfer"
+  },
+  {
+    "id": 2011,
+    "name": "VA Adaptive Housing Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["service_disabled_veteran", "adaptive_housing", "mobility_impairment"],
+    "funding_range": "$20,000 - $100,000",
+    "obscurity_score": 5,
+    "url": "https://va.gov/housing-assistance/disability-housing-grants"
+  },
+  {
+    "id": 2012,
+    "name": "VA Home Improvement and Structural Alterations Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "home_modification", "disability_access"],
+    "funding_range": "$2,000 - $6,800",
+    "obscurity_score": 6,
+    "url": "https://va.gov/hisa-grant"
+  },
+  {
+    "id": 2013,
+    "name": "Veteran Farm Ownership Loan",
+    "source": "USDA Farm Service Agency",
+    "type": "loan",
+    "eligibility": ["veteran", "beginning_farmer", "farm_purchase"],
+    "funding_range": "$50,000 - $600,000",
+    "obscurity_score": 6,
+    "url": "https://fsa.usda.gov/veteran-farm-loan"
+  },
+  {
+    "id": 2014,
+    "name": "Veteran Farmer Microenterprise Grant",
+    "source": "USDA Rural Development",
+    "type": "grant",
+    "eligibility": ["veteran", "rural_agriculture", "value_added"],
+    "funding_range": "$10,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://rd.usda.gov/veteran-farmer-micro"
+  },
+  {
+    "id": 2015,
+    "name": "Veteran Hemp Farming Pilot Program",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["veteran", "hemp_farming", "agriculture"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://ams.usda.gov/veteran-hemp"
+  },
+  {
+    "id": 2016,
+    "name": "Veterans in Organic Agriculture Grant",
+    "source": "USDA National Organic Program",
+    "type": "grant",
+    "eligibility": ["veteran", "organic_farming", "certification"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/veteran-organic"
+  },
+  {
+    "id": 2017,
+    "name": "Veteran Aquaculture Development Grant",
+    "source": "NOAA Fisheries",
+    "type": "grant",
+    "eligibility": ["veteran", "aquaculture", "fish_farming"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://fisheries.noaa.gov/veteran-aquaculture"
+  },
+  {
+    "id": 2018,
+    "name": "Veteran Commercial Fishing Transition Grant",
+    "source": "NOAA Fisheries",
+    "type": "grant",
+    "eligibility": ["veteran", "commercial_fishing", "vessel_purchase"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://fisheries.noaa.gov/veteran-fishing"
+  },
+  {
+    "id": 2019,
+    "name": "Veteran Forestry Business Development",
+    "source": "USDA Forest Service",
+    "type": "grant",
+    "eligibility": ["veteran", "forestry", "timber_business"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://fs.usda.gov/veteran-forestry"
+  },
+  {
+    "id": 2020,
+    "name": "Veteran Beekeeping Enterprise Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["veteran", "beekeeping", "honey_production"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 9,
+    "url": "https://ams.usda.gov/veteran-beekeeping"
+  },
+  {
+    "id": 2021,
+    "name": "Veterans in Construction Training Grant",
+    "source": "U.S. Department of Labor Veterans Employment and Training",
+    "type": "grant",
+    "eligibility": ["veteran", "construction_trades", "apprenticeship"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://dol.gov/vets/construction"
+  },
+  {
+    "id": 2022,
+    "name": "Veteran Clean Energy Business Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "renewable_energy", "clean_tech"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/veteran-clean-energy"
+  },
+  {
+    "id": 2023,
+    "name": "Veteran Transportation Business Development",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "trucking", "logistics"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/veteran-business"
+  },
+  {
+    "id": 2024,
+    "name": "Veteran Cybersecurity Business Grant",
+    "source": "Cybersecurity and Infrastructure Security Agency",
+    "type": "grant",
+    "eligibility": ["veteran", "cybersecurity", "it_services"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://cisa.gov/veteran-cybersecurity"
+  },
+  {
+    "id": 2025,
+    "name": "Veteran Manufacturing Competitiveness Grant",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "manufacturing", "productivity"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/veteran-manufacturing"
+  },
+  {
+    "id": 2026,
+    "name": "Veteran Export Business Development",
+    "source": "U.S. Department of Commerce International Trade Administration",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "export", "international_trade"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://trade.gov/veteran-export"
+  },
+  {
+    "id": 2027,
+    "name": "Veteran Healthcare Entrepreneur Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["veteran", "healthcare_business", "medical_services"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/veteran-healthcare-business"
+  },
+  {
+    "id": 2028,
+    "name": "Veteran Mental Health Practice Startup Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran_clinician", "mental_health", "private_practice"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://va.gov/veteran-mental-health-practice"
+  },
+  {
+    "id": 2029,
+    "name": "Veteran Pharmaceutical Compounding Business",
+    "source": "FDA",
+    "type": "grant",
+    "eligibility": ["veteran", "pharmacy", "compounding"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://fda.gov/veteran-compounding"
+  },
+  {
+    "id": 2030,
+    "name": "Veteran Medical Device Innovation Grant",
+    "source": "FDA Center for Devices and Radiological Health",
+    "type": "grant",
+    "eligibility": ["veteran_entrepreneur", "medical_device", "innovation"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/veteran-medical-device"
+  },
+  {
+    "id": 2031,
+    "name": "Veteran Home Healthcare Business Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["veteran", "home_healthcare", "caregiving"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/veteran-home-health"
+  },
+  {
+    "id": 2032,
+    "name": "Veteran Brewery & Distillery Startup Grant",
+    "source": "Alcohol and Tobacco Tax and Trade Bureau",
+    "type": "grant",
+    "eligibility": ["veteran", "brewery", "distillery"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://ttb.gov/veteran-beverage"
+  },
+  {
+    "id": 2033,
+    "name": "Veteran Coffee Roasting Business Grant",
+    "source": "USDA Rural Business Development",
+    "type": "grant",
+    "eligibility": ["veteran", "coffee_roasting", "specialty_food"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://rd.usda.gov/veteran-coffee"
+  },
+  {
+    "id": 2034,
+    "name": "Veteran Food Truck & Mobile Food Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "food_truck", "mobile_business"],
+    "funding_range": "$25,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-food-truck"
+  },
+  {
+    "id": 2035,
+    "name": "Veteran Restaurant Startup Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "restaurant", "hospitality"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-restaurant"
+  },
+  {
+    "id": 2036,
+    "name": "Veteran Outdoor Recreation Business Grant",
+    "source": "U.S. Department of Interior",
+    "type": "grant",
+    "eligibility": ["veteran", "outdoor_recreation", "guiding_outfitting"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://doi.gov/veteran-outdoor-rec"
+  },
+  {
+    "id": 2037,
+    "name": "Veteran Adventure Tourism Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "adventure_tourism", "recreation"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-adventure-tourism"
+  },
+  {
+    "id": 2038,
+    "name": "Veteran Hunting & Fishing Guide Service",
+    "source": "U.S. Fish and Wildlife Service",
+    "type": "grant",
+    "eligibility": ["veteran", "guide_service", "hunting_fishing"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 8,
+    "url": "https://fws.gov/veteran-guide-service"
+  },
+  {
+    "id": 2039,
+    "name": "Veteran Marina & Boat Rental Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "marina", "boat_rental"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-marina"
+  },
+  {
+    "id": 2040,
+    "name": "Veteran Film Production Company Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": ["veteran", "film_production", "media"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/veteran-film"
+  },
+  {
+    "id": 2041,
+    "name": "Veteran Music Production Studio Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": ["veteran", "recording_studio", "music_production"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/veteran-music-studio"
+  },
+  {
+    "id": 2042,
+    "name": "Veteran Esports & Gaming Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "esports", "gaming_center"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-esports"
+  },
+  {
+    "id": 2043,
+    "name": "Veteran Fitness Center & Gym Startup",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "fitness_center", "gym"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-gym"
+  },
+  {
+    "id": 2044,
+    "name": "Veteran Martial Arts Studio Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "martial_arts", "dojo"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-martial-arts"
+  },
+  {
+    "id": 2045,
+    "name": "Veteran Athletic Training Facility Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "athletic_training", "sports_performance"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-athletic-training"
+  },
+  {
+    "id": 2046,
+    "name": "Veteran Security Services Business Grant",
+    "source": "U.S. Department of Homeland Security",
+    "type": "grant",
+    "eligibility": ["veteran", "security_services", "private_security"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://dhs.gov/veteran-security"
+  },
+  {
+    "id": 2047,
+    "name": "Veteran Executive Protection Business",
+    "source": "U.S. Department of Homeland Security",
+    "type": "grant",
+    "eligibility": ["veteran", "executive_protection", "bodyguard"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/veteran-executive-protection"
+  },
+  {
+    "id": 2048,
+    "name": "Veteran Private Investigation Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "private_investigation", "forensics"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-pi"
+  },
+  {
+    "id": 2049,
+    "name": "Veteran Emergency Management Consulting",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": ["veteran", "emergency_management", "disaster_preparedness"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://fema.gov/veteran-emergency-mgmt"
+  },
+  {
+    "id": 2050,
+    "name": "Veteran Drone Service Business Grant",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "drone_services", "aerial_photography"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://faa.gov/veteran-drone"
+  },
+  {
+    "id": 2051,
+    "name": "Veteran Automotive Repair Shop Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "auto_repair", "mechanic"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-auto-repair"
+  },
+  {
+    "id": 2052,
+    "name": "Veteran Mobile Mechanic Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "mobile_mechanic", "automotive_service"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-mobile-mechanic"
+  },
+  {
+    "id": 2053,
+    "name": "Veteran Custom Motorcycle Shop Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "motorcycle_shop", "custom_bikes"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-motorcycle-shop"
+  },
+  {
+    "id": 2054,
+    "name": "Veteran Detailing & Car Wash Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "car_wash", "detailing"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-car-wash"
+  },
+  {
+    "id": 2055,
+    "name": "Veteran Aviation Maintenance Business",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "aircraft_maintenance", "a_and_p"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/veteran-aviation-maintenance"
+  },
+  {
+    "id": 2056,
+    "name": "Veteran Flight School Startup Grant",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "flight_school", "pilot_training"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/veteran-flight-school"
+  },
+  {
+    "id": 2057,
+    "name": "Veteran HVAC Business Startup Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["veteran", "hvac", "skilled_trades"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/veteran-hvac"
+  },
+  {
+    "id": 2058,
+    "name": "Veteran Plumbing Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "plumbing", "skilled_trades"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-plumbing"
+  },
+  {
+    "id": 2059,
+    "name": "Veteran Electrical Contracting Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "electrical", "contractor"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-electrical"
+  },
+  {
+    "id": 2060,
+    "name": "Veteran Solar Installation Business Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["veteran", "solar_installation", "renewable_energy"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/veteran-solar-install"
+  },
+  {
+    "id": 2061,
+    "name": "Veteran Roofing Business Startup Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "roofing", "construction"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-roofing"
+  },
+  {
+    "id": 2062,
+    "name": "Veteran Landscaping Business Grant",
+    "source": "USDA Natural Resources Conservation Service",
+    "type": "grant",
+    "eligibility": ["veteran", "landscaping", "lawn_care"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://nrcs.usda.gov/veteran-landscaping"
+  },
+  {
+    "id": 2063,
+    "name": "Veteran Tree Service Business Grant",
+    "source": "USDA Forest Service",
+    "type": "grant",
+    "eligibility": ["veteran", "tree_service", "arborist"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://fs.usda.gov/veteran-tree-service"
+  },
+  {
+    "id": 2064,
+    "name": "Veteran Pest Control Business Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["veteran", "pest_control", "exterminator"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/veteran-pest-control"
+  },
+  {
+    "id": 2065,
+    "name": "Veteran Cleaning & Janitorial Services",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "janitorial", "cleaning_service"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-janitorial"
+  },
+  {
+    "id": 2066,
+    "name": "Veteran Moving & Storage Business Grant",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["veteran", "moving_company", "logistics"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/veteran-moving"
+  },
+  {
+    "id": 2067,
+    "name": "Veteran Property Management Business",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": ["veteran", "property_management", "real_estate"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/veteran-property-mgmt"
+  },
+  {
+    "id": 2068,
+    "name": "Veteran Real Estate Brokerage Startup",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "real_estate", "brokerage"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-real-estate"
+  },
+  {
+    "id": 2069,
+    "name": "Veteran Commercial Real Estate Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "commercial_real_estate", "development"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-cre"
+  },
+  {
+    "id": 2070,
+    "name": "Veteran Tattoo Shop Business Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "tattoo_shop", "body_art"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/veteran-tattoo-shop"
+  },
+  {
+    "id": 2071,
+    "name": "Veteran Barbershop & Salon Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "barbershop", "salon"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-barbershop"
+  },
+  {
+    "id": 2072,
+    "name": "Veteran Firearms Training Facility Grant",
+    "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "type": "grant",
+    "eligibility": ["veteran", "firearms_training", "shooting_range"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://atf.gov/veteran-firearms-training"
+  },
+  {
+    "id": 2073,
+    "name": "Veteran Gun Shop Business Grant",
+    "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "type": "grant",
+    "eligibility": ["veteran", "gun_shop", "firearms_dealer"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://atf.gov/veteran-gun-shop"
+  },
+  {
+    "id": 2074,
+    "name": "Veteran Gunsmithing Business Grant",
+    "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "type": "grant",
+    "eligibility": ["veteran", "gunsmith", "firearms_repair"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://atf.gov/veteran-gunsmith"
+  },
+  {
+    "id": 2075,
+    "name": "Veteran Tactical Gear Retail Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "tactical_gear", "military_surplus"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-tactical-gear"
+  },
+  {
+    "id": 2076,
+    "name": "Veteran Defense Contractor Startup",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["veteran_owned", "defense_contractor", "military_tech"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/veteran-contractor"
+  },
+  {
+    "id": 2077,
+    "name": "Veteran Military Simulation Technology",
+    "source": "Defense Advanced Research Projects Agency",
+    "type": "grant",
+    "eligibility": ["veteran", "military_simulation", "defense_tech"],
+    "funding_range": "$250,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://darpa.mil/veteran-simulation"
+  },
+  {
+    "id": 2078,
+    "name": "Veteran Armor & Ballistics Manufacturing",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["veteran", "body_armor", "ballistic_protection"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://defense.gov/veteran-armor"
+  },
+  {
+    "id": 2079,
+    "name": "Veteran K9 Training & Services Business",
+    "source": "U.S. Department of Homeland Security",
+    "type": "grant",
+    "eligibility": ["veteran", "k9_training", "working_dogs"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://dhs.gov/veteran-k9"
+  },
+  {
+    "id": 2080,
+    "name": "Veteran Service Dog Training Business",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "service_dog_training", "ptsd_therapy"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/veteran-service-dog"
+  },
+  {
+    "id": 2081,
+    "name": "Veteran Pet Boarding & Daycare Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "pet_boarding", "kennel"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-pet-boarding"
+  },
+  {
+    "id": 2082,
+    "name": "Veteran Veterinary Practice Startup",
+    "source": "USDA Animal and Plant Health Inspection Service",
+    "type": "grant",
+    "eligibility": ["veteran_veterinarian", "veterinary_practice", "animal_health"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://aphis.usda.gov/veteran-vet-practice"
+  },
+  {
+    "id": 2083,
+    "name": "Veteran Mobile Veterinary Services",
+    "source": "USDA Animal and Plant Health Inspection Service",
+    "type": "grant",
+    "eligibility": ["veteran_veterinarian", "mobile_vet", "rural_services"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://aphis.usda.gov/veteran-mobile-vet"
+  },
+  {
+    "id": 2084,
+    "name": "Veteran Equine Therapy Business Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "equine_therapy", "horse_therapy"],
+    "funding_range": "$50,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://va.gov/veteran-equine-therapy"
+  },
+  {
+    "id": 2085,
+    "name": "Veteran Horse Boarding & Training Facility",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["veteran", "horse_boarding", "equestrian"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/veteran-horse-boarding"
+  },
+  {
+    "id": 2086,
+    "name": "Veteran Wilderness Therapy Program Grant",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "wilderness_therapy", "outdoor_therapy"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 9,
+    "url": "https://va.gov/veteran-wilderness-therapy"
+  },
+  {
+    "id": 2087,
+    "name": "Veteran Peer Support Counseling Business",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "peer_support", "counseling"],
+    "funding_range": "$25,000 - $500,000",
+    "obscurity_score": 7,
+    "url": "https://va.gov/veteran-peer-support"
+  },
+  {
+    "id": 2088,
+    "name": "Veteran Transitional Housing Program",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "transitional_housing", "supportive_housing"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 6,
+    "url": "https://va.gov/veteran-transitional-housing"
+  },
+  {
+    "id": 2089,
+    "name": "Veteran Sober Living Facility Grant",
+    "source": "Substance Abuse and Mental Health Services Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "sober_living", "recovery_housing"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://samhsa.gov/veteran-sober-living"
+  },
+  {
+    "id": 2090,
+    "name": "Veteran Addiction Treatment Center Grant",
+    "source": "Substance Abuse and Mental Health Services Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "addiction_treatment", "substance_abuse"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://samhsa.gov/veteran-addiction-treatment"
+  },
+  {
+    "id": 2091,
+    "name": "Veteran Prosthetics & Orthotics Business",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "prosthetics", "orthotics"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://va.gov/veteran-prosthetics-business"
+  },
+  {
+    "id": 2092,
+    "name": "Veteran Adaptive Sports Equipment Business",
+    "source": "U.S. Department of Veterans Affairs",
+    "type": "grant",
+    "eligibility": ["veteran", "adaptive_sports", "disability_equipment"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 9,
+    "url": "https://va.gov/veteran-adaptive-sports-equipment"
+  },
+  {
+    "id": 2093,
+    "name": "Veteran Military Museum Development Grant",
+    "source": "National Park Service",
+    "type": "grant",
+    "eligibility": ["veteran", "military_museum", "heritage"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://nps.gov/veteran-museum"
+  },
+  {
+    "id": 2094,
+    "name": "Veteran Historical Preservation Business",
+    "source": "National Park Service",
+    "type": "grant",
+    "eligibility": ["veteran", "historic_preservation", "restoration"],
+    "funding_range": "$50,000 - $3,000,000",
+    "obscurity_score": 8,
+    "url": "https://nps.gov/veteran-preservation"
+  },
+  {
+    "id": 2095,
+    "name": "Veteran Publishing Company Grant",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": ["veteran", "publishing", "literary_arts"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/veteran-publishing"
+  },
+  {
+    "id": 2096,
+    "name": "Veteran Podcast Production Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "podcast", "media_production"],
+    "funding_range": "$10,000 - $250,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-podcast"
+  },
+  {
+    "id": 2097,
+    "name": "Veteran E-Commerce Platform Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "ecommerce", "online_retail"],
+    "funding_range": "$25,000 - $1,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/veteran-ecommerce"
+  },
+  {
+    "id": 2098,
+    "name": "Veteran SaaS Startup Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["veteran", "saas", "software_development"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/veteran-saas"
+  },
+  {
+    "id": 2099,
+    "name": "Veteran Mobile App Development Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["veteran", "mobile_app", "software"],
+    "funding_range": "$50,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/veteran-mobile-app"
+  },
+  {
+    "id": 2100,
+    "name": "Veteran Blockchain Technology Startup",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["veteran", "blockchain", "cryptocurrency"],
+    "funding_range": "$100,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/veteran-blockchain"
+  }
+]

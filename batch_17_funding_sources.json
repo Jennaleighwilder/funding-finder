@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1601,
+    "name": "Advanced Manufacturing Partnership Tax Credit",
+    "source": "U.S. Department of Commerce",
+    "type": "tax_credit",
+    "eligibility": ["advanced_manufacturing", "automation", "industry_4.0"],
+    "funding_range": "20% of investment",
+    "obscurity_score": 6,
+    "url": "https://commerce.gov/manufacturing-tax-credit"
+  },
+  {
+    "id": 1602,
+    "name": "National Institute of Standards Manufacturing USA Grant",
+    "source": "NIST Manufacturing USA",
+    "type": "grant",
+    "eligibility": ["advanced_manufacturing", "innovation", "consortium_member"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://manufacturingusa.com/grants"
+  },
+  {
+    "id": 1603,
+    "name": "Additive Manufacturing Innovation Institute Grant",
+    "source": "America Makes",
+    "type": "grant",
+    "eligibility": ["3d_printing", "additive_manufacturing", "r_and_d"],
+    "funding_range": "$100,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://americamakes.us/grants"
+  },
+  {
+    "id": 1604,
+    "name": "Advanced Robotics Manufacturing Grant",
+    "source": "ARM Institute",
+    "type": "grant",
+    "eligibility": ["robotics", "automation", "manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://arminstitute.org/grants"
+  },
+  {
+    "id": 1605,
+    "name": "Smart Manufacturing Innovation Fund",
+    "source": "CESMII",
+    "type": "grant",
+    "eligibility": ["smart_manufacturing", "iot", "industry_4.0"],
+    "funding_range": "$150,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://cesmii.org/grants"
+  },
+  {
+    "id": 1606,
+    "name": "Digital Manufacturing Design Innovation Institute",
+    "source": "MxD (Manufacturing x Digital)",
+    "type": "grant",
+    "eligibility": ["digital_manufacturing", "cyber_physical_systems", "advanced_manufacturing"],
+    "funding_range": "$200,000 - $4,000,000",
+    "obscurity_score": 8,
+    "url": "https://mxdusa.org/grants"
+  },
+  {
+    "id": 1607,
+    "name": "Advanced Composites Manufacturing Innovation",
+    "source": "IACMI",
+    "type": "grant",
+    "eligibility": ["composites", "lightweight_materials", "manufacturing"],
+    "funding_range": "$300,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://iacmi.org/grants"
+  },
+  {
+    "id": 1608,
+    "name": "Clean Energy Manufacturing Tax Credit",
+    "source": "U.S. Department of Energy",
+    "type": "tax_credit",
+    "eligibility": ["clean_energy_manufacturing", "battery", "solar_panel"],
+    "funding_range": "30% of investment",
+    "obscurity_score": 5,
+    "url": "https://energy.gov/manufacturing-tax-credit"
+  },
+  {
+    "id": 1609,
+    "name": "NextFlex Flexible Hybrid Electronics Grant",
+    "source": "NextFlex",
+    "type": "grant",
+    "eligibility": ["flexible_electronics", "printed_electronics", "manufacturing"],
+    "funding_range": "$500,000 - $8,000,000",
+    "obscurity_score": 9,
+    "url": "https://nextflex.us/grants"
+  },
+  {
+    "id": 1610,
+    "name": "Biofabrication Manufacturing Innovation",
+    "source": "BioFabUSA",
+    "type": "grant",
+    "eligibility": ["biofabrication", "tissue_engineering", "regenerative_medicine"],
+    "funding_range": "$250,000 - $3,000,000",
+    "obscurity_score": 9,
+    "url": "https://biofabusa.org/grants"
+  },
+  {
+    "id": 1611,
+    "name": "Lightweight Innovations for Tomorrow Grant",
+    "source": "LIFT",
+    "type": "grant",
+    "eligibility": ["lightweight_metals", "advanced_manufacturing", "automotive"],
+    "funding_range": "$300,000 - $6,000,000",
+    "obscurity_score": 8,
+    "url": "https://lift.technology/grants"
+  },
+  {
+    "id": 1612,
+    "name": "Process Innovation for Textile Manufacturing",
+    "source": "AFFOA (Advanced Functional Fabrics of America)",
+    "type": "grant",
+    "eligibility": ["textile_manufacturing", "smart_fabrics", "wearable_tech"],
+    "funding_range": "$200,000 - $4,000,000",
+    "obscurity_score": 9,
+    "url": "https://affoa.org/grants"
+  },
+  {
+    "id": 1613,
+    "name": "Wide Bandgap Semiconductor Manufacturing",
+    "source": "PowerAmerica",
+    "type": "grant",
+    "eligibility": ["semiconductor", "power_electronics", "wide_bandgap"],
+    "funding_range": "$500,000 - $7,000,000",
+    "obscurity_score": 9,
+    "url": "https://poweramericainstitute.org/grants"
+  },
+  {
+    "id": 1614,
+    "name": "Photonics Manufacturing Innovation Grant",
+    "source": "AIM Photonics",
+    "type": "grant",
+    "eligibility": ["photonics", "integrated_circuits", "optical_manufacturing"],
+    "funding_range": "$300,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://aimphotonics.com/grants"
+  },
+  {
+    "id": 1615,
+    "name": "Modular Chemical Process Intensification",
+    "source": "RAPID Manufacturing Institute",
+    "type": "grant",
+    "eligibility": ["chemical_manufacturing", "process_intensification", "modular"],
+    "funding_range": "$400,000 - $6,000,000",
+    "obscurity_score": 9,
+    "url": "https://aiche.org/rapid/grants"
+  },
+  {
+    "id": 1616,
+    "name": "Reducing EMbodied-energy And Decreasing Emissions Grant",
+    "source": "REMADE Institute",
+    "type": "grant",
+    "eligibility": ["remanufacturing", "recycling", "circular_economy"],
+    "funding_range": "$250,000 - $4,000,000",
+    "obscurity_score": 8,
+    "url": "https://remadeinstitute.org/grants"
+  },
+  {
+    "id": 1617,
+    "name": "Automotive Electric Vehicle Manufacturing Tax Credit",
+    "source": "U.S. Department of Energy",
+    "type": "tax_credit",
+    "eligibility": ["ev_manufacturing", "battery_production", "automotive"],
+    "funding_range": "Up to $35 per kWh",
+    "obscurity_score": 4,
+    "url": "https://energy.gov/ev-manufacturing-credit"
+  },
+  {
+    "id": 1618,
+    "name": "Advanced Technology Vehicles Manufacturing Loan",
+    "source": "U.S. Department of Energy ATVM",
+    "type": "loan",
+    "eligibility": ["automotive", "ev", "fuel_efficient_vehicles"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/lpo/atvm"
+  },
+  {
+    "id": 1619,
+    "name": "Automotive Supplier Retooling Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["automotive_supplier", "retooling", "ev_transition"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/automotive-retooling"
+  },
+  {
+    "id": 1620,
+    "name": "Connected and Automated Vehicles Research",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["autonomous_vehicles", "connected_vehicles", "automotive_tech"],
+    "funding_range": "$1,000,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/av-research"
+  },
+  {
+    "id": 1621,
+    "name": "Automotive Parts Manufacturing Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["automotive_parts", "domestic_manufacturing", "job_creation"],
+    "funding_range": "$2,000 - $4,000 per employee",
+    "obscurity_score": 6,
+    "url": "https://irs.gov/automotive-parts-credit"
+  },
+  {
+    "id": 1622,
+    "name": "Electric Vehicle Charging Infrastructure Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["ev_charging", "infrastructure_manufacturing", "power_electronics"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/evse-manufacturing"
+  },
+  {
+    "id": 1623,
+    "name": "Automotive Battery Cell Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["battery_manufacturing", "lithium_ion", "solid_state"],
+    "funding_range": "$5,000,000 - $500,000,000",
+    "obscurity_score": 5,
+    "url": "https://energy.gov/battery-manufacturing"
+  },
+  {
+    "id": 1624,
+    "name": "Tier 1 Automotive Supplier Innovation Fund",
+    "source": "National Association of Manufacturers",
+    "type": "grant",
+    "eligibility": ["tier_1_supplier", "automotive", "innovation"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://nam.org/tier1-innovation"
+  },
+  {
+    "id": 1625,
+    "name": "Automotive Lightweighting Technology Grant",
+    "source": "U.S. Department of Energy Vehicle Technologies Office",
+    "type": "grant",
+    "eligibility": ["lightweighting", "automotive", "materials_science"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/lightweighting"
+  },
+  {
+    "id": 1626,
+    "name": "Alternative Fuel Vehicle Manufacturing Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["alternative_fuel", "hydrogen", "natural_gas_vehicles"],
+    "funding_range": "$2,500 - $7,500 per vehicle",
+    "obscurity_score": 6,
+    "url": "https://irs.gov/alternative-fuel-credit"
+  },
+  {
+    "id": 1627,
+    "name": "Aerospace Manufacturing Innovation Grant",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["aerospace", "aviation_manufacturing", "innovation"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://faa.gov/manufacturing-innovation"
+  },
+  {
+    "id": 1628,
+    "name": "Small Aircraft Revitalization Act Tax Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["small_aircraft", "general_aviation", "manufacturing"],
+    "funding_range": "10% of investment",
+    "obscurity_score": 8,
+    "url": "https://irs.gov/small-aircraft-credit"
+  },
+  {
+    "id": 1629,
+    "name": "Commercial Space Transportation Manufacturing",
+    "source": "Federal Aviation Administration Office of Commercial Space",
+    "type": "grant",
+    "eligibility": ["space_launch", "commercial_space", "aerospace"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://faa.gov/space/grants"
+  },
+  {
+    "id": 1630,
+    "name": "Advanced Materials for Aerospace Grant",
+    "source": "NASA Space Technology Mission Directorate",
+    "type": "grant",
+    "eligibility": ["aerospace", "advanced_materials", "composites"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://nasa.gov/aerospace-materials"
+  },
+  {
+    "id": 1631,
+    "name": "Unmanned Aircraft Systems Manufacturing",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["drone_manufacturing", "uas", "aerospace"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://transportation.gov/uas-manufacturing"
+  },
+  {
+    "id": 1632,
+    "name": "Aircraft Engine Emissions Reduction Grant",
+    "source": "Federal Aviation Administration CLEEN Program",
+    "type": "grant",
+    "eligibility": ["aircraft_engines", "emissions_reduction", "aerospace"],
+    "funding_range": "$5,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://faa.gov/cleen"
+  },
+  {
+    "id": 1633,
+    "name": "Defense Aerospace Supply Chain Resilience",
+    "source": "U.S. Department of Defense",
+    "type": "grant",
+    "eligibility": ["aerospace_supplier", "defense", "supply_chain"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://defense.gov/aerospace-supply-chain"
+  },
+  {
+    "id": 1634,
+    "name": "Advanced Air Mobility Manufacturing Grant",
+    "source": "Federal Aviation Administration",
+    "type": "grant",
+    "eligibility": ["evtol", "urban_air_mobility", "aerospace"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://faa.gov/aam-manufacturing"
+  },
+  {
+    "id": 1635,
+    "name": "Aerospace Workforce Development Grant",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["aerospace", "workforce_development", "stem_education"],
+    "funding_range": "$500,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://nsf.gov/aerospace-workforce"
+  },
+  {
+    "id": 1636,
+    "name": "Satellite Manufacturing Innovation Fund",
+    "source": "NASA",
+    "type": "grant",
+    "eligibility": ["satellite_manufacturing", "space_tech", "smallsat"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nasa.gov/satellite-manufacturing"
+  },
+  {
+    "id": 1637,
+    "name": "Biotechnology Manufacturing Tax Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["biotech_manufacturing", "biopharmaceutical", "cell_therapy"],
+    "funding_range": "20% of investment",
+    "obscurity_score": 6,
+    "url": "https://irs.gov/biotech-manufacturing"
+  },
+  {
+    "id": 1638,
+    "name": "Cell and Gene Therapy Manufacturing Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["cell_therapy", "gene_therapy", "manufacturing"],
+    "funding_range": "$1,000,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/cell-gene-therapy-manufacturing"
+  },
+  {
+    "id": 1639,
+    "name": "Biosimilar Development and Manufacturing",
+    "source": "FDA Office of Generic Drugs",
+    "type": "grant",
+    "eligibility": ["biosimilar", "biologic_manufacturing", "biotech"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/biosimilar-grants"
+  },
+  {
+    "id": 1640,
+    "name": "Continuous Biomanufacturing Innovation",
+    "source": "National Institute for Innovation in Manufacturing Biopharmaceuticals",
+    "type": "grant",
+    "eligibility": ["continuous_manufacturing", "bioprocessing", "biotech"],
+    "funding_range": "$300,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://niimbl.org/grants"
+  },
+  {
+    "id": 1641,
+    "name": "Vaccine Manufacturing Capacity Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": ["vaccine_manufacturing", "pandemic_preparedness", "biotech"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 5,
+    "url": "https://hhs.gov/vaccine-manufacturing"
+  },
+  {
+    "id": 1642,
+    "name": "Regenerative Medicine Advanced Therapy Manufacturing",
+    "source": "FDA Center for Biologics",
+    "type": "grant",
+    "eligibility": ["regenerative_medicine", "advanced_therapy", "manufacturing"],
+    "funding_range": "$1,000,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/rmat-manufacturing"
+  },
+  {
+    "id": 1643,
+    "name": "Orphan Drug Manufacturing Tax Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["orphan_drug", "rare_disease", "biotech"],
+    "funding_range": "25% of clinical costs",
+    "obscurity_score": 6,
+    "url": "https://irs.gov/orphan-drug-credit"
+  },
+  {
+    "id": 1644,
+    "name": "Sterile Injectable Manufacturing Grant",
+    "source": "FDA Drug Shortage Program",
+    "type": "grant",
+    "eligibility": ["sterile_injectable", "pharmaceutical_manufacturing", "critical_drugs"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/sterile-manufacturing"
+  },
+  {
+    "id": 1645,
+    "name": "Monoclonal Antibody Manufacturing Scale-Up",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["monoclonal_antibody", "bioprocessing", "scale_up"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://nih.gov/mab-manufacturing"
+  },
+  {
+    "id": 1646,
+    "name": "Microbiome Therapeutic Manufacturing",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["microbiome", "live_biotherapeutic", "manufacturing"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://nih.gov/microbiome-manufacturing"
+  },
+  {
+    "id": 1647,
+    "name": "Precision Fermentation Scale-Up Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["precision_fermentation", "synthetic_biology", "biomanufacturing"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/precision-fermentation"
+  },
+  {
+    "id": 1648,
+    "name": "mRNA Manufacturing Technology Grant",
+    "source": "BARDA (Biomedical Advanced Research and Development Authority)",
+    "type": "grant",
+    "eligibility": ["mrna", "vaccine_platform", "manufacturing"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://aspr.hhs.gov/barda/mrna"
+  },
+  {
+    "id": 1649,
+    "name": "Food Processing Modernization Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": ["food_processing", "value_added", "modernization"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://usda.gov/food-processing-grants"
+  },
+  {
+    "id": 1650,
+    "name": "Local Food Infrastructure Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["local_food", "food_hub", "distribution"],
+    "funding_range": "$100,000 - $5,000,000",
+    "obscurity_score": 6,
+    "url": "https://ams.usda.gov/local-food-infrastructure"
+  },
+  {
+    "id": 1651,
+    "name": "Meat and Poultry Processing Expansion",
+    "source": "USDA Food Safety and Inspection Service",
+    "type": "grant",
+    "eligibility": ["meat_processing", "poultry_processing", "capacity_expansion"],
+    "funding_range": "$500,000 - $25,000,000",
+    "obscurity_score": 6,
+    "url": "https://fsis.usda.gov/processing-grants"
+  },
+  {
+    "id": 1652,
+    "name": "Specialty Crop Block Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["specialty_crop", "fruits", "vegetables"],
+    "funding_range": "$50,000 - $1,000,000",
+    "obscurity_score": 5,
+    "url": "https://ams.usda.gov/specialty-crop"
+  },
+  {
+    "id": 1653,
+    "name": "Alternative Protein Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["plant_based_protein", "cultivated_meat", "fermentation"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/alternative-protein"
+  },
+  {
+    "id": 1654,
+    "name": "Cultivated Meat Scale-Up Funding",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["cultivated_meat", "cell_agriculture", "bioprocessing"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/cultivated-meat"
+  },
+  {
+    "id": 1655,
+    "name": "Food Safety Technology Innovation Grant",
+    "source": "FDA Center for Food Safety and Applied Nutrition",
+    "type": "grant",
+    "eligibility": ["food_safety", "pathogen_detection", "traceability"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/food-safety-innovation"
+  },
+  {
+    "id": 1656,
+    "name": "Craft Beverage Modernization Tax Benefit",
+    "source": "Alcohol and Tobacco Tax and Trade Bureau",
+    "type": "tax_credit",
+    "eligibility": ["brewery", "winery", "distillery"],
+    "funding_range": "Variable tax reduction",
+    "obscurity_score": 4,
+    "url": "https://ttb.gov/craft-beverage-modernization"
+  },
+  {
+    "id": 1657,
+    "name": "Food Waste Reduction Technology Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["food_waste", "circular_economy", "upcycling"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/food-waste-reduction"
+  },
+  {
+    "id": 1658,
+    "name": "Organic Processing Certification Support",
+    "source": "USDA National Organic Program",
+    "type": "grant",
+    "eligibility": ["organic_processing", "certification", "food_manufacturing"],
+    "funding_range": "$50,000 - $500,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/organic-processing"
+  },
+  {
+    "id": 1659,
+    "name": "Dairy Processing Innovation Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["dairy_processing", "cheese", "value_added"],
+    "funding_range": "$100,000 - $3,000,000",
+    "obscurity_score": 6,
+    "url": "https://ams.usda.gov/dairy-innovation"
+  },
+  {
+    "id": 1660,
+    "name": "Seafood Processing Modernization Grant",
+    "source": "NOAA Fisheries",
+    "type": "grant",
+    "eligibility": ["seafood_processing", "aquaculture", "value_added"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://fisheries.noaa.gov/processing-grants"
+  },
+  {
+    "id": 1661,
+    "name": "Functional Food Development Grant",
+    "source": "National Institutes of Health",
+    "type": "grant",
+    "eligibility": ["functional_food", "nutraceutical", "health_benefits"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://nih.gov/functional-food"
+  },
+  {
+    "id": 1662,
+    "name": "Regenerative Agriculture Processing Grant",
+    "source": "USDA Natural Resources Conservation Service",
+    "type": "grant",
+    "eligibility": ["regenerative_agriculture", "sustainable_processing", "carbon_farming"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://nrcs.usda.gov/regenerative-processing"
+  },
+  {
+    "id": 1663,
+    "name": "Food Traceability Technology Grant",
+    "source": "FDA",
+    "type": "grant",
+    "eligibility": ["traceability", "blockchain", "food_safety"],
+    "funding_range": "$250,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/food-traceability"
+  },
+  {
+    "id": 1664,
+    "name": "Urban Food Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["urban_agriculture", "food_processing", "local_food"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/urban-food"
+  },
+  {
+    "id": 1665,
+    "name": "Fermentation Technology Scale-Up",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["fermentation", "food_tech", "biomanufacturing"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://nifa.usda.gov/fermentation"
+  },
+  {
+    "id": 1666,
+    "name": "Bakery Automation Technology Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bakery", "automation", "food_manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/bakery-automation"
+  },
+  {
+    "id": 1667,
+    "name": "Cold Chain Infrastructure Grant",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["cold_chain", "refrigerated_transport", "food_logistics"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/cold-chain"
+  },
+  {
+    "id": 1668,
+    "name": "Plant-Based Food Innovation Grant",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["plant_based", "alternative_protein", "r_and_d"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://nifa.usda.gov/plant-based"
+  },
+  {
+    "id": 1669,
+    "name": "Food Packaging Innovation Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["sustainable_packaging", "compostable", "food_contact_materials"],
+    "funding_range": "$100,000 - $3,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/packaging-innovation"
+  },
+  {
+    "id": 1670,
+    "name": "Snack Food Manufacturing Modernization",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["snack_food", "better_for_you", "manufacturing"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/snack-manufacturing"
+  },
+  {
+    "id": 1671,
+    "name": "Coffee Roasting Facility Grant",
+    "source": "USDA Rural Business Development Grant",
+    "type": "grant",
+    "eligibility": ["coffee_roasting", "specialty_coffee", "rural"],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://rd.usda.gov/coffee-roasting"
+  },
+  {
+    "id": 1672,
+    "name": "Meal Kit Production Facility Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["meal_kit", "food_assembly", "direct_to_consumer"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/meal-kit"
+  },
+  {
+    "id": 1673,
+    "name": "Infant Formula Manufacturing Grant",
+    "source": "FDA Center for Food Safety",
+    "type": "grant",
+    "eligibility": ["infant_formula", "food_safety", "manufacturing"],
+    "funding_range": "$1,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/infant-formula-grants"
+  },
+  {
+    "id": 1674,
+    "name": "Chocolate & Confectionery Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["chocolate", "confectionery", "manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/confectionery"
+  },
+  {
+    "id": 1675,
+    "name": "Kombucha & Probiotic Beverage Production",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["kombucha", "probiotic_beverage", "fermentation"],
+    "funding_range": "$75,000 - $500,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/kombucha-grants"
+  },
+  {
+    "id": 1676,
+    "name": "Gluten-Free Manufacturing Facility",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["gluten_free", "allergen_free_facility", "food_manufacturing"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/gluten-free"
+  },
+  {
+    "id": 1677,
+    "name": "Spice Processing & Packaging Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["spice_processing", "value_added", "specialty_food"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://ams.usda.gov/spice-processing"
+  },
+  {
+    "id": 1678,
+    "name": "Ready-to-Eat Meal Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["ready_to_eat", "prepared_meals", "food_manufacturing"],
+    "funding_range": "$1,000,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/rte-meals"
+  },
+  {
+    "id": 1679,
+    "name": "Nut Butter Production Facility Grant",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["nut_butter", "value_added", "food_processing"],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/nut-butter"
+  },
+  {
+    "id": 1680,
+    "name": "Egg Processing Modernization Grant",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["egg_processing", "pasteurization", "value_added"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://ams.usda.gov/egg-processing"
+  },
+  {
+    "id": 1681,
+    "name": "Sauce & Condiment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["sauce", "condiment", "food_manufacturing"],
+    "funding_range": "$250,000 - $7,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/sauce-condiment"
+  },
+  {
+    "id": 1682,
+    "name": "Frozen Food Manufacturing Modernization",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["frozen_food", "flash_freezing", "cold_storage"],
+    "funding_range": "$1,000,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/frozen-food"
+  },
+  {
+    "id": 1683,
+    "name": "Juice & Smoothie Production Facility",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["juice", "smoothie", "cold_pressed"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/juice-production"
+  },
+  {
+    "id": 1684,
+    "name": "Sourdough & Artisan Bread Bakery",
+    "source": "USDA Rural Business Development Grant",
+    "type": "grant",
+    "eligibility": ["artisan_bread", "sourdough", "bakery"],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://rd.usda.gov/artisan-bakery"
+  },
+  {
+    "id": 1685,
+    "name": "Baby Food Manufacturing Safety Grant",
+    "source": "FDA Center for Food Safety",
+    "type": "grant",
+    "eligibility": ["baby_food", "food_safety", "heavy_metal_testing"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://fda.gov/baby-food-grants"
+  },
+  {
+    "id": 1686,
+    "name": "Hemp Food Product Manufacturing",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["hemp_food", "cbd_food", "value_added"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 7,
+    "url": "https://ams.usda.gov/hemp-food"
+  },
+  {
+    "id": 1687,
+    "name": "Protein Bar Manufacturing Facility",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["protein_bar", "functional_food", "manufacturing"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/protein-bar"
+  },
+  {
+    "id": 1688,
+    "name": "Oat Milk Production Facility Grant",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["plant_milk", "oat_milk", "alternative_dairy"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/plant-milk"
+  },
+  {
+    "id": 1689,
+    "name": "Pickle & Fermented Vegetable Production",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["pickles", "fermented_vegetables", "value_added"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 9,
+    "url": "https://ams.usda.gov/fermented-vegetables"
+  },
+  {
+    "id": 1690,
+    "name": "Pasta Manufacturing Modernization Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["pasta", "fresh_pasta", "manufacturing"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/pasta-manufacturing"
+  },
+  {
+    "id": 1691,
+    "name": "Popcorn Processing & Flavoring Facility",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["popcorn", "snack_food", "value_added"],
+    "funding_range": "$100,000 - $1,000,000",
+    "obscurity_score": 9,
+    "url": "https://usda.gov/popcorn-processing"
+  },
+  {
+    "id": 1692,
+    "name": "Hummus & Dip Manufacturing Facility",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["hummus", "dip", "fresh_food"],
+    "funding_range": "$250,000 - $5,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/hummus-dip"
+  },
+  {
+    "id": 1693,
+    "name": "Granola & Cereal Bar Manufacturing",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["granola", "cereal_bar", "breakfast_food"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/granola-bar"
+  },
+  {
+    "id": 1694,
+    "name": "Salsa & Fresh Dip Production Facility",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["salsa", "fresh_dip", "value_added"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://ams.usda.gov/salsa-production"
+  },
+  {
+    "id": 1695,
+    "name": "Tortilla & Flatbread Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["tortilla", "flatbread", "ethnic_food"],
+    "funding_range": "$500,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/tortilla-manufacturing"
+  },
+  {
+    "id": 1696,
+    "name": "Energy Drink Manufacturing Facility",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["energy_drink", "functional_beverage", "manufacturing"],
+    "funding_range": "$1,000,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/energy-drink"
+  },
+  {
+    "id": 1697,
+    "name": "Kimchi & Asian Fermented Foods",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["kimchi", "fermented_food", "ethnic_food"],
+    "funding_range": "$100,000 - $1,500,000",
+    "obscurity_score": 9,
+    "url": "https://usda.gov/kimchi-production"
+  },
+  {
+    "id": 1698,
+    "name": "Ice Cream Manufacturing Modernization",
+    "source": "USDA Agricultural Marketing Service",
+    "type": "grant",
+    "eligibility": ["ice_cream", "frozen_dessert", "dairy"],
+    "funding_range": "$250,000 - $7,000,000",
+    "obscurity_score": 7,
+    "url": "https://ams.usda.gov/ice-cream"
+  },
+  {
+    "id": 1699,
+    "name": "Jerky & Meat Snack Production",
+    "source": "USDA Value-Added Producer Grant",
+    "type": "grant",
+    "eligibility": ["jerky", "meat_snack", "value_added"],
+    "funding_range": "$100,000 - $2,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/jerky-production"
+  },
+  {
+    "id": 1700,
+    "name": "Vegan Cheese Manufacturing Facility",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["vegan_cheese", "plant_based", "alternative_dairy"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://nifa.usda.gov/vegan-cheese"
+  }
+]

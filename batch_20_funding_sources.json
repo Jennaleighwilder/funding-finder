@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1901,
+    "name": "Solar Panel Manufacturing Tax Credit",
+    "source": "Internal Revenue Service",
+    "type": "tax_credit",
+    "eligibility": ["solar_panel", "photovoltaic", "renewable_energy"],
+    "funding_range": "30% of investment",
+    "obscurity_score": 4,
+    "url": "https://irs.gov/solar-manufacturing-credit"
+  },
+  {
+    "id": 1902,
+    "name": "Solar Inverter Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["solar_inverter", "power_electronics", "renewable_energy"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/solar-inverter"
+  },
+  {
+    "id": 1903,
+    "name": "Wind Turbine Component Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["wind_turbine", "blade", "nacelle"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/wind-manufacturing"
+  },
+  {
+    "id": 1904,
+    "name": "Offshore Wind Equipment Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["offshore_wind", "foundation", "marine_equipment"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/offshore-wind"
+  },
+  {
+    "id": 1905,
+    "name": "Geothermal Equipment Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["geothermal", "heat_pump", "renewable_energy"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/geothermal-equipment"
+  },
+  {
+    "id": 1906,
+    "name": "Hydroelectric Turbine Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["hydroelectric", "turbine", "renewable_energy"],
+    "funding_range": "$5,000,000 - $150,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/hydro-turbine"
+  },
+  {
+    "id": 1907,
+    "name": "Tidal & Wave Energy Device Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["marine_energy", "tidal", "wave_energy"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/marine-energy"
+  },
+  {
+    "id": 1908,
+    "name": "Concentrated Solar Power Equipment",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["csp", "solar_thermal", "thermal_storage"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/csp-equipment"
+  },
+  {
+    "id": 1909,
+    "name": "Biomass Energy Equipment Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["biomass", "bioenergy", "renewable_energy"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/biomass-equipment"
+  },
+  {
+    "id": 1910,
+    "name": "Solar Tracker System Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["solar_tracker", "single_axis", "dual_axis"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/solar-tracker"
+  },
+  {
+    "id": 1911,
+    "name": "Lithium-Ion Battery Cell Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["lithium_ion", "battery_cell", "energy_storage"],
+    "funding_range": "$10,000,000 - $1,000,000,000",
+    "obscurity_score": 5,
+    "url": "https://energy.gov/battery-cell"
+  },
+  {
+    "id": 1912,
+    "name": "Solid-State Battery Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["solid_state_battery", "next_gen_battery", "energy_storage"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/solid-state-battery"
+  },
+  {
+    "id": 1913,
+    "name": "Flow Battery Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["flow_battery", "redox_flow", "grid_storage"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/flow-battery"
+  },
+  {
+    "id": 1914,
+    "name": "Battery Management System Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["bms", "battery_management", "power_electronics"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/bms"
+  },
+  {
+    "id": 1915,
+    "name": "Grid-Scale Battery Storage Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["grid_storage", "utility_scale", "energy_storage"],
+    "funding_range": "$20,000,000 - $1,000,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/grid-storage"
+  },
+  {
+    "id": 1916,
+    "name": "Flywheel Energy Storage Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["flywheel", "kinetic_storage", "energy_storage"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/flywheel"
+  },
+  {
+    "id": 1917,
+    "name": "Compressed Air Energy Storage Equipment",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["caes", "compressed_air", "energy_storage"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 9,
+    "url": "https://energy.gov/caes"
+  },
+  {
+    "id": 1918,
+    "name": "Thermal Energy Storage Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["thermal_storage", "heat_storage", "energy_storage"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://energy.gov/thermal-storage"
+  },
+  {
+    "id": 1919,
+    "name": "Hydrogen Production Equipment Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["electrolyzer", "hydrogen_production", "clean_energy"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/hydrogen-production"
+  },
+  {
+    "id": 1920,
+    "name": "Fuel Cell Manufacturing Grant",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["fuel_cell", "hydrogen", "clean_energy"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://energy.gov/fuel-cell"
+  },
+  {
+    "id": 1921,
+    "name": "Water Desalination Equipment Manufacturing",
+    "source": "U.S. Department of Interior Bureau of Reclamation",
+    "type": "grant",
+    "eligibility": ["desalination", "reverse_osmosis", "water_treatment"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://usbr.gov/desalination"
+  },
+  {
+    "id": 1922,
+    "name": "Municipal Water Treatment Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["water_treatment", "filtration", "municipal"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://epa.gov/water-treatment-equipment"
+  },
+  {
+    "id": 1923,
+    "name": "Wastewater Treatment Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["wastewater", "sewage_treatment", "water_quality"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://epa.gov/wastewater-equipment"
+  },
+  {
+    "id": 1924,
+    "name": "UV Water Disinfection Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["uv_disinfection", "water_treatment", "sanitation"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/uv-disinfection"
+  },
+  {
+    "id": 1925,
+    "name": "Water Filtration Membrane Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["membrane", "nanofiltration", "ultrafiltration"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nsf.gov/water-membrane"
+  },
+  {
+    "id": 1926,
+    "name": "Industrial Water Recycling Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["water_recycling", "industrial_reuse", "conservation"],
+    "funding_range": "$2,000,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/water-recycling"
+  },
+  {
+    "id": 1927,
+    "name": "Water Purification System Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["water_purification", "point_of_use", "drinking_water"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://epa.gov/water-purification"
+  },
+  {
+    "id": 1928,
+    "name": "Water Monitoring Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["water_monitoring", "sensor", "water_quality"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/water-monitoring"
+  },
+  {
+    "id": 1929,
+    "name": "Irrigation System Manufacturing Grant",
+    "source": "USDA Natural Resources Conservation Service",
+    "type": "grant",
+    "eligibility": ["irrigation", "drip_irrigation", "water_conservation"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 6,
+    "url": "https://nrcs.usda.gov/irrigation-equipment"
+  },
+  {
+    "id": 1930,
+    "name": "Precision Agriculture Equipment Manufacturing",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["precision_ag", "gps_guidance", "variable_rate"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://nifa.usda.gov/precision-ag"
+  },
+  {
+    "id": 1931,
+    "name": "Agricultural Drone Manufacturing Grant",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["ag_drone", "crop_monitoring", "precision_spraying"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/ag-drone"
+  },
+  {
+    "id": 1932,
+    "name": "Autonomous Tractor Manufacturing Grant",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["autonomous_tractor", "farm_automation", "robotics"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://nifa.usda.gov/autonomous-tractor"
+  },
+  {
+    "id": 1933,
+    "name": "Agricultural Robot Manufacturing Grant",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["ag_robot", "harvesting_robot", "farm_automation"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/ag-robot"
+  },
+  {
+    "id": 1934,
+    "name": "Soil Sensor Manufacturing Grant",
+    "source": "USDA Natural Resources Conservation Service",
+    "type": "grant",
+    "eligibility": ["soil_sensor", "precision_ag", "monitoring"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://nrcs.usda.gov/soil-sensor"
+  },
+  {
+    "id": 1935,
+    "name": "Greenhouse Automation Equipment",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["greenhouse_automation", "controlled_environment", "horticulture"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/greenhouse-automation"
+  },
+  {
+    "id": 1936,
+    "name": "Vertical Farming Equipment Manufacturing",
+    "source": "USDA National Institute of Food and Agriculture",
+    "type": "grant",
+    "eligibility": ["vertical_farming", "indoor_agriculture", "led_grow_light"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://nifa.usda.gov/vertical-farming"
+  },
+  {
+    "id": 1937,
+    "name": "Aquaponics System Manufacturing Grant",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["aquaponics", "integrated_agriculture", "sustainable"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/aquaponics"
+  },
+  {
+    "id": 1938,
+    "name": "Livestock Monitoring Equipment Manufacturing",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["livestock_monitoring", "animal_health", "sensor"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/livestock-monitoring"
+  },
+  {
+    "id": 1939,
+    "name": "Milking Robot Manufacturing Grant",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["milking_robot", "dairy_automation", "robotics"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/milking-robot"
+  },
+  {
+    "id": 1940,
+    "name": "Grain Handling Equipment Manufacturing",
+    "source": "USDA",
+    "type": "grant",
+    "eligibility": ["grain_handling", "silo", "agricultural_equipment"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/grain-handling"
+  },
+  {
+    "id": 1941,
+    "name": "Construction Crane Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["crane", "tower_crane", "construction_equipment"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/crane"
+  },
+  {
+    "id": 1942,
+    "name": "Excavator Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["excavator", "heavy_equipment", "construction"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/excavator"
+  },
+  {
+    "id": 1943,
+    "name": "Bulldozer Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bulldozer", "earthmoving", "construction_equipment"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/bulldozer"
+  },
+  {
+    "id": 1944,
+    "name": "Concrete Mixer & Pump Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["concrete_mixer", "concrete_pump", "construction"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/concrete-equipment"
+  },
+  {
+    "id": 1945,
+    "name": "Scaffolding System Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["scaffolding", "construction_support", "safety_equipment"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/scaffolding"
+  },
+  {
+    "id": 1946,
+    "name": "Prefabricated Building Component Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["prefab", "modular_construction", "building_component"],
+    "funding_range": "$2,000,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/prefab"
+  },
+  {
+    "id": 1947,
+    "name": "Construction 3D Printer Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["construction_3d_printing", "additive_construction", "automation"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/construction-3d-printing"
+  },
+  {
+    "id": 1948,
+    "name": "Rebar Tying Robot Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["rebar_robot", "construction_automation", "robotics"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/rebar-robot"
+  },
+  {
+    "id": 1949,
+    "name": "Building Materials Testing Equipment",
+    "source": "National Institute of Standards and Technology",
+    "type": "grant",
+    "eligibility": ["materials_testing", "quality_control", "construction"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://nist.gov/construction-testing"
+  },
+  {
+    "id": 1950,
+    "name": "Asphalt Paving Equipment Manufacturing",
+    "source": "U.S. Department of Transportation",
+    "type": "grant",
+    "eligibility": ["asphalt_paver", "road_construction", "paving"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://transportation.gov/asphalt-equipment"
+  },
+  {
+    "id": 1951,
+    "name": "Mining Drill Manufacturing Grant",
+    "source": "U.S. Department of Interior",
+    "type": "grant",
+    "eligibility": ["mining_drill", "drilling_equipment", "extraction"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://doi.gov/mining-drill"
+  },
+  {
+    "id": 1952,
+    "name": "Underground Mining Equipment Manufacturing",
+    "source": "Mine Safety and Health Administration",
+    "type": "grant",
+    "eligibility": ["underground_mining", "continuous_miner", "safety"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://msha.gov/underground-equipment"
+  },
+  {
+    "id": 1953,
+    "name": "Mining Ventilation System Manufacturing",
+    "source": "Mine Safety and Health Administration",
+    "type": "grant",
+    "eligibility": ["mine_ventilation", "air_quality", "safety_equipment"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://msha.gov/ventilation"
+  },
+  {
+    "id": 1954,
+    "name": "Mining Conveyor System Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["mining_conveyor", "material_handling", "extraction"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/mining-conveyor"
+  },
+  {
+    "id": 1955,
+    "name": "Mineral Processing Equipment Manufacturing",
+    "source": "U.S. Department of Interior",
+    "type": "grant",
+    "eligibility": ["mineral_processing", "ore_processing", "crushing"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://doi.gov/mineral-processing"
+  },
+  {
+    "id": 1956,
+    "name": "Mining Safety Equipment Manufacturing",
+    "source": "Mine Safety and Health Administration",
+    "type": "grant",
+    "eligibility": ["mining_safety", "personal_protection", "monitoring"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://msha.gov/safety-equipment"
+  },
+  {
+    "id": 1957,
+    "name": "Mining Truck Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["haul_truck", "dump_truck", "mining_vehicle"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/mining-truck"
+  },
+  {
+    "id": 1958,
+    "name": "Autonomous Mining Equipment Manufacturing",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": ["autonomous_mining", "mining_automation", "robotics"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/autonomous-mining"
+  },
+  {
+    "id": 1959,
+    "name": "Exploration Drilling Equipment Manufacturing",
+    "source": "U.S. Department of Interior",
+    "type": "grant",
+    "eligibility": ["exploration_drill", "core_drilling", "mineral_exploration"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://doi.gov/exploration-drilling"
+  },
+  {
+    "id": 1960,
+    "name": "Mine Dewatering Equipment Manufacturing",
+    "source": "Mine Safety and Health Administration",
+    "type": "grant",
+    "eligibility": ["dewatering", "mine_pump", "water_management"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://msha.gov/dewatering"
+  },
+  {
+    "id": 1961,
+    "name": "Recycling Sorting Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["recycling_equipment", "sorting", "waste_management"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/recycling-sorting"
+  },
+  {
+    "id": 1962,
+    "name": "Plastic Recycling Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["plastic_recycling", "pyrolysis", "circular_economy"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/plastic-recycling"
+  },
+  {
+    "id": 1963,
+    "name": "Electronic Waste Recycling Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["ewaste", "electronics_recycling", "precious_metal_recovery"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/ewaste-recycling"
+  },
+  {
+    "id": 1964,
+    "name": "Metal Shredder Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["metal_shredder", "scrap_processing", "recycling"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/metal-shredder"
+  },
+  {
+    "id": 1965,
+    "name": "Composting Equipment Manufacturing Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["composting", "organic_waste", "waste_diversion"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/composting-equipment"
+  },
+  {
+    "id": 1966,
+    "name": "Waste-to-Energy Equipment Manufacturing",
+    "source": "U.S. Department of Energy",
+    "type": "grant",
+    "eligibility": ["waste_to_energy", "incineration", "gasification"],
+    "funding_range": "$10,000,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://energy.gov/waste-to-energy"
+  },
+  {
+    "id": 1967,
+    "name": "Hazardous Waste Treatment Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["hazardous_waste", "treatment", "remediation"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/hazardous-waste-equipment"
+  },
+  {
+    "id": 1968,
+    "name": "Tire Recycling Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["tire_recycling", "rubber_recovery", "waste_management"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/tire-recycling"
+  },
+  {
+    "id": 1969,
+    "name": "Glass Recycling Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["glass_recycling", "cullet_processing", "recycling"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/glass-recycling"
+  },
+  {
+    "id": 1970,
+    "name": "Landfill Gas Capture Equipment",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["landfill_gas", "methane_capture", "renewable_energy"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/landfill-gas"
+  },
+  {
+    "id": 1971,
+    "name": "Packaging Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["packaging_machine", "filling", "sealing"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 6,
+    "url": "https://eda.gov/packaging-machine"
+  },
+  {
+    "id": 1972,
+    "name": "Labeling Equipment Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["labeling_machine", "packaging", "automation"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/labeling-equipment"
+  },
+  {
+    "id": 1973,
+    "name": "Bottle Filling Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bottle_filler", "liquid_packaging", "beverage"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/bottle-filler"
+  },
+  {
+    "id": 1974,
+    "name": "Blister Packaging Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["blister_pack", "pharmaceutical_packaging", "automation"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/blister-packaging"
+  },
+  {
+    "id": 1975,
+    "name": "Shrink Wrap Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["shrink_wrap", "packaging", "automation"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/shrink-wrap"
+  },
+  {
+    "id": 1976,
+    "name": "Vacuum Packaging Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["vacuum_packaging", "food_packaging", "preservation"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/vacuum-packaging"
+  },
+  {
+    "id": 1977,
+    "name": "Cartoning Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["cartoning", "box_packaging", "automation"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/cartoning-machine"
+  },
+  {
+    "id": 1978,
+    "name": "Palletizing Robot Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["palletizer", "packaging_automation", "robotics"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/palletizer"
+  },
+  {
+    "id": 1979,
+    "name": "Stretch Wrap Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["stretch_wrapper", "pallet_wrapping", "packaging"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/stretch-wrapper"
+  },
+  {
+    "id": 1980,
+    "name": "Aseptic Packaging Equipment Manufacturing",
+    "source": "FDA Center for Food Safety",
+    "type": "grant",
+    "eligibility": ["aseptic_packaging", "sterile_packaging", "food_safety"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/aseptic-packaging"
+  },
+  {
+    "id": 1981,
+    "name": "Form Fill Seal Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["form_fill_seal", "flexible_packaging", "automation"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/form-fill-seal"
+  },
+  {
+    "id": 1982,
+    "name": "Capping Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["capping_machine", "bottle_capping", "packaging"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/capping-machine"
+  },
+  {
+    "id": 1983,
+    "name": "Coding & Marking Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["inkjet_printer", "laser_marker", "product_coding"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/coding-marking"
+  },
+  {
+    "id": 1984,
+    "name": "Case Packer Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["case_packer", "packaging_automation", "end_of_line"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/case-packer"
+  },
+  {
+    "id": 1985,
+    "name": "Weighing & Checkweighing Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["checkweigher", "weighing_system", "quality_control"],
+    "funding_range": "$500,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/checkweigher"
+  },
+  {
+    "id": 1986,
+    "name": "Metal Detector for Packaging Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["metal_detector", "food_safety", "quality_control"],
+    "funding_range": "$500,000 - $15,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/metal-detector-packaging"
+  },
+  {
+    "id": 1987,
+    "name": "X-Ray Inspection System for Packaging",
+    "source": "FDA Center for Food Safety",
+    "type": "grant",
+    "eligibility": ["xray_inspection", "contaminant_detection", "quality_control"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/xray-packaging"
+  },
+  {
+    "id": 1988,
+    "name": "Vision Inspection System Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["machine_vision", "quality_inspection", "packaging"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/vision-inspection"
+  },
+  {
+    "id": 1989,
+    "name": "Conveyor System for Packaging Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["conveyor", "material_handling", "packaging_line"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/packaging-conveyor"
+  },
+  {
+    "id": 1990,
+    "name": "Sustainable Packaging Equipment Manufacturing",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": ["sustainable_packaging", "biodegradable", "compostable"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://epa.gov/sustainable-packaging-equipment"
+  },
+  {
+    "id": 1991,
+    "name": "Pouch Making Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["pouch_maker", "flexible_packaging", "manufacturing"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/pouch-maker"
+  },
+  {
+    "id": 1992,
+    "name": "Tube Filling Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["tube_filler", "cosmetic_packaging", "pharmaceutical"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/tube-filler"
+  },
+  {
+    "id": 1993,
+    "name": "Sachet Packaging Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["sachet_machine", "single_serve", "packaging"],
+    "funding_range": "$1,000,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/sachet-machine"
+  },
+  {
+    "id": 1994,
+    "name": "Tray Sealing Equipment Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["tray_sealer", "modified_atmosphere", "food_packaging"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/tray-sealer"
+  },
+  {
+    "id": 1995,
+    "name": "Can Seaming Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["can_seamer", "canning", "beverage_packaging"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/can-seamer"
+  },
+  {
+    "id": 1996,
+    "name": "Bag Making Machine Manufacturing Grant",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["bag_maker", "flexible_packaging", "manufacturing"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/bag-maker"
+  },
+  {
+    "id": 1997,
+    "name": "Corrugated Box Making Equipment",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["corrugator", "box_making", "packaging"],
+    "funding_range": "$5,000,000 - $200,000,000",
+    "obscurity_score": 7,
+    "url": "https://eda.gov/corrugator"
+  },
+  {
+    "id": 1998,
+    "name": "Die Cutting Machine for Packaging",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["die_cutter", "packaging", "converting"],
+    "funding_range": "$1,000,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/die-cutter"
+  },
+  {
+    "id": 1999,
+    "name": "Flexographic Printing Press Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["flexo_press", "packaging_printing", "converting"],
+    "funding_range": "$3,000,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/flexo-press"
+  },
+  {
+    "id": 2000,
+    "name": "Slitting & Rewinding Machine Manufacturing",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": ["slitter_rewinder", "converting", "packaging"],
+    "funding_range": "$2,000,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/slitter-rewinder"
+  }
+]

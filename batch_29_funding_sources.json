@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2801,
+    "name": "Worker Cooperative Development Grant",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "worker_cooperative",
+      "employee_owned",
+      "democratic_workplace"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/worker-cooperative"
+  },
+  {
+    "id": 2802,
+    "name": "Worker-Owned Manufacturing Cooperative",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "manufacturing_coop",
+      "worker_ownership",
+      "industrial_democracy"
+    ],
+    "funding_range": "$250,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/manufacturing-cooperative"
+  },
+  {
+    "id": 2803,
+    "name": "Tech Worker Cooperative Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "tech_cooperative",
+      "software_coop",
+      "platform_cooperative"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/tech-cooperative"
+  },
+  {
+    "id": 2804,
+    "name": "Healthcare Worker Cooperative Grant",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "healthcare_coop",
+      "clinic_cooperative",
+      "worker_owned_healthcare"
+    ],
+    "funding_range": "$250,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://hrsa.gov/healthcare-cooperative"
+  },
+  {
+    "id": 2805,
+    "name": "Construction Worker Cooperative Business",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "construction_coop",
+      "trades_cooperative",
+      "worker_owned_construction"
+    ],
+    "funding_range": "$200,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/construction-cooperative"
+  },
+  {
+    "id": 2806,
+    "name": "Restaurant Worker Cooperative Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "restaurant_coop",
+      "food_service_cooperative",
+      "worker_owned_restaurant"
+    ],
+    "funding_range": "$100,000 - $20,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/restaurant-cooperative"
+  },
+  {
+    "id": 2807,
+    "name": "Cleaning Services Worker Cooperative",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "cleaning_coop",
+      "janitorial_cooperative",
+      "green_cleaning_coop"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/cleaning-cooperative"
+  },
+  {
+    "id": 2808,
+    "name": "Childcare Worker Cooperative Grant",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "childcare_coop",
+      "daycare_cooperative",
+      "early_education_coop"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://hhs.gov/childcare-cooperative"
+  },
+  {
+    "id": 2809,
+    "name": "Home Healthcare Worker Cooperative",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "home_care_coop",
+      "elder_care_cooperative",
+      "worker_owned_care"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/homecare-cooperative"
+  },
+  {
+    "id": 2810,
+    "name": "Worker Cooperative Conversion Assistance",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "business_conversion",
+      "employee_buyout",
+      "succession_planning"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/cooperative-conversion"
+  },
+  {
+    "id": 2811,
+    "name": "Agricultural Producer Cooperative Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_coop",
+      "farmer_cooperative",
+      "producer_owned"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/agricultural-cooperative"
+  },
+  {
+    "id": 2812,
+    "name": "Organic Farmer Cooperative Development",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "organic_coop",
+      "sustainable_agriculture",
+      "organic_marketing"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/organic-cooperative"
+  },
+  {
+    "id": 2813,
+    "name": "Dairy Farmer Cooperative Business",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "dairy_coop",
+      "milk_cooperative",
+      "dairy_processing"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/dairy-cooperative"
+  },
+  {
+    "id": 2814,
+    "name": "Fishery & Aquaculture Cooperative",
+    "source": "National Oceanic and Atmospheric Administration",
+    "type": "grant",
+    "eligibility": [
+      "fishing_coop",
+      "aquaculture_cooperative",
+      "seafood_marketing"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://noaa.gov/fishery-cooperative"
+  },
+  {
+    "id": 2815,
+    "name": "Specialty Crop Producer Cooperative",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "specialty_crops",
+      "fruit_vegetable_coop",
+      "horticultural_cooperative"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/specialty-crop-cooperative"
+  },
+  {
+    "id": 2816,
+    "name": "Livestock Producer Cooperative Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "livestock_coop",
+      "meat_cooperative",
+      "rancher_cooperative"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/livestock-cooperative"
+  },
+  {
+    "id": 2817,
+    "name": "Forest & Timber Producer Cooperative",
+    "source": "U.S. Forest Service",
+    "type": "grant",
+    "eligibility": [
+      "forestry_coop",
+      "timber_cooperative",
+      "sustainable_forestry"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://fs.usda.gov/forestry-cooperative"
+  },
+  {
+    "id": 2818,
+    "name": "Craft Artisan Producer Cooperative",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "artisan_coop",
+      "craft_cooperative",
+      "maker_collective"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/artisan-cooperative"
+  },
+  {
+    "id": 2819,
+    "name": "Wine & Vineyard Producer Cooperative",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "wine_coop",
+      "vineyard_cooperative",
+      "winery_collective"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/wine-cooperative"
+  },
+  {
+    "id": 2820,
+    "name": "Grain & Feed Producer Cooperative",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "grain_coop",
+      "elevator_cooperative",
+      "feed_cooperative"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/grain-cooperative"
+  },
+  {
+    "id": 2821,
+    "name": "Food Cooperative & Natural Foods Co-op",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "food_coop",
+      "grocery_cooperative",
+      "natural_foods"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/food-cooperative"
+  },
+  {
+    "id": 2822,
+    "name": "Electric Utility Cooperative Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "electric_coop",
+      "rural_electric",
+      "utility_cooperative"
+    ],
+    "funding_range": "$1,000,000 - $500,000,000",
+    "obscurity_score": 6,
+    "url": "https://usda.gov/electric-cooperative"
+  },
+  {
+    "id": 2823,
+    "name": "Housing Cooperative Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "housing_coop",
+      "limited_equity_coop",
+      "cooperative_housing"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/housing-cooperative"
+  },
+  {
+    "id": 2824,
+    "name": "Consumer Purchasing Cooperative",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "purchasing_coop",
+      "buying_club",
+      "consumer_collective"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/purchasing-cooperative"
+  },
+  {
+    "id": 2825,
+    "name": "Pharmacy & Healthcare Consumer Co-op",
+    "source": "Food and Drug Administration",
+    "type": "grant",
+    "eligibility": [
+      "pharmacy_coop",
+      "healthcare_consumer_coop",
+      "medical_cooperative"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://fda.gov/pharmacy-cooperative"
+  },
+  {
+    "id": 2826,
+    "name": "Childcare Parent Cooperative Business",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "parent_coop",
+      "childcare_cooperative",
+      "family_childcare_coop"
+    ],
+    "funding_range": "$75,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/parent-cooperative"
+  },
+  {
+    "id": 2827,
+    "name": "Bookstore & Cultural Consumer Cooperative",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "bookstore_coop",
+      "cultural_cooperative",
+      "community_bookshop"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/bookstore-cooperative"
+  },
+  {
+    "id": 2828,
+    "name": "Outdoor Recreation Equipment Co-op",
+    "source": "National Park Service",
+    "type": "grant",
+    "eligibility": [
+      "outdoor_coop",
+      "recreation_cooperative",
+      "gear_cooperative"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://nps.gov/outdoor-cooperative"
+  },
+  {
+    "id": 2829,
+    "name": "Telecommunications Consumer Cooperative",
+    "source": "Federal Communications Commission",
+    "type": "grant",
+    "eligibility": [
+      "telecom_coop",
+      "internet_cooperative",
+      "broadband_coop"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://fcc.gov/telecom-cooperative"
+  },
+  {
+    "id": 2830,
+    "name": "Insurance Consumer Cooperative Grant",
+    "source": "National Association of Insurance Commissioners",
+    "type": "grant",
+    "eligibility": [
+      "insurance_coop",
+      "mutual_insurance",
+      "cooperative_insurance"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://naic.org/insurance-cooperative"
+  },
+  {
+    "id": 2831,
+    "name": "Community Development Credit Union",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "cdcu",
+      "low_income_credit_union",
+      "community_finance"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://ncua.gov/cdcu"
+  },
+  {
+    "id": 2832,
+    "name": "Federal Credit Union Charter Development",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "federal_credit_union",
+      "new_charter",
+      "credit_union_startup"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 7,
+    "url": "https://ncua.gov/federal-credit-union"
+  },
+  {
+    "id": 2833,
+    "name": "Low-Income Designated Credit Union",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "licu",
+      "underserved_communities",
+      "financial_inclusion"
+    ],
+    "funding_range": "$100,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://ncua.gov/low-income-credit-union"
+  },
+  {
+    "id": 2834,
+    "name": "Minority Depository Institution Credit Union",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "mdi_credit_union",
+      "minority_owned",
+      "diverse_financial_institution"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/mdi-credit-union"
+  },
+  {
+    "id": 2835,
+    "name": "Credit Union Service Organization (CUSO)",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "cuso",
+      "credit_union_subsidiary",
+      "shared_services"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://ncua.gov/cuso"
+  },
+  {
+    "id": 2836,
+    "name": "Agricultural Credit Union Development",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "agricultural_credit_union",
+      "farm_credit",
+      "rural_finance"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/agricultural-credit-union"
+  },
+  {
+    "id": 2837,
+    "name": "Employee-Based Credit Union Grant",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "employee_credit_union",
+      "workplace_financial_services",
+      "occupational_cu"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://ncua.gov/employee-credit-union"
+  },
+  {
+    "id": 2838,
+    "name": "Faith-Based Credit Union Development",
+    "source": "National Credit Union Administration",
+    "type": "grant",
+    "eligibility": [
+      "faith_based_cu",
+      "religious_credit_union",
+      "church_financial_services"
+    ],
+    "funding_range": "$75,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://ncua.gov/faith-based-credit-union"
+  },
+  {
+    "id": 2839,
+    "name": "Student & University Credit Union",
+    "source": "U.S. Department of Education",
+    "type": "grant",
+    "eligibility": [
+      "student_credit_union",
+      "university_cu",
+      "campus_financial_services"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://ed.gov/student-credit-union"
+  },
+  {
+    "id": 2840,
+    "name": "Cooperative Loan Fund Development",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_loan_fund",
+      "revolving_loan",
+      "cooperative_finance"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://treasury.gov/cooperative-loan-fund"
+  },
+  {
+    "id": 2841,
+    "name": "Social Enterprise Business Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "social_enterprise",
+      "double_bottom_line",
+      "mission_driven"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://sba.gov/social-enterprise"
+  },
+  {
+    "id": 2842,
+    "name": "Benefit Corporation (B Corp) Certification",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "b_corporation",
+      "benefit_corp",
+      "stakeholder_governance"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 7,
+    "url": "https://commerce.gov/b-corporation"
+  },
+  {
+    "id": 2843,
+    "name": "Environmental Social Enterprise Grant",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "environmental_social_enterprise",
+      "green_business",
+      "sustainability_mission"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/environmental-social-enterprise"
+  },
+  {
+    "id": 2844,
+    "name": "Workforce Development Social Enterprise",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "workforce_social_enterprise",
+      "job_training",
+      "employment_mission"
+    ],
+    "funding_range": "$250,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/workforce-social-enterprise"
+  },
+  {
+    "id": 2845,
+    "name": "Affordable Housing Social Enterprise",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "housing_social_enterprise",
+      "community_development",
+      "affordable_housing"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 7,
+    "url": "https://hud.gov/housing-social-enterprise"
+  },
+  {
+    "id": 2846,
+    "name": "Healthcare Social Enterprise Business",
+    "source": "Health Resources and Services Administration",
+    "type": "grant",
+    "eligibility": [
+      "healthcare_social_enterprise",
+      "community_health",
+      "health_equity"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 7,
+    "url": "https://hrsa.gov/healthcare-social-enterprise"
+  },
+  {
+    "id": 2847,
+    "name": "Food Justice Social Enterprise Grant",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "food_justice",
+      "food_access",
+      "nutrition_security"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/food-justice-enterprise"
+  },
+  {
+    "id": 2848,
+    "name": "Arts & Culture Social Enterprise",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "arts_social_enterprise",
+      "cultural_equity",
+      "creative_placemaking"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://arts.gov/arts-social-enterprise"
+  },
+  {
+    "id": 2849,
+    "name": "Technology for Good Social Enterprise",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "tech_for_good",
+      "social_tech",
+      "civic_technology"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://nsf.gov/tech-for-good"
+  },
+  {
+    "id": 2850,
+    "name": "Disability Employment Social Enterprise",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "disability_employment",
+      "inclusive_business",
+      "supported_employment"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://dol.gov/disability-social-enterprise"
+  },
+  {
+    "id": 2851,
+    "name": "Reentry & Criminal Justice Social Enterprise",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "reentry_social_enterprise",
+      "second_chance",
+      "criminal_justice_reform"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://justice.gov/reentry-enterprise"
+  },
+  {
+    "id": 2852,
+    "name": "Youth Development Social Enterprise",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "youth_social_enterprise",
+      "opportunity_youth",
+      "youth_employment"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 7,
+    "url": "https://hhs.gov/youth-social-enterprise"
+  },
+  {
+    "id": 2853,
+    "name": "Refugee & Immigrant Social Enterprise",
+    "source": "U.S. Department of State",
+    "type": "grant",
+    "eligibility": [
+      "refugee_enterprise",
+      "immigrant_business",
+      "newcomer_employment"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://state.gov/refugee-social-enterprise"
+  },
+  {
+    "id": 2854,
+    "name": "Circular Economy Social Enterprise",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "circular_economy",
+      "zero_waste",
+      "regenerative_business"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://epa.gov/circular-economy-enterprise"
+  },
+  {
+    "id": 2855,
+    "name": "Fair Trade Social Enterprise Business",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "fair_trade",
+      "ethical_sourcing",
+      "supply_chain_justice"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://commerce.gov/fair-trade-enterprise"
+  },
+  {
+    "id": 2856,
+    "name": "Community Development Corporation (CDC)",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "cdc",
+      "community_development_corporation",
+      "neighborhood_revitalization"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 6,
+    "url": "https://hud.gov/cdc"
+  },
+  {
+    "id": 2857,
+    "name": "Community Development Financial Institution",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "cdfi",
+      "community_finance",
+      "underserved_markets"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://treasury.gov/cdfi"
+  },
+  {
+    "id": 2858,
+    "name": "Community Land Trust Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "community_land_trust",
+      "clt",
+      "permanent_affordability"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/community-land-trust"
+  },
+  {
+    "id": 2859,
+    "name": "Community Benefit Agreement Facilitation",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "community_benefits",
+      "cba",
+      "equitable_development"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/community-benefit-agreement"
+  },
+  {
+    "id": 2860,
+    "name": "Community Anchor Institution Development",
+    "source": "U.S. Department of Housing and Urban Development",
+    "type": "grant",
+    "eligibility": [
+      "anchor_institution",
+      "eds_meds",
+      "place_based_development"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://hud.gov/anchor-institution"
+  },
+  {
+    "id": 2861,
+    "name": "Community Ownership Models Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "community_ownership",
+      "local_control",
+      "democratic_economy"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/community-ownership"
+  },
+  {
+    "id": 2862,
+    "name": "Community Wealth Building Initiative",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "community_wealth",
+      "local_multiplier",
+      "inclusive_economy"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/community-wealth-building"
+  },
+  {
+    "id": 2863,
+    "name": "Public-Community Partnership Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "public_community_partnership",
+      "civic_collaboration",
+      "shared_governance"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/public-community-partnership"
+  },
+  {
+    "id": 2864,
+    "name": "Community Development Venture Capital",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "cdvc",
+      "impact_investing",
+      "community_investment"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/cdvc"
+  },
+  {
+    "id": 2865,
+    "name": "Community Improvement District Business",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "improvement_district",
+      "bid",
+      "special_assessment"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://eda.gov/improvement-district"
+  },
+  {
+    "id": 2866,
+    "name": "Platform Cooperative Development Grant",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "platform_cooperative",
+      "worker_owned_platform",
+      "cooperative_economy"
+    ],
+    "funding_range": "$150,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/platform-cooperative"
+  },
+  {
+    "id": 2867,
+    "name": "Ride-Share Driver Cooperative",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "rideshare_coop",
+      "driver_owned",
+      "transportation_cooperative"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://dol.gov/rideshare-cooperative"
+  },
+  {
+    "id": 2868,
+    "name": "Freelancer Platform Cooperative",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "freelancer_coop",
+      "gig_worker_cooperative",
+      "independent_contractor_coop"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://dol.gov/freelancer-cooperative"
+  },
+  {
+    "id": 2869,
+    "name": "Digital Commons Platform Development",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "digital_commons",
+      "open_source_cooperative",
+      "commons_based_production"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/digital-commons"
+  },
+  {
+    "id": 2870,
+    "name": "Data Cooperative & Data Trust Business",
+    "source": "Federal Trade Commission",
+    "type": "grant",
+    "eligibility": [
+      "data_cooperative",
+      "data_trust",
+      "data_sovereignty"
+    ],
+    "funding_range": "$200,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://ftc.gov/data-cooperative"
+  },
+  {
+    "id": 2871,
+    "name": "Delivery Worker Platform Cooperative",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "delivery_coop",
+      "courier_cooperative",
+      "logistics_platform_coop"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 9,
+    "url": "https://dol.gov/delivery-cooperative"
+  },
+  {
+    "id": 2872,
+    "name": "Creative Commons Platform Business",
+    "source": "National Endowment for the Arts",
+    "type": "grant",
+    "eligibility": [
+      "creative_commons",
+      "artist_cooperative_platform",
+      "cultural_commons"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 9,
+    "url": "https://arts.gov/creative-commons-platform"
+  },
+  {
+    "id": 2873,
+    "name": "Solidarity Economy Network Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "solidarity_economy",
+      "cooperative_network",
+      "mutual_aid_network"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/solidarity-economy"
+  },
+  {
+    "id": 2874,
+    "name": "Time Banking Platform Cooperative",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "time_banking",
+      "mutual_credit",
+      "alternative_currency"
+    ],
+    "funding_range": "$50,000 - $10,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/time-banking"
+  },
+  {
+    "id": 2875,
+    "name": "Open-Source Hardware Cooperative",
+    "source": "National Science Foundation",
+    "type": "grant",
+    "eligibility": [
+      "open_hardware",
+      "maker_cooperative",
+      "distributed_manufacturing"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://nsf.gov/open-hardware-cooperative"
+  },
+  {
+    "id": 2876,
+    "name": "Impact Investment Fund Development",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "impact_investing",
+      "social_finance",
+      "blended_value"
+    ],
+    "funding_range": "$500,000 - $500,000,000",
+    "obscurity_score": 7,
+    "url": "https://treasury.gov/impact-investment"
+  },
+  {
+    "id": 2877,
+    "name": "Social Impact Bond (SIB) Development",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "social_impact_bond",
+      "pay_for_success",
+      "outcomes_based_financing"
+    ],
+    "funding_range": "$1,000,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://treasury.gov/social-impact-bond"
+  },
+  {
+    "id": 2878,
+    "name": "Program-Related Investment (PRI) Fund",
+    "source": "Internal Revenue Service",
+    "type": "grant",
+    "eligibility": [
+      "pri",
+      "foundation_investing",
+      "mission_related_investment"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 9,
+    "url": "https://irs.gov/pri-fund"
+  },
+  {
+    "id": 2879,
+    "name": "Environmental, Social & Governance (ESG) Fund",
+    "source": "Securities and Exchange Commission",
+    "type": "grant",
+    "eligibility": [
+      "esg_investing",
+      "sustainable_finance",
+      "responsible_investing"
+    ],
+    "funding_range": "$1,000,000 - $1,000,000,000",
+    "obscurity_score": 7,
+    "url": "https://sec.gov/esg-fund"
+  },
+  {
+    "id": 2880,
+    "name": "Community Investing Intermediary",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "community_investing",
+      "cdfi_intermediary",
+      "local_investment"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/community-investing"
+  },
+  {
+    "id": 2881,
+    "name": "Patient Capital Fund Development",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "patient_capital",
+      "long_term_investing",
+      "catalytic_capital"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/patient-capital"
+  },
+  {
+    "id": 2882,
+    "name": "Gender Lens Investing Fund",
+    "source": "U.S. Department of Commerce",
+    "type": "grant",
+    "eligibility": [
+      "gender_lens",
+      "women_led_investment",
+      "gender_equity_finance"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://commerce.gov/gender-lens-investing"
+  },
+  {
+    "id": 2883,
+    "name": "Racial Equity Investing Fund",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "racial_equity_investing",
+      "bipoc_investment",
+      "economic_justice_finance"
+    ],
+    "funding_range": "$500,000 - $250,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/racial-equity-investing"
+  },
+  {
+    "id": 2884,
+    "name": "Regenerative Finance (ReFi) Business",
+    "source": "Environmental Protection Agency",
+    "type": "grant",
+    "eligibility": [
+      "regenerative_finance",
+      "nature_positive_investing",
+      "ecological_economics"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://epa.gov/regenerative-finance"
+  },
+  {
+    "id": 2885,
+    "name": "Community Loan Fund Management",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "community_loan_fund",
+      "revolving_loan_fund",
+      "community_capital"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 8,
+    "url": "https://treasury.gov/community-loan-fund"
+  },
+  {
+    "id": 2886,
+    "name": "Cooperative Development Center",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_development",
+      "technical_assistance",
+      "coop_support"
+    ],
+    "funding_range": "$250,000 - $75,000,000",
+    "obscurity_score": 7,
+    "url": "https://usda.gov/cooperative-development-center"
+  },
+  {
+    "id": 2887,
+    "name": "Cooperative Business Federation",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_federation",
+      "secondary_cooperative",
+      "network_organization"
+    ],
+    "funding_range": "$200,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/cooperative-federation"
+  },
+  {
+    "id": 2888,
+    "name": "Worker Cooperative Incubator",
+    "source": "U.S. Department of Labor",
+    "type": "grant",
+    "eligibility": [
+      "worker_coop_incubator",
+      "cooperative_accelerator",
+      "startup_support"
+    ],
+    "funding_range": "$150,000 - $40,000,000",
+    "obscurity_score": 8,
+    "url": "https://dol.gov/worker-coop-incubator"
+  },
+  {
+    "id": 2889,
+    "name": "Cooperative Education & Training Center",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_education",
+      "coop_training",
+      "democratic_governance_training"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 8,
+    "url": "https://usda.gov/cooperative-education"
+  },
+  {
+    "id": 2890,
+    "name": "Cooperative Finance Professional Services",
+    "source": "U.S. Department of Treasury",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_finance",
+      "coop_accounting",
+      "member_capital"
+    ],
+    "funding_range": "$75,000 - $20,000,000",
+    "obscurity_score": 9,
+    "url": "https://treasury.gov/cooperative-finance"
+  },
+  {
+    "id": 2891,
+    "name": "Cooperative Legal Services Business",
+    "source": "U.S. Department of Justice",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_law",
+      "transactional_law",
+      "cooperative_governance"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 9,
+    "url": "https://justice.gov/cooperative-legal-services"
+  },
+  {
+    "id": 2892,
+    "name": "Cooperative Marketing & Branding Services",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_marketing",
+      "collective_branding",
+      "member_promotion"
+    ],
+    "funding_range": "$100,000 - $25,000,000",
+    "obscurity_score": 8,
+    "url": "https://sba.gov/cooperative-marketing"
+  },
+  {
+    "id": 2893,
+    "name": "Multi-Stakeholder Cooperative Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "multi_stakeholder_coop",
+      "solidarity_cooperative",
+      "hybrid_cooperative"
+    ],
+    "funding_range": "$200,000 - $60,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/multi-stakeholder-cooperative"
+  },
+  {
+    "id": 2894,
+    "name": "Cooperative Conversion Services Business",
+    "source": "Small Business Administration",
+    "type": "grant",
+    "eligibility": [
+      "business_to_coop_conversion",
+      "worker_buyout",
+      "esop_to_coop"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 9,
+    "url": "https://sba.gov/cooperative-conversion-services"
+  },
+  {
+    "id": 2895,
+    "name": "International Cooperative Alliance Support",
+    "source": "U.S. Department of State",
+    "type": "grant",
+    "eligibility": [
+      "international_coop",
+      "global_cooperative_movement",
+      "cooperative_diplomacy"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://state.gov/international-cooperative"
+  },
+  {
+    "id": 2896,
+    "name": "Mutual Aid Network Development",
+    "source": "U.S. Department of Health and Human Services",
+    "type": "grant",
+    "eligibility": [
+      "mutual_aid",
+      "grassroots_solidarity",
+      "community_care"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 9,
+    "url": "https://hhs.gov/mutual-aid-network"
+  },
+  {
+    "id": 2897,
+    "name": "Community Resilience Hub Business",
+    "source": "Federal Emergency Management Agency",
+    "type": "grant",
+    "eligibility": [
+      "resilience_hub",
+      "community_preparedness",
+      "mutual_support"
+    ],
+    "funding_range": "$150,000 - $50,000,000",
+    "obscurity_score": 8,
+    "url": "https://fema.gov/resilience-hub"
+  },
+  {
+    "id": 2898,
+    "name": "Solidarity Economics Training Institute",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "solidarity_economics",
+      "cooperative_economics",
+      "democratic_economy_education"
+    ],
+    "funding_range": "$100,000 - $30,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/solidarity-economics"
+  },
+  {
+    "id": 2899,
+    "name": "Cooperative Commonwealth Development",
+    "source": "Economic Development Administration",
+    "type": "grant",
+    "eligibility": [
+      "cooperative_commonwealth",
+      "democratic_economy",
+      "solidarity_economy_ecosystem"
+    ],
+    "funding_range": "$250,000 - $100,000,000",
+    "obscurity_score": 9,
+    "url": "https://eda.gov/cooperative-commonwealth"
+  },
+  {
+    "id": 2900,
+    "name": "Community Self-Reliance Initiative",
+    "source": "U.S. Department of Agriculture",
+    "type": "grant",
+    "eligibility": [
+      "community_self_reliance",
+      "local_resilience",
+      "economic_localization"
+    ],
+    "funding_range": "$200,000 - $75,000,000",
+    "obscurity_score": 9,
+    "url": "https://usda.gov/community-self-reliance"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 3301,
+    "name": "MIT Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://mit.edu/research-grants"
+  },
+  {
+    "id": 3302,
+    "name": "Stanford Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://stanford.edu/research-grants"
+  },
+  {
+    "id": 3303,
+    "name": "Harvard Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://harvard.edu/research-grants"
+  },
+  {
+    "id": 3304,
+    "name": "Yale Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://yale.edu/research-grants"
+  },
+  {
+    "id": 3305,
+    "name": "Princeton Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://princeton.edu/research-grants"
+  },
+  {
+    "id": 3306,
+    "name": "Columbia Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://columbia.edu/research-grants"
+  },
+  {
+    "id": 3307,
+    "name": "University of California Berkeley Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://universityofcaliforniaberkeley.edu/research-grants"
+  },
+  {
+    "id": 3308,
+    "name": "Caltech Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://caltech.edu/research-grants"
+  },
+  {
+    "id": 3309,
+    "name": "University of Chicago Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://universityofchicago.edu/research-grants"
+  },
+  {
+    "id": 3310,
+    "name": "Johns Hopkins Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://johnshopkins.edu/research-grants"
+  },
+  {
+    "id": 3311,
+    "name": "Cornell Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://cornell.edu/research-grants"
+  },
+  {
+    "id": 3312,
+    "name": "University of Pennsylvania Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://universityofpennsylvania.edu/research-grants"
+  },
+  {
+    "id": 3313,
+    "name": "Duke Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://duke.edu/research-grants"
+  },
+  {
+    "id": 3314,
+    "name": "Northwestern Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://northwestern.edu/research-grants"
+  },
+  {
+    "id": 3315,
+    "name": "Vanderbilt Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://vanderbilt.edu/research-grants"
+  },
+  {
+    "id": 3316,
+    "name": "Rice Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://rice.edu/research-grants"
+  },
+  {
+    "id": 3317,
+    "name": "Carnegie Mellon Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://carnegiemellon.edu/research-grants"
+  },
+  {
+    "id": 3318,
+    "name": "Emory Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://emory.edu/research-grants"
+  },
+  {
+    "id": 3319,
+    "name": "Georgetown Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://georgetown.edu/research-grants"
+  },
+  {
+    "id": 3320,
+    "name": "Notre Dame Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_projects",
+      "faculty_scholars",
+      "graduate_students"
+    ],
+    "funding_range": "$10,000 - $5,000,000",
+    "obscurity_score": 5,
+    "url": "https://notredame.edu/research-grants"
+  },
+  {
+    "id": 3321,
+    "name": "UC Los Angeles Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://uclosangeles.edu/research"
+  },
+  {
+    "id": 3322,
+    "name": "UC San Diego Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://ucsandiego.edu/research"
+  },
+  {
+    "id": 3323,
+    "name": "University of Michigan Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofmichigan.edu/research"
+  },
+  {
+    "id": 3324,
+    "name": "University of Wisconsin Madison Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofwisconsinmadison.edu/research"
+  },
+  {
+    "id": 3325,
+    "name": "University of Washington Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofwashington.edu/research"
+  },
+  {
+    "id": 3326,
+    "name": "University of Texas Austin Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityoftexasaustin.edu/research"
+  },
+  {
+    "id": 3327,
+    "name": "University of North Carolina Chapel Hill Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofnorthcarolinachapelhill.edu/research"
+  },
+  {
+    "id": 3328,
+    "name": "University of Virginia Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofvirginia.edu/research"
+  },
+  {
+    "id": 3329,
+    "name": "University of Illinois Urbana-Champaign Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofillinoisurbana-champaign.edu/research"
+  },
+  {
+    "id": 3330,
+    "name": "Ohio State University Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://ohiostateuniversity.edu/research"
+  },
+  {
+    "id": 3331,
+    "name": "Penn State University Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://pennstateuniversity.edu/research"
+  },
+  {
+    "id": 3332,
+    "name": "University of Florida Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofflorida.edu/research"
+  },
+  {
+    "id": 3333,
+    "name": "Georgia Tech Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://georgiatech.edu/research"
+  },
+  {
+    "id": 3334,
+    "name": "Purdue University Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://purdueuniversity.edu/research"
+  },
+  {
+    "id": 3335,
+    "name": "University of Minnesota Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofminnesota.edu/research"
+  },
+  {
+    "id": 3336,
+    "name": "University of Maryland Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofmaryland.edu/research"
+  },
+  {
+    "id": 3337,
+    "name": "University of Colorado Boulder Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofcoloradoboulder.edu/research"
+  },
+  {
+    "id": 3338,
+    "name": "Arizona State University Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://arizonastateuniversity.edu/research"
+  },
+  {
+    "id": 3339,
+    "name": "Indiana University Bloomington Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://indianauniversitybloomington.edu/research"
+  },
+  {
+    "id": 3340,
+    "name": "University of Iowa Research Funding",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "research_excellence",
+      "innovation",
+      "interdisciplinary"
+    ],
+    "funding_range": "$5,000 - $2,000,000",
+    "obscurity_score": 6,
+    "url": "https://universityofiowa.edu/research"
+  },
+  {
+    "id": 3341,
+    "name": "Scripps Research Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://scrippsresearchinstitute.org/grants"
+  },
+  {
+    "id": 3342,
+    "name": "Salk Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://salkinstitute.org/grants"
+  },
+  {
+    "id": 3343,
+    "name": "Cold Spring Harbor Laboratory Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://coldspringharborlaboratory.org/grants"
+  },
+  {
+    "id": 3344,
+    "name": "Broad Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://broadinstitute.org/grants"
+  },
+  {
+    "id": 3345,
+    "name": "Allen Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://alleninstitute.org/grants"
+  },
+  {
+    "id": 3346,
+    "name": "Jackson Laboratory Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://jacksonlaboratory.org/grants"
+  },
+  {
+    "id": 3347,
+    "name": "La Jolla Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://lajollainstitute.org/grants"
+  },
+  {
+    "id": 3348,
+    "name": "Wistar Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://wistarinstitute.org/grants"
+  },
+  {
+    "id": 3349,
+    "name": "Burnham Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://burnhaminstitute.org/grants"
+  },
+  {
+    "id": 3350,
+    "name": "Stowers Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://stowersinstitute.org/grants"
+  },
+  {
+    "id": 3351,
+    "name": "Max Planck Florida Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://maxplanckflorida.org/grants"
+  },
+  {
+    "id": 3352,
+    "name": "Van Andel Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://vanandelinstitute.org/grants"
+  },
+  {
+    "id": 3353,
+    "name": "Gladstone Institutes Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://gladstoneinstitutes.org/grants"
+  },
+  {
+    "id": 3354,
+    "name": "Buck Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://buckinstitute.org/grants"
+  },
+  {
+    "id": 3355,
+    "name": "Sanford Burnham Prebys Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://sanfordburnhamprebys.org/grants"
+  },
+  {
+    "id": 3356,
+    "name": "Whitehead Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://whiteheadinstitute.org/grants"
+  },
+  {
+    "id": 3357,
+    "name": "Koch Institute MIT Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://kochinstitutemit.org/grants"
+  },
+  {
+    "id": 3358,
+    "name": "Howard Hughes Medical Institute Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://howardhughesmedicalinstitute.org/grants"
+  },
+  {
+    "id": 3359,
+    "name": "Marine Biological Laboratory Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://marinebiologicallaboratory.org/grants"
+  },
+  {
+    "id": 3360,
+    "name": "Woods Hole Oceanographic Grants",
+    "source": "Research Institute",
+    "type": "grant",
+    "eligibility": [
+      "scientific_research",
+      "postdoctoral_fellows",
+      "collaborations"
+    ],
+    "funding_range": "$25,000 - $10,000,000",
+    "obscurity_score": 7,
+    "url": "https://woodsholeoceanographic.org/grants"
+  },
+  {
+    "id": 3361,
+    "name": "Johns Hopkins School of Medicine Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://johnshopkinsschoolofmedicine.org/research-funding"
+  },
+  {
+    "id": 3362,
+    "name": "Harvard Medical School Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://harvardmedicalschool.org/research-funding"
+  },
+  {
+    "id": 3363,
+    "name": "UCSF School of Medicine Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://ucsfschoolofmedicine.org/research-funding"
+  },
+  {
+    "id": 3364,
+    "name": "Penn Medicine Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://pennmedicine.org/research-funding"
+  },
+  {
+    "id": 3365,
+    "name": "Mayo Clinic Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://mayoclinic.org/research-funding"
+  },
+  {
+    "id": 3366,
+    "name": "Cleveland Clinic Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://clevelandclinic.org/research-funding"
+  },
+  {
+    "id": 3367,
+    "name": "Stanford Medicine Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://stanfordmedicine.org/research-funding"
+  },
+  {
+    "id": 3368,
+    "name": "Columbia Medical Center Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://columbiamedicalcenter.org/research-funding"
+  },
+  {
+    "id": 3369,
+    "name": "Duke Medical Center Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://dukemedicalcenter.org/research-funding"
+  },
+  {
+    "id": 3370,
+    "name": "NYU Langone Health Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://nyulangonehealth.org/research-funding"
+  },
+  {
+    "id": 3371,
+    "name": "Cedars-Sinai Medical Center Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://cedars-sinaimedicalcenter.org/research-funding"
+  },
+  {
+    "id": 3372,
+    "name": "MD Anderson Cancer Center Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://mdandersoncancercenter.org/research-funding"
+  },
+  {
+    "id": 3373,
+    "name": "Memorial Sloan Kettering Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://memorialsloankettering.org/research-funding"
+  },
+  {
+    "id": 3374,
+    "name": "Dana-Farber Cancer Institute Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://dana-farbercancerinstitute.org/research-funding"
+  },
+  {
+    "id": 3375,
+    "name": "Fred Hutchinson Cancer Center Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://fredhutchinsoncancercenter.org/research-funding"
+  },
+  {
+    "id": 3376,
+    "name": "St. Jude Children's Research Hospital Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://st.judechildren'sresearchhospital.org/research-funding"
+  },
+  {
+    "id": 3377,
+    "name": "Children's Hospital Philadelphia Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://children'shospitalphiladelphia.org/research-funding"
+  },
+  {
+    "id": 3378,
+    "name": "Boston Children's Hospital Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://bostonchildren'shospital.org/research-funding"
+  },
+  {
+    "id": 3379,
+    "name": "Seattle Children's Hospital Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://seattlechildren'shospital.org/research-funding"
+  },
+  {
+    "id": 3380,
+    "name": "Texas Children's Hospital Research Funding",
+    "source": "Medical Institution",
+    "type": "grant",
+    "eligibility": [
+      "medical_research",
+      "clinical_trials",
+      "translational_research"
+    ],
+    "funding_range": "$50,000 - $15,000,000",
+    "obscurity_score": 6,
+    "url": "https://texaschildren'shospital.org/research-funding"
+  },
+  {
+    "id": 3381,
+    "name": "Amherst College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://amherstcollege.edu/research-grants"
+  },
+  {
+    "id": 3382,
+    "name": "Williams College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://williamscollege.edu/research-grants"
+  },
+  {
+    "id": 3383,
+    "name": "Swarthmore College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://swarthmorecollege.edu/research-grants"
+  },
+  {
+    "id": 3384,
+    "name": "Pomona College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://pomonacollege.edu/research-grants"
+  },
+  {
+    "id": 3385,
+    "name": "Bowdoin College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://bowdoincollege.edu/research-grants"
+  },
+  {
+    "id": 3386,
+    "name": "Carleton College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://carletoncollege.edu/research-grants"
+  },
+  {
+    "id": 3387,
+    "name": "Claremont McKenna Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://claremontmckenna.edu/research-grants"
+  },
+  {
+    "id": 3388,
+    "name": "Davidson College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://davidsoncollege.edu/research-grants"
+  },
+  {
+    "id": 3389,
+    "name": "Grinnell College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://grinnellcollege.edu/research-grants"
+  },
+  {
+    "id": 3390,
+    "name": "Haverford College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://haverfordcollege.edu/research-grants"
+  },
+  {
+    "id": 3391,
+    "name": "Middlebury College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://middleburycollege.edu/research-grants"
+  },
+  {
+    "id": 3392,
+    "name": "Vassar College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://vassarcollege.edu/research-grants"
+  },
+  {
+    "id": 3393,
+    "name": "Wellesley College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://wellesleycollege.edu/research-grants"
+  },
+  {
+    "id": 3394,
+    "name": "Smith College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://smithcollege.edu/research-grants"
+  },
+  {
+    "id": 3395,
+    "name": "Oberlin College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://oberlincollege.edu/research-grants"
+  },
+  {
+    "id": 3396,
+    "name": "Reed College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://reedcollege.edu/research-grants"
+  },
+  {
+    "id": 3397,
+    "name": "Macalester College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://macalestercollege.edu/research-grants"
+  },
+  {
+    "id": 3398,
+    "name": "Bryn Mawr College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://brynmawrcollege.edu/research-grants"
+  },
+  {
+    "id": 3399,
+    "name": "Barnard College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://barnardcollege.edu/research-grants"
+  },
+  {
+    "id": 3400,
+    "name": "Mount Holyoke College Faculty Research Grants",
+    "source": "Educational Institution",
+    "type": "grant",
+    "eligibility": [
+      "faculty_research",
+      "student_research",
+      "undergraduate_scholars"
+    ],
+    "funding_range": "$2,000 - $100,000",
+    "obscurity_score": 7,
+    "url": "https://mountholyokecollege.edu/research-grants"
+  }
+]
