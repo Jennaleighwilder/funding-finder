@@ -831,6 +831,17 @@ textarea {
   gap: 16px;
 }
 
+.app-footer {
+  margin-top: 48px;
+  padding: 24px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--text-muted, #666);
+  border-top: 1px solid rgba(255, 107, 94, 0.2);
+}
+.app-footer a { color: var(--accent, #FF6B5E); }
+.app-footer .footer-line { margin: 4px 0; }
+
 @media (max-width: 768px) {
   .container { padding: 40px 24px; }
   .card { padding: 32px 24px; }
@@ -1056,6 +1067,13 @@ textarea {
   </div>
 </div>
 
+<footer class="app-footer" role="contentinfo">
+  <p class="footer-line">© 2026 Jennifer Leigh West · Made by Jennifer Leigh West</p>
+  <p class="footer-line">The Forgotten Code Research Institute</p>
+  <p class="footer-line"><a href="tel:+14233888304">423-388-8304</a> · <a href="mailto:theforgottencode780@gmail.com">theforgottencode780@gmail.com</a></p>
+  <p class="footer-line"><a href="https://jennaleighwilder.github.io/AI-Consulting-/" target="_blank" rel="noopener">GitHub: AI Consulting</a></p>
+</footer>
+
 <script>
 let page = 1;
 const total = 5;
@@ -1253,7 +1271,7 @@ document.getElementById('form').addEventListener('submit', async function(e) {
       <div class="download-buttons">
         <button type="button" class="btn btn-primary" onclick="downloadReportJSON()">Download my report (JSON)</button>
         <button type="button" class="btn btn-secondary" onclick="downloadReportHTML()">Download my report (HTML)</button>
-        <a href="#" id="goToFundingApplicator" class="btn btn-secondary" target="_blank" rel="noopener">Get help applying → Funding Applicator</a>
+        <a href="${FUNDING_APPLICATOR_URL}" id="goToFundingApplicator" class="btn btn-secondary" target="_blank" rel="noopener">Get help applying → Funding Applicator</a>
       </div>
     </div>
     ${findingsHtml}
@@ -1350,7 +1368,7 @@ function generateResults() {
   `).join('');
 }
 
-// Live Funding Applicator (Railway)
+// Live Funding Applicator (Railway) – must be defined before report is rendered
 const FUNDING_APPLICATOR_URL = 'https://funding-applicator-production.up.railway.app';
 
 function downloadReportJSON() {
@@ -1427,11 +1445,6 @@ function downloadReportHTML() {
   a.click();
   URL.revokeObjectURL(a.href);
 }
-
-(function() {
-  const el = document.getElementById('goToFundingApplicator');
-  if (el && typeof FUNDING_APPLICATOR_URL !== 'undefined') el.href = FUNDING_APPLICATOR_URL;
-})();
 
 updateBar();
 </script>
