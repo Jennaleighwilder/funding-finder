@@ -1139,6 +1139,10 @@ function clientSideMatch(formData) {
   const state = (formData.get('state') || '').toUpperCase().slice(0,2);
   const appalachianStates = ['TN','KY','WV','VA','NC','SC','GA','AL','MS','OH','PA','NY','MD'];
   FUNDING_SOURCES_CS.forEach(function(source) {
+    // Don't waste their time: skip identity-restricted sources they don't qualify for
+    if (source.eligibility.includes('veteran') && !isVeteran) return;
+    if (source.eligibility.includes('woman_owned') && !isWoman) return;
+    if (source.eligibility.includes('minority') && !isMinority) return;
     let score = 50;
     const reasons = [];
     if (source.amount_min <= userMax && source.amount_max >= userMin) { score += 20; reasons.push('Amount range matches your needs'); }

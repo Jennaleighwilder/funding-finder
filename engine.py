@@ -136,14 +136,29 @@ class FundingMatchEngine:
         """
         Main matching function.
         Uses multi-layer scoring similar to Mirror Protocol's recursive checks.
+        Excludes sources that require an identity the user did not select (e.g. veteran-only when not a veteran).
         """
         
         # Get all active funding sources
         sources = self._get_active_sources()
         
-        # Score each source
+        # User's selected identities (normalized lowercase for comparison)
+        user_identities = [str(x).lower().strip() for x in (profile.identity_factors or [])]
+        
+        # Score each source (skip identity-restricted sources user doesn't qualify for)
         matches = []
         for source in sources:
+            required = self._source_required_identities(source)
+            if required:
+                # Source is restricted to a specific identity (e.g. veteran-only, women-only)
+                def user_has_required(rid: str) -> bool:
+                    if rid in user_identities:
+                        return True
+                    if rid == "minority" and "person of color" in user_identities:
+                        return True
+                    return False
+                if not any(user_has_required(rid) for rid in required):
+                    continue  # User didn't select that identity – don't waste their time
             match = self._score_match(profile, source)
             if match.overall_score >= 15:  # Minimum threshold – show more opportunities
                 matches.append(match)
@@ -205,6 +220,57 @@ class FundingMatchEngine:
             eligibility_gaps=gaps,
             competitive_advantages=advantages
         )
+    
+    # -------------------------------------------------------------------------
+    # REQUIRED IDENTITY (exclude mismatches so we don't waste people's time)
+    # -------------------------------------------------------------------------
+    
+    def _source_required_identities(self, source: FundingSource) -> List[str]:
+        """
+        If the source is restricted to a specific identity (e.g. veteran-only, women-owned only),
+        return the list of identity tags required. Empty list = no identity restriction.
+        """
+        req = (source.requirements_text or "").lower()
+        name = (source.source_name or "").lower()
+        combined = req + " " + name
+        
+        required = []
+        # Veteran-only / military-only
+        if any(phrase in combined for phrase in (
+            "veteran-owned", "veteran only", "veteran business", "veterans only",
+            "military veteran", "service-disabled veteran", "for veterans",
+            "veteran-owned business", "veteran entrepreneur"
+        )) or ("veteran" in name and ("grant" in name or "fund" in name or "loan" in name)):
+            required.append("veteran")
+        # Women-only / woman-owned
+        if any(phrase in combined for phrase in (
+            "woman-owned", "women-owned", "female-owned", "women only",
+            "for women", "women entrepreneur", "women-owned business"
+        )):
+            required.append("woman")
+        # Minority-owned / specific demographic
+        if any(phrase in combined for phrase in (
+            "minority-owned", "minority business", "minority entrepreneur",
+            "person of color", "underrepresented minority"
+        )):
+            required.append("minority")
+        # Disability / disabled-owned
+        if any(phrase in combined for phrase in (
+            "disability", "disabled-owned", "service-disabled", "disabled veteran"
+        )) and "veteran" not in combined:  # avoid double-tagging veteran-only
+            required.append("disability")
+        # LGBTQ-specific
+        if any(phrase in combined for phrase in (
+            "lgbtq", "lgbt ", "lgbtq+", "pride business", "lgbtq-owned"
+        )):
+            required.append("lgbtq")
+        # First-generation (e.g. first-gen college)
+        if any(phrase in combined for phrase in (
+            "first-generation", "first generation", "first-gen"
+        )):
+            required.append("first-generation")
+        
+        return list(dict.fromkeys(required))  # unique, order preserved
     
     # -------------------------------------------------------------------------
     # LAYER 1: ELIGIBILITY SCORING
