@@ -1163,15 +1163,27 @@ function clientSideMatch(formData) {
 document.getElementById('form').addEventListener('submit', async function(e) {
   e.preventDefault();
   const form = e.target;
-  document.getElementById('modal').classList.add('open');
+  const modal = document.getElementById('modal');
+  const modalP = modal.querySelector('p');
+  modalP.textContent = 'Searching 3,500+ opportunities...';
+  modal.classList.add('open');
   
   let matches = [];
   let useApi = true;
+  const controller = new AbortController();
+  const timeoutId = setTimeout(function() {
+    modalP.textContent = 'Searching 3,500+ opportunities... First load can take 1-2 minutes.';
+  }, 8000);
+  const abortId = setTimeout(function() { controller.abort(); }, 120000);
+  
   try {
     const res = await fetch('/api/match', {
       method: 'POST',
-      body: new FormData(form)
+      body: new FormData(form),
+      signal: controller.signal
     });
+    clearTimeout(timeoutId);
+    clearTimeout(abortId);
     const data = await res.json();
     if (data.ok && data.matches && data.matches.length) {
       matches = data.matches;
@@ -1180,6 +1192,12 @@ document.getElementById('form').addEventListener('submit', async function(e) {
       matches = clientSideMatch(new FormData(form));
     }
   } catch (err) {
+    clearTimeout(timeoutId);
+    clearTimeout(abortId);
+    if (err.name === 'AbortError') {
+      modalP.innerHTML = 'Request timed out. <button type="button" class="btn btn-primary" onclick="document.getElementById(\'form\').requestSubmit()" style="margin-top:16px">Retry</button>';
+      return;
+    }
     useApi = false;
     matches = clientSideMatch(new FormData(form));
   }
