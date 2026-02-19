@@ -19,23 +19,8 @@ COPY FIRST_100_SOURCES.json ./
 
 # Create data dir and PRE-BUILD the database at image build time
 # This way the API responds instantly with all 3,500 sources - no loading on first request
-RUN mkdir -p /app/data && chmod +x start.sh && \
-    python3 -c "
-import sqlite3
-from pathlib import Path
-db = '/app/data/funding_finder.db'
-schema = Path('/app/schema.sql')
-if schema.exists():
-    conn = sqlite3.connect(db)
-    conn.executescript(schema.read_text())
-    conn.commit()
-    conn.close()
-" && \
-    python3 -c "
-from load_batches import load_all_batches
-n = load_all_batches('/app/data/funding_finder.db')
-print(f'Pre-loaded {n} funding sources into image')
-"
+COPY init_db.py ./
+RUN mkdir -p /app/data && chmod +x start.sh && python3 init_db.py
 
 ENV PORT=5000
 EXPOSE 5000
